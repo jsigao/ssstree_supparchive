@@ -1,0 +1,9 @@
+#nexus
+
+begin sets;
+	charset cp12 = 1-10815\3 2-10815\3;
+	charset cp3 = 3-10815\3;
+	charset nc = 10816-11883;
+
+	charpartition mine = GTR+G:cp12, GTR+G:cp3, GTR+G:nc;
+end;

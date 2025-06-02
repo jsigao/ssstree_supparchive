@@ -1,0 +1,2 @@
+P_name,Q_name,C_name,m,n,k,p,HS?,log10(p),DS(p),DS(p),min_rec_length,breakpoints
+1966|Equine|A/equine/Lexington/1/1966|USA|H7N7,1953|Avian|A/duck/Manitoba/1953|Canada|H10N7,1964|Equine|A/equine/Detroit/3/1964|USA|H7N7,363,39,23,0,0,-23.6889,0,9.003804e-17,122,1074-1087 & 1209-1211

@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset ali = DNA, 1-10302;
+  charpartition mymodels =
+    GTR{0.657771,7.01048,0.911793,0.191313,24.5825}+F{0.27232,0.22292,0.288306,0.216454}+G4{0.324498}: ali{0.956326};
+end;

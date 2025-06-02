@@ -1,0 +1,10 @@
+#nexus
+
+begin sets;
+	charset cp1 = 1-14517\3;
+	charset cp2 = 2-14517\3;
+	charset cp3 = 3-14517\3;
+	charset ig = 14518-18992;
+
+	charpartition mine = HKY+G:cp1, HKY+G:cp2, HKY+G:cp3, HKY+G:ig;
+end;

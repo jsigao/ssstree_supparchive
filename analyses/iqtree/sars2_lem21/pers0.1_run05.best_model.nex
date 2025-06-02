@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset ali = DNA, 1-29409;
+  charpartition mymodels =
+    HKY{4.29613}+F{0.298999,0.183213,0.195855,0.321933}+G4{0.145983}: ali{0.241662};
+end;

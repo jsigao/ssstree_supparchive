@@ -1,0 +1,721 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=354;
+	Taxlabels
+		1918|Human|A/Brevig_Mission/1/1918|USA|H1N1
+		1925|Avian|A/chicken/Japan/1925|Japan|H7N7
+		1930|Swine|A/swine/Iowa/15/1930|USA|H1N1
+		1931|Swine|A/swine/USA/1976/1931|USA|H1N1
+		1934|Avian|A/chicken/Rostock/45/1934|Germany|H7N1
+		1934|Avian|A/fowl/Weybridge|United_Kingdom|H7N7
+		1935|Avian|A/chicken/Brescia/1902|Italy|H7N7
+		1935|Human|A/Melbourne/1935|Australia|H1N1
+		1935|Human|A/Phila/1935|USA|H1N1
+		1935|Human|A/bh/1935||H1N1
+		1935|Swine|A/swine/Ohio/23/1935|USA|H1N1
+		1936|Human|A/Henry/1936|USA|H1N1
+		1942|Human|A/Bellamy/1942|USA|H1N1
+		1943|Human|A/Iowa/1943|USA|H1N1
+		1943|Human|A/Weiss/1943|USA|H1N1
+		1945|Human|A/AA/Huston/1945|USA|H1N1
+		1947|Human|A/Fort_Monmouth/1/1947|USA|H1N1
+		1948|Human|A/Albany/4835/1948|USA|H1N1
+		1948|Human|A/Hemsbury/1948|USA|H1N1
+		1949|Avian|A/chicken/Germany/N/1949|Germany|H10N7
+		1949|Human|A/Roma/1949|Italy|H1N1
+		1950|Human|A/Albany/4836/1950|USA|H1N1
+		1950|Human|A/Fort_Warren/1/1950|USA|H1N1
+		1951|Human|A/Albany/14/1951|USA|H1N1
+		1951|Human|A/Memphis/13/1978|USA|H1N1*
+		1953|Avian|A/duck/Manitoba/1953|Canada|H10N7
+		1953|Human|A/Memphis/7/1980|USA|H1N1*
+		1953|Human|A/Netherlands/001R1/1953|Netherlands|H1N1
+		1954|Human|A/Netherlands/001H1/1954|Netherlands|H1N1
+		1956|Avian|A/duck/Czech_Republic/1/1956|Czech_Republic|H4N6
+		1956|Avian|A/duck/England/1/1956|United_Kingdom|H11N6
+		1956|Equine|A/equine/Prague/1/1956|Czech_Republic|H7N7
+		1956|Equine|A/equine/Prague/2/1956|Czech_Republic|H7N7
+		1956|Human|A/Memphis/10/1983|USA|H1N1*
+		1956|Human|A/Netherlands/002Z1/1956|Netherlands|H1N1
+		1957|Human|A/Denver/1957|USA|H1N1
+		1957|Human|A/Memphis/1/1984|USA|H1N1*
+		1957|Swine|A/swine/Wisconsin/1/1957|USA|H1N1
+		1958|Human|A/Netherlands/001M/1958|Netherlands|H2N2
+		1959|Avian|A/chicken/Scotland/1959|United_Kingdom|H5N1
+		1959|Human|A/Albany/1/1959|USA|H2N2
+		1959|Human|A/New_York/2924-1/1986|USA|H1N1*
+		1960|Human|A/Ann_Arbor/6/1960|USA|H2N2
+		1960|Human|A/Memphis/3/1987|USA|H1N1*
+		1961|Avian|A/tern/South_Africa/1961|South_Africa|H5N3
+		1961|Human|A/Panama/1/61|Panama|H2N2
+		1961|Swine|A/swine/Wisconsin/1/1961|USA|H1N1
+		1963|Avian|A/duck/Ukraine/1/1963|Ukraine|H3N8
+		1963|Avian|A/turkey/Canada/1963|Canada|H6N8
+		1963|Avian|A/turkey/England/1963|United_Kingdom|H7N3
+		1963|Equine|A/equine/Miami/1/1963|USA|H3N8
+		1963|Equine|A/equine/Uruguay/1/1963|Uruguay|H3N8
+		1963|Human|A/Netherlands/001K1/1963|Netherlands|H2N2
+		1964|Equine|A/equine/Detroit/3/1964|USA|H7N7
+		1964|Human|A/Taiwan/1964|Taiwan|H2N2
+		1964|Human|A/Texas/36/1991|USA|H1N1*
+		1965|Avian|A/turkey/Massachusetts/3740/1965|USA|H6N2
+		1965|Human|A/Potsdam/2/1965|Germany|H2N2
+		1966|Avian|A/turkey/Ontario/6213/1966|Canada|mixed
+		1966|Equine|A/equine/Lexington/1/1966|USA|H7N7
+		1966|Human|A/Czech_Republic/1/1966|Czech_Republic|H2N2
+		1966|Swine|A/swine/Wisconsin/2/1966|USA|H1N1
+		1967|Swine|A/swine/Wisconsin/1/1967|USA|H1N1
+		1968|Avian|A/turkey/Wisconsin/1/1968|USA|H5N9
+		1968|Human|A/Albany/19/1968|USA|H3N2
+		1968|Human|A/Beijing/262/1995|China|H1N1*
+		1969|Avian|A/duck/PA/486/1969|USA|H6N1
+		1969|Avian|A/turkey/England/1969|United_Kingdom|H3N2
+		1969|Equine|A/equine/Sao_Paulo/1/1969|Brazil|H3N8
+		1969|Human|A/Hong_Kong/3/1969|Hong_Kong|H3N2
+		1969|Human|A/Nanchang/13/1996|China|H1N1*
+		1970|Human|A/Albany/3/1970|USA|H3N2
+		1970|Human|A/TW/3355/1997|Taiwan|H1N1*
+		1970|Swine|A/swine/Wisconsin/2/1970|USA|H1N1
+		1971|Avian|A/turkey/Oregon/1971|USA|H7N3
+		1971|Equine|A/equine/Sachiyama/1/1971|Japan|H3N8
+		1971|Equine|A/equine/Tokyo/2/1971|Japan|H3N8
+		1971|Human|A/Bilthoven/21801/1971|Netherlands|H3N2
+		1971|Swine|A/swine/Wisconsin/1/1971|USA|H1N1
+		1972|Avian|A/duck/Chabarovsk/1610/1972_|Russia|H3N8
+		1972|Avian|A/turkey/CO/118899/1972|USA|H5N2
+		1972|Equine|A/equine/Algiers/1/1972|Algeria|H3N8
+		1972|Human|A/Bilthoven/6022/1972|Netherlands|H3N2
+		1972|Human|A/Taiwan/5072/1999|Taiwan|H1N1*
+		1973|Avian|A/turkey/England/N28/73|United_Kingdom|H5N2
+		1973|Equine|A/equine/London/1416/1973|United_Kingdom|H7N7
+		1973|Human|A/Auckland/590/2000|New_Zealand|H1N1*
+		1974|Avian|A/duck/Memphis/546/1974|USA|H11N9
+		1974|Equine|A/equine/Cornell/16/74|USA|H7N7
+		1974|Human|A/Albany/20/1974|USA|H3N2
+		1974|Human|A/HaNoi/2017/2001|Viet_Nam|H1N1*
+		1975|Avian|A/Canada_goose/Wisconsin/902/1975|USA|H5N2
+		1975|Avian|A/arctic_tern/Alaska/300/1975|USA|H5N3
+		1975|Avian|A/chicken/Alabama/1975|USA|H4N8
+		1975|Avian|A/duck/Hong_Kong/7/1975|Hong_Kong|H3N2
+		1975|Avian|A/mallard/WI/169/1975|USA|H5N3
+		1975|Avian|A/mallard/Wisconsin/34/1975|USA|H5N6
+		1975|Avian|A/mallard/Wisconsin/428/1975|USA|H5N1
+		1975|Equine|A/equine/Kentucky/1a/1975|USA|H7N7
+		1975|Equine|A/equine/New_York/1/1975|USA|H3N8
+		1975|Human|A/Bilthoven/4273/1975|Netherlands|H3N2
+		1975|Human|A/HaNoi/2546/2002|Viet_Nam|H1N1*
+		1975|Swine|A/swine/Minnesota/24/1975|USA|H1N1
+		1976|Avian|A/duck/Hong_Kong/d73/1976|Hong_Kong|H6N1
+		1976|Avian|A/goose/HK/10/1976|Hong_Kong|H3N2
+		1976|Equine|A/equine/Sao_Paulo/4/1976|Brazil|H7N7
+		1976|Human|A/Bilthoven/628/1976|Netherlands|H3N2
+		1976|Swine|A/swine/Tennessee/15/1976|USA|H1N1
+		1977|Avian|A/chicken/Hong_Kong/17/1977|Hong_Kong|H6N1
+		1977|Avian|A/gadwall_duck/Alberta/291/1977|Canada|H7N3
+		1977|Avian|A/gull/Maryland/704/1977|USA|H13N6
+		1977|Avian|A/mallard/Alberta/294/1977|Canada|H11N9
+		1977|Avian|A/mallard/Alberta/300/1977|Canada|H4N3
+		1977|Equine|A/equine/Argentina/1/1977|Argentina|H7N7
+		1977|Human|A/Texas/1/1977|USA|H3N2
+		1978|Avian|A/blue-winged_teal/ALB/221/1978|Canada|H7N2
+		1978|Avian|A/duck/Hong_Kong/278/1978|Hong_Kong|H2N9
+		1978|Avian|A/duck/Hong_Kong/293/1978|Hong_Kong|H7N2
+		1978|Avian|A/duck/Hong_Kong/342/78|Hong_Kong|H5N2
+		1978|Equine|A/equine/Kascakew/1/1978|unknown|H3N8
+		1978|Human|A/Memphis/18/1978|USA|H3N2
+		1978|Human|A/Waikato/13/2005|New_Zealand|H1N1*
+		1978|Swine|A/swine/Tennessee/4/1978|USA|H1N1
+		1979|Avian|A/African_starling/England-Q/983/1979|United_Kingdom|H7N1
+		1979|Avian|A/blue-winged_teal/New_York/370ac/1979|USA|H4N2
+		1979|Avian|A/goose/Leipzig/187-7/1979|Germany|H7N7
+		1979|Avian|A/mallard/Alberta/965/1979|Canada|H1N1
+		1979|Avian|A/mallard_duck/Minnesota/19/1979|USA|H10N7
+		1979|Human|A/Thailand/CU88/2006|Thailand|H1N1*
+		1979|Human|A/USSR/46/1979|Russia|H1N1
+		1979|Swine|A/swine/Minnesota/5892-7/1979|USA|H1N1
+		1980|Avian|A/black_duck/AUS/4045/1980|Australia|H6N5
+		1980|Avian|A/gull/Minnesota/945/1980|USA|H13N6
+		1980|Avian|A/red-necked_stint/Australia/4500/1980|Australia|H3N8
+		1980|Avian|A/turkey/Italy/1980|Italy|H5N2
+		1980|Equine|A/equine/Kentucky/4/1980|USA|H3N8
+		1980|Human|A/New_York/UR06-0326/2007|USA|H1N1*
+		1980|Swine|A/swine/Wisconsin/11/1980|USA|H1N1
+		1981|Avian|A/pintail_duck/ALB/631/1981|Canada|H1N5
+		1981|Avian|A/red-necked_stint/Australia/5745/1981|Australia|H12N9
+		1981|Equine|A/equine/Kentucky/2/1981|USA|H3N8
+		1981|Human|A/Bilthoven/4791/1981|Netherlands|H3N2
+		1981|Human|A/New_York/08-1253/2008|USA|H1N1*
+		1981|Swine|A/swine/Germany/2/1981|Germany|H1N1
+		1981|Swine|A/swine/Ontario/3/1981|Canada|H1N1
+		1982|Avian|A/mallard_duck/New_York/90/1982|USA|H6N8
+		1982|Avian|A/pintail/Alberta/189/82|Canada|H6N6
+		1982|Equine|A/equine/California/83/1982|USA|H3N8
+		1982|Human|A/Alaska/WRAIR1114P/2009|USA|H1N1*
+		1983|Avian|A/mallard/Marquenterre/Z237/1983|France|H1N1
+		1983|Avian|A/mallard_duck/ALB/797/1983|Canada|H11N3
+		1983|Avian|A/red-necked_stint/Western_Australia/4923/1983|Australia|H3N8
+		1983|Avian|A/turkey/Ireland/1378/1983|Ireland|H5N8
+		1983|Avian|A/turkey/Virginia/6962/1983|USA|H5N2
+		1983|Swine|A/swine/Belgium/WVL2/1983|Belgium|H1N1
+		1984|Avian|A/Chicken/Virginia/40018/84|USA|H5N2
+		1984|Avian|A/duck/NZL/41/1984|New_Zealand|H1N2
+		1984|Avian|A/duck/New_Zealand/78/1984|New_Zealand|H9N2
+		1984|Avian|A/gull/Astrakhan/227/1984|Russia|H13N6
+		1984|Avian|A/mallard_duck/Alberta/630/1984|Canada|H4N2
+		1984|Avian|A/pintail_duck/ALB/584/1984|Canada|H10N6
+		1984|Avian|A/red-necked_stint/Western_Australia/4915/1984|Australia|H3N8
+		1984|Human|A/Hong_Kong/7/1984|Hong_Kong|H3N2
+		1985|Avian|A/blackhead_gull/Astrakhan/458/1985|Russia|H13N6
+		1985|Avian|A/green-winged_teal/ALB/228/1985|Canada|H7N3
+		1985|Avian|A/laughing_gull/New_Jersey/75/1985|USA|H2N9
+		1985|Avian|A/mallard/Tennessee/11457/1985|USA|H11N9
+		1985|Avian|A/redhead_duck/ALB/116/1985|Canada|H4N6
+		1985|Equine|A/equine/Santa_Fe/1/1985|USA|H3N8
+		1985|Human|A/Memphis/7/1985|USA|H3N2
+		1985|Swine|A/swine/France/WVL4/1985|France|H1N1
+		1985|Swine|A/swine/Iowa/2/1985|USA|H1N1
+		1986|Avian|A/chicken/MA/11801/1986|USA|H5N2
+		1986|Avian|A/duck/LA/B174/1986|USA|H8N4
+		1986|Avian|A/green-winged_teal/Ohio/397/1986|USA|H11N9
+		1986|Avian|A/herring_gull/Delaware/471/1986|USA|H2N7
+		1986|Avian|A/herring_gull/New_Jersey/780/86|USA|H1N3
+		1986|Avian|A/mallard/Ohio/264/1986|USA|H3N8
+		1986|Avian|A/sanderling/Delaware/1258/1986|USA|H6N6
+		1986|Equine|A/equine/Kentucky/1/1986|USA|H3N8
+		1986|Human|A/Colorado/2/1986|USA|H3N2
+		1987|Avian|A/chicken/NY/12004-3/1987|USA|H5N2
+		1987|Avian|A/coot/ALB/134/1987|Canada|H6N2
+		1987|Avian|A/duck/LA/17G/1987|USA|H3N8
+		1987|Avian|A/duck/LA/32M/1987|USA|H6N2
+		1987|Avian|A/green-winged_teal/Ohio/430/1987|USA|H1N1
+		1987|Avian|A/laughing_gull/Delaware_Bay/2838/1987|USA|H13N2
+		1987|Avian|A/mallard/Ohio/421/1987|USA|H7N8
+		1987|Avian|A/pintail/Ohio/339/1987|USA|H3N8
+		1987|Equine|A/equine/Kentucky/1/1987|USA|H3N8
+		1987|Human|A/Los_Angeles/2/1987|USA|H3N2
+		1987|Swine|A/swine/Iowa/1/1987|USA|H1N1
+		1987|Swine|A/swine/Italy/670/1987|Italy|H1N1
+		1988|Avian|A/black_duck/New_York/184/1988|USA|H5N2
+		1988|Avian|A/chicken/Florida/22780-2/88|USA|H5N2
+		1988|Avian|A/herring_gull/DE/665/1988|USA|H4N6
+		1988|Avian|A/mallard/Ohio/324/1988|USA|H4N6
+		1988|Avian|A/mallard/Ohio/409/1988|USA|H12N5
+		1988|Equine|A/equine/Kentucky/692/1988|USA|H3N8
+		1988|Swine|A/swine/Iowa/31483/1988|USA|H1N1
+		1989|Avian|A/duck/Perak/2458/1989|Malaysia|H3N8
+		1989|Avian|A/mallard/Ohio/42/1989|USA|H10N6
+		1989|Avian|A/pintail/Ohio/73/1989|USA|H6N2
+		1989|Equine|A/equine/Rook/93753/1989|United_Kingdom|H3N8
+		1989|Human|A/Netherlands/620/1989|Netherlands|H3N2
+		1990|Avian|A/black_duck/Ohio/195/1990|USA|mixed
+		1990|Avian|A/blue-winged_teal/ALB/67/1990|Canada|H4N5
+		1990|Avian|A/mallard_duck/ALB/253/1990|Canada|H6N3
+		1990|Avian|A/semi-palmated_sandpiper/Brazil/43/1990|Brazil|H2N1
+		1990|Avian|A/turkey/Minnesota/1012/1990|USA|H13N2
+		1990|Equine|A/equine/Kentucky/1277/1990|USA|H3N8
+		1990|Human|A/Siena/4/1990|Italy|H3N2
+		1990|Swine|A/swine/Iowa/3421/1990|USA|H1N1
+		1991|Avian|A/green-winged_teal/ALB/199/1991|Canada|H12N5
+		1991|Avian|A/mallard/ALB/124/1991|Canada|H11N2
+		1991|Avian|A/mallard/Alberta/12/1991|Canada|H4N6
+		1991|Avian|A/pintail/Alberta/105/1991|Canada|H3N8
+		1991|Equine|A/equine/Kentucky/1/1991|USA|H3N8
+		1991|Equine|A/equine/Rome/5/1991|Italy|H3N8
+		1991|Swine|A/swine/Iowa/24297/1991|USA|H1N1
+		1992|Avian|A/blue-winged_teal/Alberta/141/1992|Canada|H1N1
+		1992|Avian|A/duck/Nanchang/1749/1992|China|H11N2
+		1992|Avian|A/duck/Victoria/1992|Australia|H3N8
+		1992|Avian|A/mallard/Alberta/194/1992|Canada|H8N4
+		1992|Equine|A/equine/Italy/1199/1992|Italy|H3N8
+		1992|Equine|A/equine/Kentucky/1/1992|USA|H3N8
+		1992|Swine|A/swine/England/WVL7/1992|United_Kingdom|H1N1
+		1993|Avian|A/pintail/ALB/179/1993|Canada|H6N1
+		1993|Equine|A/equine/Newmarket/1/1993|United_Kingdom|H3N8
+		1993|Equine|A/equine/Switzerland/173/1993|Switzerland|H3N8
+		1993|Human|A/Singapore/19/1993|Singapore|H3N2
+		1993|Swine|A/swine/England/WVL10/1993|United_Kingdom|H1N1
+		1993|Swine|A/swine/Hong_Kong/574/1993|Hong_Kong|H1N1
+		1994|Avian|A/chicken/Mexico/31381-7/1994|Mexico|H5N2
+		1994|Avian|A/chicken/NY/13142-5/1994|USA|H7N2
+		1994|Avian|A/duck/Victoria/D23/1994|Australia|H4N2
+		1994|Avian|A/emu/NY/12716/1994|USA|H5N9
+		1994|Equine|A/equine/Kentucky/8/1994|USA|H3N8
+		1994|Swine|A/swine/England/WVL11/1994|United_Kingdom|H1N1
+		1994|Swine|A/swine/Hong_Kong/2422/1994|Hong_Kong|H1N1
+		1995|Avian|A/chicken/Chiapas/28159-488/1995|Mexico|H5N2
+		1995|Avian|A/chicken/NY/13833-7/1995|USA|H7N2
+		1995|Avian|A/emu/TX/25414/1995|USA|H7N2
+		1995|Avian|A/guinea_fowl/New_York/26410-17/1995|USA|H11N9
+		1995|Human|A/Siena/3/1995|Italy|H3N2
+		1996|Avian|A/chicken/Mexico/37821-771/1996|Mexico|H5N2
+		1996|Avian|A/chicken/NY/3202-7/1996|USA|H7N2
+		1996|Human|A/Niigata/137/96|Japan|H3N2
+		1997|Avian|A/Teal/Hong_Kong/W312/97|Hong_Kong|H6N1
+		1997|Avian|A/chicken/Chiapas/15406/1997|Mexico|H5N2
+		1997|Avian|A/chicken/Italy/312/1997|Italy|H5N2
+		1997|Avian|A/mallard/Alberta/52/1997|Canada|H12N5
+		1997|Avian|A/turkey/PA/7975/1997|USA|H7N2
+		1997|Equine|A/equine/California/4537/1997|USA|H3N8
+		1997|Human|A/Shiga/25/97|Japan|H3N2
+		1998|Avian|A/chicken/Mexico/22184/1998|Mexico|H5N2
+		1998|Avian|A/chicken/PA/9801289/1998|USA|H7N2
+		1998|Avian|A/duck/Hokkaido/49/98|Japan|H9N2
+		1998|Avian|A/duck/Siberia/272/1998|Russia|H13N6
+		1998|Avian|A/mallard/Minnesota/319/1998|USA|H6
+		1998|Avian|A/parakeet/Narita/92A/98|Japan|H9N2
+		1998|Swine|A/swine/Italy/62/1998|Italy|H1N2
+		1999|Avian|A/chicken/NY/21586-8/1999|USA|H7N2
+		1999|Avian|A/chicken/Taiwan/ns2/99|Taiwan|H6N1
+		1999|Avian|A/mallard/Minnesota/280/1999|USA|H3N5
+		1999|Avian|A/mallard/Netherlands/1/1999|Netherlands|H4N6
+		1999|Human|A/New_South_Wales/17/1999|Australia|H3N2
+		1999|Swine|A/Swine/Indiana/9K035/99_|USA|H1N2
+		1999|Swine|A/swine/Italy/3592/1999|Italy|H1N2
+		2000|Avian|A/chicken/Henan/26/00|China|H9N2
+		2000|Avian|A/chicken/NJ/30739-6/2000|USA|H7N2
+		2000|Avian|A/chicken/Taiwan/SP1/00|Taiwan|H6N1
+		2000|Avian|A/common_teal/Netherlands/10/2000|Netherlands|H1N1
+		2000|Avian|A/shorebird/Delaware_Bay/277/2000|USA|H9N7
+		2000|Swine|A/Swine/Minnesota/55551/2000|USA|H1N2
+		2000|Swine|A/swine/Bakum/1832/2000|Germany|H1N2
+		2000|Swine|A/swine/Hong_Kong/6301/2000|Hong_Kong|H1N1
+		2001|Avian|A/blue-winged_teal/Texas/71/2001|USA|H2N1
+		2001|Avian|A/chicken/Hong_Kong/SF3/2001|Hong_Kong|H6N1
+		2001|Avian|A/chicken/NJ/118878-5/2001|USA|H7N2
+		2001|Avian|A/cinnamon_teal/Bolivia/4537/2001|Bolivia|H7N3
+		2001|Avian|A/goose/Viet_Nam/113/2001|Viet_Nam|H5N1
+		2001|Human|A/Sydney/405A/2001|Australia|H3N2
+		2001|Swine|A/swine/Hong_Kong/NS1022/2001|Hong_Kong|H1N1
+		2002|Avian|A/chicken/Taiwan/0107/02|Taiwan|H6N1
+		2002|Avian|A/duck/Victoria/5383/2002|Australia|H4N8
+		'2002|Avian|A/goose/Hong_Kong/739.2/2002|Hong_Kong|H5N1'
+		2002|Avian|A/guinea_fowl/Hong_Kong/SSP99/2002|Hong_Kong|H6N2
+		2002|Avian|A/shorebird/Delaware_Bay/18/2002|USA|H1N9
+		2002|Equine|A/equine/California/8560/2002|USA|H3N8
+		2002|Swine|A/swine/Hong_Kong/1669/2002|Hong_Kong|H1N1
+		2002|Swine|A/swine/Hong_Kong/762/2002|Hong_Kong|H1N1
+		2002|Swine|A/swine/Iowa/H02PW7/2002|USA|H1N1
+		2003|Avian|A/chicken/France/03426/2003|France|H5N2
+		2003|Avian|A/chicken/Taiwan/0706/03|Taiwan|H6N1
+		2003|Avian|A/duck/Victoria/2853/2003|Australia|H4N8
+		2003|Equine|A/equine/Newmarket/5/2003|United_Kingdom|H3N8
+		2003|Human|A/Wyoming/03/2003|USA|H3N2
+		2003|Swine|A/swine/Hong_Kong/NS129/2003|Hong_Kong|H1N1
+		2004|Avian|A/chicken/Taiwan/0305/04|Taiwan|H6N1
+		2004|Avian|A/ruddy_turnstone/NJ/238/2004|USA|H10N7
+		2004|Avian|A/shorebird/DE/68/2004|USA|H13N9
+		2004|Swine|A/swine/Hong_Kong/NS1170/2004|Hong_Kong|H1N1
+		2004|Swine|A/swine/IN/PU542/04_|USA|H3N1
+		2005|Avian|A/black-headed_gull/Sweden/1/2005|Sweden|H13N8
+		2005|Avian|A/chicken/Taiwan/A342/05|Taiwan|H6N1
+		2005|Avian|A/chicken/Vietnam/NCVD09/2005|Viet_Nam|H5N1
+		2005|Equine|A/equine/Texas/117793/2005|USA|H3N8
+		2005|Human|A/Hiroshima/52/2005|Japan|H3N2
+		2005|Swine|A/swine/Hong_Kong/1562/2005|Hong_Kong|H1N2
+		2005|Swine|A/swine/Hong_Kong/1683/2005|Hong_Kong|H1N1
+		2005|Swine|A/swine/Nebraska/00722/2005|USA|mixed
+		2005|Swine|A/swine/Shanghai/1/2005|China|H1N1
+		2006|Avian|A/northern_shoveler/Washington/44249-645/2006|USA|H5N2
+		2006|Avian|A/pekin_duck/California/P30/2006|USA|H4N2
+		2006|Avian|A/shorebird/Delaware/221/2006|USA|H13N9
+		2006|Swine|A/swine/Guangdong/628/2006|China|H1N1
+		2006|Swine|A/swine/Guangxi/13/2006|China|H1N2
+		2006|Swine|A/swine/Minnesota/001332/2006|USA|H3N2
+		2007|Avian|A/chicken/Bac_Lieu/07-10/2007|Viet_Nam|H5N1
+		2007|Avian|A/cinnamon_teal/California/44287-325/2007|USA|H3N8
+		2007|Avian|A/rosy-billed_pochard/Argentina/CIP051-269/2007|Argentina|H6N8
+		2007|Avian|A/rosy-billed_pochard/Argentina/CIP051-557/2007|Argentina|H6N2
+		2007|Avian|A/rosy-billed_pochard/Argentina/CIP051-559/2007|Argentina|H9N2
+		2007|Equine|A/equine/Xinjiang/3/2007|China|H3N8
+		2007|Human|A/HungYen/HY6/2007|Viet_Nam|H3N2
+		2007|Swine|A/swine/Kansas/77778/2007|USA|H1N1
+		2007|Swine|A/swine/Zhejiang/1/2007|China|H1N1
+		2008|Avian|A/laughing_gull/New_Jersey/Sg-00568/2008|USA|H13N9
+		2008|Avian|A/mallard/California/6524/2008|USA|H12N5
+		2008|Avian|A/red-winged_tinamou/Argentina/MP1/2008|Argentina|H1N1
+		2008|Avian|A/rosy-billed_pochard/Argentina/CIP051-925/2008|Argentina|H6N2
+		2008|Equine|A/equine/Liaoning/9/2008|China|H3N8
+		2008|Swine|A/swine/Guangdong/07/2008|China|H1N1
+		2008|Swine|A/swine/Shandong/101/2008|China|H1N1
+		2009|A/bat/Guatemala/153/2009|H17N10
+		2009|A/bat/Guatemala/164/2009|H17N10
+		2009|Avian|A/chicken/Cambodia/TLC1/2009|Cambodia|H5N1
+		2009|Avian|A/northern_shovelerMissouri/196/2009|USA|H10N3
+		2009|Human|A/Netherlands/761/2009|Netherlands|H3N2
+		2009|Swine|A/swine/Guangdong/11/2009|China|H1N1
+		2009|Swine|A/swine/Hubei/05/2009|China|H1N2
+		2009|Swine|A/swine/Minnesota/02782/2009|USA|H3N2
+		2009|Swine|A/swine/Shandong/327/2009|China|H1N1
+		2010|A/bat/Guatemala/060/2010|H17N10
+		2010|Avian|A/blue-winged_teal/Guatemala/CIP049-12/2010|Guatemala|H5N4
+		2010|Avian|A/chicken/Cambodia/TKCMB8F/2010|Cambodia|H5N1
+		2010|Avian|A/rosy-billed_pochard/Argentina/CIP051-1977/2010|Argentina|H6N2
+		2010|Human|A/Netherlands/009/2010|Netherlands|H3N2
+		2010|Swine|A/swine/Guangdong/1/2010|China|H1N2
+		2010|Swine|A/swine/Indiana/A00968322/2010|USA|H3N2
+		2011|Avian|A/heron/Cambodia/TM068/2011|Cambodia|H5N1
+		2011|Human|A/California/NHRC0001/2011|USA|H3N2
+		2011|Swine|A/swine/Iowa/A01202659/2011|USA|H3N2
+		;
+End;
+
+Begin trees;
+	Translate
+		1 1918|Human|A/Brevig_Mission/1/1918|USA|H1N1,
+		2 1925|Avian|A/chicken/Japan/1925|Japan|H7N7,
+		3 1930|Swine|A/swine/Iowa/15/1930|USA|H1N1,
+		4 1931|Swine|A/swine/USA/1976/1931|USA|H1N1,
+		5 1934|Avian|A/chicken/Rostock/45/1934|Germany|H7N1,
+		6 1934|Avian|A/fowl/Weybridge|United_Kingdom|H7N7,
+		7 1935|Avian|A/chicken/Brescia/1902|Italy|H7N7,
+		8 1935|Human|A/Melbourne/1935|Australia|H1N1,
+		9 1935|Human|A/Phila/1935|USA|H1N1,
+		10 1935|Human|A/bh/1935||H1N1,
+		11 1935|Swine|A/swine/Ohio/23/1935|USA|H1N1,
+		12 1936|Human|A/Henry/1936|USA|H1N1,
+		13 1942|Human|A/Bellamy/1942|USA|H1N1,
+		14 1943|Human|A/Iowa/1943|USA|H1N1,
+		15 1943|Human|A/Weiss/1943|USA|H1N1,
+		16 1945|Human|A/AA/Huston/1945|USA|H1N1,
+		17 1947|Human|A/Fort_Monmouth/1/1947|USA|H1N1,
+		18 1948|Human|A/Albany/4835/1948|USA|H1N1,
+		19 1948|Human|A/Hemsbury/1948|USA|H1N1,
+		20 1949|Avian|A/chicken/Germany/N/1949|Germany|H10N7,
+		21 1949|Human|A/Roma/1949|Italy|H1N1,
+		22 1950|Human|A/Albany/4836/1950|USA|H1N1,
+		23 1950|Human|A/Fort_Warren/1/1950|USA|H1N1,
+		24 1951|Human|A/Albany/14/1951|USA|H1N1,
+		25 1951|Human|A/Memphis/13/1978|USA|H1N1*,
+		26 1953|Avian|A/duck/Manitoba/1953|Canada|H10N7,
+		27 1953|Human|A/Memphis/7/1980|USA|H1N1*,
+		28 1953|Human|A/Netherlands/001R1/1953|Netherlands|H1N1,
+		29 1954|Human|A/Netherlands/001H1/1954|Netherlands|H1N1,
+		30 1956|Avian|A/duck/Czech_Republic/1/1956|Czech_Republic|H4N6,
+		31 1956|Avian|A/duck/England/1/1956|United_Kingdom|H11N6,
+		32 1956|Equine|A/equine/Prague/1/1956|Czech_Republic|H7N7,
+		33 1956|Equine|A/equine/Prague/2/1956|Czech_Republic|H7N7,
+		34 1956|Human|A/Memphis/10/1983|USA|H1N1*,
+		35 1956|Human|A/Netherlands/002Z1/1956|Netherlands|H1N1,
+		36 1957|Human|A/Denver/1957|USA|H1N1,
+		37 1957|Human|A/Memphis/1/1984|USA|H1N1*,
+		38 1957|Swine|A/swine/Wisconsin/1/1957|USA|H1N1,
+		39 1958|Human|A/Netherlands/001M/1958|Netherlands|H2N2,
+		40 1959|Avian|A/chicken/Scotland/1959|United_Kingdom|H5N1,
+		41 1959|Human|A/Albany/1/1959|USA|H2N2,
+		42 1959|Human|A/New_York/2924-1/1986|USA|H1N1*,
+		43 1960|Human|A/Ann_Arbor/6/1960|USA|H2N2,
+		44 1960|Human|A/Memphis/3/1987|USA|H1N1*,
+		45 1961|Avian|A/tern/South_Africa/1961|South_Africa|H5N3,
+		46 1961|Human|A/Panama/1/61|Panama|H2N2,
+		47 1961|Swine|A/swine/Wisconsin/1/1961|USA|H1N1,
+		48 1963|Avian|A/duck/Ukraine/1/1963|Ukraine|H3N8,
+		49 1963|Avian|A/turkey/Canada/1963|Canada|H6N8,
+		50 1963|Avian|A/turkey/England/1963|United_Kingdom|H7N3,
+		51 1963|Equine|A/equine/Miami/1/1963|USA|H3N8,
+		52 1963|Equine|A/equine/Uruguay/1/1963|Uruguay|H3N8,
+		53 1963|Human|A/Netherlands/001K1/1963|Netherlands|H2N2,
+		54 1964|Equine|A/equine/Detroit/3/1964|USA|H7N7,
+		55 1964|Human|A/Taiwan/1964|Taiwan|H2N2,
+		56 1964|Human|A/Texas/36/1991|USA|H1N1*,
+		57 1965|Avian|A/turkey/Massachusetts/3740/1965|USA|H6N2,
+		58 1965|Human|A/Potsdam/2/1965|Germany|H2N2,
+		59 1966|Avian|A/turkey/Ontario/6213/1966|Canada|mixed,
+		60 1966|Equine|A/equine/Lexington/1/1966|USA|H7N7,
+		61 1966|Human|A/Czech_Republic/1/1966|Czech_Republic|H2N2,
+		62 1966|Swine|A/swine/Wisconsin/2/1966|USA|H1N1,
+		63 1967|Swine|A/swine/Wisconsin/1/1967|USA|H1N1,
+		64 1968|Avian|A/turkey/Wisconsin/1/1968|USA|H5N9,
+		65 1968|Human|A/Albany/19/1968|USA|H3N2,
+		66 1968|Human|A/Beijing/262/1995|China|H1N1*,
+		67 1969|Avian|A/duck/PA/486/1969|USA|H6N1,
+		68 1969|Avian|A/turkey/England/1969|United_Kingdom|H3N2,
+		69 1969|Equine|A/equine/Sao_Paulo/1/1969|Brazil|H3N8,
+		70 1969|Human|A/Hong_Kong/3/1969|Hong_Kong|H3N2,
+		71 1969|Human|A/Nanchang/13/1996|China|H1N1*,
+		72 1970|Human|A/Albany/3/1970|USA|H3N2,
+		73 1970|Human|A/TW/3355/1997|Taiwan|H1N1*,
+		74 1970|Swine|A/swine/Wisconsin/2/1970|USA|H1N1,
+		75 1971|Avian|A/turkey/Oregon/1971|USA|H7N3,
+		76 1971|Equine|A/equine/Sachiyama/1/1971|Japan|H3N8,
+		77 1971|Equine|A/equine/Tokyo/2/1971|Japan|H3N8,
+		78 1971|Human|A/Bilthoven/21801/1971|Netherlands|H3N2,
+		79 1971|Swine|A/swine/Wisconsin/1/1971|USA|H1N1,
+		80 1972|Avian|A/duck/Chabarovsk/1610/1972_|Russia|H3N8,
+		81 1972|Avian|A/turkey/CO/118899/1972|USA|H5N2,
+		82 1972|Equine|A/equine/Algiers/1/1972|Algeria|H3N8,
+		83 1972|Human|A/Bilthoven/6022/1972|Netherlands|H3N2,
+		84 1972|Human|A/Taiwan/5072/1999|Taiwan|H1N1*,
+		85 1973|Avian|A/turkey/England/N28/73|United_Kingdom|H5N2,
+		86 1973|Equine|A/equine/London/1416/1973|United_Kingdom|H7N7,
+		87 1973|Human|A/Auckland/590/2000|New_Zealand|H1N1*,
+		88 1974|Avian|A/duck/Memphis/546/1974|USA|H11N9,
+		89 1974|Equine|A/equine/Cornell/16/74|USA|H7N7,
+		90 1974|Human|A/Albany/20/1974|USA|H3N2,
+		91 1974|Human|A/HaNoi/2017/2001|Viet_Nam|H1N1*,
+		92 1975|Avian|A/Canada_goose/Wisconsin/902/1975|USA|H5N2,
+		93 1975|Avian|A/arctic_tern/Alaska/300/1975|USA|H5N3,
+		94 1975|Avian|A/chicken/Alabama/1975|USA|H4N8,
+		95 1975|Avian|A/duck/Hong_Kong/7/1975|Hong_Kong|H3N2,
+		96 1975|Avian|A/mallard/WI/169/1975|USA|H5N3,
+		97 1975|Avian|A/mallard/Wisconsin/34/1975|USA|H5N6,
+		98 1975|Avian|A/mallard/Wisconsin/428/1975|USA|H5N1,
+		99 1975|Equine|A/equine/Kentucky/1a/1975|USA|H7N7,
+		100 1975|Equine|A/equine/New_York/1/1975|USA|H3N8,
+		101 1975|Human|A/Bilthoven/4273/1975|Netherlands|H3N2,
+		102 1975|Human|A/HaNoi/2546/2002|Viet_Nam|H1N1*,
+		103 1975|Swine|A/swine/Minnesota/24/1975|USA|H1N1,
+		104 1976|Avian|A/duck/Hong_Kong/d73/1976|Hong_Kong|H6N1,
+		105 1976|Avian|A/goose/HK/10/1976|Hong_Kong|H3N2,
+		106 1976|Equine|A/equine/Sao_Paulo/4/1976|Brazil|H7N7,
+		107 1976|Human|A/Bilthoven/628/1976|Netherlands|H3N2,
+		108 1976|Swine|A/swine/Tennessee/15/1976|USA|H1N1,
+		109 1977|Avian|A/chicken/Hong_Kong/17/1977|Hong_Kong|H6N1,
+		110 1977|Avian|A/gadwall_duck/Alberta/291/1977|Canada|H7N3,
+		111 1977|Avian|A/gull/Maryland/704/1977|USA|H13N6,
+		112 1977|Avian|A/mallard/Alberta/294/1977|Canada|H11N9,
+		113 1977|Avian|A/mallard/Alberta/300/1977|Canada|H4N3,
+		114 1977|Equine|A/equine/Argentina/1/1977|Argentina|H7N7,
+		115 1977|Human|A/Texas/1/1977|USA|H3N2,
+		116 1978|Avian|A/blue-winged_teal/ALB/221/1978|Canada|H7N2,
+		117 1978|Avian|A/duck/Hong_Kong/278/1978|Hong_Kong|H2N9,
+		118 1978|Avian|A/duck/Hong_Kong/293/1978|Hong_Kong|H7N2,
+		119 1978|Avian|A/duck/Hong_Kong/342/78|Hong_Kong|H5N2,
+		120 1978|Equine|A/equine/Kascakew/1/1978|unknown|H3N8,
+		121 1978|Human|A/Memphis/18/1978|USA|H3N2,
+		122 1978|Human|A/Waikato/13/2005|New_Zealand|H1N1*,
+		123 1978|Swine|A/swine/Tennessee/4/1978|USA|H1N1,
+		124 1979|Avian|A/African_starling/England-Q/983/1979|United_Kingdom|H7N1,
+		125 1979|Avian|A/blue-winged_teal/New_York/370ac/1979|USA|H4N2,
+		126 1979|Avian|A/goose/Leipzig/187-7/1979|Germany|H7N7,
+		127 1979|Avian|A/mallard/Alberta/965/1979|Canada|H1N1,
+		128 1979|Avian|A/mallard_duck/Minnesota/19/1979|USA|H10N7,
+		129 1979|Human|A/Thailand/CU88/2006|Thailand|H1N1*,
+		130 1979|Human|A/USSR/46/1979|Russia|H1N1,
+		131 1979|Swine|A/swine/Minnesota/5892-7/1979|USA|H1N1,
+		132 1980|Avian|A/black_duck/AUS/4045/1980|Australia|H6N5,
+		133 1980|Avian|A/gull/Minnesota/945/1980|USA|H13N6,
+		134 1980|Avian|A/red-necked_stint/Australia/4500/1980|Australia|H3N8,
+		135 1980|Avian|A/turkey/Italy/1980|Italy|H5N2,
+		136 1980|Equine|A/equine/Kentucky/4/1980|USA|H3N8,
+		137 1980|Human|A/New_York/UR06-0326/2007|USA|H1N1*,
+		138 1980|Swine|A/swine/Wisconsin/11/1980|USA|H1N1,
+		139 1981|Avian|A/pintail_duck/ALB/631/1981|Canada|H1N5,
+		140 1981|Avian|A/red-necked_stint/Australia/5745/1981|Australia|H12N9,
+		141 1981|Equine|A/equine/Kentucky/2/1981|USA|H3N8,
+		142 1981|Human|A/Bilthoven/4791/1981|Netherlands|H3N2,
+		143 1981|Human|A/New_York/08-1253/2008|USA|H1N1*,
+		144 1981|Swine|A/swine/Germany/2/1981|Germany|H1N1,
+		145 1981|Swine|A/swine/Ontario/3/1981|Canada|H1N1,
+		146 1982|Avian|A/mallard_duck/New_York/90/1982|USA|H6N8,
+		147 1982|Avian|A/pintail/Alberta/189/82|Canada|H6N6,
+		148 1982|Equine|A/equine/California/83/1982|USA|H3N8,
+		149 1982|Human|A/Alaska/WRAIR1114P/2009|USA|H1N1*,
+		150 1983|Avian|A/mallard/Marquenterre/Z237/1983|France|H1N1,
+		151 1983|Avian|A/mallard_duck/ALB/797/1983|Canada|H11N3,
+		152 1983|Avian|A/red-necked_stint/Western_Australia/4923/1983|Australia|H3N8,
+		153 1983|Avian|A/turkey/Ireland/1378/1983|Ireland|H5N8,
+		154 1983|Avian|A/turkey/Virginia/6962/1983|USA|H5N2,
+		155 1983|Swine|A/swine/Belgium/WVL2/1983|Belgium|H1N1,
+		156 1984|Avian|A/Chicken/Virginia/40018/84|USA|H5N2,
+		157 1984|Avian|A/duck/NZL/41/1984|New_Zealand|H1N2,
+		158 1984|Avian|A/duck/New_Zealand/78/1984|New_Zealand|H9N2,
+		159 1984|Avian|A/gull/Astrakhan/227/1984|Russia|H13N6,
+		160 1984|Avian|A/mallard_duck/Alberta/630/1984|Canada|H4N2,
+		161 1984|Avian|A/pintail_duck/ALB/584/1984|Canada|H10N6,
+		162 1984|Avian|A/red-necked_stint/Western_Australia/4915/1984|Australia|H3N8,
+		163 1984|Human|A/Hong_Kong/7/1984|Hong_Kong|H3N2,
+		164 1985|Avian|A/blackhead_gull/Astrakhan/458/1985|Russia|H13N6,
+		165 1985|Avian|A/green-winged_teal/ALB/228/1985|Canada|H7N3,
+		166 1985|Avian|A/laughing_gull/New_Jersey/75/1985|USA|H2N9,
+		167 1985|Avian|A/mallard/Tennessee/11457/1985|USA|H11N9,
+		168 1985|Avian|A/redhead_duck/ALB/116/1985|Canada|H4N6,
+		169 1985|Equine|A/equine/Santa_Fe/1/1985|USA|H3N8,
+		170 1985|Human|A/Memphis/7/1985|USA|H3N2,
+		171 1985|Swine|A/swine/France/WVL4/1985|France|H1N1,
+		172 1985|Swine|A/swine/Iowa/2/1985|USA|H1N1,
+		173 1986|Avian|A/chicken/MA/11801/1986|USA|H5N2,
+		174 1986|Avian|A/duck/LA/B174/1986|USA|H8N4,
+		175 1986|Avian|A/green-winged_teal/Ohio/397/1986|USA|H11N9,
+		176 1986|Avian|A/herring_gull/Delaware/471/1986|USA|H2N7,
+		177 1986|Avian|A/herring_gull/New_Jersey/780/86|USA|H1N3,
+		178 1986|Avian|A/mallard/Ohio/264/1986|USA|H3N8,
+		179 1986|Avian|A/sanderling/Delaware/1258/1986|USA|H6N6,
+		180 1986|Equine|A/equine/Kentucky/1/1986|USA|H3N8,
+		181 1986|Human|A/Colorado/2/1986|USA|H3N2,
+		182 1987|Avian|A/chicken/NY/12004-3/1987|USA|H5N2,
+		183 1987|Avian|A/coot/ALB/134/1987|Canada|H6N2,
+		184 1987|Avian|A/duck/LA/17G/1987|USA|H3N8,
+		185 1987|Avian|A/duck/LA/32M/1987|USA|H6N2,
+		186 1987|Avian|A/green-winged_teal/Ohio/430/1987|USA|H1N1,
+		187 1987|Avian|A/laughing_gull/Delaware_Bay/2838/1987|USA|H13N2,
+		188 1987|Avian|A/mallard/Ohio/421/1987|USA|H7N8,
+		189 1987|Avian|A/pintail/Ohio/339/1987|USA|H3N8,
+		190 1987|Equine|A/equine/Kentucky/1/1987|USA|H3N8,
+		191 1987|Human|A/Los_Angeles/2/1987|USA|H3N2,
+		192 1987|Swine|A/swine/Iowa/1/1987|USA|H1N1,
+		193 1987|Swine|A/swine/Italy/670/1987|Italy|H1N1,
+		194 1988|Avian|A/black_duck/New_York/184/1988|USA|H5N2,
+		195 1988|Avian|A/chicken/Florida/22780-2/88|USA|H5N2,
+		196 1988|Avian|A/herring_gull/DE/665/1988|USA|H4N6,
+		197 1988|Avian|A/mallard/Ohio/324/1988|USA|H4N6,
+		198 1988|Avian|A/mallard/Ohio/409/1988|USA|H12N5,
+		199 1988|Equine|A/equine/Kentucky/692/1988|USA|H3N8,
+		200 1988|Swine|A/swine/Iowa/31483/1988|USA|H1N1,
+		201 1989|Avian|A/duck/Perak/2458/1989|Malaysia|H3N8,
+		202 1989|Avian|A/mallard/Ohio/42/1989|USA|H10N6,
+		203 1989|Avian|A/pintail/Ohio/73/1989|USA|H6N2,
+		204 1989|Equine|A/equine/Rook/93753/1989|United_Kingdom|H3N8,
+		205 1989|Human|A/Netherlands/620/1989|Netherlands|H3N2,
+		206 1990|Avian|A/black_duck/Ohio/195/1990|USA|mixed,
+		207 1990|Avian|A/blue-winged_teal/ALB/67/1990|Canada|H4N5,
+		208 1990|Avian|A/mallard_duck/ALB/253/1990|Canada|H6N3,
+		209 1990|Avian|A/semi-palmated_sandpiper/Brazil/43/1990|Brazil|H2N1,
+		210 1990|Avian|A/turkey/Minnesota/1012/1990|USA|H13N2,
+		211 1990|Equine|A/equine/Kentucky/1277/1990|USA|H3N8,
+		212 1990|Human|A/Siena/4/1990|Italy|H3N2,
+		213 1990|Swine|A/swine/Iowa/3421/1990|USA|H1N1,
+		214 1991|Avian|A/green-winged_teal/ALB/199/1991|Canada|H12N5,
+		215 1991|Avian|A/mallard/ALB/124/1991|Canada|H11N2,
+		216 1991|Avian|A/mallard/Alberta/12/1991|Canada|H4N6,
+		217 1991|Avian|A/pintail/Alberta/105/1991|Canada|H3N8,
+		218 1991|Equine|A/equine/Kentucky/1/1991|USA|H3N8,
+		219 1991|Equine|A/equine/Rome/5/1991|Italy|H3N8,
+		220 1991|Swine|A/swine/Iowa/24297/1991|USA|H1N1,
+		221 1992|Avian|A/blue-winged_teal/Alberta/141/1992|Canada|H1N1,
+		222 1992|Avian|A/duck/Nanchang/1749/1992|China|H11N2,
+		223 1992|Avian|A/duck/Victoria/1992|Australia|H3N8,
+		224 1992|Avian|A/mallard/Alberta/194/1992|Canada|H8N4,
+		225 1992|Equine|A/equine/Italy/1199/1992|Italy|H3N8,
+		226 1992|Equine|A/equine/Kentucky/1/1992|USA|H3N8,
+		227 1992|Swine|A/swine/England/WVL7/1992|United_Kingdom|H1N1,
+		228 1993|Avian|A/pintail/ALB/179/1993|Canada|H6N1,
+		229 1993|Equine|A/equine/Newmarket/1/1993|United_Kingdom|H3N8,
+		230 1993|Equine|A/equine/Switzerland/173/1993|Switzerland|H3N8,
+		231 1993|Human|A/Singapore/19/1993|Singapore|H3N2,
+		232 1993|Swine|A/swine/England/WVL10/1993|United_Kingdom|H1N1,
+		233 1993|Swine|A/swine/Hong_Kong/574/1993|Hong_Kong|H1N1,
+		234 1994|Avian|A/chicken/Mexico/31381-7/1994|Mexico|H5N2,
+		235 1994|Avian|A/chicken/NY/13142-5/1994|USA|H7N2,
+		236 1994|Avian|A/duck/Victoria/D23/1994|Australia|H4N2,
+		237 1994|Avian|A/emu/NY/12716/1994|USA|H5N9,
+		238 1994|Equine|A/equine/Kentucky/8/1994|USA|H3N8,
+		239 1994|Swine|A/swine/England/WVL11/1994|United_Kingdom|H1N1,
+		240 1994|Swine|A/swine/Hong_Kong/2422/1994|Hong_Kong|H1N1,
+		241 1995|Avian|A/chicken/Chiapas/28159-488/1995|Mexico|H5N2,
+		242 1995|Avian|A/chicken/NY/13833-7/1995|USA|H7N2,
+		243 1995|Avian|A/emu/TX/25414/1995|USA|H7N2,
+		244 1995|Avian|A/guinea_fowl/New_York/26410-17/1995|USA|H11N9,
+		245 1995|Human|A/Siena/3/1995|Italy|H3N2,
+		246 1996|Avian|A/chicken/Mexico/37821-771/1996|Mexico|H5N2,
+		247 1996|Avian|A/chicken/NY/3202-7/1996|USA|H7N2,
+		248 1996|Human|A/Niigata/137/96|Japan|H3N2,
+		249 1997|Avian|A/Teal/Hong_Kong/W312/97|Hong_Kong|H6N1,
+		250 1997|Avian|A/chicken/Chiapas/15406/1997|Mexico|H5N2,
+		251 1997|Avian|A/chicken/Italy/312/1997|Italy|H5N2,
+		252 1997|Avian|A/mallard/Alberta/52/1997|Canada|H12N5,
+		253 1997|Avian|A/turkey/PA/7975/1997|USA|H7N2,
+		254 1997|Equine|A/equine/California/4537/1997|USA|H3N8,
+		255 1997|Human|A/Shiga/25/97|Japan|H3N2,
+		256 1998|Avian|A/chicken/Mexico/22184/1998|Mexico|H5N2,
+		257 1998|Avian|A/chicken/PA/9801289/1998|USA|H7N2,
+		258 1998|Avian|A/duck/Hokkaido/49/98|Japan|H9N2,
+		259 1998|Avian|A/duck/Siberia/272/1998|Russia|H13N6,
+		260 1998|Avian|A/mallard/Minnesota/319/1998|USA|H6,
+		261 1998|Avian|A/parakeet/Narita/92A/98|Japan|H9N2,
+		262 1998|Swine|A/swine/Italy/62/1998|Italy|H1N2,
+		263 1999|Avian|A/chicken/NY/21586-8/1999|USA|H7N2,
+		264 1999|Avian|A/chicken/Taiwan/ns2/99|Taiwan|H6N1,
+		265 1999|Avian|A/mallard/Minnesota/280/1999|USA|H3N5,
+		266 1999|Avian|A/mallard/Netherlands/1/1999|Netherlands|H4N6,
+		267 1999|Human|A/New_South_Wales/17/1999|Australia|H3N2,
+		268 1999|Swine|A/Swine/Indiana/9K035/99_|USA|H1N2,
+		269 1999|Swine|A/swine/Italy/3592/1999|Italy|H1N2,
+		270 2000|Avian|A/chicken/Henan/26/00|China|H9N2,
+		271 2000|Avian|A/chicken/NJ/30739-6/2000|USA|H7N2,
+		272 2000|Avian|A/chicken/Taiwan/SP1/00|Taiwan|H6N1,
+		273 2000|Avian|A/common_teal/Netherlands/10/2000|Netherlands|H1N1,
+		274 2000|Avian|A/shorebird/Delaware_Bay/277/2000|USA|H9N7,
+		275 2000|Swine|A/Swine/Minnesota/55551/2000|USA|H1N2,
+		276 2000|Swine|A/swine/Bakum/1832/2000|Germany|H1N2,
+		277 2000|Swine|A/swine/Hong_Kong/6301/2000|Hong_Kong|H1N1,
+		278 2001|Avian|A/blue-winged_teal/Texas/71/2001|USA|H2N1,
+		279 2001|Avian|A/chicken/Hong_Kong/SF3/2001|Hong_Kong|H6N1,
+		280 2001|Avian|A/chicken/NJ/118878-5/2001|USA|H7N2,
+		281 2001|Avian|A/cinnamon_teal/Bolivia/4537/2001|Bolivia|H7N3,
+		282 2001|Avian|A/goose/Viet_Nam/113/2001|Viet_Nam|H5N1,
+		283 2001|Human|A/Sydney/405A/2001|Australia|H3N2,
+		284 2001|Swine|A/swine/Hong_Kong/NS1022/2001|Hong_Kong|H1N1,
+		285 2002|Avian|A/chicken/Taiwan/0107/02|Taiwan|H6N1,
+		286 2002|Avian|A/duck/Victoria/5383/2002|Australia|H4N8,
+		287 '2002|Avian|A/goose/Hong_Kong/739.2/2002|Hong_Kong|H5N1',
+		288 2002|Avian|A/guinea_fowl/Hong_Kong/SSP99/2002|Hong_Kong|H6N2,
+		289 2002|Avian|A/shorebird/Delaware_Bay/18/2002|USA|H1N9,
+		290 2002|Equine|A/equine/California/8560/2002|USA|H3N8,
+		291 2002|Swine|A/swine/Hong_Kong/1669/2002|Hong_Kong|H1N1,
+		292 2002|Swine|A/swine/Hong_Kong/762/2002|Hong_Kong|H1N1,
+		293 2002|Swine|A/swine/Iowa/H02PW7/2002|USA|H1N1,
+		294 2003|Avian|A/chicken/France/03426/2003|France|H5N2,
+		295 2003|Avian|A/chicken/Taiwan/0706/03|Taiwan|H6N1,
+		296 2003|Avian|A/duck/Victoria/2853/2003|Australia|H4N8,
+		297 2003|Equine|A/equine/Newmarket/5/2003|United_Kingdom|H3N8,
+		298 2003|Human|A/Wyoming/03/2003|USA|H3N2,
+		299 2003|Swine|A/swine/Hong_Kong/NS129/2003|Hong_Kong|H1N1,
+		300 2004|Avian|A/chicken/Taiwan/0305/04|Taiwan|H6N1,
+		301 2004|Avian|A/ruddy_turnstone/NJ/238/2004|USA|H10N7,
+		302 2004|Avian|A/shorebird/DE/68/2004|USA|H13N9,
+		303 2004|Swine|A/swine/Hong_Kong/NS1170/2004|Hong_Kong|H1N1,
+		304 2004|Swine|A/swine/IN/PU542/04_|USA|H3N1,
+		305 2005|Avian|A/black-headed_gull/Sweden/1/2005|Sweden|H13N8,
+		306 2005|Avian|A/chicken/Taiwan/A342/05|Taiwan|H6N1,
+		307 2005|Avian|A/chicken/Vietnam/NCVD09/2005|Viet_Nam|H5N1,
+		308 2005|Equine|A/equine/Texas/117793/2005|USA|H3N8,
+		309 2005|Human|A/Hiroshima/52/2005|Japan|H3N2,
+		310 2005|Swine|A/swine/Hong_Kong/1562/2005|Hong_Kong|H1N2,
+		311 2005|Swine|A/swine/Hong_Kong/1683/2005|Hong_Kong|H1N1,
+		312 2005|Swine|A/swine/Nebraska/00722/2005|USA|mixed,
+		313 2005|Swine|A/swine/Shanghai/1/2005|China|H1N1,
+		314 2006|Avian|A/northern_shoveler/Washington/44249-645/2006|USA|H5N2,
+		315 2006|Avian|A/pekin_duck/California/P30/2006|USA|H4N2,
+		316 2006|Avian|A/shorebird/Delaware/221/2006|USA|H13N9,
+		317 2006|Swine|A/swine/Guangdong/628/2006|China|H1N1,
+		318 2006|Swine|A/swine/Guangxi/13/2006|China|H1N2,
+		319 2006|Swine|A/swine/Minnesota/001332/2006|USA|H3N2,
+		320 2007|Avian|A/chicken/Bac_Lieu/07-10/2007|Viet_Nam|H5N1,
+		321 2007|Avian|A/cinnamon_teal/California/44287-325/2007|USA|H3N8,
+		322 2007|Avian|A/rosy-billed_pochard/Argentina/CIP051-269/2007|Argentina|H6N8,
+		323 2007|Avian|A/rosy-billed_pochard/Argentina/CIP051-557/2007|Argentina|H6N2,
+		324 2007|Avian|A/rosy-billed_pochard/Argentina/CIP051-559/2007|Argentina|H9N2,
+		325 2007|Equine|A/equine/Xinjiang/3/2007|China|H3N8,
+		326 2007|Human|A/HungYen/HY6/2007|Viet_Nam|H3N2,
+		327 2007|Swine|A/swine/Kansas/77778/2007|USA|H1N1,
+		328 2007|Swine|A/swine/Zhejiang/1/2007|China|H1N1,
+		329 2008|Avian|A/laughing_gull/New_Jersey/Sg-00568/2008|USA|H13N9,
+		330 2008|Avian|A/mallard/California/6524/2008|USA|H12N5,
+		331 2008|Avian|A/red-winged_tinamou/Argentina/MP1/2008|Argentina|H1N1,
+		332 2008|Avian|A/rosy-billed_pochard/Argentina/CIP051-925/2008|Argentina|H6N2,
+		333 2008|Equine|A/equine/Liaoning/9/2008|China|H3N8,
+		334 2008|Swine|A/swine/Guangdong/07/2008|China|H1N1,
+		335 2008|Swine|A/swine/Shandong/101/2008|China|H1N1,
+		336 2009|A/bat/Guatemala/153/2009|H17N10,
+		337 2009|A/bat/Guatemala/164/2009|H17N10,
+		338 2009|Avian|A/chicken/Cambodia/TLC1/2009|Cambodia|H5N1,
+		339 2009|Avian|A/northern_shovelerMissouri/196/2009|USA|H10N3,
+		340 2009|Human|A/Netherlands/761/2009|Netherlands|H3N2,
+		341 2009|Swine|A/swine/Guangdong/11/2009|China|H1N1,
+		342 2009|Swine|A/swine/Hubei/05/2009|China|H1N2,
+		343 2009|Swine|A/swine/Minnesota/02782/2009|USA|H3N2,
+		344 2009|Swine|A/swine/Shandong/327/2009|China|H1N1,
+		345 2010|A/bat/Guatemala/060/2010|H17N10,
+		346 2010|Avian|A/blue-winged_teal/Guatemala/CIP049-12/2010|Guatemala|H5N4,
+		347 2010|Avian|A/chicken/Cambodia/TKCMB8F/2010|Cambodia|H5N1,
+		348 2010|Avian|A/rosy-billed_pochard/Argentina/CIP051-1977/2010|Argentina|H6N2,
+		349 2010|Human|A/Netherlands/009/2010|Netherlands|H3N2,
+		350 2010|Swine|A/swine/Guangdong/1/2010|China|H1N2,
+		351 2010|Swine|A/swine/Indiana/A00968322/2010|USA|H3N2,
+		352 2011|Avian|A/heron/Cambodia/TM068/2011|Cambodia|H5N1,
+		353 2011|Human|A/California/NHRC0001/2011|USA|H3N2,
+		354 2011|Swine|A/swine/Iowa/A01202659/2011|USA|H3N2
+		;
+tree UNTITLED = [&U] (1:0.0035271436,((((((2:0.0452573511,(6:0.0048080011,7:0.0028184938):0.040842662):0.0055197027,(5:0.0484616261,((((20:0.0209537079,(31:0.0070583243,(40:0.0169116992,(50:0.0124411822,((68:0.0233973353,((95:0.0013258304,((222:0.0090961168,(282:0.0029619292,(287:0.0013657482,(307:0.0024717573,(320:0.0025750245,(338:0.0093681911,(347:0.0004744641,352:0.0066650603):0.005212466):0.005213567):0.008464728):0.006062997):0.0073778198):0.0134141656):0.0088884456,(258:0.010882234,((264:0.0058289994,272:0.008168242):0.0118012744,(285:0.0037899895,(295:0.0053882852,(300:0.0030916979,306:0.0077408509):0.0044747898):0.0047519209):0.0193612979):0.0059847051):0.0144592092):0.0023559894):0.0015992042,(105:0.0054968894,(118:0.0092162547,(223:0.0021294503,(236:0.004052314,(286:0.0007355159,296:0.0097449777):0.0545202399):0.0047607746):0.0645232242):0.0035501428):0.0059542689):0.0200285694):0.0034355275,(85:0.0081464029,(144:0.0023439975,(155:0.0063308431,(171:0.0070636659,(193:0.0068633888,(((227:0.0022048141,232:2.6931e-06):0.0007473123,239:0.0045830094):0.0055763132,((262:0.0073714449,269:0.0083638517):0.0151875801,(276:0.0139815957,(291:0.0032219119,(299:0.0037538152,(303:0.0042186474,(311:0.0048270643,(328:0.0077579816,(335:0.0040550316,344:0.0040484913):0.0026028495):0.0056540255):0.0055889108):0.0024731225):0.0014868791):0.0128330538):0.0062752871):0.0080820559):0.0136564908):0.0045942986):0.0009652544):0.0048449019):0.0231442855):0.0131154348):0.0003773314):0.0074253676):0.0015008114):0.0215930787):0.0013892894,(((134:1e-06,(152:1e-06,162:0.0004418796):0.0008845974):0.0001132801,140:0.0048133366):0.0935010447,(157:0.0141105404,158:0.010716571):0.0728042544):0.0475665497):0.0047036376,(((48:0.0256431762,(93:0.033622532,(((111:0.0049483897,((177:2.904e-06,(336:0.0004382541,(337:1e-06,345:0.0535941738):2.9772e-06):4.262752085):0.0147153179,(187:0.0038053911,(196:0.0046022637,210:0.0177022472):0.0023231976):0.0104323556):0.0254367594):0.0007079015,133:0.0147084969):0.0065447125,(159:0.004225288,(164:0.019707457,(259:0.038080673,(302:0.0323964624,(305:0.0251943411,(316:0.0069856799,329:0.0158075432):0.0175006105):0.007049282):0.0296051714):0.0241892149):0.0007591613):0.0082495525):0.043816552):0.0162136237):0.0023211811,(((119:0.0188363953,124:0.0266419447):0.0004909689,(201:0.0302556568,((249:0.004578989,(270:0.0096975831,(279:0.0034473887,288:0.0097802927):0.0080698452):0.0049921665):0.0031602703,261:0.0058289805):0.0476236695):0.0253375092):0.0109735687,(126:0.006719651,(150:0.0111206428,(237:0.0268440877,((251:0.0077111098,266:0.0100626766):0.0068473383,(273:0.0064528103,294:0.0289024195):0.0028910639):0.0251080873):0.0094906249):0.0049693329):0.0181978773):0.0286921728):0.000692292,(109:0.0257677605,(135:0.0190339864,153:0.0435997765):0.0076600687):0.0296171851):0.0327856926):0.0035998306,(30:0.0148808406,(45:0.0190032497,(80:0.0049517041,(104:0.0061746534,(117:0.0068292799,132:0.0153229957):0.007724738):0.0038257132):0.0198041724):0.0137530215):0.0127411785):0.0458253321):0.0112405154):0.0498594248,((281:0.016094004,((322:0.023886674,323:0.0208460719):0.0013656955,(331:0.0150179899,(332:0.0052715815,348:0.0202172677):0.0177132039):0.0024257597):0.0200338653):0.0153533714,324:0.0368907992):0.2518121514):0.0297775696,(((32:1e-06,33:0.0004508839):0.0373435903,60:0.0020411386):0.0194357705,54:2.2012e-06):0.2457420846):0.0357519666,(((((26:0.0180097786,49:0.0240490858):0.0084343169,((57:0.0084167646,(59:0.0013200411,(64:0.0026712648,67:0.0044682189):0.003559076):0.004258931):0.0135727697,(128:0.0280140934,((165:0.0060994259,176:0.0122793302):5.26114e-05,(217:0.0087894295,(244:0.0078590535,252:0.0090190108):0.0055854944):0.005564414):0.032084853):0.0128506034):0.0237750697):0.0091362695,(((((75:0.0175870176,(92:0.0119037746,(110:0.0141359228,(147:0.0079208801,166:0.0169797187):0.0050407418):0.0023195484):0.0107460538):0.0027191657,(((113:0.0021452426,((139:0.0059301621,((151:0.0060719062,160:0.0082139285):0.0036514991,(168:0.0013026104,179:0.003077925):0.008783112):0.0042158833):0.0059076997,((174:0.0056592652,((214:0.0056539195,(224:0.0089997224,(228:0.0073182567,243:0.0091346554):0.0071603768):0.0015454687):0.005532673,(215:0.0059047131,(221:0.0014958921,(260:0.0031917978,((274:0.0045784403,(278:0.0002917017,289:0.0054651757):0.0093187636):0.0006389628,(301:0.0054132012,(314:0.0008515213,(330:0.0062359404,(339:0.0049099679,346:0.0044643038):0.0003573054):0.0027021945):0.0076620647):0.0128114167):0.0028203614):0.0149955781):0.0073813753):0.0012945114):0.0024621206):0.0012607542,185:0.007041399):0.0065878658):0.0057970513):0.0007023042,(116:0.0048872213,127:0.0053549917):0.0033003962):0.0066484912,((161:0.0080569473,(167:0.007995373,(188:0.0048314225,(197:0.0029019876,(207:0.0066195224,(216:0.0033621535,(265:0.011319496,(((268:0.0089991749,275:0.0045023752):0.0032472344,(310:0.0083609035,(318:0.012293556,(342:0.0101323527,350:0.0082453905):0.0092882592):0.0011629182):0.007131483):0.0007953482,(293:0.0071987105,(304:0.0088731782,(312:0.0012667589,(319:0.0030976162,(327:0.0026180033,(343:0.0063937289,(351:0.002579927,354:0.00727027):0.0041098766):0.0031092314):0.0027178253):0.0032152194):0.0085414854):0.0039507674):0.0103906166):0.0162469162):0.0063412448):0.0043916732):0.0022138861):0.0028809704):0.0051143615):0.0028475787):0.0038722693,((178:0.0021217015,209:0.0260732326):0.0019786771,((186:0.0012215122,(198:0.0013494519,202:0.0035316133):0.0009836848):0.0107503858,(203:0.0031796624,(206:0.0025756002,(234:0.0059720816,(241:0.0145155469,(246:0.0094880171,(250:0.0009212667,256:0.0075739184):0.0097428224):0.0097324913):0.0042413102):0.0130519239):0.0055301705):0.0126036708):0.0053824362):0.01191413):0.0236420906):0.0129907725):0.0013768884,(81:0.0140856223,(94:0.0155106001,((98:0.0014359703,(112:0.0043738633,(125:0.0025440986,(175:0.0035936824,(183:0.0026580973,194:0.004029599):0.0031089682):0.0103175892):0.0065607981):0.0003548117):0.0026548103,(189:0.0067204361,(208:0.0124965417,(235:0.0014270309,(242:0.0017046262,((247:0.0008902136,((263:0.0008768595,271:0.0040091675):0.0003595607,280:0.0091413056):0.0128823519):0.0008400818,(253:0.0004464546,257:0.0022004576):0.0067722242):0.0036694165):0.0049186547):0.0184053995):0.0035679054):0.0326161231):0.0117014759):0.0005607946):0.0055262843):0.0280769487,(96:0.0104390951,(146:0.031479067,((154:1e-06,156:0.0017685722):0.0047493673,(173:0.0026601006,(182:0.0044955804,195:0.0086042214):0.0018476366):0.0099545736):0.0370703268):0.0059882647):0.0266132322):0.0054049752,(88:0.0091308281,97:0.0112588193):0.026277567):0.0105369851):0.0051778374,(((51:0.0021249536,(52:0.0036250955,69:0.0129163196):0.0023133882):0.0005851198,((76:0.0014113052,77:0.0004545352):0.0155024774,82:0.0096771989):0.0098900836):0.001365936,((86:0.0017961054,(99:0.0017758371,(106:0.0004432092,114:0.000885941):1e-06):0.0040172254):0.000956677,(89:0.0045311293,(100:2.2405e-06,(120:0.0022498964,((136:0.0021933295,141:0.0036129989):0.0004106511,(148:0.0008791961,(169:0.0040638053,(180:0.0013287703,(190:2.2559e-06,((199:0.0004485278,(204:2.1213e-06,(219:0.0008820576,(225:2.6064e-06,230:0.002235226):0.0045013391):0.0022428018):0.0044823859):0.0008909504,(211:0.0027034343,((218:0.0008932314,226:0.0008926881):0.0004420935,((229:0.00277967,(254:2.6611e-06,((290:2.5716e-06,(308:0.0074022121,(325:0.0009082255,333:0.0031513261):0.0046133077):0.0003458064):0.0004514986,297:0.0004424829):0.0068116996):0.0068231856):0.0013045223,238:0.0063406046):0.0009316055):0.0045398884):0.0040746034):0.0008818223):0.0017860842):0.0027008577):0.0027180188):0.0046488613):0.0025608498):0.0082190697):0.0031002474):0.0003920008):0.0166164609):0.0482346602):0.0110034106,(184:0.0089240367,(315:0.0085005401,321:0.0172999359):0.0279067408):0.1120777814):0.0245170505):0.0462032486,((8:0.0085922362,10:0.0088177347):0.0047900557,((9:0.0059776677,12:0.0057565114):0.0025917932,((13:0.0026877902,(14:0.0044700245,19:0.0022312735):0.0040586613):0.0036647957,((15:0.0031666498,16:0.0017483534):0.009683006,((17:0.0013428521,((23:0.0017626123,((28:0.0013808416,(35:0.0013168883,(36:0.0026659878,(((39:2.0942e-06,(46:0.0026837548,(53:0.0041059772,(55:0.0040962178,(58:0.0039359345,((61:0.0003985378,(65:0.0031286729,(70:0.0017746437,72:0.0017768583):0.0004148376):0.006391611):0.004694838,((78:0.0022174713,83:0.0017653163):0.0008116078,((90:0.0013457738,(101:0.0003716608,107:0.0018296333):0.0036158554):0.002713564,((115:0.0008132306,121:0.0045201466):0.0046093713,(130:0.0063512781,(142:0.0018523115,((163:0.0004420829,170:0.0017775587):0.0030259268,(181:0.0058897633,((191:1e-06,(205:0.0008789046,212:0.0036078399):0.002228401):0.0008523094,(231:0.0012989518,(245:0.0014604234,(248:0.0019781355,(255:0.003421302,(267:0.0022638862,(283:0.001554142,(298:0.0048529313,(309:0.0024425879,(326:0.0013310716,(340:0.0004033198,(349:1e-06,353:0.0017858104):0.0045378404):0.0068671752):0.0057314342):0.0036181861):0.0065713492):0.0048409701):0.0047275344):0.0017959741):0.0032862411):0.0036708972):0.0077944387):0.0022548706):0.0032843019):0.0036585002):0.0063549028):0.0030965211):0.0045650147):0.0022439533):0.0153637971):0.0026408902):0.0033426669):0.0007094844):0.0064579524):0.0095975328):0.0026706098,41:0.004935918):0.0009348023,43:0.0048591852):0.0045014474):0.0013314322):0.0086958085):0.0003821952,29:0.0062424553):2.1919e-06):0.0021891157,24:0.0031425592):0.0086961545):0.0077583034,((18:0.0004406164,22:0.0004406504):1e-06,(21:0.0004482129,(25:0.0012773463,((27:0.0005180352,((34:0.0013476092,37:0.0026715642):0.0051791402,(56:0.0021157798,(66:0.0013383608,(71:0.0013494049,(73:0.0050566085,(84:0.0040063984,(87:0.0030228809,((91:0.000890399,102:0.0008959097):0.0013343473,(122:0.0091376063,((129:0.0014575544,137:0.0026916614):0.0039843264,(143:0.0031554077,149:0.0026794179):0.0074401801):0.0040930428):0.0004694655):0.0028539722):0.003379065):0.0063652122):0.0007989984):0.0031657185):0.005605572):0.0215397596):0.0007473081):0.0005083862,(42:1e-06,44:0.002224496):0.0150929692):0.006246199):0.0068278281):0.0017599278):0.0145642143):0.005171):0.0003109943):0.0158649574):0.0039574696):0.0256700473):0.010004309,((3:0.0038887014,4:0.0068891818):0.0037105628,(11:0.0044212764,(38:0.0029329129,(47:0.0023600443,((62:0.0019136024,((74:0.0014174504,79:0.0057367999):0.0022590342,(103:0.0020776237,(108:2.0848e-06,(123:0.0022232319,((131:0.0034454166,(138:0.0004438717,145:0.0026544494):0.004143476):0.000292715,((172:0.0017702707,(200:0.0059268255,(213:0.0004068556,(220:0.0026308627,((233:0.0024667967,(277:0.0058086403,(284:1e-06,292:0.006270091):0.0135585403):0.0076416466):0.0065476823,(240:0.001633683,(313:0.0004371672,(317:0.0022415251,(334:0.0026590364,341:0.000887753):0.0008563625):0.0009117951):0.0237297405):0.0121138985):0.0032467284):0.0025973631):0.0079342684):0.0053755828):0.0006411661,192:0.0102503605):0.0179492904):0.0043040146):0.0044756091):0.0050752774):0.014754025):0.0098712441):0.0007069573,63:0.0054263662):0.0125336118):0.0111438414):0.0548793697):0.0150118416):0.0391418648);
+End;

@@ -1,0 +1,2 @@
+## Scripts
+The `scripts` subdirectory contains the `R` scripts we used in this study; it is further divided into subdirectories, corresponding to major types of post processing we performed with the `BEAST` posterior outputs.

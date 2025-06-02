@@ -1,0 +1,4301 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=2144;
+	Taxlabels
+		A/Aichi/100/2007
+		A/Aichi/103/2006
+		A/Aichi/11/2006
+		A/Aichi/11/2008
+		A/Aichi/111/2006
+		A/Aichi/125/2008
+		A/Aichi/132/2006
+		A/Aichi/150/2006
+		A/Aichi/16/2008
+		A/Aichi/17/2006
+		A/Aichi/2/2006
+		A/Aichi/27/2007
+		A/Aichi/28/2008
+		A/Aichi/29/2009
+		A/Aichi/37/2009
+		A/Aichi/44/2008
+		A/Aichi/46/2006
+		A/Aichi/60/2007
+		A/Aichi/70/2008
+		A/Aichi/71/2008
+		A/Aichi/74/2008
+		A/Aichi/76/2008
+		A/Aichi/8/2009
+		A/Aichi/83/2007
+		A/Aichi/84/2009
+		A/Aichi/86/2007
+		A/Aichi/9/2009
+		A/Aichi/92/2007
+		A/Aichi/96/2007
+		A/Akita/86/2002
+		A/Alabama/21/2006
+		A/Alabama/22/2006
+		A/Alabama/23/2006
+		A/Alabama/WRAIR1235P/2009
+		A/Alaska/01/2009
+		A/Alaska/02/2008
+		A/Alaska/03/2008
+		A/Alaska/03/2009
+		A/Alaska/11/2003
+		A/Alaska/1173/00
+		A/Andalucia/RR3681/2009
+		A/Anhui/Baohe1514/2008
+		A/Anhui/Baohe186/2007
+		A/Anhui/Luyang171/2008
+		A/Aragon/RR-3207/2008
+		A/Aragon/RR3217/2008
+		A/Aragon/RR3309/2009
+		A/Argentina/110/2008
+		A/Argentina/18/2008
+		A/Argentina/204/2008
+		A/Argentina/284/2008
+		A/Argentina/295/2008
+		A/Argentina/303/2008
+		A/Argentina/307/2008
+		A/Argentina/4152/2008
+		A/Argentina/81/2008
+		A/Argentina/R678/2003
+		A/Arizona/2/2003
+		A/Arizona/6/2003
+		A/Athens/41/2008
+		A/Auckland/16/2007
+		A/Auckland/30/2006
+		A/Auckland/579/2000
+		A/Auckland/580/2000
+		A/Auckland/581/2000
+		A/Auckland/582/2000
+		A/Auckland/584/2000
+		A/Auckland/585/2000
+		A/Auckland/586/2000
+		A/Auckland/587/2000
+		A/Auckland/590/2000
+		A/Auckland/591/2000
+		A/Auckland/595/2000
+		A/Auckland/597/2000
+		A/Auckland/605/2001
+		A/Auckland/606/2001
+		A/Auckland/619/2005
+		A/Auckland/8/2007
+		A/Austria/396325/2007
+		A/Austria/397829/2007
+		A/Austria/399282/2007
+		A/Austria/399864/2007
+		A/Austria/400115/2007
+		A/Austria/400611/2008
+		A/Austria/401520/2008
+		A/Austria/401927/2008
+		A/Austria/402127/2008
+		A/Austria/402129/2008
+		A/Austria/402931/2008
+		A/Austria/402943/2008
+		A/Austria/402944/2008
+		A/Austria/403617/2008
+		A/Austria/403620/2008
+		A/Austria/403625/2008
+		A/Austria/404285/2008
+		A/Austria/404287/2008
+		A/Austria/404340/2008
+		A/Austria/404342/2008
+		A/Austria/404345/2008
+		A/Austria/404577/2008
+		A/Austria/404596/2008
+		A/Austria/404817/2008
+		A/Ayutthaya/1720/2004
+		A/Baden-Wuerttemberg/3/2006
+		A/Baden-Wuerttemberg/4/2006
+		A/Baden-Wuerttemberg/5/2006
+		A/Baleares/RR3205/2008
+		A/Baleares/RR3210/2008
+		A/Baleares/RR3393/2009
+		A/Baleares/RR3418/2009
+		A/Bangkok/1406/2004
+		A/Bangkok/1544/2004
+		A/Bangladesh/0886/2007
+		A/Bangladesh/1009/2008
+		A/Bangladesh/2020/2008
+		A/Bangladesh/2276/2007
+		A/Bangladesh/3003/2008
+		A/Bangladesh/3896/2007
+		A/Bangladesh/5057/2007
+		A/Bangladesh/6023/2007
+		A/Bangladesh/6202/2007
+		A/Bangladesh/6666/2008
+		A/Bangladesh/9067/2008
+		A/Barcelona/00083/2008
+		A/Beijing-Huairou/1117/2008
+		A/Beijing-Xicheng/1278/2008
+		A/Beijing/134/2005
+		A/Beijing/Huairou166/2008
+		A/Beijing/Huairou190/2008
+		A/Beijing/Huairou53/2007
+		A/Beijing/Xicheng1112/2007
+		A/Beijing/Xuanwu1199/2008
+		A/Belem/241/2008
+		A/Belgium/G257/2008
+		A/Berlin/1/2008
+		A/Berlin/13/2006
+		A/Berlin/18/2005
+		A/Berlin/6/2006
+		A/Berlin/60/2005
+		A/Berlin/9/2006
+		A/Bogota/WRAIR0088N/2009
+		A/Boston/23/2009
+		A/Boston/26/2008
+		A/Boston/30/2009
+		A/Boston/36/2009
+		A/Boston/43/2009
+		A/Boston/48/2009
+		A/Boston/59/2009
+		A/Boston/6/2009
+		A/Boston/65/2009
+		A/Boston/70/2009
+		A/Boston/89/2009
+		A/Boston/91/2009
+		A/Brandenburg/1/2006
+		A/Brazil/015/00
+		A/Brazil/099/01
+		A/Brazil/1059/2008
+		A/Brazil/1067/2008
+		A/Brazil/1602/2008
+		A/Brazil/1633/2008
+		A/Brazil/1892/2008
+		A/Brazil/202/2000
+		A/Brazil/2410/2008
+		A/Brazil/504/2006
+		A/Brazil/529/2008
+		A/Brazil/5943/2008
+		A/Bremen/4/2005
+		A/Bremen/5/2005
+		A/Brisbane/1/2008
+		A/Brisbane/1/2009
+		A/Brisbane/10/2009
+		A/Brisbane/11/2009
+		A/Brisbane/12/2009
+		A/Brisbane/13/2009
+		A/Brisbane/193/2004
+		A/Brisbane/265/2005
+		A/Brisbane/270/206
+		A/Brisbane/297/2006
+		A/Brisbane/308/2007
+		A/Brisbane/334/2007
+		A/Brisbane/59/2007
+		A/Bucuresti/134/2008
+		A/Bucuresti/136/2008
+		A/Bucuresti/229/2008
+		A/Bulgaria/155/2008
+		A/Busan/01/2009
+		A/Busan/02/2007
+		A/Busan/03/2007
+		A/Caen/1670/2006
+		A/Caen/1951/2006
+		A/California/02/2007
+		A/California/09/2006
+		A/California/1/2003
+		A/California/10/2006
+		A/California/26/2005
+		A/California/27/2005
+		A/California/UR06-0125/2007
+		A/California/UR06-0440/2007
+		A/California/VRDL151/2009
+		A/California/VRDL153/2009
+		A/California/VRDL202/2009
+		A/California/VRDL220/2009
+		A/California/VRDL224/2009
+		A/California/VRDL252/2009
+		A/California/VRDL258/2009
+		A/California/VRDL281/2009
+		A/Cambodia/0371/2007
+		A/Cambodia/0374/2007
+		A/Cambodia/21/2007
+		A/Cambodia/365/2007
+		A/Cambodia/502/2007
+		A/Cambodia/Q015/2006
+		A/Cambodia/Q024/2006
+		A/Cambodia/Q061/2006
+		A/Cambodia/Q069/2006
+		A/Cambodia/Q210/2006
+		A/Cambodia/Q290/2006
+		A/Cambodia/Q299/2006
+		A/Cambodia/R012/2007
+		A/Cambodia/R024/2007
+		A/Cambodia/R105/2007
+		A/Cambodia/R173/2007
+		A/Cambodia/R174/2007
+		A/Cambodia/R198/2007
+		A/Cambodia/S101/2008
+		A/Cambodia/S105/2008
+		A/Cambodia/S128/2008
+		A/Cambodia/S136/2008
+		A/Cambodia/S169/2008
+		A/Cambodia/S220/2008
+		A/Cambodia/S241/2008
+		A/Canterbury/01/2001
+		A/Canterbury/05/2001
+		A/Canterbury/08/2001
+		A/Canterbury/100/2000
+		A/Canterbury/106/2001
+		A/Canterbury/106/2004
+		A/Canterbury/119/2001
+		A/Canterbury/125/2001
+		A/Canterbury/126/2001
+		A/Canterbury/139/2001
+		A/Canterbury/144/2001
+		A/Canterbury/152/2001
+		A/Canterbury/153/2001
+		A/Canterbury/155/2001
+		A/Canterbury/16/2001
+		A/Canterbury/17/2001
+		A/Canterbury/19/2001
+		A/Canterbury/20/2001
+		A/Canterbury/21/2001
+		A/Canterbury/22/2001
+		A/Canterbury/23/2000
+		A/Canterbury/23/2001
+		A/Canterbury/24/2001
+		A/Canterbury/25/2001
+		A/Canterbury/26/2001
+		A/Canterbury/27/2000
+		A/Canterbury/27/2001
+		A/Canterbury/28/2000
+		A/Canterbury/29/2001
+		A/Canterbury/30/2000
+		A/Canterbury/30/2001
+		A/Canterbury/32/2000
+		A/Canterbury/33/2000
+		A/Canterbury/34/2000
+		A/Canterbury/34/2001
+		A/Canterbury/35/2001
+		A/Canterbury/36/2000
+		A/Canterbury/37/2000
+		A/Canterbury/40/2001
+		A/Canterbury/41/2000
+		A/Canterbury/41/2001
+		A/Canterbury/42/2001
+		A/Canterbury/43/2000
+		A/Canterbury/45/2001
+		A/Canterbury/47/2001
+		A/Canterbury/48/2000
+		A/Canterbury/48/2001
+		A/Canterbury/5/2000
+		A/Canterbury/51/2000
+		A/Canterbury/51/2001
+		A/Canterbury/53/2001
+		A/Canterbury/54/2000
+		A/Canterbury/54/2001
+		A/Canterbury/55/2000
+		A/Canterbury/57/2000
+		A/Canterbury/58/2000
+		A/Canterbury/58/2001
+		A/Canterbury/60/2000
+		A/Canterbury/60/2001
+		A/Canterbury/63/2000
+		A/Canterbury/63/2001
+		A/Canterbury/64/2001
+		A/Canterbury/65/2000
+		A/Canterbury/65/2001
+		A/Canterbury/66/2001
+		A/Canterbury/68/2001
+		A/Canterbury/69/2001
+		A/Canterbury/7/2000
+		A/Canterbury/70/2001
+		A/Canterbury/71/2001
+		A/Canterbury/72/2001
+		A/Canterbury/73/2001
+		A/Canterbury/74/2001
+		A/Canterbury/76/2000
+		A/Canterbury/76/2001
+		A/Canterbury/78/2000
+		A/Canterbury/79/2000
+		A/Canterbury/79/2001
+		A/Canterbury/8/2000
+		A/Canterbury/87/2000
+		A/Canterbury/9/2000
+		A/Canterbury/95/2000
+		A/Chanchamayo/FLU4036/2006
+		A/Chanchamayo/FLU5082/2007
+		A/Charlottesville/6/2001
+		A/Cheju/1025/2005
+		A/Cheju/960/2005
+		A/Chennai/0511133/2005
+		A/Chennai/0511134/2005
+		A/Chennai/0511135/2005
+		A/Chennai/0511136/2005
+		A/Chennai/0511138/2005
+		A/Chennai/0511139/2005
+		A/Chennai/0511140/2005
+		A/Chennai/0511141/2005
+		A/Chennai/0511143/2005
+		A/Chennai/0511144/2005
+		A/Chennai/0511147/2005
+		A/Chennai/0633238/2006
+		A/Chennai/0633240/2006
+		A/Chennai/0633243/2006
+		A/Chennai/0633245/2006
+		A/Chennai/0633247/2006
+		A/Chennai/0633248/2006
+		A/Chennai/0634971/2006
+		A/Chennai/0634972/2006
+		A/Chennai/0634973/2006
+		A/Chennai/0634975/2006
+		A/Chennai/0634978/2006
+		A/Chennai/0634979/2006
+		A/Chennai/0634980/2006
+		A/Chennai/0634981/2006
+		A/Chennai/064160/2005
+		A/Chennai/064161/2005
+		A/Chennai/064163/2005
+		A/Chennai/064164/2005
+		A/Chennai/064167/2005
+		A/Chennai/064181/2006
+		A/Chennai/064182/2006
+		A/Chennai/064183/2006
+		A/Chennai/0642005
+		A/Chennai/0817267/2008
+		A/Chennai/0817304/2008
+		A/Chennai/0817306/2008
+		A/Chennai/0817311/2008
+		A/Chennai/0817312/2008
+		A/Chennai/0817313/2008
+		A/Chennai/091327/2008
+		A/Chennai/091328/2008
+		A/Chennai/091329/2008
+		A/Chennai/091333/2008
+		A/Chennai/092523/2009
+		A/Chennai/092524/2009
+		A/Chennai/79754/2006
+		A/Chile/9848/2002
+		A/Chongqing/928/2005
+		A/Chongqing/968/2005
+		A/Chongqing/970/2005
+		A/Chongqing/975/2005
+		A/Chongqing/977/2005
+		A/Chonnam/07/2002
+		A/Chonnam/18/2002
+		A/Chonnam/19/2002
+		A/Chonnam/51/2002
+		A/Christchurch/106/2004
+		A/Christchurch/20/2008
+		A/Christchurch/62/2007
+		A/Chungbuk/1183/2005
+		A/Chungbuk/4383/2008
+		A/Chungbuk/4448/2008
+		A/Chungbuk/4543/2007
+		A/Chungbuk/50/2002
+		A/Chungnam/1077/2008
+		A/Chungnam/2463/2007
+		A/Chungnam/4547/2007
+		A/Colombia/11730/2008
+		A/Colorado/20/2005
+		A/Colorado/UR06-0496/2007
+		A/Colorado/UR06-0498/2007
+		A/Constanta/114/2008
+		A/Corsica/07/2007
+		A/Coyhaique/10459/2008
+		A/Cusco/WRAIR1730P/2008
+		A/DaNang/DN238/2008
+		A/DaNang/DN302/2008
+		A/DaNang/DN329/2008
+		A/DaNang/DN345/2008
+		A/DaNang/DN365/2008
+		A/DaNang/DN431/2008
+		A/DaNang/DN432/2008
+		A/DaNang/DN467/2008
+		A/Daejeion/1000/2005
+		A/Daejeon/41/2006
+		A/Darwin/2/2008
+		A/Darwin/3/2008
+		A/Darwin/5/2001
+		A/Delhi/0512582/2005
+		A/Delhi/0512583/2005
+		A/Delhi/0512588/2005
+		A/Delhi/0512589/2005
+		A/Delhi/0512590/2005
+		A/Delhi/0612413/2005
+		A/Delhi/0612420/2005
+		A/Delhi/0612427/2006
+		A/Delhi/0635417/2005
+		A/Delhi/0635418/2005
+		A/Delhi/0635424/2006
+		A/Delhi/0635429/2006
+		A/Delhi/0635430/2006
+		A/Delhi/0635432/2006
+		A/Delhi/078743/2007
+		A/Delhi/078744/2007
+		A/Delhi/078746/2007
+		A/Delhi/078747/2007
+		A/Delhi/078748/2007
+		A/Delhi/078749/2007
+		A/Delhi/078750/2007
+		A/Delhi/078751/2007
+		A/Delhi/078756/2007
+		A/Delhi/078758/2007
+		A/Delhi/092609/2009
+		A/Delhi/0942704/2009
+		A/Delhi/0942705/2009
+		A/Delhi/0942738/2009
+		A/Delhi/0942747/2009
+		A/Delhi/0942757/2009
+		A/Delhi/0942758/2009
+		A/Denmark/11/2001
+		A/Denmark/11/2005
+		A/Denmark/110/2005
+		A/Denmark/116/2005
+		A/Denmark/122/2008
+		A/Denmark/15/2004
+		A/Denmark/16/2001
+		A/Denmark/16/2004
+		A/Denmark/17/2004
+		A/Denmark/20/2001
+		A/Denmark/22/2005
+		A/Denmark/22/2007
+		A/Denmark/226/2005
+		A/Denmark/3/2001
+		A/Denmark/3/2005
+		A/Denmark/33/2005
+		A/Denmark/36/2001
+		A/Denmark/40/2000
+		A/Denmark/47/2006
+		A/Denmark/48/2006
+		A/Denmark/49/2006
+		A/Denmark/54/2005
+		A/Denmark/79/2005
+		A/Dibrugarh/0615324/2005
+		A/Dibrugarh/0615325/2005
+		A/Dibrugarh/0615326/2005
+		A/Dibrugarh/0615328/2005
+		A/Dibrugarh/0615329/2005
+		A/Dunedin/2/2000
+		A/Ecuador/10491/2006
+		A/Ecuador/10568/2006
+		A/Ecuador/10807/2006
+		A/Ecuador/10910/2006
+		A/Ecuador/2630/01
+		A/Ecuador/5179/2008
+		A/Ecuador/5961/2008
+		A/Ehime/1/2001
+		A/England/161/02
+		A/England/2005
+		A/England/26/2008
+		A/England/493/2006
+		A/England/494/2006
+		A/England/545/2007
+		A/England/557/2007
+		A/England/593/2006
+		A/England/594/2006
+		A/England/654/2007
+		A/England/684/2007
+		A/EspiritoSanto/131/00
+		A/EspiritoSanto/141/01
+		A/EspiritoSanto/150/00
+		A/EspiritoSanto/39/01
+		A/EspiritoSanto/45/01
+		A/Finland/3/2007
+		A/Finland/4/2007
+		A/Florida/02/2008
+		A/Florida/06/2008
+		A/Florida/08/2006
+		A/Florida/09/2006
+		A/Florida/15/2007
+		A/Florida/18/2008
+		A/Florida/21/2008
+		A/Florida/25/2008
+		A/Florida/3/2004
+		A/Florida/3/2006
+		A/Florida/3e/2004
+		A/Florida/4/2004
+		A/Florida/904/00
+		A/Fujian-Gulou/1292/2009
+		A/Fujian/Gulou1387/2006
+		A/Fukui/1/2001
+		A/Fukuoka/13/2001E
+		A/Fukushima/141/2006
+		A/Gangwon/252/2008
+		A/Gangwon/260/2008
+		A/Gangwon/3157/2007
+		A/Gangwon/4678/2007
+		A/Gangwon/799/2005
+		A/Gansu-Chengguan/1798/2008
+		A/Gansu-Chengguan/1933/2009
+		A/Gansu-Qingshui/31/2008
+		A/Gansu/168/2003
+		A/Gansu/185/2003
+		A/Gansu/57/2005
+		A/Gansu/Chengguan1129/2007
+		A/Gansu/Chengguan1712/2006
+		A/Georgia/05/2008
+		A/Georgia/08/2008
+		A/Georgia/3/2003
+		A/Gifu_C/9/2002
+		A/Greece/204/2001
+		A/Guangdong-Futian/139/2009
+		A/Guangdong-Zhuangzuyaozuzizhi/51/2009
+		A/Guangdong/1001/2009
+		A/Guangdong/1016/2009
+		A/Guangdong/186/2009
+		A/Guangdong/187/2009
+		A/Guangdong/188/2009
+		A/Guangdong/189/2009
+		A/Guangdong/190/2009
+		A/Guangdong/191/2009
+		A/Guangdong/197/2009
+		A/Guangdong/213/2008
+		A/Guangdong/213/2009
+		A/Guangdong/215/2009
+		A/Guangdong/217/2008
+		A/Guangdong/220/2008
+		A/Guangdong/243/2009
+		A/Guangdong/244/2009
+		A/Guangdong/256/2009
+		A/Guangdong/273/2009
+		A/Guangdong/275/2008
+		A/Guangdong/283/2008
+		A/Guangdong/320/2008
+		A/Guangdong/326/2008
+		A/Guangdong/341/2008
+		A/Guangdong/353/2008
+		A/Guangdong/356/2009
+		A/Guangdong/363/2009
+		A/Guangdong/365/2009
+		A/Guangdong/371/2009
+		A/Guangdong/383/2009
+		A/Guangdong/387/2009
+		A/Guangdong/448/2009
+		A/Guangdong/455/2009
+		A/Guangdong/474/2008
+		A/Guangdong/475/2009
+		A/Guangdong/486/2009
+		A/Guangdong/491/2009
+		A/Guangdong/499/2009
+		A/Guangdong/824/2009
+		A/Guangdong/863/2009
+		A/Guangdong/912/2009
+		A/Guangdong/933/2009
+		A/Guangdong/936/2009
+		A/Guangdong/Futian1215/2006
+		A/Guangdong/Gluohu1229/2006
+		A/Guangzhou/1561/2006
+		A/Guangzhou/1684/2006
+		A/Guangzhou/483/2006
+		A/Guangzhou/506/2006
+		A/Guangzhou/555/2006
+		A/Guangzhou/657/2006
+		A/Guangzhou/665/2006
+		A/Guizhou/78/2003
+		A/Gunma/07G002/2008
+		A/Gunma/07G006/2008
+		A/Gunma/08G006/2009
+		A/Guyane/14/2006
+		A/Guyane/31/2007
+		A/Guyane/8190/2008
+		A/Gwangju/4324/2008
+		A/Gwangju/55/2002
+		A/Gwangju/57/2002
+		A/Gwangju/58/2002
+		A/Gwangju/90/2002
+		A/Gwangju/904/2008
+		A/Gyeonggi/4389/2008
+		A/Gyeonggi/966/2005
+		A/Gyeongnam/1890/2008
+		A/Gyeongnam/3062/2007
+		A/Gyeongnam/3074/2007
+		A/Gyeongnam/4408/2008
+		A/Gyeongnam/4409/2008
+		A/Gyeongnam/4504/2007
+		A/Gyeongnam/4516/2007
+		A/Gyeongnam/4517/2007
+		A/Gyeongnam/586/2008
+		A/HaNoi/2017/2001
+		A/HaNoi/2143/2001
+		A/HaNoi/2253/2001
+		A/HaNoi/2476/2001
+		A/HaNoi/2480/2001
+		A/HaNoi/2532/2001
+		A/HaNoi/2546/2002
+		A/HaNoi/2704/2002
+		A/HaNoi/ARI172/2003
+		A/HaNoi/ARI36/2003
+		A/HaNoi/BM857/2003
+		A/HaNoi/BM898/2003
+		A/HaNoi/BM959/2003
+		A/HaNoi/BT241/2008
+		A/HaNoi/HN1004/2003
+		A/HaNoi/HN719/2003
+		A/HaNoi/HN867/2003
+		A/HaNoi/N229/2008
+		A/HaNoi/Q421/2006
+		A/HaNoi/Q555/2006
+		A/HaNoi/Q580/2006
+		A/HaNoi/Q591/2006
+		A/HaNoi/TX200/2008
+		A/HaNoi/TX222/2008
+		A/HaNoi/TX233/2008
+		A/Hamburg/1/2005
+		A/Hannover/71/2001
+		A/Hanoi/1823/2001
+		A/Hanoi/1863/2001
+		A/Hanoi/1873/2002
+		A/Hanoi/188/2002
+		A/Hanoi/1892/2002
+		A/Hanoi/191/2002
+		A/Hanoi/1928/2002
+		A/Hanoi/2006/2002
+		A/Hanoi/BM344/2006
+		A/Hanoi/BM356/2006
+		A/Hanoi/ISBM31/2005
+		A/Hanoi/Q137/2006
+		A/Hanoi/Q177/2006
+		A/Hanoi/TX09/2006
+		A/Hebei-Xinhua/1171/2008
+		A/Hebei/Nanshi1256/2006
+		A/Hebei/Xinshi187/2007
+		A/Hebei/Yuhua111/2007
+		A/Hebei/Yuhua118/2007
+		A/Heilongijang-Jianhua/124/2009
+		A/Heilongjiang-Daoli/187/2008
+		A/Heilongjiang-Daowai/110/2008
+		A/Heilongjiang/Daoli13/2007
+		A/Heilongjiang/Nangang15/2007
+		A/Henan/08/2005
+		A/Hessen/4/2005
+		A/Hiroshima/37/2001
+		A/HoChiMinh/HCM395/2006
+		A/HoChiMinh/HCM526/2006
+		A/HoChiMinh/HCM554/2006
+		A/HoChiMinh/HCM639/2006
+		A/Hokkaido/07H007/2007
+		A/Hokkaido/08H024/2009
+		A/Hong-Kong/128/2008
+		A/Hong-Kong/132/2008
+		A/Hong-Kong/1363/2008
+		A/Hong-Kong/1492/2008
+		A/Hong-Kong/1555/2008
+		A/Hong-Kong/17/2008
+		A/Hong-Kong/175/2008
+		A/Hong-Kong/179/2008
+		A/Hong-Kong/1794/2008
+		A/Hong-Kong/1870/2008
+		A/Hong-Kong/1975/2009
+		A/Hong-Kong/1987/2009
+		A/Hong-Kong/1988/2009
+		A/Hong-Kong/1993/2009
+		A/Hong-Kong/2387/2007
+		A/Hong-Kong/2613/2007
+		A/Hong-Kong/2652/2006
+		A/Hong-Kong/29/2006
+		A/Hong-Kong/31/2006
+		A/Hong-Kong/3195/2008
+		A/Hong-Kong/3212/2008
+		A/Hong-Kong/3216/2008
+		A/Hong-Kong/349/2008
+		A/Hong-Kong/35/2006
+		A/Hong-Kong/36/2008
+		A/Hong-Kong/41/2008
+		A/Hong-Kong/4580/2004
+		A/Hong-Kong/4596/2004
+		A/Hong-Kong/4703/2007
+		A/Hong-Kong/4760/2007
+		A/Hong-Kong/4766/2007
+		A/Hong-Kong/4896/2005
+		A/Hong-Kong/4899/2005
+		A/Hong-Kong/4922/2005
+		A/Hong-Kong/549/2008
+		A/Hong-Kong/690/2008
+		A/Hong-Kong/70/2009
+		A/Hong-Kong/747/2001
+		A/Hong-Kong/84/2009
+		A/Hong-Kong/948/2006
+		A/HongKong/CUHK-13003/2002
+		A/Hong_Kong/H090_682_V1
+		A/Hong_Kong/H090_718_V1
+		A/Hong_Kong/H090_744_V1
+		A/Hong_Kong/H090_766_V1
+		A/Hubei-Wujiagang/133/2009
+		A/Hubei-Wujiagang/138/2009
+		A/Hubei/Shashi33/2006
+		A/Hubeiwujiagang/1143/2006
+		A/Hue/H257/2008
+		A/Hue/H259/2008
+		A/Hue/H274/2008
+		A/Hue/H339/2008
+		A/Hue/H354/2008
+		A/Hue/H386/2008
+		A/Hue/H396/2008
+		A/Hue/H400/2008
+		A/Hue/H409/2008
+		A/Hue/H423/2008
+		A/Hue/H433/2008
+		A/Hue/H436/2008
+		A/Hue/H442/2008
+		A/Hue/H445/2008
+		A/Hue/H485/2008
+		A/Hunan/962/2005
+		A/Hunan/Furong1295/2008
+		A/Hungary/13/2008
+		A/Hyogo/07K030/2007
+		A/Iasi/144/2008
+		A/Iasi/145/2008
+		A/Iceland/57/2001
+		A/Idaho/1/2003
+		A/Idaho/1/2005
+		A/Illinois/01/2006
+		A/Illinois/02/2006
+		A/Illinois/06/2008
+		A/Illinois/10/2007
+		A/Illinois/15/2007
+		A/Illinois/UR06-0146/2007
+		A/Illinois/UR06-0376/2007
+		A/Incheon/1054/2005
+		A/Incheon/150/2006
+		A/Incheon/248/2008
+		A/Incheon/2583/2007
+		A/Incheon/2596/2007
+		A/Incheon/2647/2007
+		A/Incheon/3147/2007
+		A/Incheon/4328/2008
+		A/Incheon/4542/2008
+		A/Incheon/546/2005
+		A/Incheon/613/2005
+		A/Incheon/829/2005
+		A/India/3245/2006
+		A/India/3248/2006
+		A/India/34980/2006
+		A/India/3593/2007
+		A/India/3601/2005
+		A/India/5698/2005
+		A/India/6134/2005
+		A/India/7308/2008
+		A/India/7311/2008
+		A/India/9039/2008
+		A/India/C064166/2005
+		A/India/K076492/2006
+		A/India/P075520/2007
+		A/Indiana/03/2009
+		A/Indiana/08/2006
+		A/Indonesia/0951/2005
+		A/Indonesia/2129/2005
+		A/Indonesia/2389/2006
+		A/Indonesia/3604/2004
+		A/Indonesia/3989/2004
+		A/Indonesia/4505/2004
+		A/Indonesia/5804/2005
+		A/Indonesia/5840/2004
+		A/Indonesia/5841/2004
+		A/Indonesia/8148/2001
+		A/Iowa/02/2006
+		A/Ireland/649/2002
+		A/Iwate/1003/2001
+		A/Iwate/33/2002
+		A/Japan/763/2008
+		A/Japan/775/2003
+		A/Japan/AF07/2008
+		A/Japan/AF1271/2008
+		A/Japan/AF1272/2008
+		A/Japan/AF1273/2008
+		A/Japan/AF1274/2008
+		A/Japan/AF1275/2008
+		A/Japan/AF1276/2008
+		A/Japan/AF1277/2008
+		A/Japan/AF1278/2007
+		A/Japan/AF1279/2007
+		A/Japan/AF1884/2008
+		A/Japan/AF1963/2007
+		A/Japan/WRAIR1054P/2009
+		A/Japan/WRAIR1226P/2009
+		A/Japan/WRAIR1230P/2009
+		A/Jeju/2279/2007
+		A/Jeju/244/2006
+		A/Jeju/2818/2007
+		A/Jeju/2824/2007
+		A/Jeju/2879/2007
+		A/Jeju/2888/2007
+		A/Jeonbuk/1096/2005
+		A/Jeonbuk/1189/2005
+		A/Jeonbuk/2641/2007
+		A/Jeonbuk/444/2005
+		A/Jeonnam/1094/2005
+		A/Jiangxi/1062/2006
+		A/Jiangxi/1085/2006
+		A/Jiangxi/1105/2006
+		A/Jiangxi/114/2005
+		A/Jiangxi/1140/2006
+		A/Jiangxi/1150/2006
+		A/Jiangxi/1163/2006
+		A/Jiangxi/134/2005
+		A/Jiangxi/144/2005
+		A/Jiangxi/160/2005
+		A/Jiangxi/175/2005
+		A/Jiangxi/185/2005
+		A/Jiangxi/272/2006
+		A/Jiangxi/330/2005
+		A/Jiangxi/595/2006
+		A/Jiangxi/678/2005
+		A/Jiangxi/680/2005
+		A/Jiangxi/711/2005
+		A/Jiangxi/748/2005
+		A/Jiangxi/8/2006
+		A/Jiangxi/94/2006
+		A/Jiangxi/955/2006
+		A/Jiangxi/Anyi51/2006
+		A/Jilin-Chaoyang/157/2009
+		A/Jilin-Chuanying/1318/2008
+		A/Jilin-Nanguan/1107/2008
+		A/Jilin/Chaoyang1108/2007
+		A/Jilin/Chaoyang1188/2008
+		A/Jilin/Chaoyang1258/2008
+		A/Jilin/Chuanying1181/2006
+		A/Jilin/Zhenlai177/2007
+		A/Jilin/Zhenlai190/2007
+		A/Juliaca/FLU3969/2006
+		A/KOL/2086/2009
+		A/KOL/2172/2009
+		A/KOL/2218/2009
+		A/KOL/2336/2009
+		A/KOL/2419/2009
+		A/KOL/2449/2009
+		A/Kagawa/243/2001
+		A/Kagawa/8/2000
+		A/Kagawa/83/2000
+		A/Kangwon/848/2005
+		A/Kawasaki/173/2001
+		A/Kawasaki/UTK_4/2009
+		A/Kentucky/04/2009
+		A/Kentucky/1/2005
+		A/Kentucky/2/2005
+		A/Kentucky/9/2005
+		A/Kentucky/9e/2005
+		A/Kentucky/UR06-0007/2006
+		A/Kentucky/UR06-0010/2006
+		A/Kentucky/UR06-0057/2007
+		A/Kentucky/UR06-0069/2007
+		A/Kentucky/UR06-0128/2007
+		A/Kentucky/UR06-0183/2007
+		A/Kentucky/UR06-0401/2007
+		A/Kentucky/UR06-0449/2007
+		A/KhanhHoa/KH161/2008
+		A/KhanhHoa/KH321/2008
+		A/KhanhHoa/KH38/2008
+		A/KhanhHoa/KH57/2008
+		A/Kiev/245/2008
+		A/Kiev/313/2008
+		A/Kiev/49/2008
+		A/Kitakyusyu/793/2001
+		A/Kolkata/1002/2007
+		A/Kolkata/1061/2007
+		A/Kolkata/578/2006
+		A/Kolkata/604/2006
+		A/Kolkata/918/2007
+		A/Kolkata/919/2007
+		A/Kolkata/929/2007
+		A/Kolkata/943/2007
+		A/Kolkata/951/2007
+		A/Kolkata/959/2007
+		A/Kolkata/975/2007
+		A/Kolkata/990/2007
+		A/Kolkutta/0713755/2007
+		A/Kolkutta/0713756/2007
+		A/Kolkutta/0713757/2007
+		A/Kolkutta/0713758/2007
+		A/Kolkutta/0713759/2007
+		A/Kolkutta/0713760/2007
+		A/Kolkutta/0713761/2007
+		A/Kolkutta/0713762/2007
+		A/Kolkutta/0713763/2007
+		A/Kolkutta/0713764/2007
+		A/Kolkutta/0713766/2007
+		A/Kolkutta/0713767/2007
+		A/Kolkutta/0713768/2007
+		A/Kolkutta/0713775/2007
+		A/Kolkutta/0713777/2007
+		A/Kolkutta/0713779/2007
+		A/Kolkutta/072134/2006
+		A/Kolkutta/072137/2006
+		A/Kolkutta/072140/2006
+		A/Kolkutta/072144/2006
+		A/Kolkutta/072145/2006
+		A/Kolkutta/072146/2006
+		A/Kolkutta/072147/2006
+		A/Kolkutta/072148/2006
+		A/Kolkutta/0762006
+		A/Kolkutta/0951719/2009
+		A/Kolkutta/0951720/2009
+		A/Kolkutta/0951721/2009
+		A/Kolkutta/713781/2007
+		A/Korea/122/2009
+		A/Korea/269/2008
+		A/Korea/38/2005
+		A/Korea/6612/2007
+		A/Korea/7721/2008
+		A/Korea/94/2009
+		A/Korea/AF1304/2008
+		A/Korea/AF1305/2008
+		A/Korea/AF1306/2008
+		A/Korea/AF1307/2008
+		A/Korea/AF1308/2008
+		A/Korea/AF1309/2007
+		A/Korea/AF1310/2007
+		A/Korea/AF1311/2007
+		A/Korea/AF1312/2007
+		A/Korea/AF1898/2008
+		A/Korea/AF1899/2008
+		A/Korea/AF1951/2008
+		A/Kyoto/07K303/2008
+		A/Kyoto/07K316/2008
+		A/Kyoto/07K454/2008
+		A/Kyoto/08K056/2009
+		A/Kyoto_C/3/2002
+		A/Latvia/1-938/2008
+		A/Latvia/16678/2007
+		A/Latvia/2524/2001
+		A/Liaoning-Heping/1103/2008
+		A/Liaoning-Huanggu/1144/2009
+		A/Liaoning/Huanggu1183/2007
+		A/Liaoning/Xigang135/2007
+		A/Liaoning/Xigang149/2007
+		A/Lima/FLU5370/2007
+		A/Lima/FLU5378/2007
+		A/Lisbon/3/2008
+		A/LongAn/HCM504/2006
+		A/LongAn/HCM665/2006
+		A/Luhansk/18/2008
+		A/Lyon/1249/2007
+		A/Lyon/1337/2007
+		A/Lyon/1350/2007
+		A/Lyon/1364/2007
+		A/Lyon/1388/2007
+		A/Lyon/99/2005
+		A/Macau/10258/2006
+		A/Macau/122/2005
+		A/Macau/13076/2006
+		A/Macau/14585/2006
+		A/Macau/1468/2008
+		A/Macau/1796/2008
+		A/Macau/189/2007
+		A/Macau/227/2005
+		A/Macau/229/2008
+		A/Macau/382/2008
+		A/Macau/406/2008
+		A/Madrid/1082/2001
+		A/Madrid/1216/2002
+		A/Malaysia/1003/2003
+		A/Malaysia/1076/2008
+		A/Malaysia/1513/2004
+		A/Malaysia/1652509/2006
+		A/Malaysia/1686034/2006
+		A/Malaysia/1702/2008
+		A/Malaysia/1706215/2007
+		A/Malaysia/1715991/2007
+		A/Malaysia/1718249/2007
+		A/Malaysia/1718958/2007
+		A/Malaysia/1758994/2007
+		A/Malaysia/1788397/2007
+		A/Malaysia/1794173/2007
+		A/Malaysia/1798564/2007
+		A/Malaysia/1811552/2007
+		A/Malaysia/1823766/2007
+		A/Malaysia/1828663/2007
+		A/Malaysia/1842338/2007
+		A/Malaysia/1882831/2007
+		A/Malaysia/1887206/2007
+		A/Malaysia/1999752/2008
+		A/Malaysia/2089302/2009
+		A/Malaysia/2095797/2008
+		A/Malaysia/2104192/2008
+		A/Malaysia/213/2008
+		A/Malaysia/2132379/2008
+		A/Malaysia/2143035/2009
+		A/Malaysia/2155235/2009
+		A/Malaysia/2156486/2009
+		A/Malaysia/25531/2003
+		A/Malaysia/25750/2003
+		A/Malaysia/25862/2003
+		A/Malaysia/30025/2004
+		A/Malaysia/32110/2005
+		A/Malaysia/32151/2005
+		A/Malaysia/32217/2005
+		A/Malaysia/330/2007
+		A/Malaysia/33132/2005
+		A/Malaysia/33166/2005
+		A/Malaysia/34291/2006
+		A/Malaysia/34450/2006
+		A/Malaysia/35164/2006
+		A/Malaysia/35405/2006
+		A/Malaysia/36/2006
+		A/Malaysia/37/2006
+		A/Malaysia/38/2006
+		A/Malaysia/56/2006
+		A/Malaysia/643/2003
+		A/Malaysia/687/2003
+		A/Malaysia/862/2007
+		A/Malaysia/88/2004
+		A/Maldonado/FLU5857/2007
+		A/Maracay/FLA1228/2008
+		A/Maracay/FLA2650/2008
+		A/Maracay/FLA4341/2008
+		A/Maracay/FLA4342/2008
+		A/Maracay/WRAIR1729P/2008
+		A/Maryland/05/2008
+		A/Maryland/1/2006
+		A/Massachusetts/07/2006
+		A/Massachusetts/12/2008
+		A/Massachussetts/9/2005
+		A/Medellin/WRAIR1297P/2008
+		A/Memphis/07/2008
+		A/Memphis/1/2001
+		A/Memphis/13/2006
+		A/Memphis/15/2000
+		A/Memphis/6/2001
+		A/Memphis/6/2003
+		A/Memphis/7/2001
+		A/Memphis/8/2001
+		A/Michigan/05/2008
+		A/Michigan/1/2003
+		A/Michigan/10/2008
+		A/Michigan/4/2003
+		A/Michigan/5/2003
+		A/Michigan/6/2003
+		A/Michigan/UR06-0015/2006
+		A/Mie/1/2001
+		A/Milan/01/2008
+		A/Milan/02/2008
+		A/Milan/03/2006
+		A/Milan/03/2008
+		A/Milan/05/2007
+		A/Milan/06/2008
+		A/Milan/10/2006
+		A/Milan/10/2007
+		A/Milan/16/2007
+		A/Milan/17/2007
+		A/Milan/19/2007
+		A/Milan/25/2007
+		A/Milan/26/2007
+		A/Milan/27/2007
+		A/Minnesota/17/2006
+		A/Minnesota/18/2003
+		A/Minnesota/23/2007
+		A/Minnesota/33/2008
+		A/Misawa/1226/00
+		A/Mississippi/02/2006
+		A/Mississippi/1/2003
+		A/Mississippi/UR06-0014/2006
+		A/Mississippi/UR06-0145/2007
+		A/Missouri/06/2008
+		A/Miyagi/4/2000
+		A/Morioka/1/2005
+		A/Morioka/17/2002
+		A/Morioka/21/2005
+		A/Morioka/27/2002
+		A/Morioka/3/2005
+		A/Morioka/4/2005
+		A/Morioka/5/2005
+		A/Morioka/7/2005
+		A/NL/365/2007
+		A/Nagano/1101/2001
+		A/Nagasaki/07N005/2008
+		A/Nagasaki/07N011/2008
+		A/Nagasaki/07N020/2008
+		A/Nagasaki/07N035/2008
+		A/Nagasaki/08N006/2009
+		A/Naghpur/0712120/2007
+		A/Naghpur/0712124/2007
+		A/Naghpur/0712125/2007
+		A/Naghpur/0712131/2007
+		A/Naghpur/075662/2007
+		A/Nagoya/16/2000
+		A/Nagoya/26/2001
+		A/Nagoya/32/2002
+		A/Nara/13/2001
+		A/Nara/41/2002
+		A/Navarra/RR3389/2009
+		A/Nebraska/01/2008
+		A/Nebraska/01/2009
+		A/Nebraska/07/2008
+		A/Nebraska/2/2003
+		A/Nebraska/4/2003
+		A/Neimenggu-Huimin/1172/2008
+		A/Neimenggu-Saihan/177/2008
+		A/Neimenggu/Huimin129/2007
+		A/Neimenggu/Kundulun11/2007
+		A/Nepal/4606/2007
+		A/Nepal/4715/2007
+		A/Netherlands/05/2005
+		A/Netherlands/26/2007
+		A/Netherlands/345/2007
+		A/Nevada/1/2003
+		A/New-Caledonia/09/2004
+		A/New-Caledonia/2/2008
+		A/New-Caledonia/6/2008
+		A/New-Caledonia/9/2004
+		A/New-Hampshire/1/2005
+		A/New-Jersey/03/2008
+		A/New-Jersey/04/2006
+		A/New-Jersey/04/2008
+		A/New-Jersey/09/2008
+		A/New-Jersey/10/2005
+		A/New-Jersey/10/2008
+		A/New-Jersey/11/2005
+		A/New-Jersey/3/2003
+		A/New-Jersey/30/2008
+		A/New-Jersey/313/00
+		A/New-Jersey/32/2008
+		A/New-Jersey/WRAIR1120P/2009
+		A/New-South-Wales/26/2000
+		A/New-South-Wales/30/2000
+		A/New-York/01/2009
+		A/New-York/1/2003
+		A/New-York/205/2001
+		A/New-York/208/2001
+		A/New-York/212/2001
+		A/New-York/220/2002
+		A/New-York/221/2003
+		A/New-York/222/2003
+		A/New-York/223/2003
+		A/New-York/227/2003
+		A/New-York/228/2003
+		A/New-York/230/2003
+		A/New-York/233/2000
+		A/New-York/234/2000
+		A/New-York/235/2001
+		A/New-York/239/2001
+		A/New-York/24/2003
+		A/New-York/24/2006
+		A/New-York/241/2001
+		A/New-York/242/2001
+		A/New-York/246/2001
+		A/New-York/25/2006
+		A/New-York/26/2006
+		A/New-York/281/2001
+		A/New-York/291/2002
+		A/New-York/292/2003
+		A/New-York/293/2003
+		A/New-York/302/2001
+		A/New-York/303/2001
+		A/New-York/305/2001
+		A/New-York/306/2001
+		A/New-York/308/2001
+		A/New-York/309/2001
+		A/New-York/310/2001
+		A/New-York/312/2001
+		A/New-York/341/2001
+		A/New-York/342/2001
+		A/New-York/343/2001
+		A/New-York/344/2001
+		A/New-York/345/2001
+		A/New-York/346/2001
+		A/New-York/348/2003
+		A/New-York/350/2003
+		A/New-York/399/2003
+		A/New-York/4/2006
+		A/New-York/441/2001
+		A/New-York/442/2001
+		A/New-York/443/2001
+		A/New-York/444/2001
+		A/New-York/445/2001
+		A/New-York/446/2001
+		A/New-York/447/2001
+		A/New-York/483/2003
+		A/New-York/484/2003
+		A/New-York/486/2003
+		A/New-York/488/2003
+		A/New-York/493/2003
+		A/New-York/494/2002
+		A/New-York/496/2003
+		A/New-York/497/2003
+		A/New-York/UR06-0134/2007
+		A/New_Caledonia/V77245/2007
+		A/New_York/08_1253/2008
+		A/New_York/3150/2009
+		A/New_York/3768/2009
+		A/New_York/8/2006
+		A/Niedersachsen/191/2005
+		A/Niedersachsen/192/2005
+		A/Niedersachsen/202/2005
+		A/Niedersachsen/217/2005
+		A/Niedersachsen/218/2005
+		A/Niedersachsen/4/2006
+		A/Niedersachsen/5/2006
+		A/Niigata/07F102/2008
+		A/Niigata/07F125/2008
+		A/Niigata/07F191/2008
+		A/Niigata/08F031/2009
+		A/Niigata/08F093/2009
+		A/Niigata/08F188/2009
+		A/Niigata/2756/2000
+		A/Niigata/F95/2007
+		A/Ningbo/125/2007
+		A/Ningbo/1465/2005
+		A/Ningbo/18/2002
+		A/Ningbo/348/2005
+		A/Ningbo/514/2005
+		A/Ningbo/772/2008
+		A/Ningbo/777/2008
+		A/Ningbo/787/2008
+		A/Ningbo/802/2006
+		A/Ningbo/845/2006
+		A/Ningxia-Xingqing/1266/2008
+		A/Nonthaburi/1739/2004
+		A/Nordrhein-Westfalen/6/2005
+		A/North-Carolina/02/2008
+		A/North-Carolina/02/2009
+		A/North-Carolina/03/2009
+		A/North-Carolina/05/2008
+		A/North-Carolina/10/2006
+		A/North-Carolina/3/2003
+		A/North-Carolina/UR06-0011/2006
+		A/North-Dakota/01/2008
+		A/North-Dakota/03/2009
+		A/Norway/1261/2007
+		A/Norway/1629/2007
+		A/Norway/1630/2007
+		A/Norway/1651/2007
+		A/Norway/166/2008
+		A/Norway/167/2008
+		A/Norway/168/2008
+		A/Norway/1684/2007
+		A/Norway/1687/2007
+		A/Norway/169/2008
+		A/Norway/1701/2007
+		A/Norway/1703/2007
+		A/Norway/171/2008
+		A/Norway/1729/2007
+		A/Norway/1730/2007
+		A/Norway/1731/2007
+		A/Norway/1735/2007
+		A/Norway/1736/2007
+		A/Norway/1739/2007
+		A/Norway/1743/2007
+		A/Norway/1745/2007
+		A/Norway/1747/2007
+		A/Norway/1758/2007
+		A/Norway/181/2008
+		A/Norway/199/2008
+		A/Norway/2159/2006
+		A/Norway/243/2008
+		A/Norway/256/2008
+		A/Norway/30/2008
+		A/Norway/365/2008
+		A/Norway/38/2008
+		A/Norway/478/2008
+		A/Norway/50/2008
+		A/Norway/76/2008
+		A/Norway/805/2006
+		A/Nyiregyhaza/01/2007
+		A/Ohio/01/2009
+		A/Ohio/04/2006
+		A/Ohio/05/2006
+		A/Ohio/06/2009
+		A/Ohio/UR06-0178/2007
+		A/Ohio/UR06-0325/2007
+		A/Ohio/UR06-0341/2007
+		A/Ohio/UR06-0394/2007
+		A/Ohio/UR06-0465/2007
+		A/Ohio/UR06-0518/2007
+		A/Okayama/33/2001
+		A/Okayama/4/2001
+		A/Okinawa/159/2000
+		A/Okinawa/18/2001
+		A/Okinawa/225/2002
+		A/Okinawa/51/2000
+		A/Oklahoma/02/2008
+		A/Oklahoma/1108/2008
+		A/Oklahoma/1138/2009
+		A/Oklahoma/5132/2006
+		A/Oklahoma/7/2005
+		A/Oklahoma/V5S/2009
+		A/Oregon/07/2007
+		A/Oregon/UR06-0185/2007
+		A/Osaka/972/2000
+		A/Oslo/1019/2001
+		A/Oslo/1061/2001
+		A/Oslo/1167/2001
+		A/Oslo/1261/2001
+		A/Oslo/1512/2001
+		A/Oslo/1581/01
+		A/Oslo/1584/01
+		A/Oslo/1587/2001
+		A/Oslo/2289/2001
+		A/Oslo/2292/2001
+		A/Oslo/2298/2001
+		A/Oslo/341/2001
+		A/Oslo/483/2001
+		A/Oslo/598/2001
+		A/Oslo/739/2001
+		A/Oslo/7649/2000
+		A/Oslo/7701/2000
+		A/Oslo/7709/2000
+		A/Oslo/791/2001
+		A/Oslo/826/2001
+		A/Oslo/847/2001
+		A/Oslo/866/2001
+		A/Oslo/868/2001
+		A/Oslo/869/2001
+		A/Oslo/971/2001
+		A/Otago/5/2005
+		A/PaisVasco/RR3174/2008
+		A/PaisVasco/RR3343/2009
+		A/PaisVasco/RR3344/2009
+		A/PaisVasco/RR3427/2009
+		A/Pandharpur/20055169/2005
+		A/Pandharpur/20055180/2005
+		A/Pandharpur/20055182/2005
+		A/Pandharpur/20055194/2005
+		A/Pandharpur/20055200/2005
+		A/Paraguay/076/2005
+		A/Paraguay/085/2005
+		A/Paraguay/323/2006
+		A/Paris/1093/2009
+		A/Paris/1694/01
+		A/Paris/1704/2009
+		A/Paris/194/2007
+		A/Paris/2149/2006
+		A/Paris/2207/2006
+		A/Paris/286/2007
+		A/Paris/341/2007
+		A/Paris/438/2007
+		A/Paris/497/2007
+		A/Paris/546/2007
+		A/Paris/577/2007
+		A/Paris/6/2007
+		A/Paris/611/2007
+		A/Paris/644/2007
+		A/Paris/650/2004
+		A/Paris/658/2007
+		A/Paris/692/2007
+		A/Paris/749/2007
+		A/Paris/814/2007
+		A/Paris/847/2007
+		A/Paris/910/2007
+		A/Parma/34/2008
+		A/Pennsylvania/01/2009
+		A/Pennsylvania/02/2008
+		A/Pennsylvania/08/2006
+		A/Pennsylvania/12/2008
+		A/Pennsylvania/3/2006
+		A/Perth/07/2006
+		A/Perth/1/2007
+		A/Perth/1/2009
+		A/Perth/200/2008
+		A/Perth/205/2008
+		A/Perth/207/2008
+		A/Perth/33/2008
+		A/Perth/46/2008
+		A/Perth/73/2007
+		A/Perth/81/2008
+		A/Perth/84/2008
+		A/Peru/1169/2007
+		A/Peru/2223/2003
+		A/Peru/3119/2003
+		A/Peru/3135/2003
+		A/Peru/3192/2003
+		A/Peru/3632/2003
+		A/Peru/3909/2008
+		A/Peru/5007/2008
+		A/Peru/WRAIR1295P/2007
+		A/Peru/WRAIR1296P/2007
+		A/Peru/WRAIR1298P/2007
+		A/Peru/WRAIR1299P/2007
+		A/Peru/WRAIR1300P/2007
+		A/Peru/WRAIR1310P/2007
+		A/Peru/WRAIR1311P/2007
+		A/Peru/WRAIR1376P/2007
+		A/Peru/WRAIR1377P/2007
+		A/Peru/WRAIR1378P/2007
+		A/Peru/WRAIR1505P/2007
+		A/Peru/WRAIR1509P/2007
+		A/Philippines/1159/2008
+		A/Philippines/1279/2006
+		A/Philippines/1392/2006
+		A/Philippines/15/2009
+		A/Philippines/1619/2007
+		A/Philippines/3150/2007
+		A/Philippines/3914/2008
+		A/Philippines/3983/2008
+		A/Philippines/4004/2008
+		A/Philippines/604/2006
+		A/Philippines/624/2006
+		A/Philippines/673/2006
+		A/Philippines/905/2006
+		A/Philippines/906/2006
+		A/Philippines/936/2004
+		A/Philippines/987/2004
+		A/Philippines/WRAIR1736P/2006
+		A/Piura/FLU4177/2006
+		A/Piura/FLU5516/2007
+		A/Piura/FLU5528/2007
+		A/Piura/WRAIR1699P/2008
+		A/Piura/WRAIR1700P/2009
+		A/Piura/WRAIR1708P/2009
+		A/Podgorica/4011/2001
+		A/Poitiers/2168/2003
+		A/Prachinburi/1817/2004
+		A/Pucallpa/FLU4323/2006
+		A/Pucallpa/FLU4335/2006
+		A/Pucallpa/FLU4812/2006
+		A/Pucallpa/WRAIR1704P/2009
+		A/Pucallpa/WRAIR1709P/2009
+		A/Pune/053601/2005
+		A/Pune/054093/2005
+		A/Pune/054096/2005
+		A/Pune/054277/2005
+		A/Pune/055169/2005
+		A/Pune/055180/2005
+		A/Pune/055182/2005
+		A/Pune/055194/2005
+		A/Pune/055200/2005
+		A/Pune/055210/2005
+		A/Pune/055301/2005
+		A/Pune/055698/2005
+		A/Pune/056134/2005
+		A/Pune/0614627/2006
+		A/Pune/0617488/2006
+		A/Pune/0618948/2006
+		A/Pune/0622633/2006
+		A/Pune/0622634/2006
+		A/Pune/073593/2007
+		A/Pune/076063/2007
+		A/Pune/076067/2007
+		A/Pune/076068/2007
+		A/Pune/076095/2007
+		A/Pune/076123/2007
+		A/Pune/076124/2007
+		A/Pune/076185/2007
+		A/Pune/076266/2007
+		A/Pune/076285/2007
+		A/Pune/076289/2007
+		A/Pune/076290/2007
+		A/Pune/076523/2007
+		A/Pune/076524/2007
+		A/Pune/077141/2007
+		A/Pune/077142/2007
+		A/Pune/077143/2007
+		A/Pune/077592/2007
+		A/Pune/077596/2007
+		A/Pune/078653/2007
+		A/Pune/078654/2007
+		A/Pune/0913414/2009
+		A/Pune/092377/2009
+		A/Pune/092406/2009
+		A/Puno/FLU4315/2006
+		A/Puno/FLU4316/2006
+		A/Pusan/22/2002
+		A/Pusan/23/2002
+		A/Pusan/24/2002
+		A/Pusan/44/2002
+		A/Pusan/45/2002
+		A/Pusan/46/2002
+		A/Pusan/47/2002
+		A/Quito/FLU5162/2007
+		A/Ratchaburi/1847/2004
+		A/Rheinland-Pfalz/1/2006
+		A/Rheinland-Pfalz/58/2005
+		A/Rhode-Island/1/2003
+		A/Ribeirao-Preto/1885/2006
+		A/RioGdoSul/358/02
+		A/RiodeJaneiro/20/00
+		A/RiodeJaneiro/21/00
+		A/RiodeJaneiro/404/01
+		A/Romania/390/2005
+		A/Romania/493/2005
+		A/Romania/605/2005
+		A/Romania/953/2003
+		A/Sachsen/14/2005
+		A/Sakaew/2132/2004
+		A/Santa_Cruz/WRAIR1706P/2008
+		A/Santiago/1412/2008
+		A/Santiago/4689/2008
+		A/Santiago/5087/2008
+		A/Santiago/5248/2008
+		A/Santiago/5250/2008
+		A/Santiago/5580/2008
+		A/Santiago/5593/2008
+		A/Santiago/6892/2008
+		A/Sapporo/174/2000
+		A/Sapporo/186/2002
+		A/Scotland/1/2004
+		A/Scotland/1/2006
+		A/Scotland/2/2004
+		A/Scotland/5/2007
+		A/Scotland/60380622/2006
+		A/Seoul/11/2002
+		A/Seoul/13/2002
+		A/Seoul/15/2002
+		A/Seoul/33/2002
+		A/Seoul/4437/2008
+		A/Shandong/Lixia159/2008
+		A/Shanghai/LWS1/2009
+		A/Shanghai/N23/2008
+		A/Shanghai/N24/2008
+		A/Shanghai/N25/2008
+		A/Shanghai/N26/2008
+		A/Shanghai/N27/2008
+		A/Shanghai/N28/2008
+		A/Shanghai/N29/2008
+		A/Shanghai/N30/2008
+		A/Shanghai/N31/2008
+		A/Shanghai/N32/2008
+		A/Shanghai/N33/2008
+		A/Shanghai/N34/2008
+		A/Shanghai/N35/2008
+		A/Shanghai/N36/2008
+		A/Shanghai/N37/2008
+		A/Shanghai/Nanhui1156/2008
+		A/Shanghai/Nanhui1167/2008
+		A/Shannxi-Beilin/1264/2008
+		A/Shantou/92/2009
+		A/Shanxi-Beilin/196/2009
+		A/Shanxi/Beilin1134/2008
+		A/Shanxi/Weicheng157/2008
+		A/Shenzhen/141/2005
+		A/Shenzhen/168/2005
+		A/Shenzhen/86/2005
+		A/Shiga/12/2002
+		A/Shiga/16/2001E
+		A/Shizuoka/761/2000
+		A/Sichuan-Jinyang/2226/2008
+		A/Sichuan/644/2002
+		A/Sichuan/Dongqu193/2006
+		A/Sichuan/Jianwei37/2006
+		A/Singapore/07/2009
+		A/Singapore/10/2008
+		A/Singapore/103/2006
+		A/Singapore/104/2008
+		A/Singapore/107/2005
+		A/Singapore/14/2004
+		A/Singapore/201/2008
+		A/Singapore/224/2008
+		A/Singapore/227/2008
+		A/Singapore/228/2008
+		A/Singapore/23/2004
+		A/Singapore/36/2006
+		A/Singapore/36/2007
+		A/Singapore/39/2008
+		A/Singapore/41/2006
+		A/Singapore/42/2008
+		A/Singapore/43/2007
+		A/Singapore/46/2007
+		A/Singapore/54/2006
+		A/Singapore/58/2006
+		A/Singapore/600/2008
+		A/Singapore/609/2008
+		A/Singapore/613/2008
+		A/Singapore/62/2004
+		A/Singapore/63/2007
+		A/Singapore/66/2006
+		A/Singapore/69/2006
+		A/Singapore/70/2006
+		A/Singapore/72/2006
+		A/Singapore/73/2006
+		A/Singapore/92/2005
+		A/Singapore/GP101/2009
+		A/Slovenia/123/2008
+		A/Slovenia/131/2008
+		A/Solomon-Islands/03/2006
+		A/Solomon-Islands/3/2006
+		A/South-Australia/1/2008
+		A/South-Australia/423//2007
+		A/South-Australia/51/2005
+		A/South-Australia/55/2005
+		A/South-Canterbury/15/2001
+		A/South-Canterbury/159/2001
+		A/South-Canterbury/31/2000
+		A/South-Canterbury/35/2000
+		A/South-Canterbury/40/2000
+		A/South-Canterbury/50/2000
+		A/South-Canterbury/59/2000
+		A/South-Carolina/WRAIR1112P/2009
+		A/South-Dakota/02/2008
+		A/South-Dakota/02/2009
+		A/South-Dakota/03/2007
+		A/South-Dakota/06/2007
+		A/South-Korea/AF10/2008
+		A/South_Australia/4/2008
+		A/South_Australia/56/2005
+		A/South_Australia/57/2005
+		A/South_Australia/58/2005
+		A/South_Korea/WRAIR1238P/2009
+		A/Sri-Lanka/22/2007
+		A/Stockholm/1/2009
+		A/Stockholm/18/2007
+		A/Stockholm/22/2008
+		A/Stockholm/28/2008
+		A/Stockholm/29/2008
+		A/Stockholm/30/2008
+		A/Stockholm/4/2009
+		A/Stockholm/46/2009
+		A/Stockholm/5/2009
+		A/Stockholm/6/2008
+		A/Stockholm/6/2009
+		A/Stockholm/7/2009
+		A/Stockholm/8/2009
+		A/Sullana/FLU4635/2006
+		A/Sullana/FLU5305/2007
+		A/Sullana/WRAIR1707P/2009
+		A/Suphanburi/2129/2004
+		A/Sweden/1/2009
+		A/Sweden/10/2008
+		A/Sweden/8/2008
+		A/Switzerland/5684/2001
+		A/Switzerland/5773/2001
+		A/Sydney/10/2008
+		A/Sydney/11/2008
+		A/Sydney/12/2008
+		A/Sydney/14/2008
+		A/Sydney/142/2007
+		A/Sydney/15/2008
+		A/Sydney/16/2008
+		A/Sydney/549/2005
+		A/Sydney/550/2005
+		A/Sydney/581/2007
+		A/Sydney/601/2009
+		A/Sydney/605/2009
+		A/Sydney/65/2005
+		A/Sydney/7/2008
+		A/Sydney/9/2008
+		A/Taiwan/0045/2006
+		A/Taiwan/0258/2008
+		A/Taiwan/0586/2006
+		A/Taiwan/10092/2007
+		A/Taiwan/10103/2008
+		A/Taiwan/1026/2009
+		A/Taiwan/10393/2005
+		A/Taiwan/11526/2008
+		A/Taiwan/123/2002
+		A/Taiwan/141/2002
+		A/Taiwan/1559/2004
+		A/Taiwan/1571/2004
+		A/Taiwan/1574/2004
+		A/Taiwan/161/2006
+		A/Taiwan/192/2006
+		A/Taiwan/2645/2006
+		A/Taiwan/2823/2008
+		A/Taiwan/2832/2008
+		A/Taiwan/2885/2008
+		A/Taiwan/2900/2006
+		A/Taiwan/2985/2002
+		A/Taiwan/308/2007
+		A/Taiwan/3293/2008
+		A/Taiwan/3700/2007
+		A/Taiwan/375/2008
+		A/Taiwan/378/2007
+		A/Taiwan/392/2008
+		A/Taiwan/401/2008
+		A/Taiwan/42/2006
+		A/Taiwan/421/2006
+		A/Taiwan/433/2009
+		A/Taiwan/50/2005
+		A/Taiwan/52/2002
+		A/Taiwan/54/2005
+		A/Taiwan/544/2008
+		A/Taiwan/5505/2006
+		A/Taiwan/5515/2005
+		A/Taiwan/5524/2005
+		A/Taiwan/567/2002
+		A/Taiwan/5857/2008
+		A/Taiwan/5858/2008
+		A/Taiwan/602/2005
+		A/Taiwan/603/2005
+		A/Taiwan/606/2008
+		A/Taiwan/637/2008
+		A/Taiwan/638/2008
+		A/Taiwan/639/2008
+		A/Taiwan/648/2008
+		A/Taiwan/6566/2006
+		A/Taiwan/6723/2008
+		A/Taiwan/70013/2008
+		A/Taiwan/70126/2006
+		A/Taiwan/70132/2008
+		A/Taiwan/70167/2008
+		A/Taiwan/71720/2007
+		A/Taiwan/782/2007
+		A/Taiwan/785/2006
+		A/Taiwan/820/2007
+		A/Taiwan/835/2007
+		A/Taiwan/8885/2008
+		A/Taiwan/8949/2008
+		A/Taiwan/9042/2008
+		A/Taiwan/N510/2008
+		A/Taiwan/N86/2006
+		A/TayNguyen/TN161/2006
+		A/TayNguyen/TN178/2006
+		A/TayNguyen/TN182/2006
+		A/TayNguyen/TN334/2005
+		A/TayNguyen/TN371/2005
+		A/TayNinh/HCM1329/2008
+		A/Tennessee/09/2009
+		A/Tennessee/11/2008
+		A/Tennessee/UR06-0106/2007
+		A/Tennessee/UR06-0151/2007
+		A/Tennessee/UR06-0234/2007
+		A/Tennessee/UR06-0236/2007
+		A/Texas/01/2009
+		A/Texas/05/2007
+		A/Texas/08/2008
+		A/Texas/09/2008
+		A/Texas/1/2003
+		A/Texas/15/2008
+		A/Texas/16/2008
+		A/Texas/18/2003
+		A/Texas/18/2008
+		A/Texas/23/2008
+		A/Texas/25/2006
+		A/Texas/32/2008
+		A/Texas/38/2009
+		A/Texas/78/2007
+		A/Texas/UR06-0012/2006
+		A/Texas/UR06-0203/2007
+		A/Texas/UR06-0342/2007
+		A/Texas/UR06-0461/2007
+		A/Texas/UR06-0502/2007
+		A/Texas/WRAIR1115P/2009
+		A/ThaiBinh/TB289/2008
+		A/Thailand/1026/2008
+		A/Thailand/1035/2008
+		A/Thailand/1037/2008
+		A/Thailand/1577/2007
+		A/Thailand/28/2005
+		A/Thailand/337/2006
+		A/Thailand/358/2008
+		A/Thailand/364/2006
+		A/Thailand/375/2008
+		A/Thailand/380/2006
+		A/Thailand/380/2008
+		A/Thailand/381/2008
+		A/Thailand/39/2008
+		A/Thailand/391/2006
+		A/Thailand/395/2006
+		A/Thailand/398/2006
+		A/Thailand/401/2006
+		A/Thailand/404/2006
+		A/Thailand/424/2006
+		A/Thailand/427/2008
+		A/Thailand/486/2007
+		A/Thailand/500/2007
+		A/Thailand/501/2007
+		A/Thailand/545/2007
+		A/Thailand/580/2006
+		A/Thailand/63/2005
+		A/Thailand/674/2006
+		A/Thailand/676/2006
+		A/Thailand/677/2006
+		A/Thailand/689/2006
+		A/Thailand/708/2006
+		A/Thailand/711/2007
+		A/Thailand/717/2006
+		A/Thailand/718/2006
+		A/Thailand/76/2006
+		A/Thailand/767/2007
+		A/Thailand/777/2007
+		A/Thailand/778/2007
+		A/Thailand/798/2006
+		A/Thailand/81/2005
+		A/Thailand/874/2008
+		A/Thailand/933/2008
+		A/Thailand/CU32/2006
+		A/Thailand/CU44/2006
+		A/Thailand/CU57/2006
+		A/Thailand/CU67/2006
+		A/Thailand/CU68/2006
+		A/Thailand/CU75/2006
+		A/Thailand/CU88/2006
+		A/Thailand/CU_B267/2009
+		A/Thailand/CU_B42/2009
+		A/Thailand/CU_B589/2009
+		A/Thailand/CU_B685/2009
+		A/Thailand/CU_B97/2009
+		A/Thailand/CU_H17/2009
+		A/Thailand/CU_H223/2009
+		A/Thailand/CU_H565/2009
+		A/Thailand/Siriraj-07/2000
+		A/Thailand/Siriraj_3043/2009
+		A/Thailand/Siriraj_Rama_TT/2004
+		A/Thessalonika/24/2005
+		A/Thueringen/40/2005
+		A/Tianjin-Jinnan/12/2009
+		A/Tianjin/15/2009
+		A/Tianjin/27/2005
+		A/Tianjin/452/2005
+		A/Tianjin/Hongqiao1120/2008
+		A/Tianjin/Hongqiao113/2007
+		A/Tianjin/Hongqiao115/2008
+		A/Tianjin/Hongqiao14/2007
+		A/Tianjin/Jinnan1158/2008
+		A/Tianjin/Jinnan123/2007
+		A/Tianjin/Nankai1245/2006
+		A/Tokushima/3/2002
+		A/Tottori/08T010/2008
+		A/Tottori/52/2008
+		A/Toulouse/1401/2007
+		A/Townsville/1/2009
+		A/Trieste/16/2008
+		A/Trieste/21/2001
+		A/Trujillo/WRAIR1701P/2008
+		A/Tumbes/AST310/2006
+		A/Tumbes/AST444/2007
+		A/Tumbes/AST451/2007
+		A/Tumbes/FLU4943/2006
+		A/Tumbes/FST100/2007
+		A/Ukraine/362/2008
+		A/Ukraine/373/2008
+		A/Ukraine/377/2008
+		A/Ukraine/387/2008
+		A/Ulsan/752/2005
+		A/Umea/1/2000
+		A/Uruguay/03/2008
+		A/Uruguay/07/2008
+		A/Uruguay/08/2008
+		A/Uruguay/22/2008
+		A/Uruguay/34/2008
+		A/Valparaiso/514/2007
+		A/Valparaiso/5366/2008
+		A/Valparaiso/5370/2008
+		A/Venezuela/3571/2008
+		A/Vermont/UR06-0035/2007
+		A/Vermont/UR06-0485/2007
+		A/Vermont/UR06-0511/2007
+		A/Vermont/UR06-0576/2007
+		A/Victoria/07159220/2007
+		A/Victoria/124/2005
+		A/Victoria/500/2006
+		A/Victoria/501/2007
+		A/Victoria/501/2008
+		A/Victoria/504/2005
+		A/Vienna/414/2007
+		A/Vietnam/100/2008
+		A/Vietnam/160/2008
+		A/Vietnam/233/2008
+		A/Vietnam/241/2008
+		A/Vietnam/289/2008
+		A/Vietnam/4212/2008
+		A/Virginia/20/2003
+		A/Virginia/4/2005
+		A/Virginia/UR06-0107/2007
+		A/Virginia/UR06-0117/2007
+		A/Waikato/01/2007
+		A/Waikato/10/2001
+		A/Waikato/11/2005
+		A/Waikato/13/2005
+		A/Waikato/14/2005
+		A/Waikato/16/2001
+		A/Waikato/17/2005
+		A/Waikato/18/2000
+		A/Waikato/18/2001
+		A/Waikato/19/2000
+		A/Waikato/20/2001
+		A/Waikato/3/2001
+		A/Waikato/4/2001
+		A/Waikato/4/2005
+		A/Waikato/42/2001
+		A/Waikato/51/2001
+		A/Waikato/7/2001
+		A/Waikato/80/2001
+		A/Waikato/92/2001
+		A/Wellington/1/2001
+		A/Wellington/10/2005
+		A/Wellington/11/2000
+		A/Wellington/11/2005
+		A/Wellington/12/2005
+		A/Wellington/13/2005
+		A/Wellington/14/2000
+		A/Wellington/14/2005
+		A/Wellington/16/2000
+		A/Wellington/17/2001
+		A/Wellington/18/2000
+		A/Wellington/2/2000
+		A/Wellington/24/2000
+		A/Wellington/28/2001
+		A/Wellington/3/2000
+		A/Wellington/3/2001
+		A/Wellington/32/2001
+		A/Wellington/4/2000
+		A/Wellington/5/2000
+		A/Wellington/6/2000
+		A/Wellington/7/2000
+		A/Wellington/75/2006
+		A/Wellington/9/2001
+		A/West-Coast/31/2001
+		A/West-Coast/33/2001
+		A/Western-Australia/18/2001
+		A/Western-Australia/19/2001
+		A/Western-Australia/20/2001
+		A/Western-Australia/21/2001
+		A/Western-Australia/22/2001
+		A/Western-Australia/77/2005
+		A/Wisconsin/01/2008
+		A/Wisconsin/02/2009
+		A/Wisconsin/14/2009
+		A/Wisconsin/16/2008
+		A/Wisconsin/24/2006
+		A/Wisconsin/25/2003
+		A/Wisconsin/37/2006
+		A/Wisconsin/47/2006
+		A/Wisconsin/48/2006
+		A/Wisconsin/49/2006
+		A/Wisconsin/51/2006
+		A/Wisconsin/52/2006
+		A/Wisconsin/53/2006
+		A/Wisconsin/54/2006
+		A/Wisconsin/58/2006
+		A/Wisconsin/73/2005
+		A/Wuhan/293/2005
+		A/Wuhan/300/2005
+		A/Wyoming/14/2003
+		A/Wyoming/4/2003
+		A/Yamagata/1/2008
+		A/Yamagata/10/2009
+		A/Yamagata/12/2008
+		A/Yamagata/120/2008
+		A/Yamagata/125/2008
+		A/Yamagata/126/2008
+		A/Yamagata/128/2008
+		A/Yamagata/13/2008
+		A/Yamagata/133/2008
+		A/Yamagata/137/2008
+		A/Yamagata/16/2009
+		A/Yamagata/162/2000
+		A/Yamagata/20/2009
+		A/Yamagata/26/2009
+		A/Yamagata/29/2009
+		A/Yamagata/36/2009
+		A/Yamagata/39/2008
+		A/Yamagata/45/2009
+		A/Yamagata/48/2009
+		A/Yamagata/50/2008
+		A/Yamagata/51/2009
+		A/Yamagata/53/2009
+		A/Yamagata/55/2009
+		A/Yamagata/57/2009
+		A/Yamagata/61/2009
+		A/Yamagata/63/2008
+		A/Yamagata/66/2008
+		A/Yamagata/67/2008
+		A/Yamagata/68/2008
+		A/Yamagata/69/2008
+		A/Yamagata/71/2008
+		A/Yamagata/74/2008
+		A/Yamagata/76/2009
+		A/Yamagata/77/2009
+		A/Yamagata/80/2009
+		A/Yamagata/81/2008
+		A/Yamaguchi/12/2002
+		A/Yamanashi/1/2002
+		A/Yokohama/12/2000
+		A/Yokohama/62/2002
+		A/Yokohama/78/2008
+		A/Yuelu/314/2009
+		A/Yunnan/477/2005
+		A/Yunnan/Mengzi1441/2008
+		A/Yurimaguas/FLU4416/2006
+		A/Yurimaguas/FLU4785/2006
+		A/Zagreb/1982/2008
+		A/Zhuhai/080/2008
+		A/Zhuhai/119/2006
+		A/Zhuhai/159/2008
+		A/Zhuhai/292/2006
+		A/Zhuhai/621/2008
+		A/Zhuhai/659/2008
+		A/Zhuhai/753/2008
+		A/Zhuhai/790/2008
+		A/Zhuhai/891/2008
+		A/taiwan/650/2008
+		ANHUI-HEFEI-BAOHE/1351/2009
+		ANHUI-HEFEI-BAOHE/1392/2009
+		ANHUI-HEFEI-BAOHE/1613/2008
+		ANHUI-HEFEI-LUYANG/1434/2009
+		BEIJING-CHAOYANG/11263/2009
+		BEIJING-CHAOYANG/11405/2009
+		BEIJING-CHAOYANG/1583/2010
+		BEIJING-CHAOYANG/1792/2009
+		BEIJING-HUAIROU/14/2009
+		BEIJING-XICHENG/1124/2009
+		BEIJING-XICHENG/12/2009
+		BEIJING-XICHENG/124/2009
+		BEIJING-XICHENG/1266/2008
+		BEIJING-XICHENG/185/2009
+		BEIJING-XUANWU/1166/2008
+		FUJIAN-FUZHOU-GULOU/11254/2008
+		FUJIAN-FUZHOU-GULOU/1333/2009
+		FUJIAN-FUZHOU-GULOU/1547/2009
+		FUJIAN-LONGYAN-SHANGHANG/523/2009
+		FUJIAN-NANPING-YANPING/1206/2009
+		FUJIAN-NANPING-YANPING/28/2009
+		FUJIAN-PUTIAN-XIANYOU/1164/2008
+		FUJIAN-QUANZHOU-SHISHI/51/2009
+		FUJIAN-XIAMEN-SIMING/144/2009
+		GANSU-LANZHOU-CHENGGUAN/1759/2008
+		GANSU-LANZHOU-CHENGGUAN/1820/2008
+		GANSU-LANZHOU-CHENGGUAN/1837/2008
+		GANSU-LANZHOU-CHENGGUAN/1856/2008
+		GANSU-LANZHOU/121/2009
+		GANSU-LONGNAN-XIHE/33/2008
+		GUANGDONG-MAOMING-MAONAN/51/2009
+		GUANGDONG-SHENZHEN-FUTIAN/174/2009
+		GUANGDONG-SHENZHEN-LUOHU/1151/2009
+		GUANGDONG-YUNFU-YUNCHENG/1193/2009
+		GUANGDONG-YUNFU-YUNCHENG/1944/2009
+		GUANGXI-NANNING-LONGAN/313/2009
+		GUANGXI-NANNING-QINGXIU/1161/2008
+		GUANGXI-NANNING-QINGXIU/195/2009
+		HEBEI-BAODING-XINSHI/117/2009
+		HEBEI-SHIJIAZHUANG-LUQUAN/510/2009
+		HEILONGJIANG-HARBIN-DAOLI/112/2009
+		HEILONGJIANG-HARBIN-NANGANG/1110/2009
+		HEILONGJIANG-HARBIN-XIANGFANG/16/2009
+		HEILONGJIANG-HARBIN-XIANGFANG/169/2009
+		HEILONGJIANG-MUDANJIANG-HAILIN/15/2009
+		HEILONGJIANG-MUDANJIANG-LONGSHA/16/2009
+		HENAN-LUOYANG-XIGONG/18/2009
+		HENAN-ZHENGZHOU-JINSHUI/125/2009
+		HENAN-ZHENGZHOU-JINSHUI/51/2009
+		HENAN-ZHENGZHOU-ZHONGYUAN/111/2009
+		HENAN-ZHENGZHOU-ZHONGYUAN/1454/2010
+		HUBEI-SHIYAN-YUN/331/2009
+		HUBEI-WUHAN-JIANGAN/117/2009
+		HUBEI-WUHAN-JIANGAN/1316/2008
+		HUBEI-WUHAN-JIANGAN/1317/2008
+		HUBEI-WUHAN-JIANGAN/1321/2008
+		HUBEI-WUHAN-JIANGAN/1329/2008
+		HUBEI-WUHAN-JIANGAN/1332/2008
+		HUBEI-XIANGFAN-XIANGCHENG/312/2009
+		HUBEI-YICHANG-WUJIAGANG/138/2009
+		HUBEI-YICHANG-WUJIAGANG/1410/2008
+		HUBEI-YICHANG-YIDU/314/2009
+		HUNAN-CHANGDE-WULING/1120/2009
+		HUNAN-CHANGSHA-FURONG/1118/2009
+		HUNAN-CHANGSHA-FURONG/112/2009
+		HUNAN-CHANGSHA-FURONG/1280/2008
+		HUNAN-CHANGSHA-YUELU/310/2009
+		HUNAN-CHANGSHA-YUELU/32/2009
+		HUNAN-CHANGSHA-YUELU/37/2009
+		HUNAN-CHENZHOU-BEIHU/1237/2009
+		HUNAN-HENGYANG-LEIYANG/32/2008
+		HUNAN-HENGYANG-LEIYANG/39/2009
+		HUNAN-YUEYANG-YUEYANGLOU/317/2009
+		HUNAN-ZHUZHOU-LUSONG/1198/2009
+		JIANGSU-NANJING-GULOU/11/2009
+		JIANGSU-NANJING-GULOU/110/2009
+		JIANGSU-NANJING-QINHUAI/127/2008
+		JIANGSU-NANJING-XIAGUAN/1365/2008
+		JIANGSU-XUZHOU-QUANSHAN/195/2008
+		JIANGSU-XUZHOU-QUANSHAN/377/2009
+		JIANGXI-GANZHOU-ZHANGGONG/118/2009
+		JIANGXI-GANZHOU-ZHANGGONG/1218/2009
+		JIANGXI-YICHUN-YUANZHOU/1119/2009
+		JIANGXI-YICHUN-YUANZHOU/11218/2009
+		JIANGXI-YICHUN-YUANZHOU/14/2009
+		JILIN-CHANGCHUN-CHAOYANG/111/2009
+		JILIN-CHANGCHUN-CHAOYANG/1188/2008
+		JILIN-CHANGCHUN-CHAOYANG/1258/2008
+		JILIN-CHANGCHUN-CHAOYANG/1295/2008
+		JILIN-JILIN-CHUANYING/121/2009
+		JILIN-JILIN-CHUANYING/163/2009
+		JILIN-JILIN-CHUANYING/18/2009
+		LIAONING-BENXI-MINGSHAN/1254/2009
+		LIAONING-DANDONG-DONGGANG/120/2010
+		LIAONING-DANDONG-ZHENXING/1117/2009
+		LIAONING-DANDONG-ZHENXING/1686/2010
+		LIAONING-DANDONG-ZHENXING/175/2009
+		LIAONING-LIAOYANG-TIEDONG/14/2009
+		NINGXIA-GUYUAN-YUANZHOU/168/2008
+		NINGXIA-SHIZUISHAN-DAWUKOU/186/2008
+		NINGXIA-SHIZUISHAN-PINGLUO/51/2008
+		NINGXIA-YINCHUAN-XINGQING/233/2009
+		NINGXIA-ZHONGWEI-ZHONGNING/17/2009
+		SHAANXI-XIAN-BEILIN/1383/2008
+		SHANDONG-JINAN-HUAIYIN/11/2009
+		SHANDONG-JINAN-HUAIYIN/1106/2009
+		SHANDONG-JINAN-HUAIYIN/148/2009
+		SHANDONG-JINAN-HUAIYIN/162/2009
+		SHANDONG-JINAN-HUAIYIN/19/2009
+		SHANDONG-JINAN-LIXIA/1109/2008
+		SHANDONG-JINAN-LIXIA/1112/2008
+		SHANDONG-JINAN-LIXIA/1113/2008
+		SHANDONG-JINAN-LIXIA/113/2009
+		SHANDONG-JINAN-LIXIA/12/2009
+		SHANDONG-JINAN-LIXIA/13/2009
+		SHANDONG-JINAN-LIXIA/197/2008
+		SHANDONG-TAIAN-TAISHAN/126/2009
+		SHANDONG-TAIAN-TAISHAN/449/2009
+		SHANGHAI-NANHUI/111/2009
+		SHANGHAI-NANHUI/1115/2008
+		SHANGHAI-NANHUI/1203/2008
+		SHANGHAI-NANHUI/1203/2009
+		SHANGHAI-PUDONG-XIN/2115/2008
+		SHANGHAI-PUDONG-XIN/217/2009
+		SHANXI-JINZHONG-TAIGU/118/2009
+		SHANXI-TAIYUAN-CHENGQU/1261/2008
+		SICHUAN-CHENGDU-WUHOU/51/2009
+		SICHUAN-PANZHIHUA-EAST/1827/2009
+		SICHUAN-PANZHIHUA-EAST/1836/2009
+		SICHUAN-PANZHIHUA-WEST/325/2009
+		SICHUAN-ZIYANG-ANYUE/154/2009
+		TIANJIN-HEDONG/119/2009
+		TIANJIN-HEDONG/1191/2008
+		TIANJIN-HEDONG/1192/2008
+		TIANJIN-HEXI/1125/2008
+		TIANJIN-HEXI/121/2009
+		TIANJIN-HONGQIAO/1120/2008
+		TIANJIN-HONGQIAO/19/2009
+		TIANJIN-JINNAN/15/2009
+		XINJIANG-CHANGJI-HUI-HUTUBI/11/2009
+		XINJIANG-CHANGJI/110/2009
+		YUNNAN-KUNMING-WUHUA/327/2009
+		YUNNAN-KUNMING-XISHAN/188/2008
+		ZHEJIANG-LISHUI-LIANDU/1339/2009
+		ZHEJIANG-ZHOUSHAN-HAISHU/1632/2008
+		ZHEJIANG-ZHOUSHAN-HAISHU/1633/2008
+		;
+End;
+
+Begin trees;
+	Translate
+		1 A/Aichi/100/2007,
+		2 A/Aichi/103/2006,
+		3 A/Aichi/11/2006,
+		4 A/Aichi/11/2008,
+		5 A/Aichi/111/2006,
+		6 A/Aichi/125/2008,
+		7 A/Aichi/132/2006,
+		8 A/Aichi/150/2006,
+		9 A/Aichi/16/2008,
+		10 A/Aichi/17/2006,
+		11 A/Aichi/2/2006,
+		12 A/Aichi/27/2007,
+		13 A/Aichi/28/2008,
+		14 A/Aichi/29/2009,
+		15 A/Aichi/37/2009,
+		16 A/Aichi/44/2008,
+		17 A/Aichi/46/2006,
+		18 A/Aichi/60/2007,
+		19 A/Aichi/70/2008,
+		20 A/Aichi/71/2008,
+		21 A/Aichi/74/2008,
+		22 A/Aichi/76/2008,
+		23 A/Aichi/8/2009,
+		24 A/Aichi/83/2007,
+		25 A/Aichi/84/2009,
+		26 A/Aichi/86/2007,
+		27 A/Aichi/9/2009,
+		28 A/Aichi/92/2007,
+		29 A/Aichi/96/2007,
+		30 A/Akita/86/2002,
+		31 A/Alabama/21/2006,
+		32 A/Alabama/22/2006,
+		33 A/Alabama/23/2006,
+		34 A/Alabama/WRAIR1235P/2009,
+		35 A/Alaska/01/2009,
+		36 A/Alaska/02/2008,
+		37 A/Alaska/03/2008,
+		38 A/Alaska/03/2009,
+		39 A/Alaska/11/2003,
+		40 A/Alaska/1173/00,
+		41 A/Andalucia/RR3681/2009,
+		42 A/Anhui/Baohe1514/2008,
+		43 A/Anhui/Baohe186/2007,
+		44 A/Anhui/Luyang171/2008,
+		45 A/Aragon/RR-3207/2008,
+		46 A/Aragon/RR3217/2008,
+		47 A/Aragon/RR3309/2009,
+		48 A/Argentina/110/2008,
+		49 A/Argentina/18/2008,
+		50 A/Argentina/204/2008,
+		51 A/Argentina/284/2008,
+		52 A/Argentina/295/2008,
+		53 A/Argentina/303/2008,
+		54 A/Argentina/307/2008,
+		55 A/Argentina/4152/2008,
+		56 A/Argentina/81/2008,
+		57 A/Argentina/R678/2003,
+		58 A/Arizona/2/2003,
+		59 A/Arizona/6/2003,
+		60 A/Athens/41/2008,
+		61 A/Auckland/16/2007,
+		62 A/Auckland/30/2006,
+		63 A/Auckland/579/2000,
+		64 A/Auckland/580/2000,
+		65 A/Auckland/581/2000,
+		66 A/Auckland/582/2000,
+		67 A/Auckland/584/2000,
+		68 A/Auckland/585/2000,
+		69 A/Auckland/586/2000,
+		70 A/Auckland/587/2000,
+		71 A/Auckland/590/2000,
+		72 A/Auckland/591/2000,
+		73 A/Auckland/595/2000,
+		74 A/Auckland/597/2000,
+		75 A/Auckland/605/2001,
+		76 A/Auckland/606/2001,
+		77 A/Auckland/619/2005,
+		78 A/Auckland/8/2007,
+		79 A/Austria/396325/2007,
+		80 A/Austria/397829/2007,
+		81 A/Austria/399282/2007,
+		82 A/Austria/399864/2007,
+		83 A/Austria/400115/2007,
+		84 A/Austria/400611/2008,
+		85 A/Austria/401520/2008,
+		86 A/Austria/401927/2008,
+		87 A/Austria/402127/2008,
+		88 A/Austria/402129/2008,
+		89 A/Austria/402931/2008,
+		90 A/Austria/402943/2008,
+		91 A/Austria/402944/2008,
+		92 A/Austria/403617/2008,
+		93 A/Austria/403620/2008,
+		94 A/Austria/403625/2008,
+		95 A/Austria/404285/2008,
+		96 A/Austria/404287/2008,
+		97 A/Austria/404340/2008,
+		98 A/Austria/404342/2008,
+		99 A/Austria/404345/2008,
+		100 A/Austria/404577/2008,
+		101 A/Austria/404596/2008,
+		102 A/Austria/404817/2008,
+		103 A/Ayutthaya/1720/2004,
+		104 A/Baden-Wuerttemberg/3/2006,
+		105 A/Baden-Wuerttemberg/4/2006,
+		106 A/Baden-Wuerttemberg/5/2006,
+		107 A/Baleares/RR3205/2008,
+		108 A/Baleares/RR3210/2008,
+		109 A/Baleares/RR3393/2009,
+		110 A/Baleares/RR3418/2009,
+		111 A/Bangkok/1406/2004,
+		112 A/Bangkok/1544/2004,
+		113 A/Bangladesh/0886/2007,
+		114 A/Bangladesh/1009/2008,
+		115 A/Bangladesh/2020/2008,
+		116 A/Bangladesh/2276/2007,
+		117 A/Bangladesh/3003/2008,
+		118 A/Bangladesh/3896/2007,
+		119 A/Bangladesh/5057/2007,
+		120 A/Bangladesh/6023/2007,
+		121 A/Bangladesh/6202/2007,
+		122 A/Bangladesh/6666/2008,
+		123 A/Bangladesh/9067/2008,
+		124 A/Barcelona/00083/2008,
+		125 A/Beijing-Huairou/1117/2008,
+		126 A/Beijing-Xicheng/1278/2008,
+		127 A/Beijing/134/2005,
+		128 A/Beijing/Huairou166/2008,
+		129 A/Beijing/Huairou190/2008,
+		130 A/Beijing/Huairou53/2007,
+		131 A/Beijing/Xicheng1112/2007,
+		132 A/Beijing/Xuanwu1199/2008,
+		133 A/Belem/241/2008,
+		134 A/Belgium/G257/2008,
+		135 A/Berlin/1/2008,
+		136 A/Berlin/13/2006,
+		137 A/Berlin/18/2005,
+		138 A/Berlin/6/2006,
+		139 A/Berlin/60/2005,
+		140 A/Berlin/9/2006,
+		141 A/Bogota/WRAIR0088N/2009,
+		142 A/Boston/23/2009,
+		143 A/Boston/26/2008,
+		144 A/Boston/30/2009,
+		145 A/Boston/36/2009,
+		146 A/Boston/43/2009,
+		147 A/Boston/48/2009,
+		148 A/Boston/59/2009,
+		149 A/Boston/6/2009,
+		150 A/Boston/65/2009,
+		151 A/Boston/70/2009,
+		152 A/Boston/89/2009,
+		153 A/Boston/91/2009,
+		154 A/Brandenburg/1/2006,
+		155 A/Brazil/015/00,
+		156 A/Brazil/099/01,
+		157 A/Brazil/1059/2008,
+		158 A/Brazil/1067/2008,
+		159 A/Brazil/1602/2008,
+		160 A/Brazil/1633/2008,
+		161 A/Brazil/1892/2008,
+		162 A/Brazil/202/2000,
+		163 A/Brazil/2410/2008,
+		164 A/Brazil/504/2006,
+		165 A/Brazil/529/2008,
+		166 A/Brazil/5943/2008,
+		167 A/Bremen/4/2005,
+		168 A/Bremen/5/2005,
+		169 A/Brisbane/1/2008,
+		170 A/Brisbane/1/2009,
+		171 A/Brisbane/10/2009,
+		172 A/Brisbane/11/2009,
+		173 A/Brisbane/12/2009,
+		174 A/Brisbane/13/2009,
+		175 A/Brisbane/193/2004,
+		176 A/Brisbane/265/2005,
+		177 A/Brisbane/270/206,
+		178 A/Brisbane/297/2006,
+		179 A/Brisbane/308/2007,
+		180 A/Brisbane/334/2007,
+		181 A/Brisbane/59/2007,
+		182 A/Bucuresti/134/2008,
+		183 A/Bucuresti/136/2008,
+		184 A/Bucuresti/229/2008,
+		185 A/Bulgaria/155/2008,
+		186 A/Busan/01/2009,
+		187 A/Busan/02/2007,
+		188 A/Busan/03/2007,
+		189 A/Caen/1670/2006,
+		190 A/Caen/1951/2006,
+		191 A/California/02/2007,
+		192 A/California/09/2006,
+		193 A/California/1/2003,
+		194 A/California/10/2006,
+		195 A/California/26/2005,
+		196 A/California/27/2005,
+		197 A/California/UR06-0125/2007,
+		198 A/California/UR06-0440/2007,
+		199 A/California/VRDL151/2009,
+		200 A/California/VRDL153/2009,
+		201 A/California/VRDL202/2009,
+		202 A/California/VRDL220/2009,
+		203 A/California/VRDL224/2009,
+		204 A/California/VRDL252/2009,
+		205 A/California/VRDL258/2009,
+		206 A/California/VRDL281/2009,
+		207 A/Cambodia/0371/2007,
+		208 A/Cambodia/0374/2007,
+		209 A/Cambodia/21/2007,
+		210 A/Cambodia/365/2007,
+		211 A/Cambodia/502/2007,
+		212 A/Cambodia/Q015/2006,
+		213 A/Cambodia/Q024/2006,
+		214 A/Cambodia/Q061/2006,
+		215 A/Cambodia/Q069/2006,
+		216 A/Cambodia/Q210/2006,
+		217 A/Cambodia/Q290/2006,
+		218 A/Cambodia/Q299/2006,
+		219 A/Cambodia/R012/2007,
+		220 A/Cambodia/R024/2007,
+		221 A/Cambodia/R105/2007,
+		222 A/Cambodia/R173/2007,
+		223 A/Cambodia/R174/2007,
+		224 A/Cambodia/R198/2007,
+		225 A/Cambodia/S101/2008,
+		226 A/Cambodia/S105/2008,
+		227 A/Cambodia/S128/2008,
+		228 A/Cambodia/S136/2008,
+		229 A/Cambodia/S169/2008,
+		230 A/Cambodia/S220/2008,
+		231 A/Cambodia/S241/2008,
+		232 A/Canterbury/01/2001,
+		233 A/Canterbury/05/2001,
+		234 A/Canterbury/08/2001,
+		235 A/Canterbury/100/2000,
+		236 A/Canterbury/106/2001,
+		237 A/Canterbury/106/2004,
+		238 A/Canterbury/119/2001,
+		239 A/Canterbury/125/2001,
+		240 A/Canterbury/126/2001,
+		241 A/Canterbury/139/2001,
+		242 A/Canterbury/144/2001,
+		243 A/Canterbury/152/2001,
+		244 A/Canterbury/153/2001,
+		245 A/Canterbury/155/2001,
+		246 A/Canterbury/16/2001,
+		247 A/Canterbury/17/2001,
+		248 A/Canterbury/19/2001,
+		249 A/Canterbury/20/2001,
+		250 A/Canterbury/21/2001,
+		251 A/Canterbury/22/2001,
+		252 A/Canterbury/23/2000,
+		253 A/Canterbury/23/2001,
+		254 A/Canterbury/24/2001,
+		255 A/Canterbury/25/2001,
+		256 A/Canterbury/26/2001,
+		257 A/Canterbury/27/2000,
+		258 A/Canterbury/27/2001,
+		259 A/Canterbury/28/2000,
+		260 A/Canterbury/29/2001,
+		261 A/Canterbury/30/2000,
+		262 A/Canterbury/30/2001,
+		263 A/Canterbury/32/2000,
+		264 A/Canterbury/33/2000,
+		265 A/Canterbury/34/2000,
+		266 A/Canterbury/34/2001,
+		267 A/Canterbury/35/2001,
+		268 A/Canterbury/36/2000,
+		269 A/Canterbury/37/2000,
+		270 A/Canterbury/40/2001,
+		271 A/Canterbury/41/2000,
+		272 A/Canterbury/41/2001,
+		273 A/Canterbury/42/2001,
+		274 A/Canterbury/43/2000,
+		275 A/Canterbury/45/2001,
+		276 A/Canterbury/47/2001,
+		277 A/Canterbury/48/2000,
+		278 A/Canterbury/48/2001,
+		279 A/Canterbury/5/2000,
+		280 A/Canterbury/51/2000,
+		281 A/Canterbury/51/2001,
+		282 A/Canterbury/53/2001,
+		283 A/Canterbury/54/2000,
+		284 A/Canterbury/54/2001,
+		285 A/Canterbury/55/2000,
+		286 A/Canterbury/57/2000,
+		287 A/Canterbury/58/2000,
+		288 A/Canterbury/58/2001,
+		289 A/Canterbury/60/2000,
+		290 A/Canterbury/60/2001,
+		291 A/Canterbury/63/2000,
+		292 A/Canterbury/63/2001,
+		293 A/Canterbury/64/2001,
+		294 A/Canterbury/65/2000,
+		295 A/Canterbury/65/2001,
+		296 A/Canterbury/66/2001,
+		297 A/Canterbury/68/2001,
+		298 A/Canterbury/69/2001,
+		299 A/Canterbury/7/2000,
+		300 A/Canterbury/70/2001,
+		301 A/Canterbury/71/2001,
+		302 A/Canterbury/72/2001,
+		303 A/Canterbury/73/2001,
+		304 A/Canterbury/74/2001,
+		305 A/Canterbury/76/2000,
+		306 A/Canterbury/76/2001,
+		307 A/Canterbury/78/2000,
+		308 A/Canterbury/79/2000,
+		309 A/Canterbury/79/2001,
+		310 A/Canterbury/8/2000,
+		311 A/Canterbury/87/2000,
+		312 A/Canterbury/9/2000,
+		313 A/Canterbury/95/2000,
+		314 A/Chanchamayo/FLU4036/2006,
+		315 A/Chanchamayo/FLU5082/2007,
+		316 A/Charlottesville/6/2001,
+		317 A/Cheju/1025/2005,
+		318 A/Cheju/960/2005,
+		319 A/Chennai/0511133/2005,
+		320 A/Chennai/0511134/2005,
+		321 A/Chennai/0511135/2005,
+		322 A/Chennai/0511136/2005,
+		323 A/Chennai/0511138/2005,
+		324 A/Chennai/0511139/2005,
+		325 A/Chennai/0511140/2005,
+		326 A/Chennai/0511141/2005,
+		327 A/Chennai/0511143/2005,
+		328 A/Chennai/0511144/2005,
+		329 A/Chennai/0511147/2005,
+		330 A/Chennai/0633238/2006,
+		331 A/Chennai/0633240/2006,
+		332 A/Chennai/0633243/2006,
+		333 A/Chennai/0633245/2006,
+		334 A/Chennai/0633247/2006,
+		335 A/Chennai/0633248/2006,
+		336 A/Chennai/0634971/2006,
+		337 A/Chennai/0634972/2006,
+		338 A/Chennai/0634973/2006,
+		339 A/Chennai/0634975/2006,
+		340 A/Chennai/0634978/2006,
+		341 A/Chennai/0634979/2006,
+		342 A/Chennai/0634980/2006,
+		343 A/Chennai/0634981/2006,
+		344 A/Chennai/064160/2005,
+		345 A/Chennai/064161/2005,
+		346 A/Chennai/064163/2005,
+		347 A/Chennai/064164/2005,
+		348 A/Chennai/064167/2005,
+		349 A/Chennai/064181/2006,
+		350 A/Chennai/064182/2006,
+		351 A/Chennai/064183/2006,
+		352 A/Chennai/0642005,
+		353 A/Chennai/0817267/2008,
+		354 A/Chennai/0817304/2008,
+		355 A/Chennai/0817306/2008,
+		356 A/Chennai/0817311/2008,
+		357 A/Chennai/0817312/2008,
+		358 A/Chennai/0817313/2008,
+		359 A/Chennai/091327/2008,
+		360 A/Chennai/091328/2008,
+		361 A/Chennai/091329/2008,
+		362 A/Chennai/091333/2008,
+		363 A/Chennai/092523/2009,
+		364 A/Chennai/092524/2009,
+		365 A/Chennai/79754/2006,
+		366 A/Chile/9848/2002,
+		367 A/Chongqing/928/2005,
+		368 A/Chongqing/968/2005,
+		369 A/Chongqing/970/2005,
+		370 A/Chongqing/975/2005,
+		371 A/Chongqing/977/2005,
+		372 A/Chonnam/07/2002,
+		373 A/Chonnam/18/2002,
+		374 A/Chonnam/19/2002,
+		375 A/Chonnam/51/2002,
+		376 A/Christchurch/106/2004,
+		377 A/Christchurch/20/2008,
+		378 A/Christchurch/62/2007,
+		379 A/Chungbuk/1183/2005,
+		380 A/Chungbuk/4383/2008,
+		381 A/Chungbuk/4448/2008,
+		382 A/Chungbuk/4543/2007,
+		383 A/Chungbuk/50/2002,
+		384 A/Chungnam/1077/2008,
+		385 A/Chungnam/2463/2007,
+		386 A/Chungnam/4547/2007,
+		387 A/Colombia/11730/2008,
+		388 A/Colorado/20/2005,
+		389 A/Colorado/UR06-0496/2007,
+		390 A/Colorado/UR06-0498/2007,
+		391 A/Constanta/114/2008,
+		392 A/Corsica/07/2007,
+		393 A/Coyhaique/10459/2008,
+		394 A/Cusco/WRAIR1730P/2008,
+		395 A/DaNang/DN238/2008,
+		396 A/DaNang/DN302/2008,
+		397 A/DaNang/DN329/2008,
+		398 A/DaNang/DN345/2008,
+		399 A/DaNang/DN365/2008,
+		400 A/DaNang/DN431/2008,
+		401 A/DaNang/DN432/2008,
+		402 A/DaNang/DN467/2008,
+		403 A/Daejeion/1000/2005,
+		404 A/Daejeon/41/2006,
+		405 A/Darwin/2/2008,
+		406 A/Darwin/3/2008,
+		407 A/Darwin/5/2001,
+		408 A/Delhi/0512582/2005,
+		409 A/Delhi/0512583/2005,
+		410 A/Delhi/0512588/2005,
+		411 A/Delhi/0512589/2005,
+		412 A/Delhi/0512590/2005,
+		413 A/Delhi/0612413/2005,
+		414 A/Delhi/0612420/2005,
+		415 A/Delhi/0612427/2006,
+		416 A/Delhi/0635417/2005,
+		417 A/Delhi/0635418/2005,
+		418 A/Delhi/0635424/2006,
+		419 A/Delhi/0635429/2006,
+		420 A/Delhi/0635430/2006,
+		421 A/Delhi/0635432/2006,
+		422 A/Delhi/078743/2007,
+		423 A/Delhi/078744/2007,
+		424 A/Delhi/078746/2007,
+		425 A/Delhi/078747/2007,
+		426 A/Delhi/078748/2007,
+		427 A/Delhi/078749/2007,
+		428 A/Delhi/078750/2007,
+		429 A/Delhi/078751/2007,
+		430 A/Delhi/078756/2007,
+		431 A/Delhi/078758/2007,
+		432 A/Delhi/092609/2009,
+		433 A/Delhi/0942704/2009,
+		434 A/Delhi/0942705/2009,
+		435 A/Delhi/0942738/2009,
+		436 A/Delhi/0942747/2009,
+		437 A/Delhi/0942757/2009,
+		438 A/Delhi/0942758/2009,
+		439 A/Denmark/11/2001,
+		440 A/Denmark/11/2005,
+		441 A/Denmark/110/2005,
+		442 A/Denmark/116/2005,
+		443 A/Denmark/122/2008,
+		444 A/Denmark/15/2004,
+		445 A/Denmark/16/2001,
+		446 A/Denmark/16/2004,
+		447 A/Denmark/17/2004,
+		448 A/Denmark/20/2001,
+		449 A/Denmark/22/2005,
+		450 A/Denmark/22/2007,
+		451 A/Denmark/226/2005,
+		452 A/Denmark/3/2001,
+		453 A/Denmark/3/2005,
+		454 A/Denmark/33/2005,
+		455 A/Denmark/36/2001,
+		456 A/Denmark/40/2000,
+		457 A/Denmark/47/2006,
+		458 A/Denmark/48/2006,
+		459 A/Denmark/49/2006,
+		460 A/Denmark/54/2005,
+		461 A/Denmark/79/2005,
+		462 A/Dibrugarh/0615324/2005,
+		463 A/Dibrugarh/0615325/2005,
+		464 A/Dibrugarh/0615326/2005,
+		465 A/Dibrugarh/0615328/2005,
+		466 A/Dibrugarh/0615329/2005,
+		467 A/Dunedin/2/2000,
+		468 A/Ecuador/10491/2006,
+		469 A/Ecuador/10568/2006,
+		470 A/Ecuador/10807/2006,
+		471 A/Ecuador/10910/2006,
+		472 A/Ecuador/2630/01,
+		473 A/Ecuador/5179/2008,
+		474 A/Ecuador/5961/2008,
+		475 A/Ehime/1/2001,
+		476 A/England/161/02,
+		477 A/England/2005,
+		478 A/England/26/2008,
+		479 A/England/493/2006,
+		480 A/England/494/2006,
+		481 A/England/545/2007,
+		482 A/England/557/2007,
+		483 A/England/593/2006,
+		484 A/England/594/2006,
+		485 A/England/654/2007,
+		486 A/England/684/2007,
+		487 A/EspiritoSanto/131/00,
+		488 A/EspiritoSanto/141/01,
+		489 A/EspiritoSanto/150/00,
+		490 A/EspiritoSanto/39/01,
+		491 A/EspiritoSanto/45/01,
+		492 A/Finland/3/2007,
+		493 A/Finland/4/2007,
+		494 A/Florida/02/2008,
+		495 A/Florida/06/2008,
+		496 A/Florida/08/2006,
+		497 A/Florida/09/2006,
+		498 A/Florida/15/2007,
+		499 A/Florida/18/2008,
+		500 A/Florida/21/2008,
+		501 A/Florida/25/2008,
+		502 A/Florida/3/2004,
+		503 A/Florida/3/2006,
+		504 A/Florida/3e/2004,
+		505 A/Florida/4/2004,
+		506 A/Florida/904/00,
+		507 A/Fujian-Gulou/1292/2009,
+		508 A/Fujian/Gulou1387/2006,
+		509 A/Fukui/1/2001,
+		510 A/Fukuoka/13/2001E,
+		511 A/Fukushima/141/2006,
+		512 A/Gangwon/252/2008,
+		513 A/Gangwon/260/2008,
+		514 A/Gangwon/3157/2007,
+		515 A/Gangwon/4678/2007,
+		516 A/Gangwon/799/2005,
+		517 A/Gansu-Chengguan/1798/2008,
+		518 A/Gansu-Chengguan/1933/2009,
+		519 A/Gansu-Qingshui/31/2008,
+		520 A/Gansu/168/2003,
+		521 A/Gansu/185/2003,
+		522 A/Gansu/57/2005,
+		523 A/Gansu/Chengguan1129/2007,
+		524 A/Gansu/Chengguan1712/2006,
+		525 A/Georgia/05/2008,
+		526 A/Georgia/08/2008,
+		527 A/Georgia/3/2003,
+		528 A/Gifu_C/9/2002,
+		529 A/Greece/204/2001,
+		530 A/Guangdong-Futian/139/2009,
+		531 A/Guangdong-Zhuangzuyaozuzizhi/51/2009,
+		532 A/Guangdong/1001/2009,
+		533 A/Guangdong/1016/2009,
+		534 A/Guangdong/186/2009,
+		535 A/Guangdong/187/2009,
+		536 A/Guangdong/188/2009,
+		537 A/Guangdong/189/2009,
+		538 A/Guangdong/190/2009,
+		539 A/Guangdong/191/2009,
+		540 A/Guangdong/197/2009,
+		541 A/Guangdong/213/2008,
+		542 A/Guangdong/213/2009,
+		543 A/Guangdong/215/2009,
+		544 A/Guangdong/217/2008,
+		545 A/Guangdong/220/2008,
+		546 A/Guangdong/243/2009,
+		547 A/Guangdong/244/2009,
+		548 A/Guangdong/256/2009,
+		549 A/Guangdong/273/2009,
+		550 A/Guangdong/275/2008,
+		551 A/Guangdong/283/2008,
+		552 A/Guangdong/320/2008,
+		553 A/Guangdong/326/2008,
+		554 A/Guangdong/341/2008,
+		555 A/Guangdong/353/2008,
+		556 A/Guangdong/356/2009,
+		557 A/Guangdong/363/2009,
+		558 A/Guangdong/365/2009,
+		559 A/Guangdong/371/2009,
+		560 A/Guangdong/383/2009,
+		561 A/Guangdong/387/2009,
+		562 A/Guangdong/448/2009,
+		563 A/Guangdong/455/2009,
+		564 A/Guangdong/474/2008,
+		565 A/Guangdong/475/2009,
+		566 A/Guangdong/486/2009,
+		567 A/Guangdong/491/2009,
+		568 A/Guangdong/499/2009,
+		569 A/Guangdong/824/2009,
+		570 A/Guangdong/863/2009,
+		571 A/Guangdong/912/2009,
+		572 A/Guangdong/933/2009,
+		573 A/Guangdong/936/2009,
+		574 A/Guangdong/Futian1215/2006,
+		575 A/Guangdong/Gluohu1229/2006,
+		576 A/Guangzhou/1561/2006,
+		577 A/Guangzhou/1684/2006,
+		578 A/Guangzhou/483/2006,
+		579 A/Guangzhou/506/2006,
+		580 A/Guangzhou/555/2006,
+		581 A/Guangzhou/657/2006,
+		582 A/Guangzhou/665/2006,
+		583 A/Guizhou/78/2003,
+		584 A/Gunma/07G002/2008,
+		585 A/Gunma/07G006/2008,
+		586 A/Gunma/08G006/2009,
+		587 A/Guyane/14/2006,
+		588 A/Guyane/31/2007,
+		589 A/Guyane/8190/2008,
+		590 A/Gwangju/4324/2008,
+		591 A/Gwangju/55/2002,
+		592 A/Gwangju/57/2002,
+		593 A/Gwangju/58/2002,
+		594 A/Gwangju/90/2002,
+		595 A/Gwangju/904/2008,
+		596 A/Gyeonggi/4389/2008,
+		597 A/Gyeonggi/966/2005,
+		598 A/Gyeongnam/1890/2008,
+		599 A/Gyeongnam/3062/2007,
+		600 A/Gyeongnam/3074/2007,
+		601 A/Gyeongnam/4408/2008,
+		602 A/Gyeongnam/4409/2008,
+		603 A/Gyeongnam/4504/2007,
+		604 A/Gyeongnam/4516/2007,
+		605 A/Gyeongnam/4517/2007,
+		606 A/Gyeongnam/586/2008,
+		607 A/HaNoi/2017/2001,
+		608 A/HaNoi/2143/2001,
+		609 A/HaNoi/2253/2001,
+		610 A/HaNoi/2476/2001,
+		611 A/HaNoi/2480/2001,
+		612 A/HaNoi/2532/2001,
+		613 A/HaNoi/2546/2002,
+		614 A/HaNoi/2704/2002,
+		615 A/HaNoi/ARI172/2003,
+		616 A/HaNoi/ARI36/2003,
+		617 A/HaNoi/BM857/2003,
+		618 A/HaNoi/BM898/2003,
+		619 A/HaNoi/BM959/2003,
+		620 A/HaNoi/BT241/2008,
+		621 A/HaNoi/HN1004/2003,
+		622 A/HaNoi/HN719/2003,
+		623 A/HaNoi/HN867/2003,
+		624 A/HaNoi/N229/2008,
+		625 A/HaNoi/Q421/2006,
+		626 A/HaNoi/Q555/2006,
+		627 A/HaNoi/Q580/2006,
+		628 A/HaNoi/Q591/2006,
+		629 A/HaNoi/TX200/2008,
+		630 A/HaNoi/TX222/2008,
+		631 A/HaNoi/TX233/2008,
+		632 A/Hamburg/1/2005,
+		633 A/Hannover/71/2001,
+		634 A/Hanoi/1823/2001,
+		635 A/Hanoi/1863/2001,
+		636 A/Hanoi/1873/2002,
+		637 A/Hanoi/188/2002,
+		638 A/Hanoi/1892/2002,
+		639 A/Hanoi/191/2002,
+		640 A/Hanoi/1928/2002,
+		641 A/Hanoi/2006/2002,
+		642 A/Hanoi/BM344/2006,
+		643 A/Hanoi/BM356/2006,
+		644 A/Hanoi/ISBM31/2005,
+		645 A/Hanoi/Q137/2006,
+		646 A/Hanoi/Q177/2006,
+		647 A/Hanoi/TX09/2006,
+		648 A/Hebei-Xinhua/1171/2008,
+		649 A/Hebei/Nanshi1256/2006,
+		650 A/Hebei/Xinshi187/2007,
+		651 A/Hebei/Yuhua111/2007,
+		652 A/Hebei/Yuhua118/2007,
+		653 A/Heilongijang-Jianhua/124/2009,
+		654 A/Heilongjiang-Daoli/187/2008,
+		655 A/Heilongjiang-Daowai/110/2008,
+		656 A/Heilongjiang/Daoli13/2007,
+		657 A/Heilongjiang/Nangang15/2007,
+		658 A/Henan/08/2005,
+		659 A/Hessen/4/2005,
+		660 A/Hiroshima/37/2001,
+		661 A/HoChiMinh/HCM395/2006,
+		662 A/HoChiMinh/HCM526/2006,
+		663 A/HoChiMinh/HCM554/2006,
+		664 A/HoChiMinh/HCM639/2006,
+		665 A/Hokkaido/07H007/2007,
+		666 A/Hokkaido/08H024/2009,
+		667 A/Hong-Kong/128/2008,
+		668 A/Hong-Kong/132/2008,
+		669 A/Hong-Kong/1363/2008,
+		670 A/Hong-Kong/1492/2008,
+		671 A/Hong-Kong/1555/2008,
+		672 A/Hong-Kong/17/2008,
+		673 A/Hong-Kong/175/2008,
+		674 A/Hong-Kong/179/2008,
+		675 A/Hong-Kong/1794/2008,
+		676 A/Hong-Kong/1870/2008,
+		677 A/Hong-Kong/1975/2009,
+		678 A/Hong-Kong/1987/2009,
+		679 A/Hong-Kong/1988/2009,
+		680 A/Hong-Kong/1993/2009,
+		681 A/Hong-Kong/2387/2007,
+		682 A/Hong-Kong/2613/2007,
+		683 A/Hong-Kong/2652/2006,
+		684 A/Hong-Kong/29/2006,
+		685 A/Hong-Kong/31/2006,
+		686 A/Hong-Kong/3195/2008,
+		687 A/Hong-Kong/3212/2008,
+		688 A/Hong-Kong/3216/2008,
+		689 A/Hong-Kong/349/2008,
+		690 A/Hong-Kong/35/2006,
+		691 A/Hong-Kong/36/2008,
+		692 A/Hong-Kong/41/2008,
+		693 A/Hong-Kong/4580/2004,
+		694 A/Hong-Kong/4596/2004,
+		695 A/Hong-Kong/4703/2007,
+		696 A/Hong-Kong/4760/2007,
+		697 A/Hong-Kong/4766/2007,
+		698 A/Hong-Kong/4896/2005,
+		699 A/Hong-Kong/4899/2005,
+		700 A/Hong-Kong/4922/2005,
+		701 A/Hong-Kong/549/2008,
+		702 A/Hong-Kong/690/2008,
+		703 A/Hong-Kong/70/2009,
+		704 A/Hong-Kong/747/2001,
+		705 A/Hong-Kong/84/2009,
+		706 A/Hong-Kong/948/2006,
+		707 A/HongKong/CUHK-13003/2002,
+		708 A/Hong_Kong/H090_682_V1,
+		709 A/Hong_Kong/H090_718_V1,
+		710 A/Hong_Kong/H090_744_V1,
+		711 A/Hong_Kong/H090_766_V1,
+		712 A/Hubei-Wujiagang/133/2009,
+		713 A/Hubei-Wujiagang/138/2009,
+		714 A/Hubei/Shashi33/2006,
+		715 A/Hubeiwujiagang/1143/2006,
+		716 A/Hue/H257/2008,
+		717 A/Hue/H259/2008,
+		718 A/Hue/H274/2008,
+		719 A/Hue/H339/2008,
+		720 A/Hue/H354/2008,
+		721 A/Hue/H386/2008,
+		722 A/Hue/H396/2008,
+		723 A/Hue/H400/2008,
+		724 A/Hue/H409/2008,
+		725 A/Hue/H423/2008,
+		726 A/Hue/H433/2008,
+		727 A/Hue/H436/2008,
+		728 A/Hue/H442/2008,
+		729 A/Hue/H445/2008,
+		730 A/Hue/H485/2008,
+		731 A/Hunan/962/2005,
+		732 A/Hunan/Furong1295/2008,
+		733 A/Hungary/13/2008,
+		734 A/Hyogo/07K030/2007,
+		735 A/Iasi/144/2008,
+		736 A/Iasi/145/2008,
+		737 A/Iceland/57/2001,
+		738 A/Idaho/1/2003,
+		739 A/Idaho/1/2005,
+		740 A/Illinois/01/2006,
+		741 A/Illinois/02/2006,
+		742 A/Illinois/06/2008,
+		743 A/Illinois/10/2007,
+		744 A/Illinois/15/2007,
+		745 A/Illinois/UR06-0146/2007,
+		746 A/Illinois/UR06-0376/2007,
+		747 A/Incheon/1054/2005,
+		748 A/Incheon/150/2006,
+		749 A/Incheon/248/2008,
+		750 A/Incheon/2583/2007,
+		751 A/Incheon/2596/2007,
+		752 A/Incheon/2647/2007,
+		753 A/Incheon/3147/2007,
+		754 A/Incheon/4328/2008,
+		755 A/Incheon/4542/2008,
+		756 A/Incheon/546/2005,
+		757 A/Incheon/613/2005,
+		758 A/Incheon/829/2005,
+		759 A/India/3245/2006,
+		760 A/India/3248/2006,
+		761 A/India/34980/2006,
+		762 A/India/3593/2007,
+		763 A/India/3601/2005,
+		764 A/India/5698/2005,
+		765 A/India/6134/2005,
+		766 A/India/7308/2008,
+		767 A/India/7311/2008,
+		768 A/India/9039/2008,
+		769 A/India/C064166/2005,
+		770 A/India/K076492/2006,
+		771 A/India/P075520/2007,
+		772 A/Indiana/03/2009,
+		773 A/Indiana/08/2006,
+		774 A/Indonesia/0951/2005,
+		775 A/Indonesia/2129/2005,
+		776 A/Indonesia/2389/2006,
+		777 A/Indonesia/3604/2004,
+		778 A/Indonesia/3989/2004,
+		779 A/Indonesia/4505/2004,
+		780 A/Indonesia/5804/2005,
+		781 A/Indonesia/5840/2004,
+		782 A/Indonesia/5841/2004,
+		783 A/Indonesia/8148/2001,
+		784 A/Iowa/02/2006,
+		785 A/Ireland/649/2002,
+		786 A/Iwate/1003/2001,
+		787 A/Iwate/33/2002,
+		788 A/Japan/763/2008,
+		789 A/Japan/775/2003,
+		790 A/Japan/AF07/2008,
+		791 A/Japan/AF1271/2008,
+		792 A/Japan/AF1272/2008,
+		793 A/Japan/AF1273/2008,
+		794 A/Japan/AF1274/2008,
+		795 A/Japan/AF1275/2008,
+		796 A/Japan/AF1276/2008,
+		797 A/Japan/AF1277/2008,
+		798 A/Japan/AF1278/2007,
+		799 A/Japan/AF1279/2007,
+		800 A/Japan/AF1884/2008,
+		801 A/Japan/AF1963/2007,
+		802 A/Japan/WRAIR1054P/2009,
+		803 A/Japan/WRAIR1226P/2009,
+		804 A/Japan/WRAIR1230P/2009,
+		805 A/Jeju/2279/2007,
+		806 A/Jeju/244/2006,
+		807 A/Jeju/2818/2007,
+		808 A/Jeju/2824/2007,
+		809 A/Jeju/2879/2007,
+		810 A/Jeju/2888/2007,
+		811 A/Jeonbuk/1096/2005,
+		812 A/Jeonbuk/1189/2005,
+		813 A/Jeonbuk/2641/2007,
+		814 A/Jeonbuk/444/2005,
+		815 A/Jeonnam/1094/2005,
+		816 A/Jiangxi/1062/2006,
+		817 A/Jiangxi/1085/2006,
+		818 A/Jiangxi/1105/2006,
+		819 A/Jiangxi/114/2005,
+		820 A/Jiangxi/1140/2006,
+		821 A/Jiangxi/1150/2006,
+		822 A/Jiangxi/1163/2006,
+		823 A/Jiangxi/134/2005,
+		824 A/Jiangxi/144/2005,
+		825 A/Jiangxi/160/2005,
+		826 A/Jiangxi/175/2005,
+		827 A/Jiangxi/185/2005,
+		828 A/Jiangxi/272/2006,
+		829 A/Jiangxi/330/2005,
+		830 A/Jiangxi/595/2006,
+		831 A/Jiangxi/678/2005,
+		832 A/Jiangxi/680/2005,
+		833 A/Jiangxi/711/2005,
+		834 A/Jiangxi/748/2005,
+		835 A/Jiangxi/8/2006,
+		836 A/Jiangxi/94/2006,
+		837 A/Jiangxi/955/2006,
+		838 A/Jiangxi/Anyi51/2006,
+		839 A/Jilin-Chaoyang/157/2009,
+		840 A/Jilin-Chuanying/1318/2008,
+		841 A/Jilin-Nanguan/1107/2008,
+		842 A/Jilin/Chaoyang1108/2007,
+		843 A/Jilin/Chaoyang1188/2008,
+		844 A/Jilin/Chaoyang1258/2008,
+		845 A/Jilin/Chuanying1181/2006,
+		846 A/Jilin/Zhenlai177/2007,
+		847 A/Jilin/Zhenlai190/2007,
+		848 A/Juliaca/FLU3969/2006,
+		849 A/KOL/2086/2009,
+		850 A/KOL/2172/2009,
+		851 A/KOL/2218/2009,
+		852 A/KOL/2336/2009,
+		853 A/KOL/2419/2009,
+		854 A/KOL/2449/2009,
+		855 A/Kagawa/243/2001,
+		856 A/Kagawa/8/2000,
+		857 A/Kagawa/83/2000,
+		858 A/Kangwon/848/2005,
+		859 A/Kawasaki/173/2001,
+		860 A/Kawasaki/UTK_4/2009,
+		861 A/Kentucky/04/2009,
+		862 A/Kentucky/1/2005,
+		863 A/Kentucky/2/2005,
+		864 A/Kentucky/9/2005,
+		865 A/Kentucky/9e/2005,
+		866 A/Kentucky/UR06-0007/2006,
+		867 A/Kentucky/UR06-0010/2006,
+		868 A/Kentucky/UR06-0057/2007,
+		869 A/Kentucky/UR06-0069/2007,
+		870 A/Kentucky/UR06-0128/2007,
+		871 A/Kentucky/UR06-0183/2007,
+		872 A/Kentucky/UR06-0401/2007,
+		873 A/Kentucky/UR06-0449/2007,
+		874 A/KhanhHoa/KH161/2008,
+		875 A/KhanhHoa/KH321/2008,
+		876 A/KhanhHoa/KH38/2008,
+		877 A/KhanhHoa/KH57/2008,
+		878 A/Kiev/245/2008,
+		879 A/Kiev/313/2008,
+		880 A/Kiev/49/2008,
+		881 A/Kitakyusyu/793/2001,
+		882 A/Kolkata/1002/2007,
+		883 A/Kolkata/1061/2007,
+		884 A/Kolkata/578/2006,
+		885 A/Kolkata/604/2006,
+		886 A/Kolkata/918/2007,
+		887 A/Kolkata/919/2007,
+		888 A/Kolkata/929/2007,
+		889 A/Kolkata/943/2007,
+		890 A/Kolkata/951/2007,
+		891 A/Kolkata/959/2007,
+		892 A/Kolkata/975/2007,
+		893 A/Kolkata/990/2007,
+		894 A/Kolkutta/0713755/2007,
+		895 A/Kolkutta/0713756/2007,
+		896 A/Kolkutta/0713757/2007,
+		897 A/Kolkutta/0713758/2007,
+		898 A/Kolkutta/0713759/2007,
+		899 A/Kolkutta/0713760/2007,
+		900 A/Kolkutta/0713761/2007,
+		901 A/Kolkutta/0713762/2007,
+		902 A/Kolkutta/0713763/2007,
+		903 A/Kolkutta/0713764/2007,
+		904 A/Kolkutta/0713766/2007,
+		905 A/Kolkutta/0713767/2007,
+		906 A/Kolkutta/0713768/2007,
+		907 A/Kolkutta/0713775/2007,
+		908 A/Kolkutta/0713777/2007,
+		909 A/Kolkutta/0713779/2007,
+		910 A/Kolkutta/072134/2006,
+		911 A/Kolkutta/072137/2006,
+		912 A/Kolkutta/072140/2006,
+		913 A/Kolkutta/072144/2006,
+		914 A/Kolkutta/072145/2006,
+		915 A/Kolkutta/072146/2006,
+		916 A/Kolkutta/072147/2006,
+		917 A/Kolkutta/072148/2006,
+		918 A/Kolkutta/0762006,
+		919 A/Kolkutta/0951719/2009,
+		920 A/Kolkutta/0951720/2009,
+		921 A/Kolkutta/0951721/2009,
+		922 A/Kolkutta/713781/2007,
+		923 A/Korea/122/2009,
+		924 A/Korea/269/2008,
+		925 A/Korea/38/2005,
+		926 A/Korea/6612/2007,
+		927 A/Korea/7721/2008,
+		928 A/Korea/94/2009,
+		929 A/Korea/AF1304/2008,
+		930 A/Korea/AF1305/2008,
+		931 A/Korea/AF1306/2008,
+		932 A/Korea/AF1307/2008,
+		933 A/Korea/AF1308/2008,
+		934 A/Korea/AF1309/2007,
+		935 A/Korea/AF1310/2007,
+		936 A/Korea/AF1311/2007,
+		937 A/Korea/AF1312/2007,
+		938 A/Korea/AF1898/2008,
+		939 A/Korea/AF1899/2008,
+		940 A/Korea/AF1951/2008,
+		941 A/Kyoto/07K303/2008,
+		942 A/Kyoto/07K316/2008,
+		943 A/Kyoto/07K454/2008,
+		944 A/Kyoto/08K056/2009,
+		945 A/Kyoto_C/3/2002,
+		946 A/Latvia/1-938/2008,
+		947 A/Latvia/16678/2007,
+		948 A/Latvia/2524/2001,
+		949 A/Liaoning-Heping/1103/2008,
+		950 A/Liaoning-Huanggu/1144/2009,
+		951 A/Liaoning/Huanggu1183/2007,
+		952 A/Liaoning/Xigang135/2007,
+		953 A/Liaoning/Xigang149/2007,
+		954 A/Lima/FLU5370/2007,
+		955 A/Lima/FLU5378/2007,
+		956 A/Lisbon/3/2008,
+		957 A/LongAn/HCM504/2006,
+		958 A/LongAn/HCM665/2006,
+		959 A/Luhansk/18/2008,
+		960 A/Lyon/1249/2007,
+		961 A/Lyon/1337/2007,
+		962 A/Lyon/1350/2007,
+		963 A/Lyon/1364/2007,
+		964 A/Lyon/1388/2007,
+		965 A/Lyon/99/2005,
+		966 A/Macau/10258/2006,
+		967 A/Macau/122/2005,
+		968 A/Macau/13076/2006,
+		969 A/Macau/14585/2006,
+		970 A/Macau/1468/2008,
+		971 A/Macau/1796/2008,
+		972 A/Macau/189/2007,
+		973 A/Macau/227/2005,
+		974 A/Macau/229/2008,
+		975 A/Macau/382/2008,
+		976 A/Macau/406/2008,
+		977 A/Madrid/1082/2001,
+		978 A/Madrid/1216/2002,
+		979 A/Malaysia/1003/2003,
+		980 A/Malaysia/1076/2008,
+		981 A/Malaysia/1513/2004,
+		982 A/Malaysia/1652509/2006,
+		983 A/Malaysia/1686034/2006,
+		984 A/Malaysia/1702/2008,
+		985 A/Malaysia/1706215/2007,
+		986 A/Malaysia/1715991/2007,
+		987 A/Malaysia/1718249/2007,
+		988 A/Malaysia/1718958/2007,
+		989 A/Malaysia/1758994/2007,
+		990 A/Malaysia/1788397/2007,
+		991 A/Malaysia/1794173/2007,
+		992 A/Malaysia/1798564/2007,
+		993 A/Malaysia/1811552/2007,
+		994 A/Malaysia/1823766/2007,
+		995 A/Malaysia/1828663/2007,
+		996 A/Malaysia/1842338/2007,
+		997 A/Malaysia/1882831/2007,
+		998 A/Malaysia/1887206/2007,
+		999 A/Malaysia/1999752/2008,
+		1000 A/Malaysia/2089302/2009,
+		1001 A/Malaysia/2095797/2008,
+		1002 A/Malaysia/2104192/2008,
+		1003 A/Malaysia/213/2008,
+		1004 A/Malaysia/2132379/2008,
+		1005 A/Malaysia/2143035/2009,
+		1006 A/Malaysia/2155235/2009,
+		1007 A/Malaysia/2156486/2009,
+		1008 A/Malaysia/25531/2003,
+		1009 A/Malaysia/25750/2003,
+		1010 A/Malaysia/25862/2003,
+		1011 A/Malaysia/30025/2004,
+		1012 A/Malaysia/32110/2005,
+		1013 A/Malaysia/32151/2005,
+		1014 A/Malaysia/32217/2005,
+		1015 A/Malaysia/330/2007,
+		1016 A/Malaysia/33132/2005,
+		1017 A/Malaysia/33166/2005,
+		1018 A/Malaysia/34291/2006,
+		1019 A/Malaysia/34450/2006,
+		1020 A/Malaysia/35164/2006,
+		1021 A/Malaysia/35405/2006,
+		1022 A/Malaysia/36/2006,
+		1023 A/Malaysia/37/2006,
+		1024 A/Malaysia/38/2006,
+		1025 A/Malaysia/56/2006,
+		1026 A/Malaysia/643/2003,
+		1027 A/Malaysia/687/2003,
+		1028 A/Malaysia/862/2007,
+		1029 A/Malaysia/88/2004,
+		1030 A/Maldonado/FLU5857/2007,
+		1031 A/Maracay/FLA1228/2008,
+		1032 A/Maracay/FLA2650/2008,
+		1033 A/Maracay/FLA4341/2008,
+		1034 A/Maracay/FLA4342/2008,
+		1035 A/Maracay/WRAIR1729P/2008,
+		1036 A/Maryland/05/2008,
+		1037 A/Maryland/1/2006,
+		1038 A/Massachusetts/07/2006,
+		1039 A/Massachusetts/12/2008,
+		1040 A/Massachussetts/9/2005,
+		1041 A/Medellin/WRAIR1297P/2008,
+		1042 A/Memphis/07/2008,
+		1043 A/Memphis/1/2001,
+		1044 A/Memphis/13/2006,
+		1045 A/Memphis/15/2000,
+		1046 A/Memphis/6/2001,
+		1047 A/Memphis/6/2003,
+		1048 A/Memphis/7/2001,
+		1049 A/Memphis/8/2001,
+		1050 A/Michigan/05/2008,
+		1051 A/Michigan/1/2003,
+		1052 A/Michigan/10/2008,
+		1053 A/Michigan/4/2003,
+		1054 A/Michigan/5/2003,
+		1055 A/Michigan/6/2003,
+		1056 A/Michigan/UR06-0015/2006,
+		1057 A/Mie/1/2001,
+		1058 A/Milan/01/2008,
+		1059 A/Milan/02/2008,
+		1060 A/Milan/03/2006,
+		1061 A/Milan/03/2008,
+		1062 A/Milan/05/2007,
+		1063 A/Milan/06/2008,
+		1064 A/Milan/10/2006,
+		1065 A/Milan/10/2007,
+		1066 A/Milan/16/2007,
+		1067 A/Milan/17/2007,
+		1068 A/Milan/19/2007,
+		1069 A/Milan/25/2007,
+		1070 A/Milan/26/2007,
+		1071 A/Milan/27/2007,
+		1072 A/Minnesota/17/2006,
+		1073 A/Minnesota/18/2003,
+		1074 A/Minnesota/23/2007,
+		1075 A/Minnesota/33/2008,
+		1076 A/Misawa/1226/00,
+		1077 A/Mississippi/02/2006,
+		1078 A/Mississippi/1/2003,
+		1079 A/Mississippi/UR06-0014/2006,
+		1080 A/Mississippi/UR06-0145/2007,
+		1081 A/Missouri/06/2008,
+		1082 A/Miyagi/4/2000,
+		1083 A/Morioka/1/2005,
+		1084 A/Morioka/17/2002,
+		1085 A/Morioka/21/2005,
+		1086 A/Morioka/27/2002,
+		1087 A/Morioka/3/2005,
+		1088 A/Morioka/4/2005,
+		1089 A/Morioka/5/2005,
+		1090 A/Morioka/7/2005,
+		1091 A/NL/365/2007,
+		1092 A/Nagano/1101/2001,
+		1093 A/Nagasaki/07N005/2008,
+		1094 A/Nagasaki/07N011/2008,
+		1095 A/Nagasaki/07N020/2008,
+		1096 A/Nagasaki/07N035/2008,
+		1097 A/Nagasaki/08N006/2009,
+		1098 A/Naghpur/0712120/2007,
+		1099 A/Naghpur/0712124/2007,
+		1100 A/Naghpur/0712125/2007,
+		1101 A/Naghpur/0712131/2007,
+		1102 A/Naghpur/075662/2007,
+		1103 A/Nagoya/16/2000,
+		1104 A/Nagoya/26/2001,
+		1105 A/Nagoya/32/2002,
+		1106 A/Nara/13/2001,
+		1107 A/Nara/41/2002,
+		1108 A/Navarra/RR3389/2009,
+		1109 A/Nebraska/01/2008,
+		1110 A/Nebraska/01/2009,
+		1111 A/Nebraska/07/2008,
+		1112 A/Nebraska/2/2003,
+		1113 A/Nebraska/4/2003,
+		1114 A/Neimenggu-Huimin/1172/2008,
+		1115 A/Neimenggu-Saihan/177/2008,
+		1116 A/Neimenggu/Huimin129/2007,
+		1117 A/Neimenggu/Kundulun11/2007,
+		1118 A/Nepal/4606/2007,
+		1119 A/Nepal/4715/2007,
+		1120 A/Netherlands/05/2005,
+		1121 A/Netherlands/26/2007,
+		1122 A/Netherlands/345/2007,
+		1123 A/Nevada/1/2003,
+		1124 A/New-Caledonia/09/2004,
+		1125 A/New-Caledonia/2/2008,
+		1126 A/New-Caledonia/6/2008,
+		1127 A/New-Caledonia/9/2004,
+		1128 A/New-Hampshire/1/2005,
+		1129 A/New-Jersey/03/2008,
+		1130 A/New-Jersey/04/2006,
+		1131 A/New-Jersey/04/2008,
+		1132 A/New-Jersey/09/2008,
+		1133 A/New-Jersey/10/2005,
+		1134 A/New-Jersey/10/2008,
+		1135 A/New-Jersey/11/2005,
+		1136 A/New-Jersey/3/2003,
+		1137 A/New-Jersey/30/2008,
+		1138 A/New-Jersey/313/00,
+		1139 A/New-Jersey/32/2008,
+		1140 A/New-Jersey/WRAIR1120P/2009,
+		1141 A/New-South-Wales/26/2000,
+		1142 A/New-South-Wales/30/2000,
+		1143 A/New-York/01/2009,
+		1144 A/New-York/1/2003,
+		1145 A/New-York/205/2001,
+		1146 A/New-York/208/2001,
+		1147 A/New-York/212/2001,
+		1148 A/New-York/220/2002,
+		1149 A/New-York/221/2003,
+		1150 A/New-York/222/2003,
+		1151 A/New-York/223/2003,
+		1152 A/New-York/227/2003,
+		1153 A/New-York/228/2003,
+		1154 A/New-York/230/2003,
+		1155 A/New-York/233/2000,
+		1156 A/New-York/234/2000,
+		1157 A/New-York/235/2001,
+		1158 A/New-York/239/2001,
+		1159 A/New-York/24/2003,
+		1160 A/New-York/24/2006,
+		1161 A/New-York/241/2001,
+		1162 A/New-York/242/2001,
+		1163 A/New-York/246/2001,
+		1164 A/New-York/25/2006,
+		1165 A/New-York/26/2006,
+		1166 A/New-York/281/2001,
+		1167 A/New-York/291/2002,
+		1168 A/New-York/292/2003,
+		1169 A/New-York/293/2003,
+		1170 A/New-York/302/2001,
+		1171 A/New-York/303/2001,
+		1172 A/New-York/305/2001,
+		1173 A/New-York/306/2001,
+		1174 A/New-York/308/2001,
+		1175 A/New-York/309/2001,
+		1176 A/New-York/310/2001,
+		1177 A/New-York/312/2001,
+		1178 A/New-York/341/2001,
+		1179 A/New-York/342/2001,
+		1180 A/New-York/343/2001,
+		1181 A/New-York/344/2001,
+		1182 A/New-York/345/2001,
+		1183 A/New-York/346/2001,
+		1184 A/New-York/348/2003,
+		1185 A/New-York/350/2003,
+		1186 A/New-York/399/2003,
+		1187 A/New-York/4/2006,
+		1188 A/New-York/441/2001,
+		1189 A/New-York/442/2001,
+		1190 A/New-York/443/2001,
+		1191 A/New-York/444/2001,
+		1192 A/New-York/445/2001,
+		1193 A/New-York/446/2001,
+		1194 A/New-York/447/2001,
+		1195 A/New-York/483/2003,
+		1196 A/New-York/484/2003,
+		1197 A/New-York/486/2003,
+		1198 A/New-York/488/2003,
+		1199 A/New-York/493/2003,
+		1200 A/New-York/494/2002,
+		1201 A/New-York/496/2003,
+		1202 A/New-York/497/2003,
+		1203 A/New-York/UR06-0134/2007,
+		1204 A/New_Caledonia/V77245/2007,
+		1205 A/New_York/08_1253/2008,
+		1206 A/New_York/3150/2009,
+		1207 A/New_York/3768/2009,
+		1208 A/New_York/8/2006,
+		1209 A/Niedersachsen/191/2005,
+		1210 A/Niedersachsen/192/2005,
+		1211 A/Niedersachsen/202/2005,
+		1212 A/Niedersachsen/217/2005,
+		1213 A/Niedersachsen/218/2005,
+		1214 A/Niedersachsen/4/2006,
+		1215 A/Niedersachsen/5/2006,
+		1216 A/Niigata/07F102/2008,
+		1217 A/Niigata/07F125/2008,
+		1218 A/Niigata/07F191/2008,
+		1219 A/Niigata/08F031/2009,
+		1220 A/Niigata/08F093/2009,
+		1221 A/Niigata/08F188/2009,
+		1222 A/Niigata/2756/2000,
+		1223 A/Niigata/F95/2007,
+		1224 A/Ningbo/125/2007,
+		1225 A/Ningbo/1465/2005,
+		1226 A/Ningbo/18/2002,
+		1227 A/Ningbo/348/2005,
+		1228 A/Ningbo/514/2005,
+		1229 A/Ningbo/772/2008,
+		1230 A/Ningbo/777/2008,
+		1231 A/Ningbo/787/2008,
+		1232 A/Ningbo/802/2006,
+		1233 A/Ningbo/845/2006,
+		1234 A/Ningxia-Xingqing/1266/2008,
+		1235 A/Nonthaburi/1739/2004,
+		1236 A/Nordrhein-Westfalen/6/2005,
+		1237 A/North-Carolina/02/2008,
+		1238 A/North-Carolina/02/2009,
+		1239 A/North-Carolina/03/2009,
+		1240 A/North-Carolina/05/2008,
+		1241 A/North-Carolina/10/2006,
+		1242 A/North-Carolina/3/2003,
+		1243 A/North-Carolina/UR06-0011/2006,
+		1244 A/North-Dakota/01/2008,
+		1245 A/North-Dakota/03/2009,
+		1246 A/Norway/1261/2007,
+		1247 A/Norway/1629/2007,
+		1248 A/Norway/1630/2007,
+		1249 A/Norway/1651/2007,
+		1250 A/Norway/166/2008,
+		1251 A/Norway/167/2008,
+		1252 A/Norway/168/2008,
+		1253 A/Norway/1684/2007,
+		1254 A/Norway/1687/2007,
+		1255 A/Norway/169/2008,
+		1256 A/Norway/1701/2007,
+		1257 A/Norway/1703/2007,
+		1258 A/Norway/171/2008,
+		1259 A/Norway/1729/2007,
+		1260 A/Norway/1730/2007,
+		1261 A/Norway/1731/2007,
+		1262 A/Norway/1735/2007,
+		1263 A/Norway/1736/2007,
+		1264 A/Norway/1739/2007,
+		1265 A/Norway/1743/2007,
+		1266 A/Norway/1745/2007,
+		1267 A/Norway/1747/2007,
+		1268 A/Norway/1758/2007,
+		1269 A/Norway/181/2008,
+		1270 A/Norway/199/2008,
+		1271 A/Norway/2159/2006,
+		1272 A/Norway/243/2008,
+		1273 A/Norway/256/2008,
+		1274 A/Norway/30/2008,
+		1275 A/Norway/365/2008,
+		1276 A/Norway/38/2008,
+		1277 A/Norway/478/2008,
+		1278 A/Norway/50/2008,
+		1279 A/Norway/76/2008,
+		1280 A/Norway/805/2006,
+		1281 A/Nyiregyhaza/01/2007,
+		1282 A/Ohio/01/2009,
+		1283 A/Ohio/04/2006,
+		1284 A/Ohio/05/2006,
+		1285 A/Ohio/06/2009,
+		1286 A/Ohio/UR06-0178/2007,
+		1287 A/Ohio/UR06-0325/2007,
+		1288 A/Ohio/UR06-0341/2007,
+		1289 A/Ohio/UR06-0394/2007,
+		1290 A/Ohio/UR06-0465/2007,
+		1291 A/Ohio/UR06-0518/2007,
+		1292 A/Okayama/33/2001,
+		1293 A/Okayama/4/2001,
+		1294 A/Okinawa/159/2000,
+		1295 A/Okinawa/18/2001,
+		1296 A/Okinawa/225/2002,
+		1297 A/Okinawa/51/2000,
+		1298 A/Oklahoma/02/2008,
+		1299 A/Oklahoma/1108/2008,
+		1300 A/Oklahoma/1138/2009,
+		1301 A/Oklahoma/5132/2006,
+		1302 A/Oklahoma/7/2005,
+		1303 A/Oklahoma/V5S/2009,
+		1304 A/Oregon/07/2007,
+		1305 A/Oregon/UR06-0185/2007,
+		1306 A/Osaka/972/2000,
+		1307 A/Oslo/1019/2001,
+		1308 A/Oslo/1061/2001,
+		1309 A/Oslo/1167/2001,
+		1310 A/Oslo/1261/2001,
+		1311 A/Oslo/1512/2001,
+		1312 A/Oslo/1581/01,
+		1313 A/Oslo/1584/01,
+		1314 A/Oslo/1587/2001,
+		1315 A/Oslo/2289/2001,
+		1316 A/Oslo/2292/2001,
+		1317 A/Oslo/2298/2001,
+		1318 A/Oslo/341/2001,
+		1319 A/Oslo/483/2001,
+		1320 A/Oslo/598/2001,
+		1321 A/Oslo/739/2001,
+		1322 A/Oslo/7649/2000,
+		1323 A/Oslo/7701/2000,
+		1324 A/Oslo/7709/2000,
+		1325 A/Oslo/791/2001,
+		1326 A/Oslo/826/2001,
+		1327 A/Oslo/847/2001,
+		1328 A/Oslo/866/2001,
+		1329 A/Oslo/868/2001,
+		1330 A/Oslo/869/2001,
+		1331 A/Oslo/971/2001,
+		1332 A/Otago/5/2005,
+		1333 A/PaisVasco/RR3174/2008,
+		1334 A/PaisVasco/RR3343/2009,
+		1335 A/PaisVasco/RR3344/2009,
+		1336 A/PaisVasco/RR3427/2009,
+		1337 A/Pandharpur/20055169/2005,
+		1338 A/Pandharpur/20055180/2005,
+		1339 A/Pandharpur/20055182/2005,
+		1340 A/Pandharpur/20055194/2005,
+		1341 A/Pandharpur/20055200/2005,
+		1342 A/Paraguay/076/2005,
+		1343 A/Paraguay/085/2005,
+		1344 A/Paraguay/323/2006,
+		1345 A/Paris/1093/2009,
+		1346 A/Paris/1694/01,
+		1347 A/Paris/1704/2009,
+		1348 A/Paris/194/2007,
+		1349 A/Paris/2149/2006,
+		1350 A/Paris/2207/2006,
+		1351 A/Paris/286/2007,
+		1352 A/Paris/341/2007,
+		1353 A/Paris/438/2007,
+		1354 A/Paris/497/2007,
+		1355 A/Paris/546/2007,
+		1356 A/Paris/577/2007,
+		1357 A/Paris/6/2007,
+		1358 A/Paris/611/2007,
+		1359 A/Paris/644/2007,
+		1360 A/Paris/650/2004,
+		1361 A/Paris/658/2007,
+		1362 A/Paris/692/2007,
+		1363 A/Paris/749/2007,
+		1364 A/Paris/814/2007,
+		1365 A/Paris/847/2007,
+		1366 A/Paris/910/2007,
+		1367 A/Parma/34/2008,
+		1368 A/Pennsylvania/01/2009,
+		1369 A/Pennsylvania/02/2008,
+		1370 A/Pennsylvania/08/2006,
+		1371 A/Pennsylvania/12/2008,
+		1372 A/Pennsylvania/3/2006,
+		1373 A/Perth/07/2006,
+		1374 A/Perth/1/2007,
+		1375 A/Perth/1/2009,
+		1376 A/Perth/200/2008,
+		1377 A/Perth/205/2008,
+		1378 A/Perth/207/2008,
+		1379 A/Perth/33/2008,
+		1380 A/Perth/46/2008,
+		1381 A/Perth/73/2007,
+		1382 A/Perth/81/2008,
+		1383 A/Perth/84/2008,
+		1384 A/Peru/1169/2007,
+		1385 A/Peru/2223/2003,
+		1386 A/Peru/3119/2003,
+		1387 A/Peru/3135/2003,
+		1388 A/Peru/3192/2003,
+		1389 A/Peru/3632/2003,
+		1390 A/Peru/3909/2008,
+		1391 A/Peru/5007/2008,
+		1392 A/Peru/WRAIR1295P/2007,
+		1393 A/Peru/WRAIR1296P/2007,
+		1394 A/Peru/WRAIR1298P/2007,
+		1395 A/Peru/WRAIR1299P/2007,
+		1396 A/Peru/WRAIR1300P/2007,
+		1397 A/Peru/WRAIR1310P/2007,
+		1398 A/Peru/WRAIR1311P/2007,
+		1399 A/Peru/WRAIR1376P/2007,
+		1400 A/Peru/WRAIR1377P/2007,
+		1401 A/Peru/WRAIR1378P/2007,
+		1402 A/Peru/WRAIR1505P/2007,
+		1403 A/Peru/WRAIR1509P/2007,
+		1404 A/Philippines/1159/2008,
+		1405 A/Philippines/1279/2006,
+		1406 A/Philippines/1392/2006,
+		1407 A/Philippines/15/2009,
+		1408 A/Philippines/1619/2007,
+		1409 A/Philippines/3150/2007,
+		1410 A/Philippines/3914/2008,
+		1411 A/Philippines/3983/2008,
+		1412 A/Philippines/4004/2008,
+		1413 A/Philippines/604/2006,
+		1414 A/Philippines/624/2006,
+		1415 A/Philippines/673/2006,
+		1416 A/Philippines/905/2006,
+		1417 A/Philippines/906/2006,
+		1418 A/Philippines/936/2004,
+		1419 A/Philippines/987/2004,
+		1420 A/Philippines/WRAIR1736P/2006,
+		1421 A/Piura/FLU4177/2006,
+		1422 A/Piura/FLU5516/2007,
+		1423 A/Piura/FLU5528/2007,
+		1424 A/Piura/WRAIR1699P/2008,
+		1425 A/Piura/WRAIR1700P/2009,
+		1426 A/Piura/WRAIR1708P/2009,
+		1427 A/Podgorica/4011/2001,
+		1428 A/Poitiers/2168/2003,
+		1429 A/Prachinburi/1817/2004,
+		1430 A/Pucallpa/FLU4323/2006,
+		1431 A/Pucallpa/FLU4335/2006,
+		1432 A/Pucallpa/FLU4812/2006,
+		1433 A/Pucallpa/WRAIR1704P/2009,
+		1434 A/Pucallpa/WRAIR1709P/2009,
+		1435 A/Pune/053601/2005,
+		1436 A/Pune/054093/2005,
+		1437 A/Pune/054096/2005,
+		1438 A/Pune/054277/2005,
+		1439 A/Pune/055169/2005,
+		1440 A/Pune/055180/2005,
+		1441 A/Pune/055182/2005,
+		1442 A/Pune/055194/2005,
+		1443 A/Pune/055200/2005,
+		1444 A/Pune/055210/2005,
+		1445 A/Pune/055301/2005,
+		1446 A/Pune/055698/2005,
+		1447 A/Pune/056134/2005,
+		1448 A/Pune/0614627/2006,
+		1449 A/Pune/0617488/2006,
+		1450 A/Pune/0618948/2006,
+		1451 A/Pune/0622633/2006,
+		1452 A/Pune/0622634/2006,
+		1453 A/Pune/073593/2007,
+		1454 A/Pune/076063/2007,
+		1455 A/Pune/076067/2007,
+		1456 A/Pune/076068/2007,
+		1457 A/Pune/076095/2007,
+		1458 A/Pune/076123/2007,
+		1459 A/Pune/076124/2007,
+		1460 A/Pune/076185/2007,
+		1461 A/Pune/076266/2007,
+		1462 A/Pune/076285/2007,
+		1463 A/Pune/076289/2007,
+		1464 A/Pune/076290/2007,
+		1465 A/Pune/076523/2007,
+		1466 A/Pune/076524/2007,
+		1467 A/Pune/077141/2007,
+		1468 A/Pune/077142/2007,
+		1469 A/Pune/077143/2007,
+		1470 A/Pune/077592/2007,
+		1471 A/Pune/077596/2007,
+		1472 A/Pune/078653/2007,
+		1473 A/Pune/078654/2007,
+		1474 A/Pune/0913414/2009,
+		1475 A/Pune/092377/2009,
+		1476 A/Pune/092406/2009,
+		1477 A/Puno/FLU4315/2006,
+		1478 A/Puno/FLU4316/2006,
+		1479 A/Pusan/22/2002,
+		1480 A/Pusan/23/2002,
+		1481 A/Pusan/24/2002,
+		1482 A/Pusan/44/2002,
+		1483 A/Pusan/45/2002,
+		1484 A/Pusan/46/2002,
+		1485 A/Pusan/47/2002,
+		1486 A/Quito/FLU5162/2007,
+		1487 A/Ratchaburi/1847/2004,
+		1488 A/Rheinland-Pfalz/1/2006,
+		1489 A/Rheinland-Pfalz/58/2005,
+		1490 A/Rhode-Island/1/2003,
+		1491 A/Ribeirao-Preto/1885/2006,
+		1492 A/RioGdoSul/358/02,
+		1493 A/RiodeJaneiro/20/00,
+		1494 A/RiodeJaneiro/21/00,
+		1495 A/RiodeJaneiro/404/01,
+		1496 A/Romania/390/2005,
+		1497 A/Romania/493/2005,
+		1498 A/Romania/605/2005,
+		1499 A/Romania/953/2003,
+		1500 A/Sachsen/14/2005,
+		1501 A/Sakaew/2132/2004,
+		1502 A/Santa_Cruz/WRAIR1706P/2008,
+		1503 A/Santiago/1412/2008,
+		1504 A/Santiago/4689/2008,
+		1505 A/Santiago/5087/2008,
+		1506 A/Santiago/5248/2008,
+		1507 A/Santiago/5250/2008,
+		1508 A/Santiago/5580/2008,
+		1509 A/Santiago/5593/2008,
+		1510 A/Santiago/6892/2008,
+		1511 A/Sapporo/174/2000,
+		1512 A/Sapporo/186/2002,
+		1513 A/Scotland/1/2004,
+		1514 A/Scotland/1/2006,
+		1515 A/Scotland/2/2004,
+		1516 A/Scotland/5/2007,
+		1517 A/Scotland/60380622/2006,
+		1518 A/Seoul/11/2002,
+		1519 A/Seoul/13/2002,
+		1520 A/Seoul/15/2002,
+		1521 A/Seoul/33/2002,
+		1522 A/Seoul/4437/2008,
+		1523 A/Shandong/Lixia159/2008,
+		1524 A/Shanghai/LWS1/2009,
+		1525 A/Shanghai/N23/2008,
+		1526 A/Shanghai/N24/2008,
+		1527 A/Shanghai/N25/2008,
+		1528 A/Shanghai/N26/2008,
+		1529 A/Shanghai/N27/2008,
+		1530 A/Shanghai/N28/2008,
+		1531 A/Shanghai/N29/2008,
+		1532 A/Shanghai/N30/2008,
+		1533 A/Shanghai/N31/2008,
+		1534 A/Shanghai/N32/2008,
+		1535 A/Shanghai/N33/2008,
+		1536 A/Shanghai/N34/2008,
+		1537 A/Shanghai/N35/2008,
+		1538 A/Shanghai/N36/2008,
+		1539 A/Shanghai/N37/2008,
+		1540 A/Shanghai/Nanhui1156/2008,
+		1541 A/Shanghai/Nanhui1167/2008,
+		1542 A/Shannxi-Beilin/1264/2008,
+		1543 A/Shantou/92/2009,
+		1544 A/Shanxi-Beilin/196/2009,
+		1545 A/Shanxi/Beilin1134/2008,
+		1546 A/Shanxi/Weicheng157/2008,
+		1547 A/Shenzhen/141/2005,
+		1548 A/Shenzhen/168/2005,
+		1549 A/Shenzhen/86/2005,
+		1550 A/Shiga/12/2002,
+		1551 A/Shiga/16/2001E,
+		1552 A/Shizuoka/761/2000,
+		1553 A/Sichuan-Jinyang/2226/2008,
+		1554 A/Sichuan/644/2002,
+		1555 A/Sichuan/Dongqu193/2006,
+		1556 A/Sichuan/Jianwei37/2006,
+		1557 A/Singapore/07/2009,
+		1558 A/Singapore/10/2008,
+		1559 A/Singapore/103/2006,
+		1560 A/Singapore/104/2008,
+		1561 A/Singapore/107/2005,
+		1562 A/Singapore/14/2004,
+		1563 A/Singapore/201/2008,
+		1564 A/Singapore/224/2008,
+		1565 A/Singapore/227/2008,
+		1566 A/Singapore/228/2008,
+		1567 A/Singapore/23/2004,
+		1568 A/Singapore/36/2006,
+		1569 A/Singapore/36/2007,
+		1570 A/Singapore/39/2008,
+		1571 A/Singapore/41/2006,
+		1572 A/Singapore/42/2008,
+		1573 A/Singapore/43/2007,
+		1574 A/Singapore/46/2007,
+		1575 A/Singapore/54/2006,
+		1576 A/Singapore/58/2006,
+		1577 A/Singapore/600/2008,
+		1578 A/Singapore/609/2008,
+		1579 A/Singapore/613/2008,
+		1580 A/Singapore/62/2004,
+		1581 A/Singapore/63/2007,
+		1582 A/Singapore/66/2006,
+		1583 A/Singapore/69/2006,
+		1584 A/Singapore/70/2006,
+		1585 A/Singapore/72/2006,
+		1586 A/Singapore/73/2006,
+		1587 A/Singapore/92/2005,
+		1588 A/Singapore/GP101/2009,
+		1589 A/Slovenia/123/2008,
+		1590 A/Slovenia/131/2008,
+		1591 A/Solomon-Islands/03/2006,
+		1592 A/Solomon-Islands/3/2006,
+		1593 A/South-Australia/1/2008,
+		1594 A/South-Australia/423//2007,
+		1595 A/South-Australia/51/2005,
+		1596 A/South-Australia/55/2005,
+		1597 A/South-Canterbury/15/2001,
+		1598 A/South-Canterbury/159/2001,
+		1599 A/South-Canterbury/31/2000,
+		1600 A/South-Canterbury/35/2000,
+		1601 A/South-Canterbury/40/2000,
+		1602 A/South-Canterbury/50/2000,
+		1603 A/South-Canterbury/59/2000,
+		1604 A/South-Carolina/WRAIR1112P/2009,
+		1605 A/South-Dakota/02/2008,
+		1606 A/South-Dakota/02/2009,
+		1607 A/South-Dakota/03/2007,
+		1608 A/South-Dakota/06/2007,
+		1609 A/South-Korea/AF10/2008,
+		1610 A/South_Australia/4/2008,
+		1611 A/South_Australia/56/2005,
+		1612 A/South_Australia/57/2005,
+		1613 A/South_Australia/58/2005,
+		1614 A/South_Korea/WRAIR1238P/2009,
+		1615 A/Sri-Lanka/22/2007,
+		1616 A/Stockholm/1/2009,
+		1617 A/Stockholm/18/2007,
+		1618 A/Stockholm/22/2008,
+		1619 A/Stockholm/28/2008,
+		1620 A/Stockholm/29/2008,
+		1621 A/Stockholm/30/2008,
+		1622 A/Stockholm/4/2009,
+		1623 A/Stockholm/46/2009,
+		1624 A/Stockholm/5/2009,
+		1625 A/Stockholm/6/2008,
+		1626 A/Stockholm/6/2009,
+		1627 A/Stockholm/7/2009,
+		1628 A/Stockholm/8/2009,
+		1629 A/Sullana/FLU4635/2006,
+		1630 A/Sullana/FLU5305/2007,
+		1631 A/Sullana/WRAIR1707P/2009,
+		1632 A/Suphanburi/2129/2004,
+		1633 A/Sweden/1/2009,
+		1634 A/Sweden/10/2008,
+		1635 A/Sweden/8/2008,
+		1636 A/Switzerland/5684/2001,
+		1637 A/Switzerland/5773/2001,
+		1638 A/Sydney/10/2008,
+		1639 A/Sydney/11/2008,
+		1640 A/Sydney/12/2008,
+		1641 A/Sydney/14/2008,
+		1642 A/Sydney/142/2007,
+		1643 A/Sydney/15/2008,
+		1644 A/Sydney/16/2008,
+		1645 A/Sydney/549/2005,
+		1646 A/Sydney/550/2005,
+		1647 A/Sydney/581/2007,
+		1648 A/Sydney/601/2009,
+		1649 A/Sydney/605/2009,
+		1650 A/Sydney/65/2005,
+		1651 A/Sydney/7/2008,
+		1652 A/Sydney/9/2008,
+		1653 A/Taiwan/0045/2006,
+		1654 A/Taiwan/0258/2008,
+		1655 A/Taiwan/0586/2006,
+		1656 A/Taiwan/10092/2007,
+		1657 A/Taiwan/10103/2008,
+		1658 A/Taiwan/1026/2009,
+		1659 A/Taiwan/10393/2005,
+		1660 A/Taiwan/11526/2008,
+		1661 A/Taiwan/123/2002,
+		1662 A/Taiwan/141/2002,
+		1663 A/Taiwan/1559/2004,
+		1664 A/Taiwan/1571/2004,
+		1665 A/Taiwan/1574/2004,
+		1666 A/Taiwan/161/2006,
+		1667 A/Taiwan/192/2006,
+		1668 A/Taiwan/2645/2006,
+		1669 A/Taiwan/2823/2008,
+		1670 A/Taiwan/2832/2008,
+		1671 A/Taiwan/2885/2008,
+		1672 A/Taiwan/2900/2006,
+		1673 A/Taiwan/2985/2002,
+		1674 A/Taiwan/308/2007,
+		1675 A/Taiwan/3293/2008,
+		1676 A/Taiwan/3700/2007,
+		1677 A/Taiwan/375/2008,
+		1678 A/Taiwan/378/2007,
+		1679 A/Taiwan/392/2008,
+		1680 A/Taiwan/401/2008,
+		1681 A/Taiwan/42/2006,
+		1682 A/Taiwan/421/2006,
+		1683 A/Taiwan/433/2009,
+		1684 A/Taiwan/50/2005,
+		1685 A/Taiwan/52/2002,
+		1686 A/Taiwan/54/2005,
+		1687 A/Taiwan/544/2008,
+		1688 A/Taiwan/5505/2006,
+		1689 A/Taiwan/5515/2005,
+		1690 A/Taiwan/5524/2005,
+		1691 A/Taiwan/567/2002,
+		1692 A/Taiwan/5857/2008,
+		1693 A/Taiwan/5858/2008,
+		1694 A/Taiwan/602/2005,
+		1695 A/Taiwan/603/2005,
+		1696 A/Taiwan/606/2008,
+		1697 A/Taiwan/637/2008,
+		1698 A/Taiwan/638/2008,
+		1699 A/Taiwan/639/2008,
+		1700 A/Taiwan/648/2008,
+		1701 A/Taiwan/6566/2006,
+		1702 A/Taiwan/6723/2008,
+		1703 A/Taiwan/70013/2008,
+		1704 A/Taiwan/70126/2006,
+		1705 A/Taiwan/70132/2008,
+		1706 A/Taiwan/70167/2008,
+		1707 A/Taiwan/71720/2007,
+		1708 A/Taiwan/782/2007,
+		1709 A/Taiwan/785/2006,
+		1710 A/Taiwan/820/2007,
+		1711 A/Taiwan/835/2007,
+		1712 A/Taiwan/8885/2008,
+		1713 A/Taiwan/8949/2008,
+		1714 A/Taiwan/9042/2008,
+		1715 A/Taiwan/N510/2008,
+		1716 A/Taiwan/N86/2006,
+		1717 A/TayNguyen/TN161/2006,
+		1718 A/TayNguyen/TN178/2006,
+		1719 A/TayNguyen/TN182/2006,
+		1720 A/TayNguyen/TN334/2005,
+		1721 A/TayNguyen/TN371/2005,
+		1722 A/TayNinh/HCM1329/2008,
+		1723 A/Tennessee/09/2009,
+		1724 A/Tennessee/11/2008,
+		1725 A/Tennessee/UR06-0106/2007,
+		1726 A/Tennessee/UR06-0151/2007,
+		1727 A/Tennessee/UR06-0234/2007,
+		1728 A/Tennessee/UR06-0236/2007,
+		1729 A/Texas/01/2009,
+		1730 A/Texas/05/2007,
+		1731 A/Texas/08/2008,
+		1732 A/Texas/09/2008,
+		1733 A/Texas/1/2003,
+		1734 A/Texas/15/2008,
+		1735 A/Texas/16/2008,
+		1736 A/Texas/18/2003,
+		1737 A/Texas/18/2008,
+		1738 A/Texas/23/2008,
+		1739 A/Texas/25/2006,
+		1740 A/Texas/32/2008,
+		1741 A/Texas/38/2009,
+		1742 A/Texas/78/2007,
+		1743 A/Texas/UR06-0012/2006,
+		1744 A/Texas/UR06-0203/2007,
+		1745 A/Texas/UR06-0342/2007,
+		1746 A/Texas/UR06-0461/2007,
+		1747 A/Texas/UR06-0502/2007,
+		1748 A/Texas/WRAIR1115P/2009,
+		1749 A/ThaiBinh/TB289/2008,
+		1750 A/Thailand/1026/2008,
+		1751 A/Thailand/1035/2008,
+		1752 A/Thailand/1037/2008,
+		1753 A/Thailand/1577/2007,
+		1754 A/Thailand/28/2005,
+		1755 A/Thailand/337/2006,
+		1756 A/Thailand/358/2008,
+		1757 A/Thailand/364/2006,
+		1758 A/Thailand/375/2008,
+		1759 A/Thailand/380/2006,
+		1760 A/Thailand/380/2008,
+		1761 A/Thailand/381/2008,
+		1762 A/Thailand/39/2008,
+		1763 A/Thailand/391/2006,
+		1764 A/Thailand/395/2006,
+		1765 A/Thailand/398/2006,
+		1766 A/Thailand/401/2006,
+		1767 A/Thailand/404/2006,
+		1768 A/Thailand/424/2006,
+		1769 A/Thailand/427/2008,
+		1770 A/Thailand/486/2007,
+		1771 A/Thailand/500/2007,
+		1772 A/Thailand/501/2007,
+		1773 A/Thailand/545/2007,
+		1774 A/Thailand/580/2006,
+		1775 A/Thailand/63/2005,
+		1776 A/Thailand/674/2006,
+		1777 A/Thailand/676/2006,
+		1778 A/Thailand/677/2006,
+		1779 A/Thailand/689/2006,
+		1780 A/Thailand/708/2006,
+		1781 A/Thailand/711/2007,
+		1782 A/Thailand/717/2006,
+		1783 A/Thailand/718/2006,
+		1784 A/Thailand/76/2006,
+		1785 A/Thailand/767/2007,
+		1786 A/Thailand/777/2007,
+		1787 A/Thailand/778/2007,
+		1788 A/Thailand/798/2006,
+		1789 A/Thailand/81/2005,
+		1790 A/Thailand/874/2008,
+		1791 A/Thailand/933/2008,
+		1792 A/Thailand/CU32/2006,
+		1793 A/Thailand/CU44/2006,
+		1794 A/Thailand/CU57/2006,
+		1795 A/Thailand/CU67/2006,
+		1796 A/Thailand/CU68/2006,
+		1797 A/Thailand/CU75/2006,
+		1798 A/Thailand/CU88/2006,
+		1799 A/Thailand/CU_B267/2009,
+		1800 A/Thailand/CU_B42/2009,
+		1801 A/Thailand/CU_B589/2009,
+		1802 A/Thailand/CU_B685/2009,
+		1803 A/Thailand/CU_B97/2009,
+		1804 A/Thailand/CU_H17/2009,
+		1805 A/Thailand/CU_H223/2009,
+		1806 A/Thailand/CU_H565/2009,
+		1807 A/Thailand/Siriraj-07/2000,
+		1808 A/Thailand/Siriraj_3043/2009,
+		1809 A/Thailand/Siriraj_Rama_TT/2004,
+		1810 A/Thessalonika/24/2005,
+		1811 A/Thueringen/40/2005,
+		1812 A/Tianjin-Jinnan/12/2009,
+		1813 A/Tianjin/15/2009,
+		1814 A/Tianjin/27/2005,
+		1815 A/Tianjin/452/2005,
+		1816 A/Tianjin/Hongqiao1120/2008,
+		1817 A/Tianjin/Hongqiao113/2007,
+		1818 A/Tianjin/Hongqiao115/2008,
+		1819 A/Tianjin/Hongqiao14/2007,
+		1820 A/Tianjin/Jinnan1158/2008,
+		1821 A/Tianjin/Jinnan123/2007,
+		1822 A/Tianjin/Nankai1245/2006,
+		1823 A/Tokushima/3/2002,
+		1824 A/Tottori/08T010/2008,
+		1825 A/Tottori/52/2008,
+		1826 A/Toulouse/1401/2007,
+		1827 A/Townsville/1/2009,
+		1828 A/Trieste/16/2008,
+		1829 A/Trieste/21/2001,
+		1830 A/Trujillo/WRAIR1701P/2008,
+		1831 A/Tumbes/AST310/2006,
+		1832 A/Tumbes/AST444/2007,
+		1833 A/Tumbes/AST451/2007,
+		1834 A/Tumbes/FLU4943/2006,
+		1835 A/Tumbes/FST100/2007,
+		1836 A/Ukraine/362/2008,
+		1837 A/Ukraine/373/2008,
+		1838 A/Ukraine/377/2008,
+		1839 A/Ukraine/387/2008,
+		1840 A/Ulsan/752/2005,
+		1841 A/Umea/1/2000,
+		1842 A/Uruguay/03/2008,
+		1843 A/Uruguay/07/2008,
+		1844 A/Uruguay/08/2008,
+		1845 A/Uruguay/22/2008,
+		1846 A/Uruguay/34/2008,
+		1847 A/Valparaiso/514/2007,
+		1848 A/Valparaiso/5366/2008,
+		1849 A/Valparaiso/5370/2008,
+		1850 A/Venezuela/3571/2008,
+		1851 A/Vermont/UR06-0035/2007,
+		1852 A/Vermont/UR06-0485/2007,
+		1853 A/Vermont/UR06-0511/2007,
+		1854 A/Vermont/UR06-0576/2007,
+		1855 A/Victoria/07159220/2007,
+		1856 A/Victoria/124/2005,
+		1857 A/Victoria/500/2006,
+		1858 A/Victoria/501/2007,
+		1859 A/Victoria/501/2008,
+		1860 A/Victoria/504/2005,
+		1861 A/Vienna/414/2007,
+		1862 A/Vietnam/100/2008,
+		1863 A/Vietnam/160/2008,
+		1864 A/Vietnam/233/2008,
+		1865 A/Vietnam/241/2008,
+		1866 A/Vietnam/289/2008,
+		1867 A/Vietnam/4212/2008,
+		1868 A/Virginia/20/2003,
+		1869 A/Virginia/4/2005,
+		1870 A/Virginia/UR06-0107/2007,
+		1871 A/Virginia/UR06-0117/2007,
+		1872 A/Waikato/01/2007,
+		1873 A/Waikato/10/2001,
+		1874 A/Waikato/11/2005,
+		1875 A/Waikato/13/2005,
+		1876 A/Waikato/14/2005,
+		1877 A/Waikato/16/2001,
+		1878 A/Waikato/17/2005,
+		1879 A/Waikato/18/2000,
+		1880 A/Waikato/18/2001,
+		1881 A/Waikato/19/2000,
+		1882 A/Waikato/20/2001,
+		1883 A/Waikato/3/2001,
+		1884 A/Waikato/4/2001,
+		1885 A/Waikato/4/2005,
+		1886 A/Waikato/42/2001,
+		1887 A/Waikato/51/2001,
+		1888 A/Waikato/7/2001,
+		1889 A/Waikato/80/2001,
+		1890 A/Waikato/92/2001,
+		1891 A/Wellington/1/2001,
+		1892 A/Wellington/10/2005,
+		1893 A/Wellington/11/2000,
+		1894 A/Wellington/11/2005,
+		1895 A/Wellington/12/2005,
+		1896 A/Wellington/13/2005,
+		1897 A/Wellington/14/2000,
+		1898 A/Wellington/14/2005,
+		1899 A/Wellington/16/2000,
+		1900 A/Wellington/17/2001,
+		1901 A/Wellington/18/2000,
+		1902 A/Wellington/2/2000,
+		1903 A/Wellington/24/2000,
+		1904 A/Wellington/28/2001,
+		1905 A/Wellington/3/2000,
+		1906 A/Wellington/3/2001,
+		1907 A/Wellington/32/2001,
+		1908 A/Wellington/4/2000,
+		1909 A/Wellington/5/2000,
+		1910 A/Wellington/6/2000,
+		1911 A/Wellington/7/2000,
+		1912 A/Wellington/75/2006,
+		1913 A/Wellington/9/2001,
+		1914 A/West-Coast/31/2001,
+		1915 A/West-Coast/33/2001,
+		1916 A/Western-Australia/18/2001,
+		1917 A/Western-Australia/19/2001,
+		1918 A/Western-Australia/20/2001,
+		1919 A/Western-Australia/21/2001,
+		1920 A/Western-Australia/22/2001,
+		1921 A/Western-Australia/77/2005,
+		1922 A/Wisconsin/01/2008,
+		1923 A/Wisconsin/02/2009,
+		1924 A/Wisconsin/14/2009,
+		1925 A/Wisconsin/16/2008,
+		1926 A/Wisconsin/24/2006,
+		1927 A/Wisconsin/25/2003,
+		1928 A/Wisconsin/37/2006,
+		1929 A/Wisconsin/47/2006,
+		1930 A/Wisconsin/48/2006,
+		1931 A/Wisconsin/49/2006,
+		1932 A/Wisconsin/51/2006,
+		1933 A/Wisconsin/52/2006,
+		1934 A/Wisconsin/53/2006,
+		1935 A/Wisconsin/54/2006,
+		1936 A/Wisconsin/58/2006,
+		1937 A/Wisconsin/73/2005,
+		1938 A/Wuhan/293/2005,
+		1939 A/Wuhan/300/2005,
+		1940 A/Wyoming/14/2003,
+		1941 A/Wyoming/4/2003,
+		1942 A/Yamagata/1/2008,
+		1943 A/Yamagata/10/2009,
+		1944 A/Yamagata/12/2008,
+		1945 A/Yamagata/120/2008,
+		1946 A/Yamagata/125/2008,
+		1947 A/Yamagata/126/2008,
+		1948 A/Yamagata/128/2008,
+		1949 A/Yamagata/13/2008,
+		1950 A/Yamagata/133/2008,
+		1951 A/Yamagata/137/2008,
+		1952 A/Yamagata/16/2009,
+		1953 A/Yamagata/162/2000,
+		1954 A/Yamagata/20/2009,
+		1955 A/Yamagata/26/2009,
+		1956 A/Yamagata/29/2009,
+		1957 A/Yamagata/36/2009,
+		1958 A/Yamagata/39/2008,
+		1959 A/Yamagata/45/2009,
+		1960 A/Yamagata/48/2009,
+		1961 A/Yamagata/50/2008,
+		1962 A/Yamagata/51/2009,
+		1963 A/Yamagata/53/2009,
+		1964 A/Yamagata/55/2009,
+		1965 A/Yamagata/57/2009,
+		1966 A/Yamagata/61/2009,
+		1967 A/Yamagata/63/2008,
+		1968 A/Yamagata/66/2008,
+		1969 A/Yamagata/67/2008,
+		1970 A/Yamagata/68/2008,
+		1971 A/Yamagata/69/2008,
+		1972 A/Yamagata/71/2008,
+		1973 A/Yamagata/74/2008,
+		1974 A/Yamagata/76/2009,
+		1975 A/Yamagata/77/2009,
+		1976 A/Yamagata/80/2009,
+		1977 A/Yamagata/81/2008,
+		1978 A/Yamaguchi/12/2002,
+		1979 A/Yamanashi/1/2002,
+		1980 A/Yokohama/12/2000,
+		1981 A/Yokohama/62/2002,
+		1982 A/Yokohama/78/2008,
+		1983 A/Yuelu/314/2009,
+		1984 A/Yunnan/477/2005,
+		1985 A/Yunnan/Mengzi1441/2008,
+		1986 A/Yurimaguas/FLU4416/2006,
+		1987 A/Yurimaguas/FLU4785/2006,
+		1988 A/Zagreb/1982/2008,
+		1989 A/Zhuhai/080/2008,
+		1990 A/Zhuhai/119/2006,
+		1991 A/Zhuhai/159/2008,
+		1992 A/Zhuhai/292/2006,
+		1993 A/Zhuhai/621/2008,
+		1994 A/Zhuhai/659/2008,
+		1995 A/Zhuhai/753/2008,
+		1996 A/Zhuhai/790/2008,
+		1997 A/Zhuhai/891/2008,
+		1998 A/taiwan/650/2008,
+		1999 ANHUI-HEFEI-BAOHE/1351/2009,
+		2000 ANHUI-HEFEI-BAOHE/1392/2009,
+		2001 ANHUI-HEFEI-BAOHE/1613/2008,
+		2002 ANHUI-HEFEI-LUYANG/1434/2009,
+		2003 BEIJING-CHAOYANG/11263/2009,
+		2004 BEIJING-CHAOYANG/11405/2009,
+		2005 BEIJING-CHAOYANG/1583/2010,
+		2006 BEIJING-CHAOYANG/1792/2009,
+		2007 BEIJING-HUAIROU/14/2009,
+		2008 BEIJING-XICHENG/1124/2009,
+		2009 BEIJING-XICHENG/12/2009,
+		2010 BEIJING-XICHENG/124/2009,
+		2011 BEIJING-XICHENG/1266/2008,
+		2012 BEIJING-XICHENG/185/2009,
+		2013 BEIJING-XUANWU/1166/2008,
+		2014 FUJIAN-FUZHOU-GULOU/11254/2008,
+		2015 FUJIAN-FUZHOU-GULOU/1333/2009,
+		2016 FUJIAN-FUZHOU-GULOU/1547/2009,
+		2017 FUJIAN-LONGYAN-SHANGHANG/523/2009,
+		2018 FUJIAN-NANPING-YANPING/1206/2009,
+		2019 FUJIAN-NANPING-YANPING/28/2009,
+		2020 FUJIAN-PUTIAN-XIANYOU/1164/2008,
+		2021 FUJIAN-QUANZHOU-SHISHI/51/2009,
+		2022 FUJIAN-XIAMEN-SIMING/144/2009,
+		2023 GANSU-LANZHOU-CHENGGUAN/1759/2008,
+		2024 GANSU-LANZHOU-CHENGGUAN/1820/2008,
+		2025 GANSU-LANZHOU-CHENGGUAN/1837/2008,
+		2026 GANSU-LANZHOU-CHENGGUAN/1856/2008,
+		2027 GANSU-LANZHOU/121/2009,
+		2028 GANSU-LONGNAN-XIHE/33/2008,
+		2029 GUANGDONG-MAOMING-MAONAN/51/2009,
+		2030 GUANGDONG-SHENZHEN-FUTIAN/174/2009,
+		2031 GUANGDONG-SHENZHEN-LUOHU/1151/2009,
+		2032 GUANGDONG-YUNFU-YUNCHENG/1193/2009,
+		2033 GUANGDONG-YUNFU-YUNCHENG/1944/2009,
+		2034 GUANGXI-NANNING-LONGAN/313/2009,
+		2035 GUANGXI-NANNING-QINGXIU/1161/2008,
+		2036 GUANGXI-NANNING-QINGXIU/195/2009,
+		2037 HEBEI-BAODING-XINSHI/117/2009,
+		2038 HEBEI-SHIJIAZHUANG-LUQUAN/510/2009,
+		2039 HEILONGJIANG-HARBIN-DAOLI/112/2009,
+		2040 HEILONGJIANG-HARBIN-NANGANG/1110/2009,
+		2041 HEILONGJIANG-HARBIN-XIANGFANG/16/2009,
+		2042 HEILONGJIANG-HARBIN-XIANGFANG/169/2009,
+		2043 HEILONGJIANG-MUDANJIANG-HAILIN/15/2009,
+		2044 HEILONGJIANG-MUDANJIANG-LONGSHA/16/2009,
+		2045 HENAN-LUOYANG-XIGONG/18/2009,
+		2046 HENAN-ZHENGZHOU-JINSHUI/125/2009,
+		2047 HENAN-ZHENGZHOU-JINSHUI/51/2009,
+		2048 HENAN-ZHENGZHOU-ZHONGYUAN/111/2009,
+		2049 HENAN-ZHENGZHOU-ZHONGYUAN/1454/2010,
+		2050 HUBEI-SHIYAN-YUN/331/2009,
+		2051 HUBEI-WUHAN-JIANGAN/117/2009,
+		2052 HUBEI-WUHAN-JIANGAN/1316/2008,
+		2053 HUBEI-WUHAN-JIANGAN/1317/2008,
+		2054 HUBEI-WUHAN-JIANGAN/1321/2008,
+		2055 HUBEI-WUHAN-JIANGAN/1329/2008,
+		2056 HUBEI-WUHAN-JIANGAN/1332/2008,
+		2057 HUBEI-XIANGFAN-XIANGCHENG/312/2009,
+		2058 HUBEI-YICHANG-WUJIAGANG/138/2009,
+		2059 HUBEI-YICHANG-WUJIAGANG/1410/2008,
+		2060 HUBEI-YICHANG-YIDU/314/2009,
+		2061 HUNAN-CHANGDE-WULING/1120/2009,
+		2062 HUNAN-CHANGSHA-FURONG/1118/2009,
+		2063 HUNAN-CHANGSHA-FURONG/112/2009,
+		2064 HUNAN-CHANGSHA-FURONG/1280/2008,
+		2065 HUNAN-CHANGSHA-YUELU/310/2009,
+		2066 HUNAN-CHANGSHA-YUELU/32/2009,
+		2067 HUNAN-CHANGSHA-YUELU/37/2009,
+		2068 HUNAN-CHENZHOU-BEIHU/1237/2009,
+		2069 HUNAN-HENGYANG-LEIYANG/32/2008,
+		2070 HUNAN-HENGYANG-LEIYANG/39/2009,
+		2071 HUNAN-YUEYANG-YUEYANGLOU/317/2009,
+		2072 HUNAN-ZHUZHOU-LUSONG/1198/2009,
+		2073 JIANGSU-NANJING-GULOU/11/2009,
+		2074 JIANGSU-NANJING-GULOU/110/2009,
+		2075 JIANGSU-NANJING-QINHUAI/127/2008,
+		2076 JIANGSU-NANJING-XIAGUAN/1365/2008,
+		2077 JIANGSU-XUZHOU-QUANSHAN/195/2008,
+		2078 JIANGSU-XUZHOU-QUANSHAN/377/2009,
+		2079 JIANGXI-GANZHOU-ZHANGGONG/118/2009,
+		2080 JIANGXI-GANZHOU-ZHANGGONG/1218/2009,
+		2081 JIANGXI-YICHUN-YUANZHOU/1119/2009,
+		2082 JIANGXI-YICHUN-YUANZHOU/11218/2009,
+		2083 JIANGXI-YICHUN-YUANZHOU/14/2009,
+		2084 JILIN-CHANGCHUN-CHAOYANG/111/2009,
+		2085 JILIN-CHANGCHUN-CHAOYANG/1188/2008,
+		2086 JILIN-CHANGCHUN-CHAOYANG/1258/2008,
+		2087 JILIN-CHANGCHUN-CHAOYANG/1295/2008,
+		2088 JILIN-JILIN-CHUANYING/121/2009,
+		2089 JILIN-JILIN-CHUANYING/163/2009,
+		2090 JILIN-JILIN-CHUANYING/18/2009,
+		2091 LIAONING-BENXI-MINGSHAN/1254/2009,
+		2092 LIAONING-DANDONG-DONGGANG/120/2010,
+		2093 LIAONING-DANDONG-ZHENXING/1117/2009,
+		2094 LIAONING-DANDONG-ZHENXING/1686/2010,
+		2095 LIAONING-DANDONG-ZHENXING/175/2009,
+		2096 LIAONING-LIAOYANG-TIEDONG/14/2009,
+		2097 NINGXIA-GUYUAN-YUANZHOU/168/2008,
+		2098 NINGXIA-SHIZUISHAN-DAWUKOU/186/2008,
+		2099 NINGXIA-SHIZUISHAN-PINGLUO/51/2008,
+		2100 NINGXIA-YINCHUAN-XINGQING/233/2009,
+		2101 NINGXIA-ZHONGWEI-ZHONGNING/17/2009,
+		2102 SHAANXI-XIAN-BEILIN/1383/2008,
+		2103 SHANDONG-JINAN-HUAIYIN/11/2009,
+		2104 SHANDONG-JINAN-HUAIYIN/1106/2009,
+		2105 SHANDONG-JINAN-HUAIYIN/148/2009,
+		2106 SHANDONG-JINAN-HUAIYIN/162/2009,
+		2107 SHANDONG-JINAN-HUAIYIN/19/2009,
+		2108 SHANDONG-JINAN-LIXIA/1109/2008,
+		2109 SHANDONG-JINAN-LIXIA/1112/2008,
+		2110 SHANDONG-JINAN-LIXIA/1113/2008,
+		2111 SHANDONG-JINAN-LIXIA/113/2009,
+		2112 SHANDONG-JINAN-LIXIA/12/2009,
+		2113 SHANDONG-JINAN-LIXIA/13/2009,
+		2114 SHANDONG-JINAN-LIXIA/197/2008,
+		2115 SHANDONG-TAIAN-TAISHAN/126/2009,
+		2116 SHANDONG-TAIAN-TAISHAN/449/2009,
+		2117 SHANGHAI-NANHUI/111/2009,
+		2118 SHANGHAI-NANHUI/1115/2008,
+		2119 SHANGHAI-NANHUI/1203/2008,
+		2120 SHANGHAI-NANHUI/1203/2009,
+		2121 SHANGHAI-PUDONG-XIN/2115/2008,
+		2122 SHANGHAI-PUDONG-XIN/217/2009,
+		2123 SHANXI-JINZHONG-TAIGU/118/2009,
+		2124 SHANXI-TAIYUAN-CHENGQU/1261/2008,
+		2125 SICHUAN-CHENGDU-WUHOU/51/2009,
+		2126 SICHUAN-PANZHIHUA-EAST/1827/2009,
+		2127 SICHUAN-PANZHIHUA-EAST/1836/2009,
+		2128 SICHUAN-PANZHIHUA-WEST/325/2009,
+		2129 SICHUAN-ZIYANG-ANYUE/154/2009,
+		2130 TIANJIN-HEDONG/119/2009,
+		2131 TIANJIN-HEDONG/1191/2008,
+		2132 TIANJIN-HEDONG/1192/2008,
+		2133 TIANJIN-HEXI/1125/2008,
+		2134 TIANJIN-HEXI/121/2009,
+		2135 TIANJIN-HONGQIAO/1120/2008,
+		2136 TIANJIN-HONGQIAO/19/2009,
+		2137 TIANJIN-JINNAN/15/2009,
+		2138 XINJIANG-CHANGJI-HUI-HUTUBI/11/2009,
+		2139 XINJIANG-CHANGJI/110/2009,
+		2140 YUNNAN-KUNMING-WUHUA/327/2009,
+		2141 YUNNAN-KUNMING-XISHAN/188/2008,
+		2142 ZHEJIANG-LISHUI-LIANDU/1339/2009,
+		2143 ZHEJIANG-ZHOUSHAN-HAISHU/1632/2008,
+		2144 ZHEJIANG-ZHOUSHAN-HAISHU/1633/2008
+		;
+tree UNTITLED = [&U] (1:0.0010289304,(((((((((((((((((((((((((((((((((((((((((((((((((((((((((2:0.0010337016,8:1e-06):1.9964e-06,642:0.0010470236):0.0010114622,(((627:0.0017758557,1672:0.0023714024):0.0005827138,748:0.0010312044):1.1161e-06,1681:0.0019654748):2.2342e-06):2.136e-06,812:1e-06):1.5656e-06,317:1e-06):1.1138e-06,968:0.000844291):1.1067e-06,((((62:0.0017344992,1020:0.0017751897):2.1241e-06,(((((625:0.0017778101,(747:0.0010327659,1718:0.0019755606):0.0009884605):2.1095e-06,(626:0.0011832516,(((((662:1e-06,664:1e-06):1e-06,958:0.0005905935):2.4327e-06,1840:0.003100217):0.0005864029,957:1e-06):2.1161e-06,663:1e-06):2.6429e-06):2.4415e-06):1e-06,1717:0.0011837757):2.8617e-06,1719:0.0023698062):0.0005430624,925:0.0019667206):4.74059e-05):0.0005903466,((((((((((178:0.0017303917,(985:2.8694e-06,1406:0.0017184606):0.0005746857):1.2363e-06,1416:0.0025821118):1.6734e-06,1568:1e-06):2.4182e-06,1582:0.0017809319):2.5063e-06,1405:0.0025799459):2.1026e-06,(1413:1e-06,1417:1e-06):0.0008540065):3.1285e-06,982:0.0005901482):2.1249e-06,(((382:1.9707e-06,386:0.0041499105):0.0041405019,1592:2.1422e-06):0.0011813801,((1373:0.0008588751,(1576:0.0045999413,1583:0.0017268172):1e-06):2.2883e-06,((1584:0.0017261105,1777:0.0025751055):0.0008519908,1586:0.00216389):0.0007093666):0.0007084982):2.1348e-06):1.9765e-06,((1021:0.000308593,((1571:1e-06,1585:0.0006102623):2.8109e-06,1575:0.0017986527):0.0005668599):0.0003065822,(1420:0.0005907014,(1668:0.0011810176,1709:1e-06):2.5537e-06):0.0005901174):2.0392e-06):1.9965e-06,(1591:0.0011810011,1779:0.0018455574):2.1267e-06):0.0011829784):2.0043e-06,(((((((((315:0.0018720187,(954:0.0031622413,1422:0.0019153989):1e-06):0.0009337428,1630:0.0009598114):2.7533e-06,1384:0.0017778563):0.000592445,1030:0.0018314398):0.0005920907,(1423:0.0027192973,1834:0.0009553716):2.0903e-06):0.001185379,(((955:0.0010588544,1833:0.0018118659):1e-06,1832:0.0009043302):2.1596e-06,(1478:0.0009246654,1835:0.0009332353):1e-06):2.1941e-06):0.0011846621,((469:0.0005895424,470:1e-06):0.0011826256,1271:0.0017744646):0.0011888632):2.1659e-06,((((848:0.0008997518,1629:0.0009053185):0.0008965012,(1421:0.0025799116,(1431:0.0008944491,1986:0.0018156342):0.0008982651):2.0032e-06):2.2428e-06,(1432:0.0028228485,1477:0.0008917255):1.80121e-05):2.0327e-06,(1430:1e-06,1831:0.0009192916):0.0008974676):2.0267e-06):0.0017706043,511:0.0011821823):2.4684e-06):2.0889e-06):0.0005907942,(((404:0.0020645559,516:0.0020652849):1e-06,811:0.0010324667):2.3113e-06,(1669:0.0017752864,(1682:0.0019661587,1688:0.0011812936):1e-06):0.001183354):2.6738e-06):0.0005907936,1667:0.0005901402):2.3834e-06,(((318:1e-06,806:1e-06):0.0009825258,(((403:0.002832844,815:0.0010306158):2.6067e-06,597:1e-06):1e-06,858:0.0027487331):2.6127e-06):2.9482e-06,(379:0.0010316224,(1214:1e-06,1215:1e-06):5.1173e-06):0.0011764231):2.6377e-06):2.316e-06,(((628:0.0005898279,((1759:0.0017175693,1798:0.0017722776):2.1395e-06,(1780:0.0017886757,1795:1e-06):0.000590251):0.0005897713):2.4225e-06,(1764:1e-06,1788:0.0017043763):2.2186e-06):0.0023656191,1655:0.0011835318):0.0011850791):0.0005898972,((1561:0.0025965904,1716:0.0005838547):6.1333e-06,1659:0.0005909988):0.000590937):0.000590293,((((212:0.0009441712,217:0.0009414159):1.7282e-06,1784:0.000980011):0.0009357283,((213:1e-06,((214:0.0008564343,215:0.0008555735):0.0008546777,(216:0.0008775139,218:1e-06):1e-06):1e-06):1e-06,(1755:0.001964644,(1757:0.0009787097,1765:1e-06):0.0009796023):2.6435e-06):0.0008456072):0.0017013328,(((776:0.0025652507,1587:0.0009807569):2.6658e-06,1559:0.0017735037):2.5964e-06,(1022:0.0025589961,1023:0.0008500454):0.0025596173):1e-06):2.8431e-06):2.1205e-06,(1018:2.053e-06,1019:0.0029613206):0.0005904433):0.0005897114,1014:0.0029609155):2.1142e-06,1013:0.0011810381):2.5523e-06,1012:0.001773454):0.0017725022,((((((((((((((((((((((((((((((((((((((((((((((((((3:1e-06,(7:0.0010231377,10:0.0010235554):1e-06):2.9019e-06,11:0.0010225619):0.0020491308,139:2.1353e-06):0.0017678948,(((137:1e-06,(1210:0.0011710427,(1496:0.0019581966,1498:0.0029420296):0.0019558789):2.6073e-06):2.3288e-06,(168:0.0017607724,814:0.0020513773):2.8697e-06):2.7433e-06,1212:0.0017633168):0.0011763241):0.0005859999,1209:0.0017657629):0.0005867149,504:0.0009757113):2.1362e-06,632:0.0017619605):2.1346e-06,1500:0.0035338645):4.7849e-06,1513:0.0041327775):0.0005740997,739:0.0009758823):2.0161e-06,1515:1e-06):1.1702e-06,502:1e-06):1.3413e-06,1120:0.0009758828):3.8045e-06,(505:0.0009758416,1489:0.0011562506):1.96639e-05):2.0986e-06,454:0.0017626891):0.0005872468,((1665:0.0017243055,1689:1.1205e-06):0.0005873741,((1684:1e-06,1686:1e-06):2.5878e-06,1690:2.0758e-06):0.0005875181):0.0017645864):2.5626e-06,((((((((((((5:0.0020533326,(((479:1e-06,(706:0.0011919413,1792:0.0029448776):1.9664e-06):2.1188e-06,(((643:0.0073151647,646:0.0011751598):2.6206e-06,645:1e-06):2.023e-06,661:0.0023519077):0.000586824):2.4741e-06,1514:1e-06):2.4341e-06):2.481e-06,699:0.0019540542):2.4798e-06,17:1e-06):2.1384e-06,684:0.0018789998):0.0005699207,458:0.0035445623):0.0017701633,(1211:0.0017609981,(1497:0.0019549972,1869:2.8763e-06):0.0009756177):2.662e-06):2.7206e-06,(1213:0.0011747918,1236:0.0011745023):0.0005871691):2.8414e-06,167:0.002942606):0.0011747052,(((((444:1e-06,(446:0.0005877093,453:0.0005869655):1e-06):2.1292e-06,447:0.0005869779):0.0005874258,((((647:0.003195509,((658:0.0037566498,((967:0.0008485638,(973:0.0025425793,1613:2.0578e-06):2.066e-06):2.084e-06,1754:0.0017136524):2.0956e-06):3.69e-06,((862:0.0019559999,864:1e-06):2.8776e-06,863:0.0019532926):0.0009753124):0.0005662584):1.2848e-06,(694:0.0019546458,(1487:0.0039171702,1501:0.000978277):0.0009714171):0.0009774428):1.1566e-06,(756:1e-06,757:0.001023998):0.0010239839):2.9091e-06,(1227:0.0010231352,1228:1e-06):0.0020510643):3.7277e-06):2.3315e-06,(659:0.0029460777,((1083:0.0005872986,1085:0.0005875185):0.00058698,(((1087:0,1089:0):1e-06,1088:1e-06):2.3335e-06,1090:0.0011757328):0.0017671329):0.0011773506):2.7827e-06):2.1401e-06,((698:0.0028134938,((1874:0.0005885305,(1878:0.0005879293,1885:0.0005884017):1e-06):1e-06,1875:0.0005883946):0.0033163466):0.0008115079,(865:0.0009754916,1809:1e-06):0.0011743845):2.1618e-06):0.0017636261):2.7082e-06,(441:0.001175101,(((442:0.0011757981,461:0.0005870144):2.1561e-06,449:0.0005873247):2.6101e-06,((451:0.0005861995,1811:0.0029495628):0.0005882639,460:0.0005871972):1e-06):2.1175e-06):0.000586616):2.9054e-06,1008:1e-06):2.0412e-06,(440:0,1009:0):1e-06):1e-06):2.1481e-06,111:1e-06):2.0646e-06,(175:0.0008397542,(((((327:1e-06,329:1e-06):1e-06,328:1e-06):0.00180838,((1341:1e-06,1443:1e-06):0.0028077128,1445:0.0027188207):2.4026e-06):2.3894e-06,(1135:1e-06,1187:0.0029349506):0.0029460186):0.0008903005,(477:1e-06,(1342:0.0009754867,1343:0.0019535896):1e-06):2.8798e-06):2.345e-06):0.0008409596):1.9984e-06,(((823:0.0019634394,827:0.0010471108):0.0009729566,825:0.0008865175):0.0026607903,1775:0.0029392656):0.0008857546):2.0962e-06,693:0.0009757519):2.0646e-06,((819:1e-06,(824:0.0010419321,829:0.0041842831):1e-06):0.0031377591,826:0.0010399555):0.0010464246):2.0741e-06,1810:0.0010278478):2.2921e-06,1073:0.0019540289):2.0759e-06,1789:0.0029309653):0.0014644518,1235:0.0019510774):2.6904e-06,1429:1e-06):0.0014651673,((644:0.002953706,(1720:0.0005886791,1721:0.0011788004):0.0005823957):0.0020808191,1113:0.0019596754):0.0020573046):2.4985e-06,(((57:0.0019518137,(58:1e-06,(((1026:1e-06,1027:1e-06):0.0008022864,1941:0.0009752963):2.84827e-05,1927:0.0039113385):1.2973e-06):2.0015e-06):2.5667e-06,1444:0.0040313924):3.629e-06,(((979:2.573e-06,1010:1e-06):2.1391e-06,981:0.0008423274):0.0011720484,1029:0.0033665061):2.3886e-06):2.2562e-06):2.1391e-06,((((((((((((((((((((31:1e-06,1077:3.1467e-06):4.8042e-06,1038:0.0008480291):0.0005741918,32:0.00085344):5.2029e-06,1726:1e-06):2.5059e-06,(1079:1e-06,1080:1e-06):0.0011753818):0.0011758057,((1072:1e-06,((1926:2.399e-06,1929:0.001712517):0.0004024357,1936:0.0012167681):0.0001822368):0.0005874041,1935:2.6385e-06):0.0005874011):2.1333e-06,((503:0.0011777726,1165:0.000588969):0.0005862879,1241:0.0005871301):2.4737e-06):2.1207e-06,(1044:1e-06,(1130:0.0008491543,1164:0.0008482184):2.4317e-06):1e-06):0.0005870212,(((((((((198:0.0011767529,1747:0.0011780042):0.000586145,(1744:1e-06,1746:0.0005871499):0.0005876007):2.0765e-06,389:0.0005870635):2.0458e-06,1727:1e-06):2.2249e-06,1203:0.0017644445):2.2949e-06,((((((866:0,1286:0):0,1291:0):0,869:0):1e-06,867:1e-06):2.0771e-06,1288:0.0005873276):2.3619e-06,(1287:0.0005867859,1290:2.7158e-06):0.0017665119):0.0005868523):0.0005875997,1284:0.0011757826):2.0927e-06,496:0.0017642117):0.0005873968,390:0.0011753843):2.1223e-06):2.4069e-06,870:1e-06):1e-06,(((((33:0.000849313,1074:0.0017630039):1e-06,1870:1e-06):2.1075e-06,872:0.000587919):0.0005896278,1851:0.0041334238):0.0005855663,1933:0.0008575185):2.2447e-06):2.135e-06,746:0.0005872132):0.0005873387,((1370:0.0005881029,((1852:0,1854:0):1e-06,1853:1e-06):0.0023540842):2.4173e-06,1934:0.0017021589):0.0017648204):0.0023585782,((154:0.0014698594,(((195:0.0048794562,344:1e-06):1e-06,(((321:1e-06,(323:1e-06,349:1e-06):1e-06):2.5781e-06,326:1e-06):1e-06,324:1e-06):1e-06):1e-06,((319:1e-06,322:1e-06):1e-06,(320:1e-06,325:1e-06):1e-06):2.5856e-06):2.6572e-06):0.0007341306,((764:1e-06,(1060:0.0021672631,1446:0.0009214104):5.7939e-06):2.7774e-06,(1338:1e-06,1440:1e-06):0.0018964149):2.7353e-06):0.0007350361):0.000583927,(((((((((((((77:0.0011744665,(((1332:0.0017652752,1595:0.0005878833):0.0005849615,1898:2.0268e-06):0.0005853254,((1892:1e-06,1894:1e-06):1e-06,(1895:0.0005860354,1896:0.0005862289):2.0885e-06):2.1255e-06):0.000586352):2.0786e-06,((((1596:0.0017614485,(1704:1e-06,1860:0.0008393164):0.0012352177):2.0268e-06,(1611:0.0023496845,1876:0.0011756951):2.0664e-06):2.739e-06,1921:1e-06):1e-06,1612:1e-06):2.0915e-06):2.1252e-06,((1133:0.000980493,1208:0.0005865758):0.0011774462,1650:0.0008563414):0.000585655):2.1716e-06,690:0.0009408265):0.0005635495,1437:0.0009867079):2.8488e-06,((190:0.0009254978,(1349:1e-06,1350:1e-06):1e-06):2.7973e-06,587:0.0029322546):0.0037099461):2.102e-06,1441:1e-06):2.067e-06,1339:1e-06):2.4805e-06,(1340:2.8652e-06,1442:2.7234e-06):0.0009257716):3.1068e-06,176:0.0016894941):2.5703e-06,1646:0.0008388079):2.104e-06,1645:0.0025207718):1.2501e-06,1856:1e-06):2.1032e-06):2.1197e-06,((((((104:0,106:0):1e-06,105:1e-06):0.0028254766,1517:1.9696e-06):0.0007041619,((((345:1e-06,350:1e-06):1e-06,351:1e-06):1e-06,347:1e-06):1e-06,(352:1e-06,769:1e-06):2.0761e-06):2.1783e-06):2.2714e-06,((((((((((((((140:0.0035292922,335:1e-06):1e-06,334:1e-06):1e-06,340:1e-06):1e-06,341:1e-06):1e-06,332:1e-06):1e-06,333:1e-06):1e-06,331:1e-06):2.3771e-06,(343:1e-06,365:1e-06):0.000931066):2.3771e-06,348:1e-06):2.3521e-06,337:1e-06):2.3174e-06,346:1e-06):2.6731e-06,(330:1e-06,(((336:1e-06,338:1e-06):6.9396e-06,342:1e-06):2.8054e-06,339:1e-06):0.0009314868):2.7863e-06):2.113e-06,((759:0,761:0):1e-06,760:1e-06):1e-06):2.1059e-06,1778:0.0053822189):0.0005869072):0.0005861929,(459:0.0046538808,1847:0.002335737):0.0006771252):2.129e-06):2.0886e-06,((((191:0.0011763805,1745:0.0011768071):0.0005890311,(868:0.0011731166,1739:0.0017057086):2.0041e-06):0.0047177774,(((197:0.0029427724,1503:0.0029432428):2.1234e-06,(((((740:0.0011743244,(((773:0.0005923804,1204:0.0087654837):1e-06,(873:0.0017612946,1056:1e-06):0.0005864935):2.1258e-06,1289:0.0011734167):0.000586096):2.1012e-06,(741:0.0008582629,784:0.0011736158):2.1004e-06):2.9262e-06,1121:0.0011742204):0.0005868221,((1243:0.0005825087,1932:1e-06):3.6465e-06,1871:0.0005873039):0.0005880545):2.5544e-06,1931:1e-06):1.984e-06):2.0683e-06,((((((((((414:1e-06,434:1e-06):1e-06,416:1e-06):1e-06,417:1e-06):1e-06,415:1e-06):1e-06,419:1e-06):1e-06,420:1e-06):1e-06,418:1e-06):1e-06,1486:0.0008991865):1e-06,1374:0.0008553394):1e-06,1930:1e-06):1e-06):0.0011767906):2.1093e-06,421:0.0028829213):0.0017613565):0.0011739982,(480:0.0035282408,1372:0.0029245747):2.7407e-06):2.3535e-06,((((61:0.0017137569,1912:0.0008595884):0.0008538271,((745:1e-06,1362:1e-06):0.001758234,1037:0.0029272903):2.0081e-06):2.9778e-06,((314:0.0020020064,1987:0.0008969242):0.0009024688,((468:0.0023570127,471:0.0005898699):0.0005847353,1390:0.0005877427):2.1313e-06):0.0011733596):2.6005e-06,((((((497:0.0011762401,1928:0.0011772377):0.0011744297,1725:0.0005867506):2.2148e-06,871:1e-06):2.0426e-06,(1305:0.0011754356,1743:2.0871e-06):0.0011739217):0.0011768498,1607:0.0017660791):2.1263e-06,1301:2.0225e-06):0.0011715512):0.0047135874):0.0035414956,(((164:0.0017710773,(1160:0.00086286,1728:0.0006666468):0.0040563565):0.000579634,((1040:1e-06,((1344:0.0009801148,1491:0.0025936812):0.0017199247,1488:0.0023491763):2.533e-06):2.3171e-06,1283:0.004131576):0.0005895854):0.0013746632,((((189:0.0021695325,1064:0.0032863767):0.0010916046,1302:0.0019481667):0.0032566258,1937:0.0009327602):2.0126e-06,((((408:1e-06,411:1e-06):1e-06,410:0.0009282331):0.002795783,(1337:1e-06,1439:1e-06):0.0018043939):0.0009093217,965:0.0019500896):2.5636e-06):2.5933e-06):0.0027653437):0.000580956):0.0005870695,(1149:0.0011771679,(1154:1e-06,1199:0.0005873316):0.0005869578):0.0005890539):2.2541e-06,((((((738:2.0033e-06,1360:0.0046475729):0.0011125714,(1051:2.0743e-06,1053:0.0041299923):4.212e-06):0.0005770415,(1242:0.0039359682,1736:0.0009788166):0.0009727453):1.5833e-06,1123:0.0009752115):1.526e-06,789:1e-06):3.5393e-06,((1151:0.000588566,1197:0.001179854):0.0005867886,((1152:1e-06,1428:0.0033230631):0.0011705234,1632:0.0029312139):4.337e-06):2.609e-06):2.123e-06):2.1442e-06,(((527:1e-06,1153:1e-06):1e-06,1144:0.0009747634):0.0011747977,((1047:2.2605e-06,(1201:2.1264e-06,1733:0.0009738625):0.0005865018):0.0011744259,(1054:0.0023577987,1055:0.001181071):0.0005864252):2.3697e-06):2.0193e-06):2.1047e-06,(1169:0.0005871178,1186:0.0005891501):0.0005877054):0.0005871954,1198:0.0017668054):2.0926e-06,1150:1e-06):2.068e-06,((39:0.0019525335,(59:0.0029345215,1499:0.0009758407):2.9079e-06):0.0009748435,(193:0.0009767345,((1078:0.0009761505,(((1148:1e-06,1196:1e-06):1e-06,1195:1e-06):2.1776e-06,(1168:1e-06,1184:2.0785e-06):0.0005879705):0.0023508701):2.6026e-06,1112:0.0029323772):2.0554e-06):2.1099e-06):2.6715e-06):0.0005873835,1185:2.1496e-06):0.0029514714,1167:0.001767515):2.4967e-06,((1200:1.9784e-06,1490:0.0019528143):0.004132747,(1202:0.0040562846,1226:0.0020615172):0.0006740537):2.0083e-06):1.9584e-06,282:1e-06):1e-06,1891:1e-06):1e-06,(445:0.0005888654,((((((520:1e-06,521:1e-06):0.0058925002,583:0.0019570934):2.8976e-06,1554:0.0039218589):2.385e-06,(((610:0.0011774639,639:0.0022148917):2.54e-06,614:1e-06):2.1219e-06,641:2.0229e-06):0.0017667861):2.6465e-06,((((607:1e-06,611:0.0010307804):0.0003477061,634:2.2662e-06):0.0027630022,((613:1e-06,((((((615:0,617:0):0,619:0):1e-06,616:1e-06):1e-06,(618:1e-06,623:1e-06):1e-06):0.0005867346,621:1e-06):1e-06,622:1e-06):1e-06):0.0023551589,636:2.0745e-06):2.7398e-06):0.0023705864,(609:2.0339e-06,612:0.001180059):0.0011804189):0.0005892282):0.0005889904,608:0.0023586008):2.9514e-06):1e-06):1e-06,((((((((((((40:0.0009784635,506:1e-06):2.63602e-05,(1103:1e-06,1222:0.0010272221):0.0010270949):0.0009477345,1323:0.0022302197):2.1937e-06,1324:1e-06):2.256e-06,(((786:0.0020704815,1980:0.0019676677):0.000975241,((((1136:0.002940725,1940:1e-06):1e-06,1159:0.0019563383):0.0038559434,1868:0.0110142338):0.0079923576,1328:0.0046545235):2.1696e-06):2.0853e-06,1138:0.0009785275):1e-06):2.8498e-06,1330:0.0009526005):2.1883e-06,(((1316:0.0019250284,1320:0.0011143874):1e-06,1319:1e-06):2.4936e-06,1317:2.7705e-06):0.0009540302):2.6188e-06,((439:1e-06,452:0.0011796217):0.0008836809,1552:0.001027067):0.0008845337):2.4294e-06,((((((((((((((((((((63:0,1603:0):0,1602:0):0,307:0):0,1601:0):0,268:0):0,1908:0):0,1902:0):0,1911:0):0,1903:0):0,277:0):0,235:0):1e-06,69:1e-06):1e-06,((67:0.0005880079,68:1e-06):0.0005885845,(71:0.0005886265,1909:0.0011782255):1e-06):2.0373e-06):1e-06,((((((((((((((((65:0,285:0):0,269:0):0,287:0):0,263:0):0,271:0):0,280:0):0,289:0):1e-06,((261:0.0005882385,299:0.0005881051):1e-06,(294:0.0005879069,313:0.0035446917):1e-06):1e-06):1e-06,(252:0.0005881045,265:0.0005881987):1e-06):1e-06,259:1e-06):1e-06,264:1e-06):1e-06,283:0.0005885392):2.0965e-06,305:0.0005880524):0.0005886323,70:0.0005886194):2.9472e-06,(((279:1e-06,1600:1e-06):0.0005880427,1910:0.0005880428):2.9031e-06,(308:0.0005877428,(1879:1e-06,1881:1e-06):0.0011784369):0.0005897233):1e-06):1e-06,(((72:0.0017693071,1893:2.1305e-06):0.0005880412,((74:0.0005886187,1897:0.0005889104):2.3489e-06,1901:0.000588259):0.0005864658):2.1237e-06,(311:0.0005886285,1905:0.000587851):2.0761e-06):2.14e-06):2.7682e-06):1e-06,((66:1e-06,73:0.0005881251):0.001177929,1599:0.0005884346):2.9821e-06):2.8517e-06,(274:0.0005876125,(((286:1e-06,310:1e-06):1e-06,312:1e-06):1e-06,1899:0.0005877456):2.0882e-06):0.0011784434):0.000882873,(((475:1e-06,((857:0.001026429,1306:0.0010274215):1e-06,(1294:0.0030875531,1511:1.9421e-06):0.0010268225):1e-06):1e-06,1076:0.0019584396):2.1969e-06,948:0.0019074036):2.3088e-06):0.0008822437,856:1e-06):2.1696e-06,467:0.0023595296):0.0005895345,(((((((64:0.001180268,1807:0.002960631):2.204e-06,((155:0.0020709803,(1493:1e-06,1494:0.0022562311):0.0055892935):0.0020254928,(((257:1e-06,291:0.0005894798):0.0005624506,783:0.002055378):1.96328e-05,1142:0.0023731904):0.0017790145):2.1418e-06):2.1298e-06,(((((((((((((((((((((((((75:0,1915:0):1e-06,245:1e-06):1e-06,(1889:0.000588815,1907:0.0005886841):1e-06):1e-06,(1673:0.0077415616,1919:0.0005889875):2.809e-06):2.1337e-06,1887:1e-06):0.0005866792,251:0.0005894861):1e-06,(((((((((((((((239:0,304:0):0,1883:0):0,1884:0):0,1888:0):0,1900:0):0,266:0):0,267:0):0,272:0):0,1906:0):0,1920:0):0,284:0):0,255:0):0,288:0):0,292:0):0,1914:0):1e-06):2.0703e-06,((244:0.0005888716,(253:1e-06,1886:1e-06):2.1088e-06):0.0005888149,1873:0.000588802):2.1253e-06):1e-06,(((((((((236:0,260:0):0,270:0):1e-06,258:1e-06):1e-06,297:0.0005898117):2.0949e-06,293:0.0005883577):0.0005884902,296:1e-06):1e-06,242:0.0005890781):0.0005886162,(407:0.0020667475,1918:0.0008871507):0.0008840463):2.0216e-06,(((((((((372:2.6501e-06,1482:0.000866342):0.0008674965,((373:1e-06,1518:1e-06):1e-06,(((((383:0.00176174,((((1105:0.0020556988,1981:0.002058177):1e-06,1979:1e-06):0.0010263878,1479:2.2405e-06):0.0008848734,1520:0.0017852186):2.6614e-06):1e-06,594:0.0008750072):1e-06,1519:1e-06):1e-06,592:0.0008725967):1e-06,1485:1e-06):1e-06):2.0005e-06):2.5968e-06,1484:1e-06):2.4927e-06,(((374:1e-06,((375:1e-06,((1481:0.0073047473,1978:0.0041212936):1e-06,1512:0.0010263447):1e-06):2.1964e-06,(1480:0.0008825146,1483:1e-06):0.000875103):2.6776e-06):1e-06,593:1e-06):2.6234e-06,591:0.0008678796):0.0008666086):0.0008677795,1521:2.6696e-06):0.0008640466,(528:0.0010275721,1296:0.0010313084):0.0020609291):4.2411e-06,(1685:0.0023655521,1691:0.0005922583):4.531e-06):0.0005841359,(((707:0.0005902794,(1086:0.0005850226,1550:0.0010298445):4.4301e-06):1e-06,1084:1e-06):2.5614e-06,(((787:0.0010285235,(1107:0.0020600313,1662:3.8619e-06):0.0005807281):2.1389e-06,945:1e-06):3.3427e-06,1661:0.0005900114):0.0005898196):0.0005904681):0.0011810384,1882:0.0005886187):2.2841e-06):1e-06):1e-06,((281:0.0017701442,1880:0.0005886163):2.0363e-06,1597:0.000588752):2.0201e-06):1e-06,250:1e-06):1e-06,(((((((((((((76:0,301:0):0,248:0):0,275:0):0,306:0):0,1598:0):0,254:0):1e-06,233:1e-06):1e-06,(((243:0.0005887959,((278:0,309:0):1e-06,295:1e-06):1e-06):0.0005893384,303:0.0005885598):2.0693e-06,300:0.0005893376):1e-06):2.0893e-06,1890:0.000588752):2.0498e-06,247:0.0005893366):0.0005893425,((241:0.0005884368,302:1e-06):0.000588623,273:0.0005886228):2.0151e-06):2.0913e-06,(249:0.0005892982,1917:0.0005893514):1e-06):2.0196e-06,(246:0.0005888148,1913:0.0005893515):1e-06):1e-06):1e-06,(298:0.0005889303,1877:0.0005889303):1e-06):1e-06,((290:0.0005907464,((366:0.0009784167,510:1e-06):0.0009782688,(881:0.0020559003,1823:0.0010278498):2.1289e-06):0.0029391418):0.0005892033,1904:0.0005893492):2.138e-06):2.618e-06,((256:0.0005887043,276:1e-06):0.000589524,262:0.0011802474):0.0005891972):0.000589887,((490:0.0009765824,1495:0.0119089618):2.0074e-06,491:0.001905616):0.0038266447):0.000589294,(1161:1e-06,1181:1e-06):2.0849e-06):0.0005894051,(((((1162:0.000588782,1178:1e-06):0.0005894126,1193:0.0005888304):2.0536e-06,1192:1e-06):2.0558e-06,1194:1e-06):2.0813e-06,(1163:0.000589562,1174:0.0005897483):0.0005896597):2.0877e-06):0.0005895922,(1141:2.1135e-06,1389:0.0019589722):0.0011793932):2.2918e-06,1182:0.0005908512):2.1808e-06,((((((316:0.0012019555,(1049:0.000588822,1146:1e-06):0.0005897336):2.1447e-06,(((1147:1e-06,1172:1e-06):1e-06,(1170:0.0005898634,(((1173:0.0005891636,1191:1e-06):0.0005826807,1293:0.0010279861):3.758e-06,1295:1e-06):3.2793e-06):2.0417e-06):0.0005898679,1171:0.0005893406):2.1341e-06):0.0005902762,1157:0.0005893188):2.085e-06,(1155:0.0023630882,((1175:1e-06,1179:1e-06):1e-06,1183:0.0011802959):0.0005895911):2.0603e-06):2.1805e-06,456:1e-06):2.1037e-06,(((448:2.1223e-06,455:0.0011804321):0.0011805193,1166:0.0017716966):2.0345e-06,((859:1e-06,(1346:0.0010270955,1636:0.0028734854):0.0009542876):0.0011784793,1106:1e-06):2.5956e-06):2.1342e-06):1e-06):2.1249e-06,((((((162:1e-06,737:0.0055734749):2.79e-06,1637:0.0018380608):0.0018358529,977:0.0009250242):2.6509e-06,((529:0.0019019886,1829:0.0028254663):1e-06,(633:0.0009599091,1427:0.0038269338):1e-06):2.168e-06):0.0018315017,(234:1e-06,240:1e-06):0.000576908):8.9332e-06,1551:1e-06):4.5117e-06):2.1309e-06,(1104:0.0010273781,(1156:1e-06,1292:0.0010273793):2.1965e-06):0.0017726167):0.0005891841,1046:0.0041408572):2.1098e-06,(((1057:1e-06,((1180:1e-06,1189:0.0005892835):1.6499e-06,(((1310:0.0022313798,1318:2.4085e-06):0.0011127181,(1322:1e-06,1331:1e-06):2.5904e-06):0.0024854912,((1321:1e-06,1327:0.0029079327):2.8508e-06,1326:2.8021e-06):0.0009375148):0.0012360412):0.0011748662):2.5846e-06,1177:0.0017767768):0.0017727962,(1145:0.0010315607,1314:0.0010364947):0.0031125137):2.2293e-06):0.00058984):0.0010524407,1048:0.0026545348):0.0054333928,(1082:0.0010287308,1953:0.0041260171):0.0020655026):0.0009408554,((((487:0.0092460654,489:0.0039922685):2.2476e-06,(1297:0.0010253033,1841:0.0010274996):2.7934e-06):2.2593e-06,488:0.0009667653):0.0029096455,1325:2.7621e-06):2.1769e-06):2.4611e-06,((472:0.0029466199,(1045:0.0005867729,(1158:1e-06,(1176:1e-06,1188:1e-06):1e-06):0.0029581902):0.0011819219):0.0005920257,1043:0.0035425069):0.0005888704):0.0005884376):2.1926e-06):0.0005909672,((635:1e-06,637:0.0078424009):0.0010785008,(638:0.0021634775,1916:0.0035432145):1e-06):0.0011812451):0.0011763365,(660:0.005194521,(((704:0.0018531655,(785:1e-06,978:0.001834987):2.686e-06):2.349e-06,1307:1e-06):0.0018300011,1308:1e-06):2.4215e-06):0.0007380879):0.001182037,232:0.0005888016):2.5786e-06):2.4928e-06,(((((((((156:0.0031329536,1492:0.0098202772):0.0013269,((640:0.0054181387,1190:2.0743e-06):0.0005636519,1329:0.0018644751):3.9803e-06):2.8168e-06,1092:0.0010264828):1.9984e-06,1313:1e-06):2.213e-06,1312:1e-06):2.0941e-06,509:1e-06):2.0819e-06,1309:0.0009518537):2.646e-06,1315:1e-06):1.4417e-06,1311:1e-06):3.2944e-06):1e-06,(238:0.0008855969,(855:2.9159e-06,((1385:0.0019588576,1386:1e-06):0.0029446985,(1387:0.0019643702,1388:1e-06):0.0009807129):0.0029386103):0.0009786146):0.0008819156):0.0027845419,(30:0.0020550567,476:0.0010301619):2.3799e-06):0.0056181581,((781:1e-06,(782:0.0019587765,1580:0.0009790694):1e-06):2.6077e-06,1562:0.0033888333):0.0016821957):0.0023002321,((((774:0.0029431266,(777:1e-06,779:0.0019602897):2.0074e-06):0.0019595776,((775:0.0009815675,780:0.0119063553):0.0019611319,(778:0.0059158983,(1124:1e-06,1127:1e-06):0.0016977767):0.0017049332):2.5311e-06):2.7937e-06,1024:0.0051176164):2.7088e-06,1567:1e-06):2.7968e-06):2.8312e-06,1011:0.0029533159):0.0005927119):0.0005909453,(((1783:0.0009058848,1793:0.000586239):3.4976e-06,1796:2.6707e-06):0.0005789564,1797:0.0053573828):0.0029715877):0.0011826988,((((((((((((((((((((((((((((((((((((((((((((((6:0.0020628547,(((((((14:1e-06,(25:0.001029137,27:0.0041300786):2.3843e-06):2.5485e-06,15:0.0010294932):0.001030614,(41:0.00215575,(((((((560:0.0006929728,1524:0.0005892876):0.0005898777,((754:1e-06,2036:0.0030118904):1e-06,755:0.0011817246):0.0005899443):1.9993e-06,(((1751:1.4035e-06,(1943:2.346e-06,1962:0.0009396123):0.0028269184):0.0011789097,(1799:0.0023682095,1801:0.0023683618):0.0011765439):2.9532e-06,1802:0.0017708672):2.4968e-06):2.7863e-06,1998:0.0023626572):2.0363e-06,(1946:0.0009418182,1957:0.0009414414):0.0009414437):2.9651e-06,1966:0.000939945):2.9851e-06,2040:0.001000593):1.4536e-06):2.8565e-06):2.0365e-06,590:1e-06):1.2896e-06,2008:1e-06):2.6979e-06,2103:0.0010496894):2.0292e-06,2010:0.0010212749):2.8428e-06):0.0005662963,(((((((142:1e-06,(923:0.0005895509,(927:0.0005885878,1239:0.0011813523):0.0005906973):1e-06):2.1175e-06,(928:0.0011789156,1368:1e-06):1e-06):2.1108e-06,203:0.0011800252):0.0005895047,(((380:2.5269e-06,(860:2.0881e-06,1219:0.0005902623):0.0017696862):2.9e-06,1963:1e-06):2.1194e-06,(((((381:0.0005369009,557:0.0013835769):5.13002e-05,562:0.001385082):1.5435e-06,(686:0.0005894005,((1752:0.0011686091,2104:0.0010444195):2.01e-06,1952:1e-06):8.0901e-06):2.1275e-06):2.1086e-06,804:0.0029529439):0.0005896382,1221:0.0011805847):2.1271e-06):2.9258e-06):0.0005889102,((((((((((1006:0.0005897746,1791:1e-06):3.19738e-05,((1964:1e-06,1974:0.0009406621):1e-06,1965:0.0009394011):0.000939701):0.0011376382,2016:0.0030170806):1.3677e-06,2117:1e-06):1.2351e-06,2031:1e-06):2.4803e-06,1955:0.0018828858):2.18e-06,1947:1e-06):1.4604e-06,(((1945:0,1954:0):0,1950:0):0,1975:0):1e-06):2.7338e-06,1649:0.0011793563):2.1468e-06,(1614:0.0011800748,(1948:0.0028295684,2022:0.0010280993):2.8226e-06):0.0005897837):0.0005893769):2.5548e-06,(((((((((173:1e-06,(((((201:0.0011787098,202:1e-06):0.0017702478,1697:0.0017717229):2.4253e-06,(1333:2.041e-06,1713:0.0042664596):0.0010637189):4.0196e-06,1956:0.0018853513):0.0005856147,(677:0.0024328748,680:0.00118075):2.4094e-06):2.1391e-06):1e-06,((((((186:0.0035607312,1220:1e-06):0.0005897973,666:0.0023823461):2.1457e-06,1824:1e-06):0.0005904079,((2092:1e-06,2094:2.0141e-06):0.0007054656,(2093:1e-06,2095:1e-06):2.6908e-06):0.0028390816):0.0005888019,709:0.0011799904):1e-06,(((((((((534:0,537:0):0,536:0):1e-06,535:1e-06):0.0006913189,(556:2.4826e-06,559:0.0006922231):0.0020779794):2.5098e-06,(558:0.0006917762,(563:1e-06,567:0.0018474175):0.0009224489):2.153e-06):1e-06,538:1e-06):1e-06,539:1e-06):2.338e-06,((542:0.0006884394,543:0.0013889314):0.0013884285,((546:0.0013845642,1334:0.002148711):2.1951e-06,547:2.1435e-06):0.0006517381):0.0006536005):2.116e-06,(548:0.0013836976,1543:2.2239e-06):0.0006327126):1e-06):2.1485e-06):1e-06,((530:0.0005911375,679:0.0005898582):0.0005897559,((((1588:0,1808:0):0,1696:0):1e-06,1683:1e-06):2.127e-06,1714:0.0005891237):0.0005896516):2.1173e-06):2.6304e-06,(200:2.4312e-06,206:0.0005893634):0.0029570239):0.0005896367,(1698:1e-06,1699:1e-06):0.0005894561):2.1352e-06,1750:1e-06):2.9839e-06,710:0.0023629115):2.1355e-06,2122:0.0020995633):0.0005873536,(((596:0.001029115,601:0.001031764):2.4102e-06,602:1e-06):2.3228e-06,(1803:0.0011801089,1804:1e-06):0.001574365):0.0007859008):2.1392e-06):2.0674e-06,((((((((((432:0.0017754417,(2060:0.005185979,2128:0.0010167528):0.0009950639):1.9463e-06,(2019:0.0019927271,2079:2.835e-06):0.0019801589):2.7664e-06,1723:1e-06):2.2569e-06,1407:0.0011794397):0.0005880994,(569:0.002775521,(1805:0.0005907122,1806:0.0011810154):0.0005844979):0.0017753031):2.1096e-06,((((532:0.0013841199,2080:0.0010008598):0.0012297242,(((((((((533:2.1982e-06,2034:1e-06):0.0008186024,571:1e-06):0.0008216708,(572:0.0006919233,573:1e-06):0.0006927883):0.0008252606,((566:2.4222e-06,2029:1e-06):0.0018462956,(2003:1e-06,(2004:1e-06,2005:0.0019957658):2.3234e-06):0.0016578768):2.8528e-06):0.0006677508,2015:0.0009999692):2.1629e-05,2129:1e-06):8.9726e-05,2058:1e-06):2.84812e-05,2126:0.0010000937):1.0119e-06,2033:0.0009980769):3.4681e-06):2.0617e-06,(((((((568:0.0013822182,((708:1e-06,(1983:2.1809e-06,((((2017:2.8996e-06,2142:0.0020093252):0.000990159,2140:0.0009920673):0.0010886527,2061:1e-06):2.0173e-06,2062:0.0035778703):0.0016507796):0.0016351345):3.2413e-06,1347:0.0006064676):0.0005725509):2.0496e-06,(921:0.000896054,2066:0.0030587489):0.0008960581):1.0651e-06,2067:1e-06):2.1082e-06,2065:1e-06):2.0101e-06,2120:1e-06):2.7191e-06,920:0.0027369263):2.9756e-06,(712:2.8109e-06,713:1e-06):0.0011774634):2.8825e-06):2.3225e-06,1648:1e-06):1e-06):2.3707e-06,((565:0.0006907731,((711:1e-06,2006:0.0019996686):2.1407e-06,2127:0.0019833799):0.0008817659):0.0008832536,((((2018:1e-06,2050:1e-06):0.0030121145,(2038:2.9423e-06,2078:0.002005496):0.0009984329):2.5163e-06,2116:1e-06):2.9402e-06,2071:1e-06):0.0019984349):2.0049e-06):1.2181e-06,1604:0.0023597144):0.0005892684,2002:2.9365e-06):0.0005894562,688:0.0005895938):2.139e-06):2.1201e-06):2.6253e-06,1800:0.0029551671):0.001178925,(1404:0.0005906629,1412:0.0005869064):0.0017712155):2.0658e-06,(23:0.0073069289,703:0.0017669219):2.0005e-06):0.0003262549,(((34:0.0029580721,((((35:0.0005892859,(1734:1e-06,1735:1e-06):0.0011794513):0.0005876907,499:1e-06):2.0278e-06,((((170:0.0005900031,((171:1e-06,172:1e-06):1e-06,(174:1e-06,1827:1e-06):1e-06):2.8006e-06):0.000588834,1522:1e-06):2.2194e-06,586:1e-06):2.1038e-06,(1097:0.0005888196,1960:0.0009402158):2.1119e-06):0.0005891771):2.1048e-06,((38:0.0005886083,(((204:1e-06,205:1e-06):1e-06,((772:0.0005888604,802:0.0035457946):2.564e-06,((((1110:0.0023612199,(1300:0.0032477765,1729:2.0964e-06):0.0011730463):2.5058e-06,1741:0.0017710368):2.0975e-06,1737:1e-06):2.4035e-06,1738:1e-06):2.1238e-06):1e-06):1e-06,(1206:0.0017698333,1740:0.0023612377):1e-06):2.0162e-06):0.0011790315,1050:0.0005891491):2.9065e-06):2.0726e-06):0.0005884897,(((((((141:0.0029556262,(145:0.0005881158,803:0.0023626359):0.0011815368):2.1347e-06,1924:0.004147731):1e-06,(1137:1e-06,1724:1e-06):1e-06):2.8976e-06,1052:0.0017697336):0.000588491,500:0.0011791612):2.116e-06,((144:0.0005889448,146:0.00058898):2.1563e-06,(((((147:0.0005886696,150:0.0017680679):1e-06,148:0.0005882024):1e-06,1207:1e-06):2.1191e-06,151:0.0011787922):0.0005835125,(152:1e-06,153:0.0005884833):0.001184217):0.0023663254):0.0005889435):2.0198e-06,1139:1e-06):2.0759e-06):0.0005889575,1237:1e-06):0.0002899801):0.0005638646,(((((((((45:0.0011760383,1336:0.0043196685):1e-06,47:1e-06):2.8109e-06,1335:1e-06):1e-06,1075:0.0005884426):1e-06,1245:1e-06):1e-06,(1303:0.0010781284,1923:0.0008842516):0.000884634):2.1245e-06,46:1e-06):0.0011773717,(((((((107:1e-06,108:1e-06):1e-06,110:1e-06):2.7181e-06,109:1e-06):0.0010715142,((1619:0.0005896507,1626:0.00177166):0.0005872908,((((1620:1e-06,(1624:0.000588821,1627:0.0011810979):1e-06):1e-06,((1622:0.0011798233,1628:0.0011793945):1.9926e-06,(1633:0.001180123,1634:1e-06):1e-06):1e-06):1e-06,1623:0.0005899887):2.0188e-06,1621:1e-06):0.0005894134):0.0011810588):2.0164e-06,(((((((1125:0.0011795818,1651:0.0005887189):1e-06,1638:0.0011804984):1e-06,(1639:0,1652:0):1e-06):1e-06,1643:1e-06):1e-06,(1126:0.0023615157,1380:0.0011803102):2.0179e-06):1e-06,((1641:0.0011797958,1644:1e-06):2.1407e-06,1859:0.0017696189):0.0005893697):2.7195e-06,1640:0.0095335413):0.0005885374):0.0005889859,((((114:1e-06,(507:0.0041333132,(1396:0.0023628252,1502:0.0005877695):0.0011821541):2.6982e-06):2.0396e-06,115:0.0011797795):0.0005819108,122:0.0005891407):2.216e-06,123:0.0005886021):2.1302e-06):2.5849e-06,((((435:0.0036504852,1474:0.0054916596):2.2326e-06,(437:0.0009060053,438:0.0018192017):0.0027189245):2.2261e-06,851:0.0010741227):0.0027162898,((1282:0.0017695036,1285:0.0011790408):1e-06,1635:1e-06):0.0011771772):2.4676e-06):2.1137e-06):0.0005889261,((((((117:0.0011818352,((1111:0.0011793545,1790:0.0011797225):2.1224e-06,(1692:0.0011787637,1693:1e-06):0.0005890296):0.0005903454):2.0271e-06,433:0.0045762):0.0005859264,((((((((353:1e-06,(((354:0.0095161858,(((360:1e-06,766:2.0345e-06):1.3814e-06,361:0.0053925012):0.0005609259,362:0.0010087447):1.4261e-06):2.1221e-06,(358:1e-06,364:0.0009768378):3.6425e-06):1.0569e-06,359:1e-06):1.2056e-06):2.1228e-06,356:1e-06):1.1942e-06,363:1e-06):2.0387e-06,357:1e-06):1.34966e-05,767:0.0011796705):0.0005894627,1925:2.0805e-06):2.0575e-06,355:0.0009094842):0.0005903241,(((436:0.0045789376,(849:0.0020707958,852:2.5809e-06):0.0020624846):0.0009114157,540:0.0009489111):0.0008164179,(((850:0.0021279353,919:0.001364836):2.0622e-06,853:0.00212676):0.001365919,854:2.8761e-06):0.000896027):0.0008056266):0.0005875413):2.1192e-06,1572:1e-06):1e-06,(((230:0.0017027019,(((687:0.001178888,1557:0.00235881):2.6427e-06,((((839:0.002357694,1345:0.0018218342):2.0536e-06,((1244:0.0011766292,1976:0.0028231153):2.069e-06,1606:0.0011789862):2.0586e-06):2.93e-06,1371:0.0005879467):0.0005879583,(((1002:0.0005882904,(1005:0.0035451852,1007:0.0005886467):0.0005893117):0.0005892688,1004:0.0017667881):1.9864e-06,1951:1e-06):0.0005880227):2.417e-06):2.2443e-06,1577:0.0011785957):0.0005279919):5.97294e-05,(1410:0.0005828188,(1813:2.1194e-06,2137:1e-06):0.0053248232):0.000595213):2.1208e-06,(1579:2.1345e-06,1748:0.0071129105):0.0005889271):2.054e-06):2.1334e-06,((199:0.0023602155,1560:2.1264e-06):0.0005883324,(1375:0.0011822684,1379:0.0005859458):0.002363656):2.1676e-06):2.121e-06):0.0011784407):2.1198e-06,((394:0.0035453344,((1383:0.0011813259,1610:0.0017733057):0.0017691779,1593:0.0113825172):0.0023670452):2.1339e-06,(((((((((531:1e-06,2014:1e-06):0.0005883941,840:2.1319e-06):0.000589337,((((678:1e-06,2119:0.0010218343):0.0011794048,841:0.0011792349):2.4515e-06,(843:0.0005893146,(1036:2.7077e-06,1108:0.0010760121):0.0017715304):2.5339e-06):2.2878e-06,((((((((((((844:3.6937e-06,2108:0.0030503807):0.0006676344,2068:0.0020056412):1.0065e-06,(2070:0.0010011434,2081:0.0010028489):0.0010011439):1.3079e-06,(2030:1e-06,2039:1e-06):0.0010010253):0.0006687535,2032:0.0010008835):5.3591e-06,2084:1e-06):0.0004135156,2106:1e-06):1.0284e-06,2063:1e-06):2.2105e-06,(2105:2.4931e-06,2109:0.0020309321):0.001013954):2.3002e-06,2041:0.0021225623):2.057e-06,2088:0.0021104444):2.3059e-06,944:0.0017704753):2.3562e-06):2.1288e-06):0.0005789251,((549:0.0006913264,561:0.0020802087):0.0012290495,2112:0.0006586918):0.0003585987):2.6478e-06,(2073:2.332e-06,2074:2.0707e-06):0.0010348905):2.5014e-06,2090:1e-06):1.8696e-06,2087:1e-06):2.8495e-06,((2085:0.0019192549,2125:0.0010196872):2.1331e-06,2086:1e-06):2.2618e-06):0.000588507,1504:0.0005882974):2.9245e-06):0.0005890638):2.6607e-06,482:1e-06):1e-06,1369:1e-06):2.1409e-06,(((149:0.0005894101,501:0.0005888506):2.4278e-06,861:0.0023619407):0.0017691355,((1032:0.0009074267,((1033:1e-06,1034:1e-06):1e-06,(1035:0.0041607371,1397:0.0035571281):0.0005712495):0.0011813372):2.0377e-06,1850:0.0005888303):0.0005888809):2.1417e-06):1.9966e-06,((((50:0.0011779306,(52:0.0011772244,((54:0.0011791944,(((((1392:0.0005882495,(1394:1e-06,1402:0.0017644735):0.0011781693):0.0005882406,1426:0.0023589027):2.577e-06,(1395:0.0011768594,1434:0.0023575493):1.9952e-06):2.5414e-06,(1424:1e-06,(1425:0.0005873356,1433:0.001177491):1e-06):0.0011776717):0.0011784185,(1631:0.0005886443,1830:0.00117842):0.0005872284):0.0005885768):1.9873e-06,55:0.0005880967):2.1073e-06):0.0005838239):3.5797e-06,53:0.0005879987):2.9123e-06,(((1039:0.0017693798,1140:0.0011754432):2.0791e-06,1143:0.0005881118):2.1065e-06,1959:0.0009381088):0.0023565538):0.0017713663,1922:0.0011772313):0.0011820725):0.0005882838,((743:0.0023602015,1253:0.0011788206):2.119e-06,744:2.0981e-06):0.0005888728):2.0565e-06,(((((((((48:0.0017682531,(387:0.0005923594,1403:0.0035475097):0.000585939):2.1019e-06,(525:0.0011788995,((960:0.0005744073,963:0.0028784889):1.43543e-05,962:0.0005887435):0.0005888763):2.1253e-06):1e-06,(((((89:0.0010670632,1247:0.0005650425):1.51617e-05,1071:0.0010943455):5.2312e-06,1061:1e-06):2.5364e-06,1272:0.0005882752):1e-06,(161:0.0035420627,(1070:1e-06,1281:0.0011784601):1e-06):1.9888e-06):1e-06):1e-06,(526:0.0023595548,878:0.0018404537):1e-06):2.751e-06,474:0.0029502905):0.0011780493,((51:0.001179002,(157:0.000588564,160:1e-06):2.3669e-06):0.0017697784,((97:1e-06,1828:0.0006218364):1e-06,124:0.0025019553):2.1917e-06):0.0005879973):2.1453e-06,(((((182:0,391:0):0,736:0):1e-06,183:1e-06):2.0824e-06,735:1e-06):0.0005868255,((428:1e-06,1864:0.0005856524):3.0538e-06,631:1e-06):0.0017709309):0.0005912593):0.0005886296,((1248:0.0005882843,(((((((1249:1e-06,((1260:1e-06,1266:1e-06):1e-06,1265:1e-06):1e-06):1e-06,1254:1e-06):1e-06,1250:0.0005888139):1e-06,(((((1252:0,1276:0):0,1275:0):0,1262:0):0,1274:0):0,1264:0):1e-06):1e-06,1256:1e-06):1e-06,1269:1e-06):1e-06,((1258:0.0005884638,(1273:2.0845e-06,1279:0.0011787975):0.001178789):2.0548e-06,(1278:0.0005883315,(1505:2.1377e-06,1848:0.0005890994):0.0005883309):1e-06):1e-06):2.6754e-06):2.0533e-06,1270:0.0011787706):0.0005888644):2.1296e-06,((721:2.1324e-06,726:0.0017723654):0.0011789721,(722:0.0011786275,(723:0.0017690278,((724:1e-06,((725:1e-06,727:1e-06):0.0011783399,730:0.0005886777):2.0988e-06):2.0857e-06,728:0.0011787009):0.0011783221):2.1177e-06):0.0011783303):2.1054e-06):1e-06):2.0943e-06,(1722:0.0005882716,1842:0.0005886632):2.0249e-06):1e-06,((((((((56:0.001179961,(((134:0.0031065642,(443:0.0005670917,1589:0.0024490404):1.55455e-05):2.0236e-06,956:1e-06):4.2252e-06,((689:0.0005897336,880:0.0017706927):1e-06,959:0.00117997):1e-06):2.6492e-06):0.0005413608,(((1352:1e-06,1356:1e-06):2.7924e-06,1366:1e-06):0.0009427692,(1359:1e-06,(1363:0.0018875972,1365:0.0009418246):2.2631e-06):2.3191e-06):0.0009416593):4.77374e-05,1846:0.0005896232):0.0005887552,478:0.001178213):2.1294e-06,(101:1e-06,(674:0.0005885042,((1251:1e-06,1267:1e-06):1e-06,1268:1e-06):2.0905e-06):0.0005864769):2.2254e-06):1e-06,(((83:0.0031973977,((879:0.001222483,961:9.33384e-05):0.0010690929,2141:0.0031852687):7.6048e-06):6.3343e-06,1617:0.0006215304):1.9212e-06,877:0.0005893564):1e-06):1e-06,((((((((133:0.0017684467,701:0.0005891287):2.2368e-06,(1134:0.000578952,2144:0.0105156658):9.9731e-06):2.9297e-06,184:0.0006169378):0.0005889343,(((((166:0.0023609542,(589:0.0011803269,620:0.0005876113):0.0005907196):2.661e-06,(1041:0.0035475055,(1393:0.0071389805,1758:0.0023845894):0.0005677181):2.0846e-06):1e-06,1749:1e-06):1e-06,(629:0,1866:0):1e-06):2.0999e-06,(492:0.0006243868,((1261:1e-06,1263:1e-06):0.0006153973,1865:0.0004669016):0.0001190873):2.5665e-06):1e-06):0.0005127428,1836:0.0011788042):6.89542e-05,1867:0.0005884922):2.1814e-06,1843:0.0005890085):1.4775e-06,377:1e-06):3.2027e-06):1e-06,(((((98:0.0021365308,(((406:0.0023600932,624:0.0023587821):1e-06,971:1e-06):0.0005801414,(424:1e-06,429:1e-06):0.0009024432):2.1712e-06):1.4876e-06,1456:1e-06):1.1768e-06,1642:0.0008734403):3.0908e-06,1608:0.0017686558):2.1088e-06,(716:0.00176956,1658:0.0029524068):2.0919e-06):1e-06):1e-06):1e-06,1277:1e-06):1e-06,((874:0,1982:0):0,1825:0):1e-06):1e-06,(((((60:1e-06,1367:0.0012262724):2.8109e-06,1031:1e-06):2.1084e-06,1096:1e-06):0.0005882247,719:0.0029501188):2.119e-06,(((396:1e-06,398:1e-06):0.0017700151,672:0.0005892851):0.0005884748,((400:0.0011782944,402:0.0023613943):2.0912e-06,729:1e-06):0.0011791889):2.0311e-06):2.1196e-06):2.0865e-06,((((((((405:0.0017699788,1382:2.1134e-06):0.0005891695,(1377:1e-06,((1657:0.0011819889,1660:0.001180752):0.0023735465,1671:0.001780244):0.0005819389):2.1028e-06):0.0005855709,1566:0.0009996147):3.5016e-06,984:0.0029572515):2.0662e-06,1000:0.0005890938):0.0005884927,999:0.0017685777):2.1318e-06,(1564:1e-06,1578:0.001179892):0.0005892694):0.0011785874,718:0.0011785485):2.075e-06):2.0701e-06,1845:0.001179783):0.0005888661,1246:0.0005889168):2.1256e-06,(((((((13:0.0030959934,(((((((1122:1e-06,(1760:0.0005903441,1769:0.0007078765):0.0028396452):2.0737e-06,1973:0.0037743988):2.0874e-06,1961:1e-06):2.3595e-06,1958:0.000939535):2.1056e-06,1944:1e-06):2.0931e-06,1968:1e-06):2.1382e-06,1970:1e-06):0.0002437499):2.2641e-06,((86:0.0021727281,87:0.0032173076):2.5753e-06,94:1e-06):0.0010674192):2.125e-06,81:2.7341e-06):0.0009237596,((665:0.0011798504,1095:0.0011797425):2.0106e-06,734:0.0011813904):0.0005900362):0.0005881148,(876:0.0005888328,1565:0.0029484599):0.0005902767):2.077e-06,((494:2.1325e-06,1786:0.0005887686):0.0011787005,(((((1656:2.1654e-06,1680:0.0005890361):0.0023571184,1715:0.0029541455):2.0681e-06,(1675:0.0005732777,1942:0.0009386978):1.45399e-05):2.8209e-06,(1679:0.0011783205,1705:0.000585602):2.5666e-06):2.1026e-06,1706:0.0011796306):0.0011781398):2.0685e-06):2.1213e-06,(((((29:0.0010283439,1351:0.0009400514):7.6941e-06,(392:1e-06,1355:1e-06):0.0028130318):0.0009260267,((37:0.0017695161,696:0.001177931):1e-06,((493:0.0006216254,1826:0.0005892307):0.0005890788,1255:0.0011788257):1.9839e-06):2.8951e-06):0.0017666032,(((135:0.0005085655,947:0.0009999018):0.0001141321,1844:0.0008831884):0.0008836355,(1354:0.0009330015,1590:0.0025587351):2.4455e-06):0.001770523):2.1264e-06,(82:0.0010688102,(((((((((((((((422:1e-06,(427:1e-06,((430:0.003759785,1773:0.0014119368):0.0014169535,1781:1.0642e-06):2.7514e-06):2.4375e-06):2.7955e-06,1455:0.0009041737):5.4617e-06,1467:0.0009562666):2.7325e-06,1468:0.0009161543):5.0482e-06,1462:1e-06):2.2454e-06,(888:0.0078689971,901:1e-06):0.0011132699):5.7725e-06,886:0.0010166034):2.7352e-06,897:1e-06):5.0973e-06,905:1e-06):1.2541e-06,(904:0,909:0):1e-06):0.0005360637,(892:1e-06,907:1e-06):0.0010265234):2.1786e-06,(893:0.0009318013,(1099:1e-06,1100:1e-06):0.0010259273):8.25068e-05):2.0581e-06,903:0.0010270198):2.4526e-06,425:1e-06):2.117e-06,889:0.0031181545):1.0919e-06):3.3789e-06):2.8215e-06):2.0957e-06):2.3778e-06,((((163:0.0011791516,473:0.0011804592):0.0011852299,1298:0.0005883482):0.0005894673,1129:0.000589146):0.0005899631,(((924:0.0017144075,1257:0.0010310643):5.45686e-05,1299:0.0010783987):2.3475e-06,1131:1e-06):2.2899e-06):0.0011787013):0.0005882759,1118:0.0011786385):2.1034e-06,(((((((((((((((9:1e-06,(91:0.0010738974,(93:1e-06,((485:1e-06,975:1e-06):1e-06,486:0.0005880677):2.1115e-06):0.0005789769):2.2071e-06):2.228e-06,792:1e-06):2.5009e-06,946:0.0024887688):2.435e-06,481:1e-06):1e-06,((36:0.0005880439,169:0.0011768021):1e-06,1742:1e-06):0.0005881787):2.0368e-06,692:0.0011767675):0.0017687306,(1731:1e-06,1732:0.0011790989):0.0005880955):2.1156e-06,(((((49:0.0005872257,1069:1e-06):1.499e-06,(80:0.0010640572,(((88:0.0010731322,((92:0.003195481,((185:0.0012420641,1839:1e-06):1e-06,1259:0.0006150932):0.0011563209):1.508e-05,1063:0.0022082518):1.0669e-06):1.0588e-06,95:1e-06):1.0583e-06,96:1e-06):1.5658e-06):1.0562e-06):2.9136e-06,(1391:1e-06,((1399:0.0023691871,1400:0.002354441):0.0023635958,1761:0.0011773579):2.0365e-06):2.1034e-06):2.131e-06,(((((393:1e-06,1509:1e-06):1e-06,1508:0.00058774):0.0004950345,1849:0.0005877437):9.23786e-05,1507:0.0005880711):2.1358e-06,(1401:0.0029529199,(1506:1e-06,1510:1e-06):2.1352e-06):0.0005882486):0.0005882124):0.0005878896,159:0.0053268294):2.1363e-06):2.5183e-06,((((84:0.0021448366,(102:0.0010709996,(974:0.0005937666,976:0.0005875802):0.0005825994):1.5026e-06):1.0917e-06,90:0.0021401492):1.2419e-06,85:1e-06):1.0885e-06,1091:0.0009321092):1.8593e-06):0.000588543,(450:1e-06,(1756:0.0005890944,(1762:0.0051190692,1988:0.0019190329):2.8095e-06):2.0068e-06):0.0011791232):2.1444e-06,(99:0.0010703085,733:0.0012580857):0.0012453067):0.0017695513,673:0.0029487886):2.3273e-06,((423:1e-06,426:1e-06):0.0009043514,996:0.001179114):0.000588183):1.9915e-06,(((((((((((((((((22:1e-06,(180:0.0017015614,1787:0.0005638808):4.3417e-06):6.1405e-06,1594:0.0017486419):1.46147e-05,(796:1e-06,(797:1e-06,(1094:0.0005815221,1949:0.0009378303):1.2766e-06):2.4412e-06):3.362e-06):2.0499e-06,(742:0.0017677438,1042:1e-06):1e-06):2.2028e-06,943:1e-06):1e-06,(((100:0.0010733954,585:0.0011809104):0.0005867776,1398:0.0029495891):2.0877e-06,1863:0.0005885059):1e-06):1e-06,143:1e-06):1e-06,(((1109:0.0011794941,1625:0.000588441):2.8977e-06,1605:1e-06):1e-06,1132:0.0005885829):0.0005885327):2.118e-06,(668:0.0005884163,1855:0.0011788405):0.0005893279):0.0005889146,1240:0.0023623301):0.000587759,667:0.0035427633):2.441e-06,(158:0.0023603226,(1361:0.0040348378,(1703:0.0005884631,1711:1e-06):0.0005881266):2.1322e-06):0.000589066):2.0684e-06,1516:1e-06):1e-06,(((165:0.0029470983,378:0.0008494268):2.0769e-06,(1101:0.0020562342,1381:0.0034031027):1e-06):1e-06,(179:0.0008619986,((((771:1e-06,1470:2.7403e-06):0.0009055012,(((((882:1e-06,(942:0.0023481883,1059:0.0021804482):2.8967e-06):2.6521e-06,922:1e-06):2.2905e-06,1460:0.000988414):2.4682e-06,1457:0.0009273121):2.5007e-06,1471:0.000909346):2.4895e-06):2.4907e-06,1458:0.0026840313):2.8109e-06,(801:0.0009453364,1647:0.0026013693):0.0008575113):2.3802e-06):2.5677e-06):2.0648e-06):2.1182e-06,((498:2.1617e-06,1364:0.0028326663):0.0011812098,1358:0.001868298):0.0011790362):0.0005882726,1205:0.0023612749):2.0736e-06,((((790:1e-06,1216:0.0005882452):1e-06,793:1e-06):0.0005893126,((798:1e-06,799:1e-06):1e-06,1969:0.0028226795):2.3037e-06):0.0005843015,(1837:0.0017710892,1838:0.0017771973):0.0023697264):0.0011859336):2.0763e-06):1e-06,(((((181:0.0017708241,(1708:0.0035457749,1710:1e-06):0.000588781):2.0628e-06,((768:1e-06,883:0.0020436605):0.0011786445,(1654:0.0017753959,1677:0.0035484432):0.0005829901):2.118e-06):0.0005883347,1707:0.0029546658):2.0143e-06,(495:0.0017687274,1119:0.0017688346):2.0655e-06):0.0005882841,997:0.0005882215):2.1292e-06):2.0622e-06):2.3135e-06,((((((((((21:1e-06,791:0.0029542889):0.000980682,702:0.0011765688):0.0011761159,((431:0.001247501,891:0.0010639013):7.8675e-06,1058:0.0021791947):1e-06):2.8099e-06,(1348:0.0057158814,1464:1e-06):2.118e-06):1e-06,1098:1e-06):1e-06,899:1e-06):2.7214e-06,((887:0.0085698415,898:1.9519e-06):0.0010192104,((890:1e-06,908:1e-06):2.9437e-06,906:1e-06):2.9333e-06):0.0020409241):2.2233e-06,902:1e-06):2.0873e-06,1459:0.0009848035):2.0853e-06,1466:0.0009088827):2.1136e-06):2.9019e-06,900:0.0010265091):0.001175772,(1451:1e-06,1452:1e-06):0.0027911073):2.2085e-06,(194:0.0011807556,(1615:0.0008532951,1730:0.0005890119):0.0005896699):0.0005874544):2.5987e-06,((((((((762:1e-06,1453:0.0009062853):0.0011787359,1753:0.003547026):2.9193e-06,(1771:0.0005891192,1772:0.0009834743):0.0017710008):2.5557e-06,((((((((1454:1e-06,1475:0.0089405706):1e-06,1472:0.0047996127):1e-06,1461:1e-06):1e-06,1469:1e-06):1e-06,1465:0.0018735557):1e-06,1463:1e-06):1e-06,1473:1e-06):2.0673e-06,1476:1e-06):1e-06):2.014e-06,1102:0.0009204195):2.1885e-06,1353:0.0029742907):0.0023543794,1449:0.0019702335):2.1393e-06,(((1062:0.0011076,(1065:1e-06,(1066:0.0011132574,(1067:0.0022042031,(1068:0.0022175332,1861:0.003536707):1e-06):2.8132e-06):1e-06):2.058e-06):0.001179928,1450:0.0009297561):2.9455e-06,1448:1e-06):2.1697e-06):2.4819e-06):2.6869e-06,192:0.0035467302):0.0019682567,(((910:1e-06,912:0.0009183847):0.0009183798,917:0.0018236842):2.7517e-06,911:1e-06):0.0009067041):0.0009850384,((((((((((770:1e-06,918:1e-06):0.0010227616,885:0.0146500428):2.9382e-06,914:1e-06):2.9353e-06,884:1e-06):1e-06,895:1e-06):1e-06,(894:0,896:0):1e-06):2.5856e-06,913:0.0010263164):1e-06,916:2.0343e-06):0.0009383109,(1763:0.0009797024,(1767:1e-06,1794:2.2057e-06):7.83769e-05):2.40689e-05):8.5933e-06,(915:0.0009102924,((1774:0.0018053372,1782:0.0025655517):1e-06,1776:0.0017088545):0.0002718619):0.0005810646):0.0028500293):0.0005919459,(413:2.7925e-06,(483:1e-06,484:1e-06):0.0011775485):2.7977e-06):0.0017726234,((177:1e-06,(983:0.000589539,(1674:0.0017745765,1872:0.0044356383):0.0005888723):1.9973e-06):0.0005865342,1223:0.0029620537):0.0017764799):2.5999e-06,((457:0.0017675317,1438:0.0009011093):2.7181e-06,(765:1e-06,1447:1e-06):0.0017856368):2.7924e-06):0.0005898104,((136:0.0017728967,138:2.1364e-06):0.0023638031,(1016:2.0609e-06,1017:0.0005891367):0.0023622946):2.4315e-06):2.0921e-06,((388:0.0019623757,1415:0.0042406015):2.24e-06,1414:0.0017176719):0.0025409261):2.0562e-06,(409:1e-06,(((412:2.5645e-06,(462:0.0009158336,463:2.6203e-06):2.1197e-06):0.0017946684,(1435:1e-06,1436:1e-06):0.0018297119):2.6337e-06,((464:0.0002013519,465:0.0028170151):0.0007034007,466:0.0009226859):4.1391e-06):2.1252e-06):2.7245e-06):2.9159e-06,763:0.0049229185):2.1336e-06,(1025:0.0025545097,1766:0.0029423802):0.0025616928):2.8536e-06,1128:0.0039271369):0.0017636516,376:0.000850133):2.5217e-06,237:2.1172e-06):0.0005898213,(1419:1e-06,1664:0.0008913224):2.1442e-06):0.0005903551):2.1008e-06,(((103:0.0009800511,(112:0.0019619547,832:0.0029469094):1e-06):2.0868e-06,1663:0.0017193697):2.0889e-06,1418:1e-06):2.6165e-06):0.0011842947,(1549:0.0029915147,1814:0.0029820262):0.0011740065):0.0029644219,685:0.000928884):2.4953e-06,1815:0.0027005315):0.0029555032,1666:0.0029510593):2.0159e-06,1547:0.0029519681):2.621e-06,369:0.0009818233):2.7224e-06,(368:0.0008959465,(831:0.0010486917,1939:0.0029498057):2.5864e-06):0.0017945567):2.6228e-06,(1548:0.0019665822,1938:0.0008874354):0.0026667439):2.1502e-06,((((508:0.0069012499,1768:0.0019631765):2.8548e-06,577:0.0033322221):0.0006659549,836:0.0042146492):0.0013337173,(576:0.0015752722,(731:0.0018940898,(834:0.0010488624,835:2.0158e-06):0.0010488291):2.5285e-06):0.000788007):0.000592712):2.0727e-06,(((((((574:0.0019671172,((822:0.0020981233,828:0.0031642052):0.0010532822,1233:0.0020626853):2.9849e-06):0.0009818184,(1989:1e-06,1992:0.0010095616):2.4728e-06):0.0059205088,((((758:0.0020588458,1695:0.0068697334):1e-06,830:0.0042008677):2.2984e-06,1990:0.0010092558):2.4748e-06,(838:0.0029582587,1280:0.0029652228):0.0009806453):2.1603e-06):2.3311e-06,1857:0.0034142506):2.5601e-06,(966:0.0008449476,969:0.0016898034):1e-06):2.6312e-06,1653:0.002840146):0.0003658188,(1694:0.0025423652,1984:0.0024335208):0.0007874416):0.000358205):0.0020738381,(((127:2.267e-06,(370:1e-06,371:0.0009718472):0.000952007):0.0009088782,(196:0.0019642288,((700:0.0027574347,833:0.0010475121):2.4625e-06,1225:0.0010293203):2.7392e-06):2.4351e-06):2.7144e-06,(367:0.0009022848,522:1e-06):0.0009030537):0.000899958):0.0013873357,575:0.0039423758):0.0006880872,(((588:0.0011809376,1224:2.5659e-06):0.0011857958,1819:0.0005899421):0.0029663794,652:0.0029615778):0.0005929635):0.000590238,(578:0.0029593025,((579:0.0007876807,(817:1e-06,837:0.0010486123):0.0010513045):0.0015850301,1701:0.0029683406):0.0011776337):2.1039e-06):0.0005904157,(((188:1e-06,((714:0.0039389235,((816:0.0010504785,818:0.0010487457):2.0056e-06,821:0.0010489442):0.0010489028):2.6852e-06,1555:0.0011794262):2.6607e-06):2.091e-06,(582:0.0017728746,1556:0.001181754):2.0026e-06):0.0005909154,(580:0.0011833546,581:0.0017736542):0.0005884578):2.1315e-06):0.000590353,((43:0.0015766034,715:0.0011853799):0.0007887633,(((541:0.0026834054,544:0.0039246276):0.0057387752,1977:0.0060494361):0.0029934319,813:0.0061832486):0.0033667218):2.7419e-06):0.000590493,((((130:2.1132e-06,2096:0.0010048457):0.0005871724,952:0.0005914049):0.0017780743,(((((385:0.0011846945,1817:0.0005924526):1e-06,1822:1e-06):2.5836e-06,1821:0.0005912185):0.0017764043,523:2.7755e-06):0.0011834941,524:0.0023738285):0.0011863605):2.3994e-06,(((131:0.0005905112,((((599:0.002070868,845:0.0014787537):0.0014783158,951:0.0029611195):2.698e-06,953:0.0017746898):2.8109e-06,842:0.001182532):1e-06):2.0341e-06,(570:0.0013874247,657:0.0005894964):0.0005902614):0.0017727866,820:0.00104851):2.8842e-06):0.0005903634):2.0443e-06,(((((((((((((((24:1.9802e-06,79:0.0021287474):0.0010134144,((((26:0.003095211,1304:2.114e-06):0.0005895264,((603:0.0005906512,(604:0.0017703359,606:0.0010298353):1e-06):0.0005902757,749:0.001030627):0.0011811178):2.1271e-06,((((((((42:1e-06,((44:0.0011822177,1540:0.0005906556):2.0243e-06,(1114:2.1021e-06,2143:0.0033291608):0.0005900325):2.0936e-06):1e-06,((1115:1e-06,(1238:0.0005844623,2131:1e-06):6.0825e-06):0.0005905095,(1687:0.0011821212,1712:2.1031e-06):0.0005897183):2.9061e-06):2.1182e-06,(1230:1e-06,((((((((1525:0.0027969021,1539:0.0027970115):2.7824e-06,(1527:0.0009299487,2089:0.0020932113):0.0009321929):0.0009252509,2121:0.00210734):8.5973e-06,(1670:0.0007920458,2051:0.0020565828):0.0007880072):1.7306e-06,2000:0.0010087455):2.0776e-06,(2075:0.0021833181,(2118:0.0021975631,2133:0.0031623517):0.0014474):0.0049545642):0.0005962914,(1999:0.0027433885,2130:0.0010319584):0.0002511082):2.3004e-06,(2012:1e-06,2076:0.0038001194):0.0012305777):0.000180153):2.5833e-06):0.0005895358,(2111:2.2466e-06,2115:2.7342e-06):0.0020239519):0.0005895173,1081:0.0029589117):2.3042e-06,132:0.0017731706):0.000590556,(((((((((125:0.0023635031,2027:0.0020618911):2.1126e-06,2138:1e-06):2.2807e-06,(564:0.0012379172,(1553:0.0011849314,(((((2001:0.0009587229,2011:1e-06):0.0011179898,2026:0.0038568791):0.0011219911,2025:0.0009591523):0.0033734317,((2059:0.0082166333,2099:0.0041104257):0.0009855402,(2097:0.0020414802,2139:0.0010193569):2.9063e-06):2.4238e-06):2.6102e-06,2064:0.0013329197):0.0011013893):0.0011793445):2.4883e-06):0.0005896407,((((((((126:1e-06,1234:1e-06):0.0023610043,1231:0.0030935455):2.361e-06,2024:0.0029663392):2.4743e-06,554:0.0012362056):2.123e-06,552:0.0006178667):2.1322e-06,553:1e-06):2.0931e-06,(((545:0.0012407896,2082:0.0081022682):2.1462e-06,1700:0.0017766752):0.0005911239,(1994:0.0010075762,2020:0.0009750716):2.1396e-06):0.000591572):2.0867e-06,((519:0.0023666405,((653:0.0005898582,((670:0.0023672227,2049:0.0017729462):2.2072e-06,((1820:0.0011831521,2043:0.0021293515):0.0011828463,2055:0.0077588731):2.1913e-06):1.7275e-05):3.4081e-06,1523:0.0005898518):0.0005655363):3.393e-06,(((((654:0.0017733861,(949:0.0005904533,(1816:2.0974e-06,2135:2.2844e-06):0.0005929465):0.0005905898):2.7487e-06,(655:0.0011810269,970:0.0029584102):2.1034e-06):0.0005835385,(((2007:0.0010579301,2136:0.0020778747):1e-06,2044:0.0010120877):0.0010098436,(((2013:0.0010706917,2107:0.0010418413):2.6657e-06,(2037:0.0020636378,(2042:0.0048129673,2124:0.0035499827):0.0023709968):2.6268e-06):2.2206e-06,(2053:0.0010924412,(2110:0.0021934458,2114:2.9159e-06):0.0020306031):2.6659e-06):2.8015e-06):0.0010040118):2.8014e-06,2028:0.0009590973):3.8292e-06,676:0.0005907135):2.6045e-06):2.0929e-06):2.0805e-06):2.1092e-06,((((705:0.0027723874,2102:0.005138609):0.0013603777,(1532:0.0037355816,(((1534:0.000929477,1537:0.0018623296):2.1588e-06,1536:1e-06):2.1548e-06,1535:0.0009307696):0.0028023717):2.5887e-06):0.0010714177,2009:0.0050474181):0.0015796251,(((((1526:0.0027067078,1530:0.0047602735):0.0009291119,1531:0.0027047129):8.95799e-05,1528:0.0027947837):2.7963e-06,((1529:0.0018644075,2123:0.0020344333):0.0009269593,1538:0.0009286434):1e-06):2.0523e-06,1533:0.0018614662):2.6623e-06):0.0016475993):0.0005901688,(1985:1e-06,2048:0.001029074):0.0005903123):2.1348e-06,((((1541:2.9832e-06,2077:0.0010028715):2.7488e-06,2054:1e-06):2.7127e-06,2132:0.0100972587):0.0017691209,(1544:0.0017751723,1545:2.1247e-06):0.0011808533):2.5658e-06):2.9067e-06,(((((384:0.0010286714,(((512:0.0010280968,(515:0.001029094,(((((((929:1e-06,931:1e-06):1e-06,(930:0.0009388402,933:1e-06):2.7177e-06):2.7879e-06,932:0.0009246608):0.0009246568,(938:1e-06,1609:3.0717e-06):3.75152e-05):5.1842e-05,935:1e-06):3.87573e-05,1993:0.0010068824):6.53977e-05,2023:0.0021006595):1.57102e-05):6.18831e-05):3.4443e-05,513:1e-06):1.36824e-05,1229:0.0020601257):7.88442e-05):1.78474e-05,595:0.0020624441):1.81191e-05,(2052:0.0038020418,2069:0.0022726235):0.0076282693):0.0001530663,((((598:0.0035602608,669:0.0011810484):2.0831e-06,671:0.0029574613):0.0005845073,605:0.0011822501):2.1355e-06,1818:1e-06):3.2103e-06):1e-06,(((((((((518:0.0005907397,2098:0.0010177778):1e-06,1542:0.0005903883):2.088e-06,2134:0.001031048):2.2221e-06,2072:0.0030043049):2.2908e-06,2101:1e-06):2.7784e-06,2100:0.0010347833):0.0029498522,((555:1.9742e-06,1997:1e-06):0.0005923743,1996:0.0020252322):0.0011926075):2.7259e-06,((550:0.0006430404,1991:0.001005931):2.1536e-06,((934:0,936:0):0,940:0):1e-06):1.1244e-06):2.5617e-06,(675:0.0011820186,((732:0.0029698236,(939:2.37e-06,((1616:2.1589e-06,2057:2.8549e-06):0.0017715049,2083:0.0031631138):2.337e-06):2.05e-06):0.0017721856,(1702:0.0017757536,1812:0.0011869482):0.0005880133):2.281e-06):2.0794e-06):1e-06):2.7525e-06):2.1114e-06,(((((128:1e-06,129:1e-06):0.0011811289,648:0.0005892999):0.0005902452,1546:2.0292e-06):0.0005903384,((551:2.1532e-06,1995:2.8787e-06):0.0012282889,(950:0.0035490868,(((2035:0.0012245304,2091:0.0030116695):0.0029969785,2045:0.0010251123):2.6289e-06,2056:1e-06):2.0243e-06):2.3454e-06):2.0605e-06):0.0005893916,1563:0.0011811689):2.168e-06):2.5277e-06):0.0017700662,795:0.0048152409):2.1081e-06):0.0005889371,(926:2.1087e-06,937:2.7222e-06):0.0005890161):2.1176e-06):0.0005897329,120:0.0011807392):2.1266e-06,(121:0.001771932,((695:0.0041538877,994:0.0005901248):2.1031e-06,((990:0.0011813953,1001:2.6803e-06):0.0015768163,1015:0.0008584311):0.0007873096):2.128e-06):0.0005893449):2.5303e-06,((((113:2.2498e-06,(1618:0.0021298696,(2021:0.0010239998,(2046:1e-06,2047:1e-06):0.0020242126):2.9717e-06):0.0014187544):0.0011804898,116:0.0005894808):2.14e-06,998:0.0011804672):0.0011804649,995:0.0017724671):2.3859e-06):1e-06,((986:0,988:0):0,989:0):1e-06):1e-06,987:1e-06):1e-06,1569:1e-06):1e-06,(((((118:1e-06,(119:0.0005892452,1408:0.0017726183):2.2021e-06):0.0005778797,(1028:0.0008414593,1770:0.0009065123):9.1781e-06):5.0652e-06,1409:0.0032291497):2.9767e-06,1573:0.0008586886):3.4119e-06,1574:0.0005899333):2.0467e-06):2.0849e-06,993:0.0011807347):2.0575e-06,(((((207:0.0005901738,208:0.0017742526):2.1413e-06,221:2.0039e-06):0.0005897421,((210:0.0017720861,(((((211:2.52558e-05,1357:0.0020236107):3.2601e-06,219:1e-06):2.0325e-06,222:1e-06):1.1017e-06,220:0.0043958822):0.0011485038,(223:2.6393e-06,224:0.0008566262):0.0008556614):2.4235e-06):2.1158e-06,1785:1e-06):1.9671e-06):2.0757e-06,209:0.0005902175):0.0005894316,((964:0.0011800848,(991:1e-06,992:1e-06):0.0017715958):2.4194e-06,((980:0.001180243,1570:0.0017728997):0.0023678679,1581:0.0011801163):2.6167e-06):2.1324e-06):0.0005890535):0.0011645818,1376:0.0113550622):0.0011922151,1858:0.0008673021):0.0005998436,683:0.00173138):2.1247e-06,((649:1e-06,651:1e-06):1e-06,(650:0.0011843735,(681:1e-06,972:0.0008626838):0.0011820796):2.7852e-06):0.0005898997):2.8015e-06):2.9211e-06,((12:0.0010315622,18:1e-06):0.0010317827,846:0.0008875833):0.0008848441):0.0005898,((78:0.00185068,187:1e-06):2.7447e-06,(1116:1e-06,1117:1e-06):0.0005904059):0.0005899003):2.434e-06,((805:2.6579e-06,808:2.0862e-06):0.0008608744,(807:0.000710119,(809:0.0010288453,810:1e-06):1e-06):0.0007082659):0.0021319356):3.188e-06,28:0.0020671712):0.000578878,514:0.002061188):6.0209e-06,1232:1e-06):2.1154e-06,682:0.0029655333):1.7022e-06,656:0.0011824315):5.5296e-06,600:0.0010292606):0.0005846072,(((750:1e-06,752:1e-06):0.0005908698,(751:0.0005909962,753:1.9544e-06):0.0005909956):2.1121e-06,(847:0.0011827284,(1676:1e-06,1678:1e-06):0.0005904515):2.8879e-06):2.9263e-06):0.0041551742,(((584:1e-06,691:1e-06):1e-06,(1217:0.0011811186,1558:0.0017787075):1e-06):2.4472e-06,1093:0.001181413):0.0011859372):0.0005864978,(1218:0.0005897087,1967:1e-06):0.0005902424):2.1088e-06,(((((((((((225:1e-06,231:1e-06):0.0017010348,229:1e-06):2.0895e-06,(399:0.0017711027,875:0.0005891252):1e-06):2.5303e-06,397:0.001771497):0.00117963,(((226:2.6058e-06,227:0.0009456043):0.0017057243,717:0.0017668741):2.1249e-06,228:1e-06):2.5154e-06):2.2914e-06,395:1e-06):1e-06,401:1e-06):1e-06,(630:0.0023626607,720:0.0035499384):2.1266e-06):2.0485e-06,(1378:0.0023620361,1411:2.9777e-06):0.0005886825):0.0005890166,1862:2.613e-06):0.0005899301,941:0.0011818286):2.0406e-06):2.0638e-06,788:1e-06):2.8082e-06,((517:0.0024876992,2113:0.001036326):0.0016547394,((697:1e-06,1003:0.0008620364):1.069e-06,(1971:2.19e-06,1972:2.1438e-06):0.0009401894):0.0005876451):0.0005916021):2.1275e-06,794:1e-06):1e-06,800:0.0009602352):1e-06,(16:0.0020629155,(19:0.0041333298,20:0.0020588117):1e-06):1e-06):1e-06,4:0.0020591373);
+End;

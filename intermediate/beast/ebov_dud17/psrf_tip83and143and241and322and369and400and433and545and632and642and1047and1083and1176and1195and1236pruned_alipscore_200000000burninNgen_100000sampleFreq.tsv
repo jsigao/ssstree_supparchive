@@ -1,0 +1,10 @@
+pscore
+coda_point_long	1.01212926384683
+coda_upper_long	1.03082107165619
+coda_point_short	1.01509772825625
+coda_upper_short	1.04102114230293
+coda_point_trunc	1.04649167003422
+coda_upper_trunc	1.0953376901372
+rstan_long	1.02529545700549
+rstan_short	1.02069426057883
+rstan_trunc	1.04680807079563

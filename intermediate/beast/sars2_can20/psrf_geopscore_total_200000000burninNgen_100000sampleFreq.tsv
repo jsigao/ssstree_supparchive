@@ -1,0 +1,10 @@
+total
+coda_point_long	1.00135002213027
+coda_upper_long	1.00385468418587
+coda_point_short	1.0004647895348
+coda_upper_short	1.0016942496856
+coda_point_trunc	1.0020852696474
+coda_upper_trunc	1.00465457559736
+rstan_long	1.00202061413143
+rstan_short	1.00148031745507
+rstan_trunc	1.00286131308677

@@ -1,0 +1,7 @@
+#nexus
+
+begin sets;
+	charset ali = 1-29232;
+
+	charpartition mine = GTR+I:ali;
+end;

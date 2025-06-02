@@ -1,0 +1,7 @@
+#nexus
+
+begin sets;
+	charset ali = 1-15393;
+
+	charpartition mine = HKY+G:ali;
+end;

@@ -1,0 +1,579 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=283;
+	Taxlabels
+		FL257|ZIKV/Homo_sapiens/Cuba|Human|2018-01-18|Cuba
+		FL82|ZIKV/Homo_sapiens/Cuba|Human|2017-10-09|Cuba
+		FLSR103|MU-1|NA|2016-08-09|USA
+		FLSR118|M20|NA|2016-08-28|USA
+		FLUR076|M19|NA|2016-08-19|USA
+		FLUR096|M9M14|NA|2016-09-03|USA
+		KJ776791|H/PF/2013|Human|2013-11-28|French_Polynesia
+		KR872956|17829|Human|2015|Brazil
+		KU312312|Z1106033|Human|2015-10-02|Suriname
+		KU365777|BeH818995|Human|2015|Brazil
+		KU365778|BeH819015|Human|2015|Brazil
+		KU365780|BeH815744|Human|2015|Brazil
+		KU497555|Brazil_ZKV2015|Human|2015-11-30|Brazil
+		KU501215|PRVABC59|Human|2015-12-01|Puerto_Rico
+		KU501216|103344|Human|2015-12-01|Guatemala
+		KU501217|8375|Human|2015-11-01|Guatemala
+		KU527068|Natal_RGN|Human|2015|Brazil
+		KU647676|MRS_OPY_Martinique_PaRi_2015|Human|2015-12|Martinique
+		KU707826|SSABR1|Human|2015-07-01|Brazil
+		KU729217|BeH823339|Human|2015|Brazil
+		KU729218|BeH818305|Human|2015|Brazil
+		KU758877|17271|Human|2015-12|French_Guiana
+		KU820897|FLR|Human|2015-12|Colombia
+		KU853013|Dominican_Republic/2016/PD2_Italy|Human|2016-02-01|Dominican_Republic
+		KU870645|FB_GWUH_2016|Human|2016-02-02|Guatemala
+		KU922960|MEX/InDRE/Sm/2016|Human|2016-02-25|Mexico
+		KU926309|Rio_U1|Human|2016-01-14|Brazil
+		KU926310|Rio_S1|Human|2016-01-29|Brazil
+		KU937936|ZIKVNL00013|Human|2016-02-11|Suriname
+		KU940224|Bahia09|Human|2015-08-01|Brazil
+		KU940228|Bahia07|Human|2015-07-01|Brazil
+		KU991811|Brazil/2016/INMI1_Italy|Human|2016-03-06|Brazil
+		KX051563|Haiti/1/2016_USA|Human|2016-02-05|Haiti
+		KX156774|ZIKV/Homo_sapiens/PAN/CDC_259359_V1_V3/2015|Human|2015-12-18|Panama
+		KX156775|ZIKV/Homo_sapiens/PAN/CDC_259249_V1_V3/2015|Human|2015-12-11|Panama
+		KX156776|ZIKV/Homo_sapiens/PAN/CDC_259364_V1_V2/2015|Human|2015-12-18|Panama
+		'KX197192|ZIKV/H.sapiens/Brazil/PE243/2015|Human|2015|Brazil'
+		KX197205|9|Human|2015-12-01|Brazil
+		KX198135|ZIKV/Homo_sapiens/PAN/BEI_259634_V4/2016|Human|2016|Panama
+		KX247632|MEX_I_7|Mosquito|2015-11|Mexico
+		KX247646|Zika_virus/Homo_sapiens/COL/UF_1/2016|Human|2016-02-09|Colombia
+		KX262887|103451|Human|2016-01-06|Honduras
+		KX269878|Haiti/2016/PD_Italy|Human|2016-02-01|Haiti
+		KX280026|Paraiba_01|Human|2015|Brazil
+		KX369547|PF13/251013-18|Human|2013-10-25|French_Polynesia
+		KX421194|Nica2-16|Human|2016-01-13|Nicaragua
+		'KX446950|ZIKV/Aedes.sp/MEX/MEX_2-81/2016|Mosquito|2016-01-01|Mexico'
+		'KX446951|ZIKV/Aedes.sp/MEX/MEX_I_7/2016|Mosquito|2016-01-01|Mexico'
+		KX447509|1-0087_PF|Human|2013-12|French_Polynesia
+		KX447510|1-0049_PF|Human|2013-12|French_Polynesia
+		KX447511|1-0015_PF|Human|2014-01|French_Polynesia
+		KX447512|1-0181_PF|Human|2013-12|French_Polynesia
+		KX447513|1-0134_PF|Human|2013-12|French_Polynesia
+		KX447514|1-0035_PF|Human|2014-01|French_Polynesia
+		KX447515|1-0030_PF|Human|2013-11|French_Polynesia
+		KX447516|1-0111_PF|Human|2014-01|French_Polynesia
+		KX447518|1-0117_PF|Human|2013-12|French_Polynesia
+		KX447519|1-0199_PF|Human|2013-11|French_Polynesia
+		KX520666|HS_2015_BA_01|Human|2015-08|Brazil
+		KX548902|ZIKV/COL/FCC00093/2015|Human|2015-10-07|Colombia
+		KX673530|PHE_semen_Guadeloupe_United_Kingdom|Unknown|2016-04-21|Guadeloupe
+		KX694534|ZIKV/Homo_sapiens/HND/R103451/2015|Human|2015-01-06|Honduras
+		KX702400|Zika_virus/Homo_sapiens/VEN/UF_1/2016|Human|2016-03-25|Venezuela
+		KX766028|R114916|Human|2016-06-06|Dominican_Republic
+		KX811222|Brazil_2015_MG|Unknown|2016-06-14|Brazil
+		KX832731|ZIKV/Homo_sapiens/USA//2016/Hu0015SA|Human|2016-08-24|USA
+		KX838904|ZIKV/Aedes_aegypti/USA/2016/FL01M|Mosquito|2016-08-22|USA
+		KX838905|ZIKV/Aedes_aegypti/USA/2016/FL02M|Mosquito|2016-08-23|USA
+		KX838906|ZIKV/Aedes_aegypti/USA/2016/FL03M|Mosquito|2016-08-23|USA
+		KX842449|ZIKV/Homo_sapiens/USA/2016/FL010U|Human|2016-06-22|USA
+		'KX856011|ZIKV/Aedes_sp./MEX_I_44/2016|Mosquito|2016-01-01|Mexico'
+		KX879603|ZIKV/EC/Esmeraldas/062/2016|Human|2016-04|Ecuador
+		KX879604|ZIKV/EC/Esmeraldas/089/2016|Human|2016-04|Ecuador
+		KX906952|2016\HND\19563|Human|2016-04-16|Honduras
+		KX922703|ZIKV/Homo_sapiens/USA/2016/FL021U|Human|2016-07-19|USA
+		KX922704|ZIKV/Homo_sapiens/USA/2016/FL030U|Human|2016-08-02|USA
+		KX922705|ZIKV/Homo_sapiens/USA/2016/FL032U|Human|2016-08-05|USA
+		KX922706|ZIKV/Homo_sapiens/USA/2016/FL038U|Human|2016-08-05|USA
+		KX922707|ZIKV/Homo_sapiens/USA/2016/FL039U|Human|2016-08-17|USA
+		KX922708|ZIKV/Aedes_aegypti/USA/2016/FL04M|Mosquito|2016-09-04|USA
+		'KY014296|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ131D1_URI|Human|2016-04-18|Brazil'
+		'KY014297|Zika_virus/H.sapiens_wt/BRA/2016/FC_6864_URI|Human|2016-04-12|Brazil'
+		'KY014300|Zika_virus/H.sapiens_wt/DOM/2016/BB_0208_SER|Human|2016-04-20|Dominican_Republic'
+		'KY014301|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ107D1_URI|Human|2016-04-13|Brazil'
+		'KY014302|Zika_virus/H.sapiens_wt/DOM/2016/BB_0216_SER|Human|2016-04-21|Dominican_Republic'
+		'KY014303|Zika_virus/H.sapiens_wt/DOM/2016/BB_0127_SER|Human|2016-04-11|Dominican_Republic'
+		'KY014304|Zika_virus/H.sapiens_wt/DOM/2016/BB_0180_SER|Human|2016-04-18|Dominican_Republic'
+		'KY014305|Zika_virus/H.sapiens_wt/DOM/2016/BB_0076_SER|Human|2016-04-05|Dominican_Republic'
+		'KY014306|Zika_virus/H.sapiens_wt/HND/2016/HU_ME178_PLA|Human|2016-06-10|Honduras'
+		'KY014307|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ49D1_PLA|Human|2016-03-28|Brazil'
+		'KY014309|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ47D1_PLA|Human|2016-03-28|Brazil'
+		'KY014310|Zika_virus/H.sapiens_wt/HND/2016/HU_ME42_SER|Human|2016-05-09|Honduras'
+		'KY014312|Zika_virus/H.sapiens_wt/HND/2016/HU_ME58_PLA|Human|2016-05-13|Honduras'
+		'KY014313|Zika_virus/H.sapiens_wt/BRA/2016/FC_6696_SER|Human|2016-04-05|Brazil'
+		'KY014314|Zika_virus/H.sapiens_wt/DOM/2016/BB_0436_PLA|Human|2016-06-14|Dominican_Republic'
+		'KY014315|Zika_virus/H.sapiens_wt/HND/2016/HU_ME152_SER|Human|2016-06-06|Honduras'
+		'KY014317|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ28D1_URI|Human|2016-03-21|Brazil'
+		'KY014318|Zika_virus/H.sapiens_wt/DOM/2016/BB_0269_SER|Human|2016-04-27|Dominican_Republic'
+		'KY014319|Zika_virus/H.sapiens_wt/HND/2016/HU_ME38_PLA|Human|2016-04-30|Honduras'
+		'KY014320|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ42D1_URI|Human|2016-03-23|Brazil'
+		'KY014321|Zika_virus/H.sapiens_wt/DOM/2016/BB_0115_SER|Human|2016-04-11|Dominican_Republic'
+		'KY014327|Zika_virus/H.sapiens_wt/HND/2016/HU_ME167_PLA|Human|2016-06-09|Honduras'
+		KY075932|ZIKV/Homo_sapiens/USA/2016/FL001Sa|Human|2016-03-22|USA
+		KY075933|ZIKV/Homo_sapiens/USA/2016/FL008U|Human|2016-06-21|USA
+		KY075934|ZIKV/Homo_sapiens/USA/2016/FL016U|Human|2016-07-03|USA
+		KY075935|ZIKV/Homo_sapiens/USA/2016/FL022U|Human|2016-07-16|USA
+		KY075936|ZIKV/Homo_sapiens/USA/2016/FL036Se|Human|2016-08-04|USA
+		KY075937|ZIKV/Aedes_aegypti/USA/2016/FL05M|Mosquito|2016-09-09|USA
+		KY075938|ZIKV/Aedes_aegypti/USA/2016/FL06M|Mosquito|2016-09-20|USA
+		KY075939|ZIKV/Aedes_aegypti/USA/2016/FL08M|Mosquito|2016-10-05|USA
+		KY120348|MEX_CIENI551P4|Human|2016-03-03|Mexico
+		KY120352|Zika/Brazil/16321|Human|2016-03-22|Brazil
+		KY272991|RIO_BM1|Human|2016-02-12|Brazil
+		KY317936|ZIKV/Homo_sapiens/Colombia/2016/ZC188Se|Human|2016-01-16|Colombia
+		KY317937|ZIKV/Homo_sapiens/Colombia/2016/ZC192Se|Human|2016-01-07|Colombia
+		KY317938|ZIKV/Homo_sapiens/Colombia/2016/ZC199Se|Human|2016-01-10|Colombia
+		KY317939|ZIKV/Homo_sapiens/Colombia/2016/ZC204Se|Human|2016-01-06|Colombia
+		KY317940|ZIKV/Homo_sapiens/Colombia/2016/ZC207Se|Human|2016-01-09|Colombia
+		'KY325464|Zika_virus/H.sapiens_wt/USA/2016/FLSR036|Human|2016-09-19|USA'
+		'KY325467|Zika_virus/H.sapiens_wt/USA/2016/FLUR006|Human|2016-07-29|USA'
+		'KY325468|Zika_virus/H.sapiens_wt/USA/2016/FLUR007|Human|2016-08-04|USA'
+		'KY325469|Zika_virus/H.sapiens_wt/USA/2016/FLUR008|Human|2016-08-04|USA'
+		'KY325473|Zika_virus/H.sapiens_wt/USA/2016/FLUR022|Human|2016-08-31|USA'
+		'KY325476|Zika_virus/H.sapiens_wt/USA/2016/FLUR058|Human|2016-10-11|USA'
+		'KY325477|Zika_virus/H.sapiens_wt/USA/2016/FLUR063|Human|2016-10-03|USA'
+		'KY325479|Zika_virus/H.sapiens_wt/USA/2016/FLWB044|Human|2016-09-28|USA'
+		KY328289|HN16|Human|2016-05|Honduras
+		KY348640|SL1602|Human|2016-01-22|Suriname
+		KY441401|BR_SJRP21|Human|2016-02-29|Brazil
+		KY441402|BR_SJRP61|Human|2016-04-05|Brazil
+		KY441403|BR_SJRP1840|Human|2016-01-11|Brazil
+		KY558995|ZIKV/Homo_sapiens/Brazil/2015/ZBRC301|Human|2015-05-13|Brazil
+		KY558996|ZIKV/Homo_sapiens/Brazil/2015/ZBRC302|Human|2015-05-13|Brazil
+		KY558998|ZIKV/Homo_sapiens/Brazil/2015/ZBRC313|Human|2015-06-15|Brazil
+		KY559003|ZIKV/Homo_sapiens/Brazil/2015/ZBRD116|Human|2015-08-28|Brazil
+		KY559005|ZIKV/Homo_sapiens/Brazil/2016/ZBRX1|Human|2016-04-18|Brazil
+		KY559006|ZIKV/Homo_sapiens/Brazil/2016/ZBRX2|Human|2016-04-18|Brazil
+		KY559007|ZIKV/Homo_sapiens/Brazil/2016/ZBRX4|Human|2016-04-18|Brazil
+		KY559011|ZIKV/Homo_sapiens/Brazil/2016/ZBRX11|Human|2016-04-19|Brazil
+		KY559012|ZIKV/Homo_sapiens/Brazil/2016/ZBRX12|Human|2016-04-19|Brazil
+		KY559013|ZIKV/Homo_sapiens/Brazil/2016/ZBRX13|Human|2016-04-24|Brazil
+		KY559015|ZIKV/Homo_sapiens/Brazil/2016/ZBRX15|Human|2016-04-24|Brazil
+		KY559017|ZIKV/Homo_sapiens/Brazil/2016/ZBRX100|Human|2016-05-19|Brazil
+		KY559019|ZIKV/Homo_sapiens/Brazil/2016/ZBRX103|Human|2016-05-24|Brazil
+		KY559021|ZIKV/Homo_sapiens/Brazil/2016/ZBRX127|Human|2016-03-10|Brazil
+		KY559025|ZIKV/Homo_sapiens/Brazil/2016/ZBRY1|Human|2016-01-15|Brazil
+		KY559027|ZIKV/Homo_sapiens/Brazil/2016/ZBRY6|Human|2016-02-16|Brazil
+		KY559031|ZIKV/Homo_sapiens/Brazil/2016/ZBRY8|Human|2016-01|Brazil
+		KY559032|ZIKV/Homo_sapiens/Brazil/2016/ZBRY7|Human|2016-01|Brazil
+		KY606271|Mex03/Mexico/2016|Human|2016-03-05|Mexico
+		KY606272|mex07/Mexico/2016|Human|2016-08-05|Mexico
+		KY606273|mex48/Mexico/2016|Human|2016-06-30|Mexico
+		KY631492|BR/AM/16800005|Human|2016-01-08|Brazil
+		KY631493|MEX_ENCB165|Human|2015-10-15|Mexico
+		KY648934|ZIKV/Aedes_aegypti/MEX/MEX_I_44/2016|Mosquito|2016|Mexico
+		KY693676|FHT1166/HON/2016|Human|2016-08-26|Honduras
+		KY693677|FHT1175/HON/2016|Human|2016-08-26|Honduras
+		KY693678|FPI15198/PERU/Loreto/2016|Human|2016-06-28|Peru
+		KY693679|FPI15263/PERU/Loreto/2016|Human|2016-07-11|Peru
+		KY693680|FVM00318/VEN/Maracay/2016|Human|2016-10-19|Venezuela
+		KY765318|ZIKV/Homo_sapiens/NIC/4886-12A1/2016|Human|2016-07-10|Nicaragua
+		KY765320|ZIKV/Homo_sapiens/NIC/6406-13A1_SP/2016|Human|2016-05-29|Nicaragua
+		KY765322|ZIKV/Homo_sapiens/NIC/7252-12A1_SP/2016|Human|2016-06-29|Nicaragua
+		KY765323|ZIKV/Homo_sapiens/NIC/6188-13A1/2016|Human|2016-06-30|Nicaragua
+		KY765324|ZIKV/Homo_sapiens/NIC/8610-13A1/2016|Human|2016-07-07|Nicaragua
+		KY765325|ZIKV/Homo_sapiens/NIC/5005-13A1/2016|Human|2016-04-22|Nicaragua
+		'KY785410|Zika_virus/H.sapiens_wt/BRA/2016/FC_6418_SER|Human|2016-03-27|Brazil'
+		'KY785414|Zika_virus/H.sapiens_wt/HND/2016/HU_ME131_PLA|Human|2016-05-28|Honduras'
+		'KY785418|Zika_virus/H.sapiens_wt/HND/2016/HU_ME59_PLA|Human|2016-05-13|Honduras'
+		'KY785419|Zika_virus/H.sapiens_wt/JAM/2016/WI_JM6_SER|Human|2016-06-13|Jamaica'
+		'KY785420|Zika_virus/H.sapiens_wt/DOM/2016/BB_0183_SER|Human|2016-04-18|Dominican_Republic'
+		'KY785424|Zika_virus/H.sapiens_wt/JAM/2016/MA_WGS16-025_SER|Human|2016-07-10|Jamaica'
+		'KY785425|Zika_virus/H.sapiens_wt/DOM/2016/BB_0059_SER|Human|2016-04-04|Dominican_Republic'
+		'KY785426|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ75D1_URI|Human|2016-04-04|Brazil'
+		'KY785427|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ58D1_PLA|Human|2016-03-30|Brazil'
+		'KY785429|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ116D1_PLA|Human|2016-04-14|Brazil'
+		'KY785433|Zika_virus/H.sapiens_wt/BRA/2016/FC_6706_SER|Human|2016-04-08|Brazil'
+		'KY785435|Zika_virus/H.sapiens_wt/DOM/2016/MA_WGS16-024_SER|Human|2016-07-07|Dominican_Republic'
+		'KY785437|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ5D1_URI|Human|2016-03-14|Brazil'
+		'KY785441|Zika_virus/H.sapiens_wt/DOM/2016/BB_0433_SER|Human|2016-06-13|Dominican_Republic'
+		'KY785442|Zika_virus/H.sapiens_wt/HND/2016/HU_ME147_SER|Human|2016-06-04|Honduras'
+		'KY785448|Zika_virus/H.sapiens_wt/HND/2016/HU_ME171_PLA|Human|2016-06-10|Honduras'
+		'KY785450|Zika_virus/H.sapiens_wt/BRA/2016/FC_6863_SER|Human|2016-04-12|Brazil'
+		'KY785452|Zika_virus/H.sapiens_wt/HND/2016/HU_ME156_SER|Human|2016-06-07|Honduras'
+		'KY785453|Zika_virus/H.sapiens_wt/DOM/2016/MA_WGS16-007_SER|Human|2016-05-10|Dominican_Republic'
+		'KY785455|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ62D2_URI|Human|2016-04-06|Brazil'
+		'KY785456|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ122D1_PLA|Human|2016-04-15|Brazil'
+		'KY785459|Zika_virus/H.sapiens_wt/USA/2016/MA_WGS16-034_SER|Human|2016-08-15|USA'
+		'KY785462|Zika_virus/H.sapiens_wt/PRI/2016/MA_WGS16-016_SER|Human|2016-06-26|Puerto_Rico'
+		'KY785463|Zika_virus/H.sapiens_wt/DOM/2016/BB_0071_SER|Human|2016-04-05|Dominican_Republic'
+		'KY785464|Zika_virus/H.sapiens_wt/PRI/2016/MA_WGS16-004_SER|Human|2016-04-13|Puerto_Rico'
+		'KY785465|Zika_virus/H.sapiens_wt/DOM/2016/BB_0085_URI|Human|2016-04-07|Dominican_Republic'
+		'KY785466|Zika_virus/H.sapiens_wt/COL/2016/SU_1856A_SER|Human|2016-04-28|Colombia'
+		'KY785469|Zika_virus/H.sapiens_wt/COL/2016/SU_2724A_SER|Human|2016-04-05|Colombia'
+		'KY785475|Zika_virus/H.sapiens_wt/DOM/2016/BB_0091_SER|Human|2016-04-07|Dominican_Republic'
+		'KY785479|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ60D1_URI|Human|2016-03-30|Brazil'
+		'KY785484|Zika_virus/H.sapiens_wt/DOM/2016/MA_WGS16-011_SER|Human|2016-06-06|Dominican_Republic'
+		KY989971|FLA|Human|2015-12|Colombia
+		MF073357|16288|Human|2016-02-01|Brazil
+		MF073358|15261|Human|2015-06-01|Brazil
+		MF073359|15098|Human|2015-03-01|Brazil
+		MF098764|Dominican_Rep_Rus_3ALT_2016_Russia|Human|2016-05-11|Dominican_Republic
+		MF098765|Dominican_Rep_Rus_4MRG_2016_Russia|Human|2016-05-23|Dominican_Republic
+		MF098766|Dominican_Rep_Rus_5RMN_2016_Russia|Human|2016-05-31|Dominican_Republic
+		MF098767|Saint_Barthelemi_Rus_6BRN_2016_Russia|Human|2016-07-25|Saint_Barthelemy
+		MF098768|Dominican_Rep_Rus_7EGR_2016_Russia|Human|2016-08-25|Dominican_Republic
+		MF098771|Mexico_Rus_12TVR_2017_Russia|Human|2017-01-30|Mexico
+		MF159531|ZIKV/Homo_sapiens/Cuba_USA/2017/Hu0046Sa|Human|2017-04-19|Cuba
+		MF352141|PE243|Human|2015-05-13|Brazil
+		MF384325|mosquito/Haiti/1682/2016|Mosquito|2016-05-17|Haiti
+		MF434516|ZIKV/Homo_sapiens/NIC/1304-13A1/2016|Human|2016-08-05|Nicaragua
+		MF434517|ZIKV/Homo_sapiens/NIC/1659-13A1/2016|Human|2016-08-19|Nicaragua
+		MF434518|ZIKV/Homo_sapiens/NIC/5256-13A1/2016|Human|2016-08-26|Nicaragua
+		MF434521|ZIKV/Homo_sapiens/NIC/6547-13A1/2016|Human|2016-07-19|Nicaragua
+		MF434522|ZIKV/Homo_sapiens/NIC/7253-13A1/2016|Human|2016-08-29|Nicaragua
+		MF438286|Zika_virus/Homo_sapiens/Cuba_2017|Human|2017-02-12|Cuba
+		MF574554|ZIKV/Homo_sapiens/COL/FLR_00022/2015|Human|2015-12|Colombia
+		MF574555|ZIKV/Homo_sapiens/COL/FLR_00006/2015|Human|2015-12|Colombia
+		MF574556|ZIKV/Homo_sapiens/COL/FLR_00021/2015|Human|2015-12|Colombia
+		MF574557|ZIKV/Homo_sapiens/COL/FLR_00007/2015|Human|2015-12|Colombia
+		MF574558|ZIKV/Homo_sapiens/COL/FLR_00013/2015|Human|2015-12|Colombia
+		MF574559|ZIKV/Homo_sapiens/COL/FLR_00002/2015|Human|2015-12|Colombia
+		MF574560|ZIKV/Homo_sapiens/COL/FLR_00003/2015|Human|2015-12|Colombia
+		MF574561|ZIKV/Homo_sapiens/COL/FLR_00004/2015|Human|2015-12|Colombia
+		MF574562|ZIKV/Homo_sapiens/COL/FLR_00008/2015|Human|2015-12|Colombia
+		MF574563|ZIKV/Homo_sapiens/COL/FLR_00025/2015|Human|2015-12|Colombia
+		MF574564|ZIKV/Homo_sapiens/COL/FLR_00026/2015|Human|2015-12|Colombia
+		MF574565|ZIKV/Homo_sapiens/COL/FLR_00011/2015|Human|2015-12|Colombia
+		MF574566|ZIKV/Homo_sapiens/COL/FLR_00023/2015|Human|2015-12|Colombia
+		MF574568|ZIKV/Homo_sapiens/COL/FLR_00012/2015|Human|2015-12|Colombia
+		MF574569|ZIKV/Homo_sapiens/COL/FLR_00024/2015|Human|2015-12|Colombia
+		MF574570|ZIKV/Homo_sapiens/COL/FLR_00010/2015|Human|2015-12|Colombia
+		MF574571|ZIKV/Homo_sapiens/COL/FLR_00005/2015|Human|2015-12|Colombia
+		MF574572|ZIKV/Homo_sapiens/COL/FLR_00009/2015|Human|2015-12|Colombia
+		MF574573|ZIKV/Homo_sapiens/COL/FLR_00018/2015|Human|2015-12|Colombia
+		MF574575|ZIKV/Homo_sapiens/COL/FLR_00016/2015|Human|2015-12|Colombia
+		MF574576|ZIKV/Homo_sapiens/COL/FLR_00014/2015|Human|2015-12|Colombia
+		MF574578|ZIKV/Homo_sapiens/COL/PRV_00028/2015|Human|2016-12|Colombia
+		MF574579|ZIKV/Homo_sapiens/COL/PRV_00027/2015|Human|2016-12|Colombia
+		MF574585|ZIKV/Homo_sapiens/COL/PAN_00029/2015|Human|2016-12|Colombia
+		MF664436|Dominican_Republic/2016/ZB_Russia|Human|2016-08-25|Dominican_Republic
+		MF794971|ZIKV/EC/Esmeraldas/121/2016|Human|2016-05-01|Ecuador
+		MF801378|ZIKV/Homo_sapiens/GTM/2016/Guatemala_3921|Human|2016-07-21|Guatemala
+		MF801381|ZIKV/Homo_sapiens/HND/2016/Honduras_24|Human|2016|Honduras
+		MF801383|ZIKV/Homo_sapiens/HND/2016/Honduras_4102|Human|2016-06-03|Honduras
+		MF801384|ZIKV/Homo_sapiens/HND/2016/Honduras_1031|Human|2016-02-03|Honduras
+		MF801386|ZIKV/Homo_sapiens/HND/2016/Honduras_1083|Human|2016-02-24|Honduras
+		MF801387|ZIKV/Homo_sapiens/HND/2016/Honduras_1122|Human|2016-03-29|Honduras
+		MF801389|ZIKV/Homo_sapiens/HND/2016/Honduras_1162|Human|2016-05-10|Honduras
+		MF801391|ZIKV/Homo_sapiens/MEX/2016/Mexico_3502|Human|2016-07-06|Mexico
+		MF801395|ZIKV/Homo_sapiens/MEX/2016/mex05|Human|2016-05-09|Mexico
+		MF801396|ZIKV/Homo_sapiens/MEX/2016/mex14|Human|2016-05-17|Mexico
+		MF801397|ZIKV/Homo_sapiens/MEX/2016/mex16|Human|2016-05-20|Mexico
+		MF801398|ZIKV/Homo_sapiens/MEX/2016/mex17|Human|2016-05-20|Mexico
+		MF801399|ZIKV/Homo_sapiens/MEX/2016/mex19|Human|2016-05-20|Mexico
+		MF801400|ZIKV/Homo_sapiens/MEX/2016/mex20|Human|2016-05-20|Mexico
+		MF801401|ZIKV/Homo_sapiens/MEX/2016/mex23|Human|2016-05-23|Mexico
+		MF801402|ZIKV/Homo_sapiens/MEX/2016/mex24|Human|2016-05-26|Mexico
+		MF801403|ZIKV/Homo_sapiens/MEX/2016/mex25|Human|2016-05-25|Mexico
+		MF801406|ZIKV/Homo_sapiens/MEX/2016/mex28|Human|2016-07-07|Mexico
+		MF801408|ZIKV/Homo_sapiens/MEX/2016/mex30|Human|2016-07-05|Mexico
+		MF801410|ZIKV/Homo_sapiens/MEX/2016/mex32|Human|2016-07-05|Mexico
+		MF801411|ZIKV/Homo_sapiens/MEX/2016/mex33|Human|2016-07-05|Mexico
+		MF801412|ZIKV/Homo_sapiens/MEX/2016/mex34|Human|2016-07-07|Mexico
+		MF801413|ZIKV/Homo_sapiens/MEX/2016/mex35|Human|2016-07-07|Mexico
+		MF801414|ZIKV/Homo_sapiens/MEX/2016/mex36|Human|2016-07-05|Mexico
+		MF801417|ZIKV/Homo_sapiens/MEX/2016/mex40|Human|2016-07-01|Mexico
+		MF801418|ZIKV/Homo_sapiens/MEX/2016/mex42|Human|2016-06-30|Mexico
+		MF801423|ZIKV/Homo_sapiens/MEX/2016/mex47|Human|2016-06-30|Mexico
+		MF801426|ZIKV/Homo_sapiens/NIC/2016/Nicaragua_3912|Human|2016-07-25|Nicaragua
+		MF988743|MB16-23|Mosquito|2016-09-01|USA
+		MG494697|ZIKV/Homo_sapiens/Mexico/INPER38b/2016|Human|2016-11-24|Mexico
+		MG595216|ZIKV/Homo_sapiens/MEX/R116265/2016|Human|2016-06-23|Mexico
+		MH063260|ZIKV/Homo_sapiens/Cuba/2017/FL047U|Human|2017-08-08|Cuba
+		MH063261|ZIKV/Homo_sapiens/Cuba/2017/FL049U|Human|2017-09-24|Cuba
+		MH063262|ZIKV/Homo_sapiens/Cuba/2017/FL051Se|Human|2017-07-17|Cuba
+		MH063263|ZIKV/Homo_sapiens/Cuba/2017/FL052U|Human|2017-08-05|Cuba
+		MH063264|ZIKV/Homo_sapiens/Cuba/2017/FL055Se|Human|2017-08-13|Cuba
+		MH063265|ZIKV/Homo_sapiens/Cuba/2017/FL057U|Human|2017-07-17|Cuba
+		MH157202|ZIKV/Homo_sapiens/MEX/41-017_F_V3_O/2016|Human|2016-08-10|Mexico
+		MH157208|ZIKV/Homo_sapiens/MEX/41-022_F_V0_O/2016|Human|2016-08-22|Mexico
+		MH157213|ZIKV/Homo_sapiens/MEX/41-001_F_V3_O/2016|Human|2016-06-23|Mexico
+		MH544701|459148_Meta_Colombia_2016|Unknown|2016-01-17|Colombia
+		;
+End;
+
+Begin trees;
+	Translate
+		1 FL257|ZIKV/Homo_sapiens/Cuba|Human|2018-01-18|Cuba,
+		2 FL82|ZIKV/Homo_sapiens/Cuba|Human|2017-10-09|Cuba,
+		3 FLSR103|MU-1|NA|2016-08-09|USA,
+		4 FLSR118|M20|NA|2016-08-28|USA,
+		5 FLUR076|M19|NA|2016-08-19|USA,
+		6 FLUR096|M9M14|NA|2016-09-03|USA,
+		7 KJ776791|H/PF/2013|Human|2013-11-28|French_Polynesia,
+		8 KR872956|17829|Human|2015|Brazil,
+		9 KU312312|Z1106033|Human|2015-10-02|Suriname,
+		10 KU365777|BeH818995|Human|2015|Brazil,
+		11 KU365778|BeH819015|Human|2015|Brazil,
+		12 KU365780|BeH815744|Human|2015|Brazil,
+		13 KU497555|Brazil_ZKV2015|Human|2015-11-30|Brazil,
+		14 KU501215|PRVABC59|Human|2015-12-01|Puerto_Rico,
+		15 KU501216|103344|Human|2015-12-01|Guatemala,
+		16 KU501217|8375|Human|2015-11-01|Guatemala,
+		17 KU527068|Natal_RGN|Human|2015|Brazil,
+		18 KU647676|MRS_OPY_Martinique_PaRi_2015|Human|2015-12|Martinique,
+		19 KU707826|SSABR1|Human|2015-07-01|Brazil,
+		20 KU729217|BeH823339|Human|2015|Brazil,
+		21 KU729218|BeH818305|Human|2015|Brazil,
+		22 KU758877|17271|Human|2015-12|French_Guiana,
+		23 KU820897|FLR|Human|2015-12|Colombia,
+		24 KU853013|Dominican_Republic/2016/PD2_Italy|Human|2016-02-01|Dominican_Republic,
+		25 KU870645|FB_GWUH_2016|Human|2016-02-02|Guatemala,
+		26 KU922960|MEX/InDRE/Sm/2016|Human|2016-02-25|Mexico,
+		27 KU926309|Rio_U1|Human|2016-01-14|Brazil,
+		28 KU926310|Rio_S1|Human|2016-01-29|Brazil,
+		29 KU937936|ZIKVNL00013|Human|2016-02-11|Suriname,
+		30 KU940224|Bahia09|Human|2015-08-01|Brazil,
+		31 KU940228|Bahia07|Human|2015-07-01|Brazil,
+		32 KU991811|Brazil/2016/INMI1_Italy|Human|2016-03-06|Brazil,
+		33 KX051563|Haiti/1/2016_USA|Human|2016-02-05|Haiti,
+		34 KX156774|ZIKV/Homo_sapiens/PAN/CDC_259359_V1_V3/2015|Human|2015-12-18|Panama,
+		35 KX156775|ZIKV/Homo_sapiens/PAN/CDC_259249_V1_V3/2015|Human|2015-12-11|Panama,
+		36 KX156776|ZIKV/Homo_sapiens/PAN/CDC_259364_V1_V2/2015|Human|2015-12-18|Panama,
+		37 'KX197192|ZIKV/H.sapiens/Brazil/PE243/2015|Human|2015|Brazil',
+		38 KX197205|9|Human|2015-12-01|Brazil,
+		39 KX198135|ZIKV/Homo_sapiens/PAN/BEI_259634_V4/2016|Human|2016|Panama,
+		40 KX247632|MEX_I_7|Mosquito|2015-11|Mexico,
+		41 KX247646|Zika_virus/Homo_sapiens/COL/UF_1/2016|Human|2016-02-09|Colombia,
+		42 KX262887|103451|Human|2016-01-06|Honduras,
+		43 KX269878|Haiti/2016/PD_Italy|Human|2016-02-01|Haiti,
+		44 KX280026|Paraiba_01|Human|2015|Brazil,
+		45 KX369547|PF13/251013-18|Human|2013-10-25|French_Polynesia,
+		46 KX421194|Nica2-16|Human|2016-01-13|Nicaragua,
+		47 'KX446950|ZIKV/Aedes.sp/MEX/MEX_2-81/2016|Mosquito|2016-01-01|Mexico',
+		48 'KX446951|ZIKV/Aedes.sp/MEX/MEX_I_7/2016|Mosquito|2016-01-01|Mexico',
+		49 KX447509|1-0087_PF|Human|2013-12|French_Polynesia,
+		50 KX447510|1-0049_PF|Human|2013-12|French_Polynesia,
+		51 KX447511|1-0015_PF|Human|2014-01|French_Polynesia,
+		52 KX447512|1-0181_PF|Human|2013-12|French_Polynesia,
+		53 KX447513|1-0134_PF|Human|2013-12|French_Polynesia,
+		54 KX447514|1-0035_PF|Human|2014-01|French_Polynesia,
+		55 KX447515|1-0030_PF|Human|2013-11|French_Polynesia,
+		56 KX447516|1-0111_PF|Human|2014-01|French_Polynesia,
+		57 KX447518|1-0117_PF|Human|2013-12|French_Polynesia,
+		58 KX447519|1-0199_PF|Human|2013-11|French_Polynesia,
+		59 KX520666|HS_2015_BA_01|Human|2015-08|Brazil,
+		60 KX548902|ZIKV/COL/FCC00093/2015|Human|2015-10-07|Colombia,
+		61 KX673530|PHE_semen_Guadeloupe_United_Kingdom|Unknown|2016-04-21|Guadeloupe,
+		62 KX694534|ZIKV/Homo_sapiens/HND/R103451/2015|Human|2015-01-06|Honduras,
+		63 KX702400|Zika_virus/Homo_sapiens/VEN/UF_1/2016|Human|2016-03-25|Venezuela,
+		64 KX766028|R114916|Human|2016-06-06|Dominican_Republic,
+		65 KX811222|Brazil_2015_MG|Unknown|2016-06-14|Brazil,
+		66 KX832731|ZIKV/Homo_sapiens/USA//2016/Hu0015SA|Human|2016-08-24|USA,
+		67 KX838904|ZIKV/Aedes_aegypti/USA/2016/FL01M|Mosquito|2016-08-22|USA,
+		68 KX838905|ZIKV/Aedes_aegypti/USA/2016/FL02M|Mosquito|2016-08-23|USA,
+		69 KX838906|ZIKV/Aedes_aegypti/USA/2016/FL03M|Mosquito|2016-08-23|USA,
+		70 KX842449|ZIKV/Homo_sapiens/USA/2016/FL010U|Human|2016-06-22|USA,
+		71 'KX856011|ZIKV/Aedes_sp./MEX_I_44/2016|Mosquito|2016-01-01|Mexico',
+		72 KX879603|ZIKV/EC/Esmeraldas/062/2016|Human|2016-04|Ecuador,
+		73 KX879604|ZIKV/EC/Esmeraldas/089/2016|Human|2016-04|Ecuador,
+		74 KX906952|2016\HND\19563|Human|2016-04-16|Honduras,
+		75 KX922703|ZIKV/Homo_sapiens/USA/2016/FL021U|Human|2016-07-19|USA,
+		76 KX922704|ZIKV/Homo_sapiens/USA/2016/FL030U|Human|2016-08-02|USA,
+		77 KX922705|ZIKV/Homo_sapiens/USA/2016/FL032U|Human|2016-08-05|USA,
+		78 KX922706|ZIKV/Homo_sapiens/USA/2016/FL038U|Human|2016-08-05|USA,
+		79 KX922707|ZIKV/Homo_sapiens/USA/2016/FL039U|Human|2016-08-17|USA,
+		80 KX922708|ZIKV/Aedes_aegypti/USA/2016/FL04M|Mosquito|2016-09-04|USA,
+		81 'KY014296|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ131D1_URI|Human|2016-04-18|Brazil',
+		82 'KY014297|Zika_virus/H.sapiens_wt/BRA/2016/FC_6864_URI|Human|2016-04-12|Brazil',
+		83 'KY014300|Zika_virus/H.sapiens_wt/DOM/2016/BB_0208_SER|Human|2016-04-20|Dominican_Republic',
+		84 'KY014301|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ107D1_URI|Human|2016-04-13|Brazil',
+		85 'KY014302|Zika_virus/H.sapiens_wt/DOM/2016/BB_0216_SER|Human|2016-04-21|Dominican_Republic',
+		86 'KY014303|Zika_virus/H.sapiens_wt/DOM/2016/BB_0127_SER|Human|2016-04-11|Dominican_Republic',
+		87 'KY014304|Zika_virus/H.sapiens_wt/DOM/2016/BB_0180_SER|Human|2016-04-18|Dominican_Republic',
+		88 'KY014305|Zika_virus/H.sapiens_wt/DOM/2016/BB_0076_SER|Human|2016-04-05|Dominican_Republic',
+		89 'KY014306|Zika_virus/H.sapiens_wt/HND/2016/HU_ME178_PLA|Human|2016-06-10|Honduras',
+		90 'KY014307|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ49D1_PLA|Human|2016-03-28|Brazil',
+		91 'KY014309|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ47D1_PLA|Human|2016-03-28|Brazil',
+		92 'KY014310|Zika_virus/H.sapiens_wt/HND/2016/HU_ME42_SER|Human|2016-05-09|Honduras',
+		93 'KY014312|Zika_virus/H.sapiens_wt/HND/2016/HU_ME58_PLA|Human|2016-05-13|Honduras',
+		94 'KY014313|Zika_virus/H.sapiens_wt/BRA/2016/FC_6696_SER|Human|2016-04-05|Brazil',
+		95 'KY014314|Zika_virus/H.sapiens_wt/DOM/2016/BB_0436_PLA|Human|2016-06-14|Dominican_Republic',
+		96 'KY014315|Zika_virus/H.sapiens_wt/HND/2016/HU_ME152_SER|Human|2016-06-06|Honduras',
+		97 'KY014317|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ28D1_URI|Human|2016-03-21|Brazil',
+		98 'KY014318|Zika_virus/H.sapiens_wt/DOM/2016/BB_0269_SER|Human|2016-04-27|Dominican_Republic',
+		99 'KY014319|Zika_virus/H.sapiens_wt/HND/2016/HU_ME38_PLA|Human|2016-04-30|Honduras',
+		100 'KY014320|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ42D1_URI|Human|2016-03-23|Brazil',
+		101 'KY014321|Zika_virus/H.sapiens_wt/DOM/2016/BB_0115_SER|Human|2016-04-11|Dominican_Republic',
+		102 'KY014327|Zika_virus/H.sapiens_wt/HND/2016/HU_ME167_PLA|Human|2016-06-09|Honduras',
+		103 KY075932|ZIKV/Homo_sapiens/USA/2016/FL001Sa|Human|2016-03-22|USA,
+		104 KY075933|ZIKV/Homo_sapiens/USA/2016/FL008U|Human|2016-06-21|USA,
+		105 KY075934|ZIKV/Homo_sapiens/USA/2016/FL016U|Human|2016-07-03|USA,
+		106 KY075935|ZIKV/Homo_sapiens/USA/2016/FL022U|Human|2016-07-16|USA,
+		107 KY075936|ZIKV/Homo_sapiens/USA/2016/FL036Se|Human|2016-08-04|USA,
+		108 KY075937|ZIKV/Aedes_aegypti/USA/2016/FL05M|Mosquito|2016-09-09|USA,
+		109 KY075938|ZIKV/Aedes_aegypti/USA/2016/FL06M|Mosquito|2016-09-20|USA,
+		110 KY075939|ZIKV/Aedes_aegypti/USA/2016/FL08M|Mosquito|2016-10-05|USA,
+		111 KY120348|MEX_CIENI551P4|Human|2016-03-03|Mexico,
+		112 KY120352|Zika/Brazil/16321|Human|2016-03-22|Brazil,
+		113 KY272991|RIO_BM1|Human|2016-02-12|Brazil,
+		114 KY317936|ZIKV/Homo_sapiens/Colombia/2016/ZC188Se|Human|2016-01-16|Colombia,
+		115 KY317937|ZIKV/Homo_sapiens/Colombia/2016/ZC192Se|Human|2016-01-07|Colombia,
+		116 KY317938|ZIKV/Homo_sapiens/Colombia/2016/ZC199Se|Human|2016-01-10|Colombia,
+		117 KY317939|ZIKV/Homo_sapiens/Colombia/2016/ZC204Se|Human|2016-01-06|Colombia,
+		118 KY317940|ZIKV/Homo_sapiens/Colombia/2016/ZC207Se|Human|2016-01-09|Colombia,
+		119 'KY325464|Zika_virus/H.sapiens_wt/USA/2016/FLSR036|Human|2016-09-19|USA',
+		120 'KY325467|Zika_virus/H.sapiens_wt/USA/2016/FLUR006|Human|2016-07-29|USA',
+		121 'KY325468|Zika_virus/H.sapiens_wt/USA/2016/FLUR007|Human|2016-08-04|USA',
+		122 'KY325469|Zika_virus/H.sapiens_wt/USA/2016/FLUR008|Human|2016-08-04|USA',
+		123 'KY325473|Zika_virus/H.sapiens_wt/USA/2016/FLUR022|Human|2016-08-31|USA',
+		124 'KY325476|Zika_virus/H.sapiens_wt/USA/2016/FLUR058|Human|2016-10-11|USA',
+		125 'KY325477|Zika_virus/H.sapiens_wt/USA/2016/FLUR063|Human|2016-10-03|USA',
+		126 'KY325479|Zika_virus/H.sapiens_wt/USA/2016/FLWB044|Human|2016-09-28|USA',
+		127 KY328289|HN16|Human|2016-05|Honduras,
+		128 KY348640|SL1602|Human|2016-01-22|Suriname,
+		129 KY441401|BR_SJRP21|Human|2016-02-29|Brazil,
+		130 KY441402|BR_SJRP61|Human|2016-04-05|Brazil,
+		131 KY441403|BR_SJRP1840|Human|2016-01-11|Brazil,
+		132 KY558995|ZIKV/Homo_sapiens/Brazil/2015/ZBRC301|Human|2015-05-13|Brazil,
+		133 KY558996|ZIKV/Homo_sapiens/Brazil/2015/ZBRC302|Human|2015-05-13|Brazil,
+		134 KY558998|ZIKV/Homo_sapiens/Brazil/2015/ZBRC313|Human|2015-06-15|Brazil,
+		135 KY559003|ZIKV/Homo_sapiens/Brazil/2015/ZBRD116|Human|2015-08-28|Brazil,
+		136 KY559005|ZIKV/Homo_sapiens/Brazil/2016/ZBRX1|Human|2016-04-18|Brazil,
+		137 KY559006|ZIKV/Homo_sapiens/Brazil/2016/ZBRX2|Human|2016-04-18|Brazil,
+		138 KY559007|ZIKV/Homo_sapiens/Brazil/2016/ZBRX4|Human|2016-04-18|Brazil,
+		139 KY559011|ZIKV/Homo_sapiens/Brazil/2016/ZBRX11|Human|2016-04-19|Brazil,
+		140 KY559012|ZIKV/Homo_sapiens/Brazil/2016/ZBRX12|Human|2016-04-19|Brazil,
+		141 KY559013|ZIKV/Homo_sapiens/Brazil/2016/ZBRX13|Human|2016-04-24|Brazil,
+		142 KY559015|ZIKV/Homo_sapiens/Brazil/2016/ZBRX15|Human|2016-04-24|Brazil,
+		143 KY559017|ZIKV/Homo_sapiens/Brazil/2016/ZBRX100|Human|2016-05-19|Brazil,
+		144 KY559019|ZIKV/Homo_sapiens/Brazil/2016/ZBRX103|Human|2016-05-24|Brazil,
+		145 KY559021|ZIKV/Homo_sapiens/Brazil/2016/ZBRX127|Human|2016-03-10|Brazil,
+		146 KY559025|ZIKV/Homo_sapiens/Brazil/2016/ZBRY1|Human|2016-01-15|Brazil,
+		147 KY559027|ZIKV/Homo_sapiens/Brazil/2016/ZBRY6|Human|2016-02-16|Brazil,
+		148 KY559031|ZIKV/Homo_sapiens/Brazil/2016/ZBRY8|Human|2016-01|Brazil,
+		149 KY559032|ZIKV/Homo_sapiens/Brazil/2016/ZBRY7|Human|2016-01|Brazil,
+		150 KY606271|Mex03/Mexico/2016|Human|2016-03-05|Mexico,
+		151 KY606272|mex07/Mexico/2016|Human|2016-08-05|Mexico,
+		152 KY606273|mex48/Mexico/2016|Human|2016-06-30|Mexico,
+		153 KY631492|BR/AM/16800005|Human|2016-01-08|Brazil,
+		154 KY631493|MEX_ENCB165|Human|2015-10-15|Mexico,
+		155 KY648934|ZIKV/Aedes_aegypti/MEX/MEX_I_44/2016|Mosquito|2016|Mexico,
+		156 KY693676|FHT1166/HON/2016|Human|2016-08-26|Honduras,
+		157 KY693677|FHT1175/HON/2016|Human|2016-08-26|Honduras,
+		158 KY693678|FPI15198/PERU/Loreto/2016|Human|2016-06-28|Peru,
+		159 KY693679|FPI15263/PERU/Loreto/2016|Human|2016-07-11|Peru,
+		160 KY693680|FVM00318/VEN/Maracay/2016|Human|2016-10-19|Venezuela,
+		161 KY765318|ZIKV/Homo_sapiens/NIC/4886-12A1/2016|Human|2016-07-10|Nicaragua,
+		162 KY765320|ZIKV/Homo_sapiens/NIC/6406-13A1_SP/2016|Human|2016-05-29|Nicaragua,
+		163 KY765322|ZIKV/Homo_sapiens/NIC/7252-12A1_SP/2016|Human|2016-06-29|Nicaragua,
+		164 KY765323|ZIKV/Homo_sapiens/NIC/6188-13A1/2016|Human|2016-06-30|Nicaragua,
+		165 KY765324|ZIKV/Homo_sapiens/NIC/8610-13A1/2016|Human|2016-07-07|Nicaragua,
+		166 KY765325|ZIKV/Homo_sapiens/NIC/5005-13A1/2016|Human|2016-04-22|Nicaragua,
+		167 'KY785410|Zika_virus/H.sapiens_wt/BRA/2016/FC_6418_SER|Human|2016-03-27|Brazil',
+		168 'KY785414|Zika_virus/H.sapiens_wt/HND/2016/HU_ME131_PLA|Human|2016-05-28|Honduras',
+		169 'KY785418|Zika_virus/H.sapiens_wt/HND/2016/HU_ME59_PLA|Human|2016-05-13|Honduras',
+		170 'KY785419|Zika_virus/H.sapiens_wt/JAM/2016/WI_JM6_SER|Human|2016-06-13|Jamaica',
+		171 'KY785420|Zika_virus/H.sapiens_wt/DOM/2016/BB_0183_SER|Human|2016-04-18|Dominican_Republic',
+		172 'KY785424|Zika_virus/H.sapiens_wt/JAM/2016/MA_WGS16-025_SER|Human|2016-07-10|Jamaica',
+		173 'KY785425|Zika_virus/H.sapiens_wt/DOM/2016/BB_0059_SER|Human|2016-04-04|Dominican_Republic',
+		174 'KY785426|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ75D1_URI|Human|2016-04-04|Brazil',
+		175 'KY785427|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ58D1_PLA|Human|2016-03-30|Brazil',
+		176 'KY785429|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ116D1_PLA|Human|2016-04-14|Brazil',
+		177 'KY785433|Zika_virus/H.sapiens_wt/BRA/2016/FC_6706_SER|Human|2016-04-08|Brazil',
+		178 'KY785435|Zika_virus/H.sapiens_wt/DOM/2016/MA_WGS16-024_SER|Human|2016-07-07|Dominican_Republic',
+		179 'KY785437|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ5D1_URI|Human|2016-03-14|Brazil',
+		180 'KY785441|Zika_virus/H.sapiens_wt/DOM/2016/BB_0433_SER|Human|2016-06-13|Dominican_Republic',
+		181 'KY785442|Zika_virus/H.sapiens_wt/HND/2016/HU_ME147_SER|Human|2016-06-04|Honduras',
+		182 'KY785448|Zika_virus/H.sapiens_wt/HND/2016/HU_ME171_PLA|Human|2016-06-10|Honduras',
+		183 'KY785450|Zika_virus/H.sapiens_wt/BRA/2016/FC_6863_SER|Human|2016-04-12|Brazil',
+		184 'KY785452|Zika_virus/H.sapiens_wt/HND/2016/HU_ME156_SER|Human|2016-06-07|Honduras',
+		185 'KY785453|Zika_virus/H.sapiens_wt/DOM/2016/MA_WGS16-007_SER|Human|2016-05-10|Dominican_Republic',
+		186 'KY785455|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ62D2_URI|Human|2016-04-06|Brazil',
+		187 'KY785456|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ122D1_PLA|Human|2016-04-15|Brazil',
+		188 'KY785459|Zika_virus/H.sapiens_wt/USA/2016/MA_WGS16-034_SER|Human|2016-08-15|USA',
+		189 'KY785462|Zika_virus/H.sapiens_wt/PRI/2016/MA_WGS16-016_SER|Human|2016-06-26|Puerto_Rico',
+		190 'KY785463|Zika_virus/H.sapiens_wt/DOM/2016/BB_0071_SER|Human|2016-04-05|Dominican_Republic',
+		191 'KY785464|Zika_virus/H.sapiens_wt/PRI/2016/MA_WGS16-004_SER|Human|2016-04-13|Puerto_Rico',
+		192 'KY785465|Zika_virus/H.sapiens_wt/DOM/2016/BB_0085_URI|Human|2016-04-07|Dominican_Republic',
+		193 'KY785466|Zika_virus/H.sapiens_wt/COL/2016/SU_1856A_SER|Human|2016-04-28|Colombia',
+		194 'KY785469|Zika_virus/H.sapiens_wt/COL/2016/SU_2724A_SER|Human|2016-04-05|Colombia',
+		195 'KY785475|Zika_virus/H.sapiens_wt/DOM/2016/BB_0091_SER|Human|2016-04-07|Dominican_Republic',
+		196 'KY785479|Zika_virus/H.sapiens_wt/BRA/2016/FC_DQ60D1_URI|Human|2016-03-30|Brazil',
+		197 'KY785484|Zika_virus/H.sapiens_wt/DOM/2016/MA_WGS16-011_SER|Human|2016-06-06|Dominican_Republic',
+		198 KY989971|FLA|Human|2015-12|Colombia,
+		199 MF073357|16288|Human|2016-02-01|Brazil,
+		200 MF073358|15261|Human|2015-06-01|Brazil,
+		201 MF073359|15098|Human|2015-03-01|Brazil,
+		202 MF098764|Dominican_Rep_Rus_3ALT_2016_Russia|Human|2016-05-11|Dominican_Republic,
+		203 MF098765|Dominican_Rep_Rus_4MRG_2016_Russia|Human|2016-05-23|Dominican_Republic,
+		204 MF098766|Dominican_Rep_Rus_5RMN_2016_Russia|Human|2016-05-31|Dominican_Republic,
+		205 MF098767|Saint_Barthelemi_Rus_6BRN_2016_Russia|Human|2016-07-25|Saint_Barthelemy,
+		206 MF098768|Dominican_Rep_Rus_7EGR_2016_Russia|Human|2016-08-25|Dominican_Republic,
+		207 MF098771|Mexico_Rus_12TVR_2017_Russia|Human|2017-01-30|Mexico,
+		208 MF159531|ZIKV/Homo_sapiens/Cuba_USA/2017/Hu0046Sa|Human|2017-04-19|Cuba,
+		209 MF352141|PE243|Human|2015-05-13|Brazil,
+		210 MF384325|mosquito/Haiti/1682/2016|Mosquito|2016-05-17|Haiti,
+		211 MF434516|ZIKV/Homo_sapiens/NIC/1304-13A1/2016|Human|2016-08-05|Nicaragua,
+		212 MF434517|ZIKV/Homo_sapiens/NIC/1659-13A1/2016|Human|2016-08-19|Nicaragua,
+		213 MF434518|ZIKV/Homo_sapiens/NIC/5256-13A1/2016|Human|2016-08-26|Nicaragua,
+		214 MF434521|ZIKV/Homo_sapiens/NIC/6547-13A1/2016|Human|2016-07-19|Nicaragua,
+		215 MF434522|ZIKV/Homo_sapiens/NIC/7253-13A1/2016|Human|2016-08-29|Nicaragua,
+		216 MF438286|Zika_virus/Homo_sapiens/Cuba_2017|Human|2017-02-12|Cuba,
+		217 MF574554|ZIKV/Homo_sapiens/COL/FLR_00022/2015|Human|2015-12|Colombia,
+		218 MF574555|ZIKV/Homo_sapiens/COL/FLR_00006/2015|Human|2015-12|Colombia,
+		219 MF574556|ZIKV/Homo_sapiens/COL/FLR_00021/2015|Human|2015-12|Colombia,
+		220 MF574557|ZIKV/Homo_sapiens/COL/FLR_00007/2015|Human|2015-12|Colombia,
+		221 MF574558|ZIKV/Homo_sapiens/COL/FLR_00013/2015|Human|2015-12|Colombia,
+		222 MF574559|ZIKV/Homo_sapiens/COL/FLR_00002/2015|Human|2015-12|Colombia,
+		223 MF574560|ZIKV/Homo_sapiens/COL/FLR_00003/2015|Human|2015-12|Colombia,
+		224 MF574561|ZIKV/Homo_sapiens/COL/FLR_00004/2015|Human|2015-12|Colombia,
+		225 MF574562|ZIKV/Homo_sapiens/COL/FLR_00008/2015|Human|2015-12|Colombia,
+		226 MF574563|ZIKV/Homo_sapiens/COL/FLR_00025/2015|Human|2015-12|Colombia,
+		227 MF574564|ZIKV/Homo_sapiens/COL/FLR_00026/2015|Human|2015-12|Colombia,
+		228 MF574565|ZIKV/Homo_sapiens/COL/FLR_00011/2015|Human|2015-12|Colombia,
+		229 MF574566|ZIKV/Homo_sapiens/COL/FLR_00023/2015|Human|2015-12|Colombia,
+		230 MF574568|ZIKV/Homo_sapiens/COL/FLR_00012/2015|Human|2015-12|Colombia,
+		231 MF574569|ZIKV/Homo_sapiens/COL/FLR_00024/2015|Human|2015-12|Colombia,
+		232 MF574570|ZIKV/Homo_sapiens/COL/FLR_00010/2015|Human|2015-12|Colombia,
+		233 MF574571|ZIKV/Homo_sapiens/COL/FLR_00005/2015|Human|2015-12|Colombia,
+		234 MF574572|ZIKV/Homo_sapiens/COL/FLR_00009/2015|Human|2015-12|Colombia,
+		235 MF574573|ZIKV/Homo_sapiens/COL/FLR_00018/2015|Human|2015-12|Colombia,
+		236 MF574575|ZIKV/Homo_sapiens/COL/FLR_00016/2015|Human|2015-12|Colombia,
+		237 MF574576|ZIKV/Homo_sapiens/COL/FLR_00014/2015|Human|2015-12|Colombia,
+		238 MF574578|ZIKV/Homo_sapiens/COL/PRV_00028/2015|Human|2016-12|Colombia,
+		239 MF574579|ZIKV/Homo_sapiens/COL/PRV_00027/2015|Human|2016-12|Colombia,
+		240 MF574585|ZIKV/Homo_sapiens/COL/PAN_00029/2015|Human|2016-12|Colombia,
+		241 MF664436|Dominican_Republic/2016/ZB_Russia|Human|2016-08-25|Dominican_Republic,
+		242 MF794971|ZIKV/EC/Esmeraldas/121/2016|Human|2016-05-01|Ecuador,
+		243 MF801378|ZIKV/Homo_sapiens/GTM/2016/Guatemala_3921|Human|2016-07-21|Guatemala,
+		244 MF801381|ZIKV/Homo_sapiens/HND/2016/Honduras_24|Human|2016|Honduras,
+		245 MF801383|ZIKV/Homo_sapiens/HND/2016/Honduras_4102|Human|2016-06-03|Honduras,
+		246 MF801384|ZIKV/Homo_sapiens/HND/2016/Honduras_1031|Human|2016-02-03|Honduras,
+		247 MF801386|ZIKV/Homo_sapiens/HND/2016/Honduras_1083|Human|2016-02-24|Honduras,
+		248 MF801387|ZIKV/Homo_sapiens/HND/2016/Honduras_1122|Human|2016-03-29|Honduras,
+		249 MF801389|ZIKV/Homo_sapiens/HND/2016/Honduras_1162|Human|2016-05-10|Honduras,
+		250 MF801391|ZIKV/Homo_sapiens/MEX/2016/Mexico_3502|Human|2016-07-06|Mexico,
+		251 MF801395|ZIKV/Homo_sapiens/MEX/2016/mex05|Human|2016-05-09|Mexico,
+		252 MF801396|ZIKV/Homo_sapiens/MEX/2016/mex14|Human|2016-05-17|Mexico,
+		253 MF801397|ZIKV/Homo_sapiens/MEX/2016/mex16|Human|2016-05-20|Mexico,
+		254 MF801398|ZIKV/Homo_sapiens/MEX/2016/mex17|Human|2016-05-20|Mexico,
+		255 MF801399|ZIKV/Homo_sapiens/MEX/2016/mex19|Human|2016-05-20|Mexico,
+		256 MF801400|ZIKV/Homo_sapiens/MEX/2016/mex20|Human|2016-05-20|Mexico,
+		257 MF801401|ZIKV/Homo_sapiens/MEX/2016/mex23|Human|2016-05-23|Mexico,
+		258 MF801402|ZIKV/Homo_sapiens/MEX/2016/mex24|Human|2016-05-26|Mexico,
+		259 MF801403|ZIKV/Homo_sapiens/MEX/2016/mex25|Human|2016-05-25|Mexico,
+		260 MF801406|ZIKV/Homo_sapiens/MEX/2016/mex28|Human|2016-07-07|Mexico,
+		261 MF801408|ZIKV/Homo_sapiens/MEX/2016/mex30|Human|2016-07-05|Mexico,
+		262 MF801410|ZIKV/Homo_sapiens/MEX/2016/mex32|Human|2016-07-05|Mexico,
+		263 MF801411|ZIKV/Homo_sapiens/MEX/2016/mex33|Human|2016-07-05|Mexico,
+		264 MF801412|ZIKV/Homo_sapiens/MEX/2016/mex34|Human|2016-07-07|Mexico,
+		265 MF801413|ZIKV/Homo_sapiens/MEX/2016/mex35|Human|2016-07-07|Mexico,
+		266 MF801414|ZIKV/Homo_sapiens/MEX/2016/mex36|Human|2016-07-05|Mexico,
+		267 MF801417|ZIKV/Homo_sapiens/MEX/2016/mex40|Human|2016-07-01|Mexico,
+		268 MF801418|ZIKV/Homo_sapiens/MEX/2016/mex42|Human|2016-06-30|Mexico,
+		269 MF801423|ZIKV/Homo_sapiens/MEX/2016/mex47|Human|2016-06-30|Mexico,
+		270 MF801426|ZIKV/Homo_sapiens/NIC/2016/Nicaragua_3912|Human|2016-07-25|Nicaragua,
+		271 MF988743|MB16-23|Mosquito|2016-09-01|USA,
+		272 MG494697|ZIKV/Homo_sapiens/Mexico/INPER38b/2016|Human|2016-11-24|Mexico,
+		273 MG595216|ZIKV/Homo_sapiens/MEX/R116265/2016|Human|2016-06-23|Mexico,
+		274 MH063260|ZIKV/Homo_sapiens/Cuba/2017/FL047U|Human|2017-08-08|Cuba,
+		275 MH063261|ZIKV/Homo_sapiens/Cuba/2017/FL049U|Human|2017-09-24|Cuba,
+		276 MH063262|ZIKV/Homo_sapiens/Cuba/2017/FL051Se|Human|2017-07-17|Cuba,
+		277 MH063263|ZIKV/Homo_sapiens/Cuba/2017/FL052U|Human|2017-08-05|Cuba,
+		278 MH063264|ZIKV/Homo_sapiens/Cuba/2017/FL055Se|Human|2017-08-13|Cuba,
+		279 MH063265|ZIKV/Homo_sapiens/Cuba/2017/FL057U|Human|2017-07-17|Cuba,
+		280 MH157202|ZIKV/Homo_sapiens/MEX/41-017_F_V3_O/2016|Human|2016-08-10|Mexico,
+		281 MH157208|ZIKV/Homo_sapiens/MEX/41-022_F_V0_O/2016|Human|2016-08-22|Mexico,
+		282 MH157213|ZIKV/Homo_sapiens/MEX/41-001_F_V3_O/2016|Human|2016-06-23|Mexico,
+		283 MH544701|459148_Meta_Colombia_2016|Unknown|2016-01-17|Colombia
+		;
+tree UNTITLED = [&U] (1:0.0012214004,((((((((((((((((((((((((((((((2:0.0010340069,276:0.0004978124):9.58831e-05,277:0.0014760585):0.0001983644,(208:0.0004955928,279:0.0015516396):1e-06):0.0004958906,(((92:0.0005958831,((99:0.0005954246,((161:9.88772e-05,163:9.88468e-05):0.0006955535,214:0.0006955631):0.0001973171):1e-06,181:0.0005956139):9.89839e-05):9.8962e-05,((93:0.0005959409,184:0.0005052765):9.80947e-05,127:9.89482e-05):0.0001979266):0.0003971789,(165:0.0010561202,213:0.0016009391):0.0007350343):0.000197821):2.9056e-06,((((((((((40:1e-06,48:0.0001978622):0.0002984957,47:0.0005958727):9.85037e-05,111:0.0003974334):9.89828e-05,(254:0.0008933227,280:0.0004956496):2.5e-06):1e-06,(((151:0.0004966798,154:0.0005951529):2.4893e-06,(265:0.0006943313,273:0.0013916154):2.5234e-06):9.89412e-05,(207:0.001391842,281:0.0011919847):1e-06):1e-06):1e-06,((71:1e-06,155:0.0001978849):0.0006944543,282:0.0007938146):1e-06):2.4127e-06,251:0.0003971107):2.5278e-06,((257:0.0001039328,267:0.0006945033):0.0004959874,266:0.0015973241):0.0001958992):0.0004945636,(250:0.0008033602,264:0.0005959758):0.0003974638):9.8889e-05,((246:0.0001195245,247:0.0003028488):0.0004770573,261:0.0009132043):9.7936e-05):1e-06):1e-06,(((((25:0.0012913698,248:0.0010926222):2.2138e-06,((46:2.8999e-06,162:0.0012919875):0.000495692,((((156:0.0003973548,168:1e-06):0.0002973113,211:0.0011940047):1e-06,(182:0.0007940765,215:0.0014911528):1e-06):9.90111e-05,212:0.0009933544):9.88992e-05):1e-06):1e-06,249:0.0008343118):9.84448e-05,((150:0.0004979876,(252:0.0006959506,268:0.0010923192):1e-06):1e-06,258:0.0008936178):0.0001976145):1e-06,((126:0.0011965091,270:0.0008976011):9.4634e-05,243:0.0014917695):2.0353e-06):1e-06):1e-06,((((42:9.89562e-05,62:0.0002982449):9.82423e-05,74:0.0005956876):0.0002985623,(((89:0.0007965107,102:0.0008188216):9.65341e-05,(157:0.0005959397,166:0.0003974798):0.0001974261):9.89841e-05,((96:0.0005952401,169:1e-06):0.0001988011,262:0.0011936592):9.79919e-05):9.90059e-05):1e-06,(245:0.0009238231,253:0.0008999293):1e-06):1e-06):1e-06,(((4:0.0017086691,244:0.0010809882):0.0001124037,((((152:9.70321e-05,269:0.0009417702):0.0001985256,272:0.0017905228):2.131e-06,((255:0.0009119827,256:0.0005211809):1e-06,263:0.0014780367):1e-06):0.0005952795,259:0.0012920797):2.2417e-06):2.2696e-06,(15:9.88629e-05,16:1e-06):0.0007939201):9.93421e-05):2.5161e-06,260:0.0016909382):9.76503e-05,164:0.0007952533):0.000696563,167:0.0012098485):2.2433e-06,((27:0.0013915703,179:0.0013477548):1e-06,((113:0.0013903767,146:0.0005665569):2.5133e-06,149:0.0008907761):2.2657e-06):9.89248e-05):9.83755e-05,((((9:0.0012926906,(((((11:0.0009931738,((22:0.0005951728,29:0.0009933724):2.4329e-06,128:0.0014925487):0.0001986012):1e-06,((((14:1e-06,(238:9.89791e-05,239:1e-06):9.8995e-05):2.4602e-06,104:0.0011927081):2.009e-06,(105:0.0004967793,(189:0.000529492,191:0.0002641927):0.0001322215):0.0001979875):0.0004771276,187:0.0006294216):0.0007140769):0.0001981699,((130:9.92799e-05,199:0.0006944246):2.2263e-06,131:0.0003962725):0.0006944318):2.486e-06,64:0.0019914447):9.92435e-05,(82:1e-06,183:1e-06):0.0009931774):2.0421e-06):0.0001977507,((10:1e-06,12:9.88827e-05):0.0003961554,19:1e-06):0.000794654):0.0002984472,(153:0.0007937341,160:0.0018986941):0.0007982092):1e-06,129:0.0022911272):0.0001978741):9.90128e-05,(3:0.0020953246,((136:0.0003979605,138:0.000596285):9.73495e-05,((137:0.0008428655,((139:0.0005438099,140:0.000812104):1e-06,143:0.0003170438):2.5284e-06):1e-06,(141:0.0005780534,144:1e-06):0.0001156316):0.0004961639):0.0003979476):0.000396465):1e-06,(((((((13:0.0016913676,(32:0.0008962301,132:0.0007282256):9.63837e-05):1e-06,(((((((18:1e-06,26:0.0003964354):0.0004956336,(115:0.0007935506,(158:0.0001967811,159:0.0005966379):0.0009948039):1e-06):0.0001985197,60:0.0011929029):2.112e-06,(((((((23:1e-06,((((217:9.92145e-05,(223:0.000298232,230:9.89774e-05):0.0002971859):1e-06,(((226:9.89192e-05,227:1e-06):9.89158e-05,231:1e-06):0.0001981865,228:0.0002970794):2.039e-06):1e-06,((219:0.0003963794,(236:9.88397e-05,237:2.0949e-06):0.0004958558):1e-06,((225:0.0002971794,233:0.0001986985):9.89244e-05,235:0.0002972161):1e-06):1e-06):1e-06,((220:0.0001986007,224:0.0006945556):1e-06,(221:0.000396378,229:0.0002971142):1e-06):1e-06):1e-06):1e-06,((222:9.8959e-05,234:9.90421e-05):0.000297084,232:0.0001986603):2.5347e-06):1e-06,218:0.000495851):9.91599e-05,(41:1e-06,63:0.0005953823):9.97046e-05):0.0005963841,(((34:1e-06,240:9.89793e-05):0.0001985814,(35:0.0002979227,36:9.92165e-05):1e-06):0.0002976895,198:0.0004961176):9.8539e-05):0.0001985538,((39:0.000495728,(116:0.0001985921,118:0.0007953809):9.83641e-05):1e-06,((114:0.0003964087,117:9.91272e-05):0.0003961322,(193:0.0002977303,(194:0.0005983873,283:0.0011940641):9.43785e-05):1.8964e-06):1e-06):1e-06):1e-06,86:0.0005948595):0.0002950803):0.0002973638,103:0.001495183):0.0004939504,133:0.0009185426):1e-06,((134:0.0009690252,186:0.0020837256):0.0001072062,142:0.0008941638):1e-06):9.89044e-05):2.1558e-06,((90:0.0009108547,177:0.0010272357):2.474e-06,147:0.0009943794):0.0001975814):1e-06,176:0.001044649):9.89163e-05,135:0.0011520291):9.89631e-05,(((((81:9.88348e-05,100:1e-06):0.0015899503,((84:0.001104923,196:0.0016291476):0.0001110078,148:0.0003316818):1e-06):1e-06,(91:0.0009367031,175:0.0011078555):2.2657e-06):1e-06,97:0.0008927205):0.0002381387,94:0.0004452085):0.000357038):2.4572e-06,(21:0.0012959875,((30:1e-06,59:0.0002970828):9.90421e-05,31:2.2034e-06):0.0016972441):9.45616e-05):1e-06):1e-06,((((((((7:0.0002971811,(49:0.0001982672,54:0.0004953195):1e-06):9.86769e-05,55:0.0004956388):1e-06,56:0.0006944057):9.92801e-05,(51:0.000594701,(53:0.0003964543,58:0.0001124582):9.92859e-05):1e-06):1e-06,(45:0.0001979823,52:0.0001979118):9.89017e-05):0.0002973878,50:0.0003974464):1e-06,57:0.0003355717):0.0002962642,(((8:1e-06,209:0.0001982786):1e-06,37:0.0002970989):0.0006960657,33:0.0007952593):0.0004962554):2.1468e-06):1e-06,(38:0.0009782482,145:0.0024513796):0.0002132869):0.0001979189,((44:1e-06,65:0.0003967023):0.0008967475,(72:0.0002966805,(73:9.88208e-05,242:9.88433e-05):1e-06):0.0012963137):9.53815e-05):9.86398e-05,(17:0.0016008764,28:0.0018995453):9.03708e-05):0.0001979103,201:0.0010928857):2.1599e-06,((20:0.0007953457,112:0.0008949853):0.0005953271,(174:0.0015235263,200:0.0008930838):1e-06):9.91105e-05):0.0002096973,205:0.0018414442):0.0010821927,85:0.0007946673):2.5137e-06,87:0.0003961247):9.89288e-05,(216:0.002396491,(274:0.0016902193,278:0.0015945165):0.0003996056):9.54079e-05):1e-06,((95:0.0010937793,101:0.0006946206):9.89324e-05,((170:0.0009110123,190:0.0008839044):2.8999e-06,(180:0.0010926438,192:0.0004079967):1e-06):1e-06):1e-06):1e-06,((((((((((5:0.0004115354,(((68:0.0001976,122:9.93014e-05):1e-06,121:1e-06):1e-06,(75:0.0001976021,110:0.0002966592):1e-06):9.77555e-05):1e-06,(66:0.0002965737,78:0.0002968203):1e-06):1e-06,((76:0.0003963258,120:0.0002002568):1e-06,(106:0.0004965463,107:0.000595678):9.8565e-05):1e-06):1e-06,70:1e-06):1e-06,(67:0.0002967278,(109:1e-06,125:0.0001007218):9.93584e-05):9.90046e-05):0.0004956139,173:0.0003239971):0.0001975076,203:0.0005084364):9.91439e-05,((((((((6:0.0001011465,80:0.0003956198):1e-06,(188:1e-06,271:9.83157e-05):1e-06):9.93939e-05,77:0.000296806):1e-06,69:9.94063e-05):1e-06,123:0.0001977063):9.85715e-05,108:0.0002971156):9.89895e-05,(119:9.94027e-05,124:1e-06):0.0003966608):0.0009933587,172:0.0006588624):1e-06):1e-06,((61:0.0005959751,210:0.0003965582):0.0004967729,(83:9.91093e-05,185:0.0004042308):0.0003972858):9.82e-05):9.88642e-05,(195:0.0012922187,202:0.0006103389):1e-06):1e-06):1e-06,((43:0.0001977718,(98:0.0003958971,171:0.0002970818):0.0002967458):1e-06,(88:0.0005947824,204:0.0006936611):2.4419e-06):1e-06):1e-06,((178:0.0002974783,197:0.0003036189):0.000297175,(206:1e-06,241:9.94193e-05):0.0013904358):2.0292e-06):2.8999e-06,(24:0.0003966924,79:0.0008943064):0.0001976469):0.000423199,275:0.0011725595);
+End;

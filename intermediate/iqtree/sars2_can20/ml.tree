@@ -1,0 +1,2105 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=1046;
+	Taxlabels
+		Algeria/G0638/2264/2020|EPI_ISL_418241||Algeria|Boufarik||2020-03-02
+		Algeria/G0640/2265/2020|EPI_ISL_418242||Algeria|Blida||2020-03-08
+		Argentina/C121/2020|EPI_ISL_420600||Argentina|||2020-03-07
+		Argentina/C1374/2020|EPI_ISL_420599||Argentina|||2020-03-18
+		Argentina/C3013/2020|EPI_ISL_420598||Argentina|||2020-03-22
+		Australia/NSW01/2020|EPI_ISL_407893||Australia|New/South/Wales|Sydney|2020-01-24
+		Australia/NSW02/2020|EPI_ISL_408976||Australia|New/South/Wales|Sydney|2020-01-22
+		Australia/NSW03/2020|EPI_ISL_408977||Australia|New/South/Wales|Sydney|2020-01-25
+		Australia/NSW08/2020|EPI_ISL_413594||Australia|NSW|Sydney|2020-02-28
+		Australia/NSW11/2020|EPI_ISL_413597||Australia|NSW|Sydney|2020-03-02
+		Australia/NSW12/2020|EPI_ISL_413598||Australia|NSW|Sydney|2020-03-04
+		Australia/NSW14/2020|EPI_ISL_413600||Australia|NSW|Sydney|2020-03-03
+		Australia/NSW18/2020|EPI_ISL_417384||Australia|New/South/Wales|Sydney|2020-03-05
+		Australia/NSW24/2020|EPI_ISL_417387||Australia|New/South/Wales|Sydney|2020-03-06
+		Australia/NT02/2020|EPI_ISL_419832||Australia|Northern/Territory||2020-02-21
+		Australia/NT05/2020|EPI_ISL_419835||Australia|Northern/Territory||2020-02-24
+		Australia/QLD01/2020|EPI_ISL_407894||Australia|Queensland|Gold/Coast|2020-01-28
+		Australia/QLD02/2020|EPI_ISL_407896||Australia|Queensland|Gold/Coast|2020-01-30
+		Australia/QLD04/2020|EPI_ISL_410718||Australia|Queensland|Gold/Coast|2020-02-05
+		Australia/QLD09/2020|EPI_ISL_414414||Australia|Queensland|Gold/Coast|2020-02-29
+		Australia/VIC07/2020|EPI_ISL_416415||Australia|Victoria|Melbourne|2020-02-08
+		Australia/VIC114/2020|EPI_ISL_419725||Australia|Victoria||2020-03-18
+		Australia/VIC117/2020|EPI_ISL_419727||Australia|Victoria||2020-03-19
+		Australia/VIC126/2020|EPI_ISL_419728||Australia|Victoria||2020-03-20
+		Australia/VIC129/2020|EPI_ISL_419732||Australia|Victoria||2020-03-21
+		Australia/VIC137/2020|EPI_ISL_419830||Australia|Victoria||2020-03-22
+		Australia/VIC138/2020|EPI_ISL_419834||Australia|Victoria||2020-02-23
+		Australia/VIC143/2020|EPI_ISL_419840||Australia|Victoria||2020-03-16
+		Australia/VIC144/2020|EPI_ISL_419841||Australia|Victoria||2020-03-17
+		Australia/VIC18/2020|EPI_ISL_419737||Australia|Victoria||2020-03-07
+		Australia/VIC20/2020|EPI_ISL_419741||Australia|Victoria||2020-03-08
+		Australia/VIC22/2020|EPI_ISL_419742||Australia|Victoria||2020-03-09
+		Australia/VIC27/2020|EPI_ISL_419746||Australia|Victoria||2020-03-10
+		Australia/VIC41/2020|EPI_ISL_419760||Australia|Victoria||2020-03-11
+		Australia/VIC48/2020|EPI_ISL_419762||Australia|Victoria||2020-03-12
+		Australia/VIC538/2020|EPI_ISL_426804||Australia|Victoria||2020-03-23
+		Australia/VIC555/2020|EPI_ISL_426816||Australia|Victoria||2020-03-25
+		Australia/VIC606/2020|EPI_ISL_426861||Australia|Victoria||2020-03-27
+		Australia/VIC617/2020|EPI_ISL_426872||Australia|Victoria||2020-03-26
+		Australia/VIC636/2020|EPI_ISL_426877||Australia|Victoria||2020-03-28
+		Australia/VIC638/2020|EPI_ISL_426934||Australia|Victoria||2020-03-29
+		Australia/VIC68/2020|EPI_ISL_419782||Australia|Victoria||2020-03-13
+		Australia/VIC779/2020|EPI_ISL_427054||Australia|Victoria||2020-03-30
+		Australia/VIC81/2020|EPI_ISL_419793||Australia|Victoria||2020-03-14
+		Australia/VIC812/2020|EPI_ISL_427085||Australia|Victoria||2020-04-02
+		Australia/VIC820/2020|EPI_ISL_427092||Australia|Victoria||2020-04-03
+		Australia/VIC853/2020|EPI_ISL_427113||Australia|Victoria||2020-04-04
+		Australia/VIC857/2020|EPI_ISL_427116||Australia|Victoria||2020-04-05
+		Australia/VIC87/2020|EPI_ISL_419797||Australia|Victoria||2020-03-15
+		Australia/VIC878/2020|EPI_ISL_427133||Australia|Victoria||2020-04-06
+		Australia/VIC898/2020|EPI_ISL_427148||Australia|Victoria||2020-04-08
+		Australia/VIC912/2020|EPI_ISL_426881||Australia|Victoria||2020-03-24
+		Australia/WA11/202|EPI_ISL_420456||Australia|Western/Australia|Perth|2020-02-22
+		Austria/CeMM0003/2020|EPI_ISL_419656||Austria|||2020-02-26
+		Austria/CeMM0005/2020|EPI_ISL_419658||Austria|||2020-03-06
+		Austria/CeMM0011/2020|EPI_ISL_419664||Austria|||2020-03-23
+		Austria/CeMM0013/2020|EPI_ISL_419666||Austria|||2020-03-11
+		Austria/CeMM0018/2020|EPI_ISL_419671||Austria|||2020-03-19
+		Austria/CeMM0020/2020|EPI_ISL_419673||Austria|||2020-03-22
+		Austria/CeMM0021/2020|EPI_ISL_419674||Austria|||2020-03-24
+		Beijing/105/2020|EPI_ISL_413518||China|Beijing||2020-01-26
+		Beijing/233/2020|EPI_ISL_413520||China|Beijing||2020-01-28
+		Beijing/Wuhan/IME-BJ05/2020|EPI_ISL_424359||China|Beijing||2020-01-27
+		Beijing/Wuhan/IME-BJ07/2020|EPI_ISL_424360||China|Beijing||2020-01-29
+		Belgium/CG-030158/2020|EPI_ISL_418987||Belgium|Eupen||2020-03-01
+		Belgium/CJM-0323175/2020|EPI_ISL_420432||Belgium|Leuven||2020-03-23
+		Belgium/DWAEE-030954/2020|EPI_ISL_418983||Belgium|Asse||2020-03-09
+		Belgium/FR-03029/2020|EPI_ISL_417428||Belgium|Rixensart||2020-03-02
+		Belgium/GHB-03021/2020|EPI_ISL_407976||Belgium|Leuven||2020-02-03
+		Belgium/Human/CS-031052/2020|EPI_ISL_418800||Belgium|Gierle||2020-03-10
+		Belgium/JL-03044/2020|EPI_ISL_418270||Belgium|Antwerp||2020-03-04
+		Belgium/MMJ-03034/2020|EPI_ISL_417429||Belgium|Holsbeek||2020-03-03
+		Belgium/QL-0324173/2020|EPI_ISL_420430||Belgium|Cuesmes||2020-03-24
+		Belgium/UGent-17/2020|EPI_ISL_425057||Belgium|Ghent||2020-03-26
+		Belgium/ULG-10027/2020|EPI_ISL_421201||Belgium|Liege||2020-03-31
+		Belgium/ULG-10028/2020|EPI_ISL_421202||Belgium|Liege||2020-03-30
+		Belgium/ULG-10056/2020|EPI_ISL_424655||Belgium|Liege||2020-04-05
+		Belgium/ULG-10069/2020|EPI_ISL_424633||Belgium|Liege||2020-04-03
+		Belgium/ULG-10094/2020|EPI_ISL_424650||Belgium|Liege||2020-04-04
+		Belgium/ULG-10099/2020|EPI_ISL_427350||Belgium|Liege||2020-04-06
+		Belgium/ULG-10100/2020|EPI_ISL_427351||Belgium|Liege||2020-04-07
+		Belgium/ULG-10134/2020|EPI_ISL_427379||Belgium|Liege||2020-04-08
+		Belgium/ULG-3000/2020|EPI_ISL_417004||Belgium|Liege||2020-03-05
+		Belgium/ULG-3665/2020|EPI_ISL_417009||Belgium|Liege||2020-03-07
+		Belgium/ULG-6216/2020|EPI_ISL_417014||Belgium|Liege||2020-03-13
+		Belgium/ULG-6638/2020|EPI_ISL_417017||Belgium|Liege||2020-03-14
+		Belgium/ULG-6939/2020|EPI_ISL_417020||Belgium|Liege||2020-03-15
+		Belgium/ULG-7500/2020|EPI_ISL_418632||Belgium|Liege||2020-03-16
+		Belgium/ULG-7729/2020|EPI_ISL_418630||Belgium|Liege||2020-03-17
+		Belgium/ULG-8532/2020|EPI_ISL_418635||Belgium|Liege||2020-03-19
+		Belgium/ULG-9572/2020|EPI_ISL_418646||Belgium|Liege||2020-03-21
+		Belgium/ULG-9647/2020|EPI_ISL_418653||Belgium|Liege||2020-03-22
+		Belgium/VL-0318104/2020|EPI_ISL_420360||Belgium|Doornik||2020-03-18
+		Belgium/VM-0325171/2020|EPI_ISL_420428||Belgium|Boutersem||2020-03-25
+		Belgium/VNP-0320107/2020|EPI_ISL_420363||Belgium|Watermaal-Bosvoorde||2020-03-20
+		Belgium/VPE-030650/2020|EPI_ISL_418805||Belgium|Deinze||2020-03-06
+		Cambodia/0012/2020|EPI_ISL_411902||Cambodia|Sihanoukville||2020-01-27
+		Canada/BC/02421/2020|EPI_ISL_415581||Canada|British/Columbia||2020-03-01
+		Canada/BC/4078583/2020|EPI_ISL_418824||Canada|British/Columbia||2020-03-03
+		Canada/ON-VIDO-01/2020|EPI_ISL_425177||Canada|Ontario||2020-01-23
+		Canada/ON/PHL0539/2020|EPI_ISL_418353||Canada|Ontario||2020-03-09
+		Canada/ON/PHL3350/2020|EPI_ISL_418366||Canada|Ontario||2020-03-05
+		Canada/ON/PHL3380/2020|EPI_ISL_418350||Canada|Ontario||2020-03-20
+		Canada/ON/PHL3536/2020|EPI_ISL_418362||Canada|Ontario||2020-03-10
+		Canada/ON/PHL3575/2020|EPI_ISL_418351||Canada|Ontario||2020-03-12
+		Canada/ON/PHL3650/2020|EPI_ISL_418349||Canada|Ontario||2020-03-07
+		Canada/ON/PHL4088/2020|EPI_ISL_418354||Canada|Ontario||2020-03-15
+		Canada/ON/PHL4181/2020|EPI_ISL_418327||Canada|Ontario||2020-01-25
+		Canada/ON/PHL5472/2020|EPI_ISL_418325||Canada|Ontario||2020-02-20
+		Canada/ON/PHL5672/2020|EPI_ISL_418352||Canada|Ontario||2020-03-11
+		Canada/ON/PHL6922/2020|EPI_ISL_418364||Canada|Ontario||2020-03-13
+		Canada/ON/PHL7590/2020|EPI_ISL_418373||Canada|Ontario||2020-03-14
+		Canada/ON/PHL8751/2020|EPI_ISL_418345||Canada|Ontario||2020-02-29
+		Canada/ON/PHLU8150/2020|EPI_ISL_418355||Canada|Ontario||2020-03-08
+		Chile/Santiago-1/2020|EPI_ISL_414579||Chile|Santiago||2020-03-03
+		Chile/Santiago-2/2020|EPI_ISL_414580||Chile|Santiago||2020-03-05
+		Chile/Santiago/op2d1/2020|EPI_ISL_415658||Chile|Santiago||2020-03-06
+		Chile/Santiago/op3d1/2020|EPI_ISL_415660||Chile|Santiago||2020-03-07
+		Chile/Santiago/op4d1/2020|EPI_ISL_415661||Chile|Santiago||2020-03-08
+		Chile/Talca-1/2020|EPI_ISL_414577||Chile|Talca||2020-03-02
+		Chile/Talca-2/2020|EPI_ISL_414578||Chile|Talca||2020-03-04
+		Czech/Republic/IAB/1/2020|EPI_ISL_426883||Czech/Republic|||2020-03-27
+		Czech/Republic/IAB/10/2020|EPI_ISL_426887||Czech/Republic|||2020-03-31
+		Czech/Republic/IAB/14/2020|EPI_ISL_426889||Czech/Republic|||2020-04-02
+		Czech/Republic/IAB/15/2020|EPI_ISL_426890||Czech/Republic|||2020-03-26
+		Czech/Republic/IAB/23/2020|EPI_ISL_426897||Czech/Republic|||2020-03-29
+		Czech/Republic/IAB/9/2020|EPI_ISL_426886||Czech/Republic|||2020-03-28
+		Czech/Republic/Seq3/2020|EPI_ISL_426356||Czech/Republic|Central/Czechia/and/Prague||2020-03-21
+		Czech/Republic/Seq5/2020|EPI_ISL_426358||Czech/Republic|Central/Czechia/and/Prague||2020-03-19
+		Czech/Republic/Seq6/2020|EPI_ISL_426359||Czech/Republic|Central/Czechia/and/Prague||2020-03-17
+		Czech/Republic/Seq7/2020|EPI_ISL_426360||Czech/Republic|Central/Czechia/and/Prague||2020-03-18
+		DRC/158/2020|EPI_ISL_417950||DRC|Kinshasa||2020-03-20
+		DRC/214/2020|EPI_ISL_420030||DRC|Kinshasa||2020-03-21
+		DRC/241/2020|EPI_ISL_420033||DRC|Kinshasa||2020-03-22
+		DRC/431/2020|EPI_ISL_420847||DRC|||2020-03-26
+		DRC/523/2020|EPI_ISL_420849||DRC|Kinshasa||2020-03-28
+		DRC/82/2020|EPI_ISL_417946||DRC|Kinshasa||2020-03-18
+		DRC/94/2020|EPI_ISL_417947||DRC|Kinshasa||2020-03-19
+		DRC/KN-0054/2020|EPI_ISL_417437||DRC|Kinshasa||2020-03-17
+		Denmark/SSI-01/2020|EPI_ISL_416142||Denmark|Copenhagen||2020-02-26
+		Denmark/SSI-03/2020|EPI_ISL_416144||Denmark|Copenhagen||2020-03-01
+		Denmark/SSI-05/2020|EPI_ISL_416140||Denmark|Copenhagen||2020-03-02
+		Denmark/SSI-09/2020|EPI_ISL_416141||Denmark|Copenhagen||2020-03-03
+		England/01/2020|EPI_ISL_407071||UK|England||2020-01-29
+		England/200641094/2020|EPI_ISL_414040||UK|England||2020-02-05
+		England/200690300/2020|EPI_ISL_414042||UK|England||2020-02-08
+		England/200690306/2020|EPI_ISL_414043||UK|England||2020-02-07
+		England/200991076/2020|EPI_ISL_414524||UK|England||2020-03-01
+		England/20104004902/2020|EPI_ISL_417226||UK|England||2020-03-02
+		England/20104007503/2020|EPI_ISL_417227||UK|England||2020-03-03
+		England/20108007002/2020|EPI_ISL_417255||UK|England||2020-03-04
+		England/20109035906/2020|EPI_ISL_417260||UK|England||2020-03-05
+		England/20109050406/2020|EPI_ISL_417265||UK|England||2020-03-08
+		England/20109054806/2020|EPI_ISL_417280||UK|England||2020-03-07
+		England/20109093606/2020|EPI_ISL_417285||UK|England||2020-03-06
+		England/20129059204/2020|EPI_ISL_424054||UK|England||2020-03-09
+		England/20134010904/2020|EPI_ISL_423078||UK|England||2020-03-25
+		England/20139056904/2020|EPI_ISL_420716||UK|England||2020-03-26
+		England/20139058304/2020|EPI_ISL_420724||UK|England||2020-03-27
+		England/20142061804/2020|EPI_ISL_420772||UK|England||2020-03-30
+		England/20142062604/2020|EPI_ISL_420774||UK|England||2020-03-28
+		England/20144018704/2020|EPI_ISL_421939||UK|England||2020-04-01
+		England/20144037304/2020|EPI_ISL_421946||UK|England||2020-03-31
+		England/20148043704/2020|EPI_ISL_423591||UK|England||2020-04-02
+		England/NOTT-10DEEA/2020|EPI_ISL_425466||UK|England||2020-03-11
+		England/NOTT-10E195/2020|EPI_ISL_425505||UK|England||2020-03-18
+		England/NOTT-10E2B0/2020|EPI_ISL_425522||UK|England||2020-03-20
+		England/NOTT-10E2ED/2020|EPI_ISL_425525||UK|England||2020-03-21
+		England/NOTT-10E308/2020|EPI_ISL_425527||UK|England||2020-03-19
+		England/NOTT-10E4C9/2020|EPI_ISL_425554||UK|England||2020-03-22
+		England/NOTT-10E64B/2020|EPI_ISL_425573||UK|England||2020-03-23
+		England/NOTT-10E748/2020|EPI_ISL_425587||UK|England||2020-03-24
+		England/NOTT-10E8FA/2020|EPI_ISL_425611||UK|England||2020-03-29
+		England/NOTT-10EB6A/2020|EPI_ISL_425644||UK|England||2020-03-17
+		Finland/13M58/2020|EPI_ISL_418392||Finland|||2020-03-13
+		Finland/14M16/2020|EPI_ISL_418404||Finland|||2020-03-14
+		Finland/FIN-266/2020|EPI_ISL_414646||Finland|||2020-03-04
+		Finland/FIN-313/2020|EPI_ISL_414641||Finland|||2020-03-05
+		Finland/FIN-455/2020|EPI_ISL_414642||Finland|||2020-03-08
+		Finland/FIN-508/2020|EPI_ISL_414643||Finland|||2020-03-07
+		Finland/FIN03032020A/2020|EPI_ISL_413602||Finland|Helsinki||2020-03-03
+		France/ARA09434/2020|EPI_ISL_418414||France|ARA|Valence|2020-03-15
+		France/ARA10165/2020|EPI_ISL_418419||France|ARA|Lyon|2020-03-16
+		France/ARA10184/2020|EPI_ISL_418422||France|ARA|Lyon|2020-03-17
+		France/ARA11036/2020|EPI_ISL_418432||France|ARA|Lyon|2020-03-18
+		France/ARA12388/2020|EPI_ISL_420606||France|ARA|Lyon|2020-03-22
+		France/ARA12485/2020|EPI_ISL_420607||France|ARA|Lyon|2020-03-23
+		France/ARA1322/2020|EPI_ISL_420625||France|ARA|Lyon|2020-03-24
+		France/B1623/2020|EPI_ISL_418219||France|Bretagne|Brest|2020-02-26
+		France/B2334/2020|EPI_ISL_416503||France|Bretagne|Rennes|2020-03-01
+		France/Bourg-en-Bresse/06813/2020|EPI_ISL_417340||France|ARA||2020-03-07
+		France/CVL2000/2020|EPI_ISL_418222||France|Centre-Val/de/Loire|Tours|2020-03-04
+		France/GE3372/2020|EPI_ISL_428348||France|Grand-est|Gondrecourt-le-chateau|2020-03-20
+		France/HF1465/2020|EPI_ISL_418218||France|Hauts/de/France|Compiegne|2020-02-21
+		France/HF1645/2020|EPI_ISL_418220||France|Hauts/de/France|Compiegne|2020-02-28
+		France/HF1684/2020|EPI_ISL_414626||France|Hauts/de/France|Crepy/en/Valois|2020-02-29
+		France/HF1805/2020|EPI_ISL_414628||France|Hauts/de/France|Compiegne|2020-03-02
+		France/HF1871/2020|EPI_ISL_414630||France|Hauts/de/France|Compiegne|2020-03-03
+		France/HF2060/2020|EPI_ISL_418223||France|Hauts/de/France|Compiegne|2020-03-05
+		France/HF2150/2020|EPI_ISL_418224||France|Hauts/de/France|Compiegne|2020-03-08
+		France/HF2381/2020|EPI_ISL_418226||France|Hauts/de/France|Crouy/en/Thelle|2020-03-09
+		France/HF2405/2020|EPI_ISL_418228||France|Hauts/de/France|Compiegne|2020-03-12
+		France/HF4220/2020|EPI_ISL_428366||France|Hauts/De/France|Chateau-thierry|2020-03-30
+		France/IDF0372/2020|EPI_ISL_406596||France|Ile-de-France|Paris|2020-01-23
+		France/IDF0386-islP1/2020|EPI_ISL_411219||France|Ile-de-France|Paris|2020-01-28
+		France/IDF0571/2020|EPI_ISL_411218||France|Ile-de-France|Paris|2020-02-02
+		France/IDF0626/2020|EPI_ISL_408431||France|Ile-de-France|Paris|2020-01-29
+		France/IDF2251/2020|EPI_ISL_428355||France|Ile/De/France|Garches|2020-03-11
+		France/IDF2420/2020|EPI_ISL_418230||France|Ile/de/France|Paris|2020-03-13
+		France/IDF2534/2020|EPI_ISL_418234||France|Ile/de/France|Longjumeau|2020-03-14
+		France/IDF2989/2020|EPI_ISL_420051||France|Ile/de/France|Saint-Thibault-des-Vignes|2020-03-19
+		France/IDF3165/2020|EPI_ISL_420059||France|Ile/de/France|Longjumeau|2020-03-21
+		France/IDF3703/2020|EPI_ISL_428361||France|Ile/De/France|Longjumeau|2020-03-25
+		France/IDF3930/2020|EPI_ISL_428365||France|Ile/De/France|Longjumeau|2020-03-26
+		France/Lyon/0668/2020|EPI_ISL_417336||France|ARA||2020-03-06
+		France/Pollionay/1733/2020|EPI_ISL_416745||France|ARA||2020-03-10
+		France/RA739/2020|EPI_ISL_410486||France|Rhone-Alpes|Contamines|2020-02-08
+		Fuyang/FY002/2020|EPI_ISL_424352||China|Anhui|Fuyang|2020-03-10
+		Georgia/Tb-1352/2020|EPI_ISL_420140||Georgia|Tbilisi||2020-03-28
+		Georgia/Tb-1679/2020|EPI_ISL_420144||Georgia|Tbilisi||2020-04-01
+		Georgia/Tb-390/2020|EPI_ISL_416477||Georgia|Tbilisi||2020-03-08
+		Georgia/Tb-468/2020|EPI_ISL_415643||Georgia|Tbilisi||2020-03-10
+		Georgia/Tb-537/2020|EPI_ISL_416480||Georgia|Tbilisi||2020-03-11
+		Georgia/Tb-54/2020|EPI_ISL_415641||Georgia|Tbilisi||2020-02-27
+		Georgia/Tb-673/2020|EPI_ISL_416478||Georgia|Tbilisi||2020-03-14
+		Georgia/Tb-712/2020|EPI_ISL_416481||Georgia|Tbilisi||2020-03-16
+		Georgia/Tb/2020|EPI_ISL_416482||Georgia|Tbilisi||2020-03-13
+		Germany/BAV-V2010492/2020|EPI_ISL_420899||Germany|Munich||2020-03-11
+		Germany/BAV-V2010840/2020|EPI_ISL_420901||Germany|Munich||2020-03-12
+		Germany/BAV-V2012856/2020|EPI_ISL_420912||Germany|Munich||2020-03-21
+		Germany/Baden-Wuerttemberg-1/2020|EPI_ISL_412912||Germany|Baden-Wuerttemberg||2020-02-25
+		Germany/BavPat1/2020|EPI_ISL_406862||Germany|Bavaria|Munich|2020-01-28
+		Germany/BavPat3/2020|EPI_ISL_414521||Germany|Munich||2020-03-02
+		Germany/NRW-04/2020|EPI_ISL_414499||Germany|North/Rhine/Westphalia|Heinsberg/District|2020-02-26
+		Germany/NRW-06/2020|EPI_ISL_414505||Germany|North/Rhine/Westphalia|Heinsberg/District|2020-02-27
+		Germany/NRW-09/2020|EPI_ISL_414509||Germany|North/Rhine/Westphalia|Heinsberg/District|2020-02-28
+		Germany/NRW-12/2020|EPI_ISL_417457||Germany|Duesseldorf||2020-03-10
+		Germany/NRW-27/2020|EPI_ISL_419544||Germany|Duesseldorf||2020-03-15
+		Germany/NRW-34/2020|EPI_ISL_419551||Germany|Duesseldorf||2020-03-16
+		Germany/NRW-40/2020|EPI_ISL_425124||Germany|Duesseldorf||2020-03-17
+		Germany/NRW-42/2020|EPI_ISL_425126||Germany|Duesseldorf||2020-03-18
+		Germany/NRW-44/2020|EPI_ISL_425139||Germany|Duesseldorf||2020-03-19
+		Germany/NRW-47/2020|EPI_ISL_425131||Germany|Duesseldorf||2020-03-20
+		Greece/12/2020|EPI_ISL_418264||Greece|Athens||2020-03-18
+		Guangdong/20SF012/2020|EPI_ISL_403932||China|Guandong|Shenzhen|2020-01-14
+		Guangdong/20SF025/2020|EPI_ISL_403935||China|Guangdong|Shenzhen|2020-01-15
+		Guangdong/20SF028/2020|EPI_ISL_403936||China|Guangdong|Zhuhai|2020-01-17
+		Guangdong/20SF040/2020|EPI_ISL_403937||China|Guangdong|Zhuhai|2020-01-18
+		Guangdong/20SF174/2020|EPI_ISL_406531||China|Guangdong|Zhuhai|2020-01-22
+		Guangdong/20SF2546/2020|EPI_ISL_428458||China|Guangdong|Guangzhou|2020-02-06
+		Guangdong/20SF4047/2020|EPI_ISL_428462||China|Guangdong|Guangzhou|2020-02-17
+		Guangzhou/GZMU0016/2020|EPI_ISL_414663||China|Guangdong|Guangzhou|2020-02-25
+		Hangzhou/HZ-1/2020|EPI_ISL_406970||China|Zhejiang|Hangzhou|2020-01-20
+		Hangzhou/HZ185/2020|EPI_ISL_418510||China|Hangzhou||2020-01-23
+		Hangzhou/HZ477/2020|EPI_ISL_418511||China|Zhejiang|Hangzhou|2020-01-24
+		Hangzhou/HZ49/2020|EPI_ISL_418442||China|Hangzhou||2020-01-21
+		Hangzhou/HZ576/2020|EPI_ISL_418514||China|Zhejiang|Hangzhou|2020-01-25
+		Hangzhou/HZCDC0001/2020|EPI_ISL_407313||China|Zhejiang|Hangzhou|2020-01-19
+		Hangzhou/HZCDC6706/2020|EPI_ISL_421222||China|Hangzhou||2020-03-14
+		Hangzhou/HZCDC6789/2020|EPI_ISL_421221||China|Hangzhou||2020-03-15
+		Hangzhou/ZJU-010/2020|EPI_ISL_418990||China|Hangzhou||2020-02-03
+		Hangzhou/ZJU-011/2020|EPI_ISL_418991||China|Hangzhou||2020-02-04
+		Hong/Kong/HKPU28/3001/2020|EPI_ISL_417185||Hong/Kong|||2020-02-09
+		Hong/Kong/HKPU29/0102/2020|EPI_ISL_417187||Hong/Kong|||2020-02-08
+		Hong/Kong/HKPU39-3001/2020|EPI_ISL_419214||Hong/Kong|||2020-02-10
+		Hong/Kong/HKPU48-0202/2020|EPI_ISL_419222||Hong/Kong|||2020-02-11
+		Hong/Kong/HKPU52-3101/2020|EPI_ISL_419224||Hong/Kong|||2020-02-13
+		Hong/Kong/HKPU6/2101/2020|EPI_ISL_417178||Hong/Kong|||2020-01-25
+		Hong/Kong/HKPU64-1202/2020|EPI_ISL_419232||Hong/Kong|||2020-02-19
+		Hong/Kong/HKPU89-2502/2020|EPI_ISL_419250||Hong/Kong|||2020-02-26
+		Hong/Kong/VB20017970/2020|EPI_ISL_417064||Hong/Kong|||2020-01-21
+		Hong/Kong/VB20024950/2020|EPI_ISL_412029||Hong/Kong|||2020-01-30
+		Hong/Kong/VB20026565/2020|EPI_ISL_412030||Hong/Kong|||2020-02-01
+		Hong/Kong/VM20001061/2020|EPI_ISL_412028||Hong/Kong|||2020-01-22
+		Hong/Kong/VM20002849/2020|EPI_ISL_414571||Hong/Kong|||2020-02-22
+		Hong/Kong/VM20002868/2020|EPI_ISL_414519||Hong/Kong|||2020-02-24
+		Hong/Kong/VM20002907/2020|EPI_ISL_414517||Hong/Kong|||2020-02-25
+		Hungary/2/2020|EPI_ISL_418183||Hungary|Baranya||2020-03-17
+		Hungary/49/2020|EPI_ISL_416744||Hungary|Baranya||2020-03-20
+		Iceland/10/2020|EPI_ISL_417536||Iceland|Reykjavik||2020-03-16
+		Iceland/101/2020|EPI_ISL_417682||Iceland|Reykjavik||2020-03-10
+		Iceland/111/2020|EPI_ISL_417691||Iceland|Reykjavik||2020-03-11
+		Iceland/116/2020|EPI_ISL_417541||Iceland|Reykjavik||2020-03-17
+		Iceland/12/2020|EPI_ISL_417688||Iceland|Reykjavik||2020-03-01
+		Iceland/135/2020|EPI_ISL_417696||Iceland|Reykjavik||2020-03-12
+		Iceland/144/2020|EPI_ISL_417795||Iceland|Reykjavik||2020-03-13
+		Iceland/171/2020|EPI_ISL_417549||Iceland|Reykjavik||2020-03-14
+		Iceland/25/2020|EPI_ISL_417693||Iceland|Reykjavik||2020-03-02
+		Iceland/30/2020|EPI_ISL_417773||Iceland|Reykjavik||2020-03-03
+		Iceland/337/2020|EPI_ISL_417666||Iceland|Reykjavik||2020-03-15
+		Iceland/353/2020|EPI_ISL_424377||Iceland|Reykjavik||2020-03-18
+		Iceland/355/2020|EPI_ISL_424379||Iceland|Reykjavik||2020-03-19
+		Iceland/37/2020|EPI_ISL_417681||Iceland|Reykjavik||2020-03-04
+		Iceland/455/2020|EPI_ISL_424478||Iceland|Reykjavik||2020-03-20
+		Iceland/47/2020|EPI_ISL_417683||Iceland|Reykjavik||2020-03-05
+		Iceland/470/2020|EPI_ISL_424493||Iceland|Reykjavik||2020-03-21
+		Iceland/516/2020|EPI_ISL_424538||Iceland|Reykjavik||2020-03-24
+		Iceland/530/2020|EPI_ISL_424551||Iceland|Reykjavik||2020-03-25
+		Iceland/54/2020|EPI_ISL_417684||Iceland|Reykjavik||2020-03-06
+		Iceland/589/2020|EPI_ISL_424609||Iceland|Reykjavik||2020-03-29
+		Iceland/590/2020|EPI_ISL_424610||Iceland|Reykjavik||2020-03-26
+		Iceland/595/2020|EPI_ISL_424615||Iceland|Reykjavik||2020-03-27
+		Iceland/604/2020|EPI_ISL_424624||Iceland|Reykjavik||2020-03-28
+		Iceland/65/2020|EPI_ISL_417705||Iceland|Reykjavik||2020-03-07
+		Iceland/70/2020|EPI_ISL_417728||Iceland|Reykjavik||2020-03-08
+		Iceland/73/2020|EPI_ISL_417861||Iceland|Reykjavik||2020-03-09
+		India/1-27/2020|EPI_ISL_413522||India|Kerala||2020-01-27
+		India/1-31/2020|EPI_ISL_413523||India|Kerala||2020-01-31
+		India/1063/2020|EPI_ISL_424361||India|||2020-03-10
+		India/1644/2020|EPI_ISL_421672||India|||2020-03-12
+		India/3239/2020|EPI_ISL_424365||India|||2020-03-17
+		India/777/2020|EPI_ISL_420551||India|||2020-03-03
+		India/GBRC1/2020|EPI_ISL_426414||India|Gujarat||2020-04-05
+		India/c31/2020|EPI_ISL_426179||India|||2020-03-02
+		Ireland/21023/2020|EPI_ISL_418516||Ireland|Tipperary||2020-03-06
+		Ireland/24042/2020|EPI_ISL_418583||Ireland|Dublin||2020-03-10
+		Ireland/COR-20134/2020|EPI_ISL_414487||Ireland|Cork||2020-03-04
+		Ireland/Dublin-22428/2020|EPI_ISL_418581||Ireland|Dublin||2020-03-08
+		Israel/ISR/IT0320/2020|EPI_ISL_419210||Israel|Ramat/Gan||2020-03-01
+		Israel/ISR/JP0320/2020|EPI_ISL_419211||Israel|Ramat/Gan||2020-02-23
+		Italy/CDG1/2020|EPI_ISL_412973||Italy|Lombardy||2020-02-20
+		Italy/FVG-ICGEB/S8/2020|EPI_ISL_417421||Italy|Friuli/Venezia/Giulia||2020-03-01
+		Italy/INMI10/2020|EPI_ISL_424344||Italy|Rome||2020-03-04
+		Italy/INMI4/2020|EPI_ISL_417922||Italy|Rome||2020-02-28
+		Italy/INMI8/2020|EPI_ISL_424342||Italy|Rome||2020-03-07
+		Italy/SPL1/2020|EPI_ISL_412974||Italy|Rome||2020-01-29
+		Italy/TE4880/2020|EPI_ISL_418256||Italy|Abruzzo||2020-03-14
+		Italy/TE5166/2020|EPI_ISL_420563||Italy|Teramo||2020-03-18
+		Italy/TE5472/2020|EPI_ISL_420564||Italy|Castel/di/Sangro||2020-03-19
+		Italy/TE5780/2020|EPI_ISL_420567||Italy|Abruzzo|L-Aquila|2020-03-21
+		Italy/TE6195/2020|EPI_ISL_420569||Italy|Abruzzo||2020-03-23
+		Italy/UniMI03/2020|EPI_ISL_417447||Italy|Lombardy|Milan|2020-02-24
+		Italy/UniSR1/2020|EPI_ISL_413489||Italy|Lombardy|Milan|2020-03-03
+		Italy/VR/20COV21-26/2020|EPI_ISL_422437||Italy|Veneto|Verona|2020-03-25
+		Japan/DP0065/2020|EPI_ISL_416570||Japan|unknown||2020-02-15
+		Japan/DP0481/2020|EPI_ISL_416605||Japan|unknown||2020-02-16
+		Japan/DP0588/2020|EPI_ISL_416610||Japan|unknown||2020-02-17
+		Japan/Hu/DP/Kng/19-020/2020|EPI_ISL_412968||Japan|||2020-02-10
+		Japan/Hu/DP/Kng/19-031/2020|EPI_ISL_420889||Japan|||2020-02-14
+		Japan/Hu/Kng/19-437/2020|EPI_ISL_420890||Japan|||2020-03-09
+		Japan/NA-20-05-1/2020|EPI_ISL_410531||Japan|Nara||2020-01-25
+		Japan/OS-20-07-1/2020|EPI_ISL_410532||Japan|Osaka||2020-01-23
+		Japan/P1/2020|EPI_ISL_419296||Japan|Kochi||2020-03-08
+		Japan/P2-2/2020|EPI_ISL_419298||Japan|Chiba||2020-03-10
+		Japan/P3-2/2020|EPI_ISL_419300||Japan|Ishikawa||2020-03-20
+		Japan/P4-2/2020|EPI_ISL_419302||Japan|Saitama||2020-03-12
+		Japan/P4-4/2020|EPI_ISL_419304||Japan|Saitama||2020-03-17
+		Japan/P4-5/2020|EPI_ISL_419305||Japan|Saitama||2020-03-18
+		Japan/P4-8/2020|EPI_ISL_419308||Japan|Saitama||2020-03-19
+		Japan/P5-3/2020|EPI_ISL_419311||Japan|Chiba||2020-03-13
+		Japan/SMU-0311S2/2020|EPI_ISL_416524||Japan|Saitama||2020-03-11
+		Japan/TK-20-31-3/2020|EPI_ISL_413459||Japan|Tokyo||2020-02-20
+		Japan/TY-WK-012/2020|EPI_ISL_408665||Japan|Tokyo||2020-01-29
+		Japan/TY-WK-521/2020|EPI_ISL_408667||Japan|Tokyo||2020-01-31
+		Jingzhou/HBCDC-HB-01/2020|EPI_ISL_412459||China|Hubei|Jingzhou|2020-01-08
+		Korea/BA-ACH/2604/2020|EPI_ISL_420799||South/Korea|||2020-02-27
+		Korea/BA-ACH/2719/2020|EPI_ISL_420801||South/Korea|||2020-02-29
+		Korea/KCDC2004/2020|EPI_ISL_426164||South/Korea|||2020-02-02
+		Korea/KCDC2005/2020|EPI_ISL_426166||South/Korea|||2020-02-04
+		Korea/KCDC2009/2020|EPI_ISL_426173||South/Korea|||2020-02-07
+		Korea/KCDC2010/2020|EPI_ISL_426180||South/Korea|||2020-02-05
+		Korea/KCDC2011/2020|EPI_ISL_426181||South/Korea|||2020-02-23
+		Korea/KCDC2012/2020|EPI_ISL_426182||South/Korea|||2020-02-09
+		Korea/KCDC2014/2020|EPI_ISL_426187||South/Korea|||2020-02-12
+		Korea/KCDC2015/2020|EPI_ISL_427809||South/Korea|||2020-02-26
+		Korea/KCDC2016/2020|EPI_ISL_427810||South/Korea|||2020-02-18
+		Korea/KCDC2018/2020|EPI_ISL_427812||South/Korea|||2020-02-19
+		Kuwait/KU008/2020|EPI_ISL_422427||Kuwait|Dasman||2020-03-16
+		Kuwait/KU12/2020|EPI_ISL_416458||Kuwait|Hawali||2020-03-02
+		Latvia/0004/2020|EPI_ISL_421656||Latvia|||2020-03-25
+		Latvia/0005/2020|EPI_ISL_426285||Latvia|||2020-03-30
+		Luxembourg/LNS0366116/2020|EPI_ISL_419564||Luxembourg|||2020-03-15
+		Luxembourg/LNS0641910/2020|EPI_ISL_419566||Luxembourg|||2020-03-05
+		Luxembourg/LNS0756270/2020|EPI_ISL_419568||Luxembourg|||2020-03-14
+		Luxembourg/LNS2128808/2020|EPI_ISL_417530||Luxembourg|||2020-03-18
+		Luxembourg/LNS2458673/2020|EPI_ISL_421760||Luxembourg|||2020-03-17
+		Luxembourg/LNS2614631/2020|EPI_ISL_419578||Luxembourg|||2020-03-08
+		Luxembourg/LNS2907333/2020|EPI_ISL_419580||Luxembourg|||2020-03-12
+		Luxembourg/LNS3711853/2020|EPI_ISL_419584||Luxembourg|||2020-03-13
+		Luxembourg/LNS4691488/2020|EPI_ISL_419587||Luxembourg|||2020-03-11
+		Luxembourg/LNS4836560/2020|EPI_ISL_419588||Luxembourg|||2020-03-16
+		Luxembourg/Lux1/2020|EPI_ISL_413593||Luxembourg|||2020-02-29
+		Malaysia/189332/2020|EPI_ISL_417917||Malaysia|Kuala/Lumpur||2020-03-20
+		Malaysia/MKAK-CL-2020-5047/2020|EPI_ISL_416866||Malaysia|Selangor||2020-02-20
+		Mexico/CDMX-INER/04/2020|EPI_ISL_424626||Mexico|Mexico/City||2020-03-15
+		Mexico/CDMX-InDRE/01/2020|EPI_ISL_412972||Mexico|Mexico/City||2020-02-27
+		Mexico/CDMX-InDRE/06/2020|EPI_ISL_424673||Mexico|CDMX||2020-03-12
+		Mexico/EdoMex-InDRE/03/2020|EPI_ISL_424667||Mexico|Estado/de/Mexico||2020-03-04
+		Mexico/Puebla-InDRE/05/2020|EPI_ISL_424672||Mexico|Puebla||2020-03-11
+		Mexico/Queretaro-InDRE/04/2020|EPI_ISL_424670||Mexico|Queretaro||2020-03-10
+		NanChang/JX216/2020|EPI_ISL_417420||China|NanChang||2020-03-23
+		Nanchang/JXN3T4/2020|EPI_ISL_421246||China|Jiangxi|Nanchang|2020-02-26
+		Nepal/61/2020|EPI_ISL_410301||Nepal|Kathmandu||2020-01-13
+		Netherlands/Friesland/4/2020|EPI_ISL_422569||Netherlands|Friesland||2020-03-27
+		Netherlands/Friesland/7/2020|EPI_ISL_422572||Netherlands|Friesland||2020-03-28
+		Netherlands/Gelderland/11/2020|EPI_ISL_422639||Netherlands|Gelderland||2020-03-21
+		Netherlands/Gelderland/6/2020|EPI_ISL_422642||Netherlands|Gelderland||2020-03-09
+		Netherlands/Gelderland/7/2020|EPI_ISL_422643||Netherlands|Gelderland||2020-03-11
+		Netherlands/Gelderland/8/2020|EPI_ISL_422644||Netherlands|Gelderland||2020-03-13
+		Netherlands/Limburg/8/2020|EPI_ISL_422647||Netherlands|Limburg||2020-03-19
+		Netherlands/Limburg/9/2020|EPI_ISL_422648||Netherlands|Limburg||2020-03-20
+		Netherlands/NA/104/2020|EPI_ISL_422653||Netherlands|||2020-03-18
+		Netherlands/NA/111/2020|EPI_ISL_422659||Netherlands|||2020-03-15
+		Netherlands/NA/114/2020|EPI_ISL_422662||Netherlands|||2020-03-10
+		Netherlands/NA/119/2020|EPI_ISL_422666||Netherlands|||2020-03-16
+		Netherlands/NA/130/2020|EPI_ISL_422674||Netherlands|||2020-03-17
+		Netherlands/NA/184/2020|EPI_ISL_422719||Netherlands|||2020-03-22
+		Netherlands/NA/213/2020|EPI_ISL_422748||Netherlands|||2020-03-25
+		Netherlands/NA/24/2020|EPI_ISL_415481||Netherlands|||2020-03-08
+		Netherlands/NA/28/2020|EPI_ISL_415485||Netherlands|||2020-03-12
+		Netherlands/NA/301/2020|EPI_ISL_422610||Netherlands|||2020-04-01
+		Netherlands/NA/317/2020|EPI_ISL_422626||Netherlands|||2020-04-02
+		Netherlands/NA/34/2020|EPI_ISL_415491||Netherlands|||2020-03-07
+		Netherlands/NA/36/2020|EPI_ISL_422797||Netherlands|||2020-03-14
+		Netherlands/NoordBrabant/6/2020|EPI_ISL_414451||Netherlands|Noord/Brabant||2020-03-06
+		Netherlands/Oisterwijk/1364072/2020|EPI_ISL_413580||Netherlands|Oisterwijk||2020-03-02
+		Netherlands/Rotterdam/1363790/2020|EPI_ISL_413582||Netherlands|Rotterdam||2020-03-01
+		Netherlands/Rotterdam/1364740/2020|EPI_ISL_413584||Netherlands|Rotterdam||2020-03-03
+		Netherlands/ZuidHolland/100/2020|EPI_ISL_422628||Netherlands|Zuid/Holland||2020-03-31
+		Netherlands/ZuidHolland/61/2020|EPI_ISL_422929||Netherlands|Zuid/Holland||2020-03-23
+		Netherlands/ZuidHolland/7/2020|EPI_ISL_414467||Netherlands|Zuid/Holland||2020-03-05
+		Netherlands/ZuidHolland/70/2020|EPI_ISL_422938||Netherlands|Zuid/Holland||2020-03-24
+		Netherlands/ZuidHolland/79/2020|EPI_ISL_422947||Netherlands|Zuid/Holland||2020-03-26
+		Netherlands/ZuidHolland/90/2020|EPI_ISL_422957||Netherlands|Zuid/Holland||2020-03-29
+		Netherlands/ZuidHolland/96/2020|EPI_ISL_422632||Netherlands|Zuid/Holland||2020-03-30
+		New/Zealand/20VR0189/2020|EPI_ISL_416519||New/Zealand|Auckland||2020-03-02
+		New/Zealand/20VR0275/2020|EPI_ISL_416538||New/Zealand|Wellington||2020-03-15
+		NewZealand/CoV001/2020|EPI_ISL_417211||New/Zealand|Otago||2020-03-11
+		Nonthaburi/61/2020|EPI_ISL_403962||Thailand|Nonthaburi||2020-01-08
+		Nonthaburi/74/2020|EPI_ISL_403963||Thailand|Nonthaburi||2020-01-13
+		Norway/1379/2020|EPI_ISL_417483||Norway|Oslo||2020-02-27
+		Norway/1380/2020|EPI_ISL_417484||Norway|Oslo||2020-02-26
+		Norway/1455/2020|EPI_ISL_420135||Norway|||2020-02-28
+		Norway/1493/2020|EPI_ISL_417488||Norway|Oslo||2020-02-29
+		Norway/1538/2020|EPI_ISL_417486||Norway|Oslo||2020-03-01
+		Norway/1694/2020|EPI_ISL_420136||Norway|||2020-03-04
+		Norway/1953/2020|EPI_ISL_420313||Norway|||2020-03-10
+		Norway/1955/2020|EPI_ISL_420146||Norway|||2020-03-11
+		Norway/2084/2020|EPI_ISL_420150||Norway|||2020-03-09
+		Norway/2088/2020|EPI_ISL_420152||Norway|||2020-03-17
+		Norway/2114/2020|EPI_ISL_420312||Norway|||2020-03-18
+		Pakistan/Gilgit1/2020|EPI_ISL_417444||Pakistan|Gilgit||2020-03-04
+		Peru/010/2020|EPI_ISL_415787||Peru|Lima||2020-03-10
+		Pingxiang/JX5/2020|EPI_ISL_421252||China|Jiangxi|Pingxiang|2020-01-11
+		Poland/PL/P1/2020|EPI_ISL_416488||Poland|Zielonogorskie||2020-03-03
+		Portugal/CV62/2020|EPI_ISL_413647||Portugal|||2020-03-01
+		Portugal/IGC00009/2020|EPI_ISL_419386||Portugal|Lisbon||2020-03-18
+		Portugal/PT0001b/2020|EPI_ISL_417986||Portugal|||2020-03-03
+		Portugal/PT0004/2020|EPI_ISL_417988||Portugal|||2020-03-05
+		Portugal/PT0005/2020|EPI_ISL_417989||Portugal|||2020-03-04
+		Portugal/PT0007/2020|EPI_ISL_417992||Portugal|||2020-03-07
+		Portugal/PT0008/2020|EPI_ISL_417993||Portugal|||2020-03-08
+		Portugal/PT0017/2020|EPI_ISL_418002||Portugal|||2020-03-11
+		Portugal/PT0019/2020|EPI_ISL_418004||Portugal|||2020-03-12
+		Portugal/PT0023/2020|EPI_ISL_418008||Portugal|||2020-03-13
+		Portugal/PT0027/2020|EPI_ISL_418012||Portugal|||2020-03-06
+		Portugal/PT0030/2020|EPI_ISL_418015||Portugal|||2020-03-09
+		Portugal/PT0031/2020|EPI_ISL_418016||Portugal|||2020-03-10
+		Portugal/PT0033/2020|EPI_ISL_418018||Portugal|||2020-03-16
+		Portugal/PT0034/2020|EPI_ISL_418019||Portugal|||2020-03-15
+		Portugal/PT0041/2020|EPI_ISL_418026||Portugal|||2020-03-17
+		Portugal/PT0062/2020|EPI_ISL_421465||Portugal|||2020-03-19
+		Portugal/PT0063/2020|EPI_ISL_421466||Portugal|||2020-03-20
+		Portugal/PT0077/2020|EPI_ISL_421480||Portugal|||2020-03-21
+		Portugal/PT0084/2020|EPI_ISL_421487||Portugal|||2020-03-22
+		Portugal/PT0092/2020|EPI_ISL_421495||Portugal|||2020-03-23
+		Portugal/PT0095/2020|EPI_ISL_421498||Portugal|||2020-03-24
+		Qatar/QA20/2020|EPI_ISL_427416||Qatar|Doha||2020-03-23
+		Russia/Moscow/PMVL-1/2020|EPI_ISL_421275||Russia|Moscow||2020-03-18
+		Russia/StPetersburg-RII4144S/2020|EPI_ISL_427307||Russia|Saint-Petersburg||2020-03-20
+		Russia/StPetersburg-RII4307V/2020|EPI_ISL_427308||Russia|Saint-Petersburg||2020-03-24
+		Russia/StPetersburg-RII4326S/2020|EPI_ISL_427337||Russia|Saint-Petersburg||2020-03-25
+		Russia/StPetersburg-RII4382V/2020|EPI_ISL_427310||Russia|Saint-Petersburg||2020-03-29
+		Russia/StPetersburg-RII4532V/2020|EPI_ISL_427313||Russia|Saint-Petersburg||2020-04-03
+		Russia/StPetersburg-RII4546V/2020|EPI_ISL_427314||Russia|Saint-Petersburg||2020-04-02
+		Russia/StPetersburg-RII4597S/2020|EPI_ISL_427319||Russia|Saint-Petersburg||2020-04-04
+		Russia/StPetersburg-RII4637S/2020|EPI_ISL_427320||Russia|Saint-Petersburg||2020-04-05
+		Russia/StPetersburg-RII4678S/2020|EPI_ISL_427323||Russia|Saint-Petersburg||2020-04-06
+		Russia/StPetersburg-RII4711S/2020|EPI_ISL_427330||Russia|Saint-Petersburg||2020-04-07
+		Saudi/Arabia/KAIMRC-Alghoribi/2020|EPI_ISL_416432||Saudi/Arabia|Riyadh||2020-03-07
+		Saudi/Arabia/SCDC-3324/2020|EPI_ISL_416522||Saudi/Arabia|||2020-03-10
+		Scotland/CVR12/2020|EPI_ISL_425663||UK|Scotland||2020-03-10
+		Scotland/CVR125/2020|EPI_ISL_425668||UK|Scotland||2020-03-14
+		Scotland/CVR126/2020|EPI_ISL_425669||UK|Scotland||2020-03-15
+		Scotland/CVR129/2020|EPI_ISL_425671||UK|Scotland||2020-03-13
+		Scotland/CVR131/2020|EPI_ISL_425674||UK|Scotland||2020-03-12
+		Scotland/CVR141/2020|EPI_ISL_425685||UK|Scotland||2020-03-16
+		Senegal/016/2020|EPI_ISL_418207||Senegal|Dakar||2020-03-02
+		Senegal/020/2020|EPI_ISL_418208||Senegal|Dakar||2020-03-04
+		Senegal/026/2020|EPI_ISL_418209||Senegal|Dakar||2020-03-03
+		Senegal/073/2020|EPI_ISL_418210||Senegal|Touba||2020-03-10
+		Senegal/087/2020|EPI_ISL_418212||Senegal|Touba||2020-03-11
+		Senegal/094/2020|EPI_ISL_418213||Senegal|Touba||2020-03-12
+		Senegal/136/2020|EPI_ISL_418216||Senegal|Dakar||2020-03-13
+		Senegal/315/2020|EPI_ISL_420070||Senegal|Dakar||2020-03-17
+		Senegal/382/2020|EPI_ISL_420073||Senegal|Dakar||2020-03-19
+		Senegal/618/2020|EPI_ISL_420077||Senegal|Dakar||2020-03-20
+		Shandong/LY008/2020|EPI_ISL_414941||China|Shandong||2020-01-30
+		Shanghai/SH0021/2020|EPI_ISL_416330||China|Shanghai||2020-02-02
+		Shanghai/SH0027/2020|EPI_ISL_416336||China|Shanghai||2020-02-01
+		Shanghai/SH0055/2020|EPI_ISL_416363||China|Shanghai||2020-02-08
+		Shanghai/SH0070/2020|EPI_ISL_416373||China|Shanghai||2020-02-07
+		Shanghai/SH0073/2020|EPI_ISL_416376||China|Shanghai||2020-02-05
+		Shanghai/SH0094/2020|EPI_ISL_416390||China|Shanghai||2020-01-31
+		Shanghai/SH0101/2020|EPI_ISL_416393||China|Shanghai||2020-02-09
+		Shanghai/SH0102/2020|EPI_ISL_416394||China|Shanghai||2020-02-14
+		Shanghai/SH0110/2020|EPI_ISL_416399||China|Shanghai||2020-02-13
+		Shanghai/SH0115/2020|EPI_ISL_416402||China|Shanghai||2020-02-11
+		Shanghai/SH0126/2020|EPI_ISL_416407||China|Shanghai||2020-02-15
+		Shenzhen/HKU-SZ-002/2020|EPI_ISL_406030||China|Guangdong|Shenzhen|2020-01-10
+		Shenzhen/SZTH-002/2020|EPI_ISL_406593||China|Guandong|Shenzhen|2020-01-13
+		Singapore/1/2020|EPI_ISL_406973||Singapore|||2020-01-23
+		Singapore/10/2020|EPI_ISL_410716||Singapore|||2020-02-04
+		Singapore/11/2020|EPI_ISL_410719||Singapore|||2020-02-02
+		Singapore/2/2020|EPI_ISL_407987||Singapore|||2020-01-25
+		Singapore/20/2020|EPI_ISL_418993||Singapore|||2020-01-29
+		Singapore/24/2020|EPI_ISL_420101||Singapore|||2020-03-04
+		Singapore/27/2020|EPI_ISL_420104||Singapore|||2020-03-05
+		Singapore/28/2020|EPI_ISL_420105||Singapore|||2020-03-06
+		Singapore/3/2020|EPI_ISL_407988||Singapore|||2020-02-01
+		Singapore/31/2020|EPI_ISL_420108||Singapore|||2020-03-10
+		Singapore/33/2020|EPI_ISL_420110||Singapore|||2020-03-11
+		Singapore/34/2020|EPI_ISL_420111||Singapore|||2020-03-12
+		Singapore/36/2020|EPI_ISL_422429||Singapore|||2020-02-16
+		Singapore/37/2020|EPI_ISL_422430||Singapore|||2020-03-13
+		Singapore/4/2020|EPI_ISL_410535||Singapore|||2020-02-03
+		Singapore/42/2020|EPI_ISL_422435||Singapore|||2020-03-31
+		Singapore/5/2020|EPI_ISL_410536||Singapore|||2020-02-06
+		Singapore/6/2020|EPI_ISL_410537||Singapore|||2020-02-09
+		Singapore/7/2020|EPI_ISL_410713||Singapore|||2020-01-27
+		Slovakia/SK-BMC2/2020|EPI_ISL_417878||Slovakia|Bratislava||2020-03-07
+		Slovakia/SK-BMC5/2020|EPI_ISL_417879||Slovakia|Kosice||2020-03-06
+		Slovakia/SK-BMC6/2020|EPI_ISL_417880||Slovakia|Martin||2020-03-08
+		Slovenia/12304/2020|EPI_ISL_420295||Slovenia|||2020-03-24
+		Slovenia/4584/2020|EPI_ISL_420294||Slovenia|||2020-03-06
+		Slovenia/808/2020|EPI_ISL_420541||Slovenia|||2020-03-05
+		Slovenia/MB0329/2020|EPI_ISL_426379||Slovenia|||2020-03-29
+		South/Africa/R03006-20/2020|EPI_ISL_417186||South/Africa|KZN||2020-03-07
+		South/Korea/KCDC03/2020|EPI_ISL_407193||South/Korea|Gyeonggi-do||2020-01-25
+		South/Korea/KCDC06/2020|EPI_ISL_412870||South/Korea|Seoul||2020-01-30
+		South/Korea/KCDC07/2020|EPI_ISL_412871||South/Korea|Seoul||2020-01-31
+		South/Korea/KCDC12/2020|EPI_ISL_412872||South/Korea|Gyeonggi-do||2020-02-01
+		South/Korea/KCDC24/2020|EPI_ISL_412873||South/Korea|Chungcheongnam-do||2020-02-06
+		Spain/Andalucia201272/2020|EPI_ISL_418243||Spain|Andalusia||2020-02-28
+		Spain/CastillayLeon201061/2020|EPI_ISL_418247||Spain|Castilla/y/Leon||2020-02-26
+		Spain/CastillayLeon201323/2020|EPI_ISL_418248||Spain|Castilla/y/Leon||2020-03-01
+		Spain/CastillayLeon201372/2020|EPI_ISL_418249||Spain|Castilla/y/Leon||2020-03-03
+		Spain/Galicia201663/2020|EPI_ISL_417007||Spain|Galicia||2020-03-07
+		Spain/Madrid/H10/39/2020|EPI_ISL_417963||Spain|Madrid||2020-03-12
+		Spain/Madrid/H12/1301/2020|EPI_ISL_421171||Spain|Madrid||2020-03-05
+		Spain/Madrid/H12/1703/2020|EPI_ISL_421173||Spain|Madrid||2020-03-08
+		Spain/Madrid/H12/1905/2020|EPI_ISL_421175||Spain|Madrid||2020-03-29
+		Spain/Madrid/H12/2410/2020|EPI_ISL_421180||Spain|Madrid||2020-03-27
+		Spain/Madrid/R10/33/2020|EPI_ISL_417981||Spain|Madrid||2020-03-02
+		Spain/Madrid201105/2020|EPI_ISL_418251||Spain|Madrid||2020-02-25
+		Spain/PaisVasco201602/2020|EPI_ISL_419709||Spain|BasqueCountry||2020-03-04
+		Spain/VH000001133/2020|EPI_ISL_418860||Spain|Barcelona||2020-03-15
+		Spain/VH198152683/2020|EPI_ISL_418861||Spain|Barcelona||2020-03-24
+		Spain/Valencia11/2020|EPI_ISL_419675||Spain|Comunitat/Valenciana|Valencia|2020-03-20
+		Spain/Valencia12/2020|EPI_ISL_419676||Spain|Comunitat/Valenciana|Valencia|2020-03-09
+		Spain/Valencia45/2020|EPI_ISL_420129||Spain|Comunitat/Valenciana|Valencia|2020-03-13
+		Spain/Valencia51/2020|EPI_ISL_420132||Spain|Comunitat/Valenciana|Valencia|2020-03-18
+		Spain/Valencia62/2020|EPI_ISL_425186||Spain|Comunitat/Valenciana|Valencia|2020-03-10
+		Spain/Valencia65/2020|EPI_ISL_425189||Spain|Comunitat/Valenciana|Valencia|2020-03-16
+		Spain/Valencia75/2020|EPI_ISL_425199||Spain|Comunitat/Valenciana|Valencia|2020-03-19
+		Spain/Valencia86/2020|EPI_ISL_425210||Spain|Comunitat/Valenciana|Valencia|2020-03-25
+		Spain/Valencia89/2020|EPI_ISL_425213||Spain|Comunitat/Valenciana|Valencia|2020-03-11
+		Spain/Valencia97/2020|EPI_ISL_425221||Spain|Comunitat/Valenciana|Valencia|2020-03-17
+		Sweden/01/2020|EPI_ISL_411951||Sweden|||2020-02-07
+		Sweden/RV-FOI-1/2020|EPI_ISL_424703||Sweden|Vasterbotten||2020-03-15
+		Sweden/RV-FOI-6/2020|EPI_ISL_428201||Sweden|Vasterbotten||2020-03-20
+		Switzerland/AG0361/2020|EPI_ISL_413999||Switzerland|Argovie||2020-02-27
+		Switzerland/BE2536/2020|EPI_ISL_415704||Switzerland|||2020-03-04
+		Switzerland/BE6651/2020|EPI_ISL_415456||Switzerland|||2020-02-29
+		Switzerland/GE06207/2020|EPI_ISL_415706||Switzerland|||2020-03-06
+		Switzerland/GE1422/2020|EPI_ISL_415454||Switzerland|||2020-02-28
+		Switzerland/GE3895/2020|EPI_ISL_413997||Switzerland|Geneva||2020-02-26
+		Switzerland/GE4984/2020|EPI_ISL_415708||Switzerland|||2020-03-07
+		Switzerland/GE6679/2020|EPI_ISL_415707||Switzerland|||2020-03-08
+		Switzerland/SZ1417/2020|EPI_ISL_415702||Switzerland|||2020-03-02
+		Switzerland/TI9486/2020|EPI_ISL_413996||Switzerland|Tessin||2020-02-24
+		Switzerland/VD5615/2020|EPI_ISL_414023||Switzerland|Vaud||2020-03-01
+		Taiwan/107/2020|EPI_ISL_420085||Taiwan|||2020-03-20
+		Taiwan/170/2020|EPI_ISL_420084||Taiwan|||2020-03-21
+		Taiwan/2/2020|EPI_ISL_406031||Taiwan|Kaohsiung||2020-01-23
+		Taiwan/3/2020|EPI_ISL_411926||Taiwan|Taipei||2020-01-24
+		Taiwan/4/2020|EPI_ISL_411927||Taiwan|Taipei||2020-01-28
+		Taiwan/5/2020|EPI_ISL_428489||Taiwan|||2020-01-31
+		Taiwan/CGMH-CGU-01/2020|EPI_ISL_411915||Taiwan|Taoyuan||2020-01-25
+		Taiwan/CGMH-CGU-03/2020|EPI_ISL_415741||Taiwan|Taoyuan||2020-02-26
+		Taiwan/CGMH-CGU-05/2020|EPI_ISL_415743||Taiwan|Taoyuan||2020-02-27
+		Taiwan/CGMH-CGU-06/2020|EPI_ISL_417519||Taiwan|Taoyuan||2020-03-05
+		Taiwan/CGMH-CGU-07/2020|EPI_ISL_417520||Taiwan|Taoyuan||2020-03-09
+		Taiwan/CGMH-CGU-08/2020|EPI_ISL_417521||Taiwan|Taoyuan||2020-03-10
+		Taiwan/CGMH-CGU-10/2020|EPI_ISL_417523||Taiwan|Taoyuan||2020-03-13
+		Taiwan/CGMH-CGU-11/2020|EPI_ISL_417524||Taiwan|Taoyuan||2020-03-14
+		Taiwan/CGMH-CGU-16/2020|EPI_ISL_424972||Taiwan|Taoyuan||2020-03-16
+		Taiwan/CGMH-CGU-19/2020|EPI_ISL_424975||Taiwan|Taoyuan||2020-03-18
+		Taiwan/NTU02/2020|EPI_ISL_410218||Taiwan|Taipei||2020-02-05
+		Taiwan/NTU03/2020|EPI_ISL_413592||Taiwan|Taipei||2020-03-02
+		Taiwan/NTU04/2020|EPI_ISL_422407||Taiwan|Taipei||2020-03-04
+		Taiwan/NTU21/2020|EPI_ISL_422422||Taiwan|Taipei||2020-03-19
+		Taiwan/TSGH-02/2020|EPI_ISL_426630||Taiwan|New/Taipei/city||2020-03-17
+		Taiwan/TSGH-06/2020|EPI_ISL_427393||Taiwan|Taipei||2020-03-15
+		Taiwan/TSGH-07/2020|EPI_ISL_427394||Taiwan|New/Taipei/City||2020-03-22
+		Taiwan/TSGH-08/2020|EPI_ISL_427395||Taiwan|Keelung||2020-03-23
+		Taiwan/TSGH-11/2020|EPI_ISL_427398||Taiwan|New/Taipei/City||2020-03-25
+		Taiwan/TSGH-14/2020|EPI_ISL_428231||Taiwan|New/Taipei/City||2020-03-24
+		Thailand/Bangkok-CONI-0021/2020|EPI_ISL_423042||Thailand|Bangkok||2020-03-24
+		Thailand/Bangkok-CONI-0022/2020|EPI_ISL_423043||Thailand|Bangkok||2020-03-18
+		Turkey/ERAGEM-001/2020|EPI_ISL_424366||Turkey|Kayseri||2020-03-17
+		Turkey/GLAB-CoV008/2020|EPI_ISL_427391||Turkey|Istanbul||2020-04-13
+		Turkey/GLAB-CoV012/2020|EPI_ISL_428346||Turkey|Istanbul||2020-04-17
+		USA/AK-PHL077/2020|EPI_ISL_424347||USA|Alaska|Fairbanks|2020-03-29
+		USA/AZ/8135/2020|EPI_ISL_424849||USA|Arizona||2020-03-09
+		USA/AZ1/2020|EPI_ISL_406223||USA|Arizona|Phoenix|2020-01-22
+		USA/CA-CDPH-UC2/2020|EPI_ISL_413558||USA|California|Solano/County|2020-02-27
+		USA/CA1/2020|EPI_ISL_406034||USA|California|Los/Angeles|2020-01-23
+		USA/CA7/2020|EPI_ISL_411954||USA|California||2020-02-06
+		USA/CA8/2020|EPI_ISL_411955||USA|California||2020-02-10
+		USA/CA9/2020|EPI_ISL_412862||USA|California|Solano|2020-02-23
+		USA/CruiseA-12/2020|EPI_ISL_413617||USA|||2020-02-20
+		USA/CruiseA-14/2020|EPI_ISL_413619||USA|||2020-02-25
+		USA/CruiseA-15/2020|EPI_ISL_413620||USA|||2020-02-18
+		USA/CruiseA-17/2020|EPI_ISL_413622||USA|||2020-02-24
+		USA/CruiseA-5/2020|EPI_ISL_413610||USA|||2020-02-21
+		USA/CruiseA-8/2020|EPI_ISL_413613||USA|||2020-02-17
+		USA/DC/0004/2020|EPI_ISL_424852||USA|District/of/Columbia||2020-03-06
+		USA/FL-2/2020|EPI_ISL_424351||USA|||2020-03-27
+		USA/GA/1320/2020|EPI_ISL_420786||USA|Georgia||2020-03-03
+		USA/GA/1445/2020|EPI_ISL_420788||USA|Georgia||2020-03-04
+		USA/ID-UW-4427/2020|EPI_ISL_426072||USA|Idaho||2020-03-30
+		USA/IL/0089/2020|EPI_ISL_424851||USA|Illinois||2020-03-07
+		USA/IL2/2020|EPI_ISL_410045||USA|Illinois||2020-01-28
+		USA/LA-096/2020|EPI_ISL_426627||USA|Louisiana||2020-04-06
+		USA/MA1/2020|EPI_ISL_409067||USA|Massachusetts||2020-01-29
+		USA/NC/200173/2020|EPI_ISL_424353||USA|North/Carolina||2020-04-02
+		USA/NY-NYUMC11/2020|EPI_ISL_418196||USA|New/York|Manhattan|2020-03-14
+		USA/NY-NYUMC12/2020|EPI_ISL_418197||USA|New/York|Manhattan|2020-03-15
+		USA/NY-NYUMC162/2020|EPI_ISL_426617||USA|New/York|Suffolk/county|2020-04-01
+		USA/NY-NYUMC236/2020|EPI_ISL_427635||USA|New/York|Brooklyn|2020-04-05
+		USA/NY-NYUMC39/2020|EPI_ISL_419700||USA|New/York|Manhattan|2020-03-18
+		USA/NY-NYUMC57/2020|EPI_ISL_420572||USA|New/York|Nassau/County|2020-03-17
+		USA/NY/2929/2020|EPI_ISL_420793||USA|New/York||2020-03-02
+		USA/RI/0556/2020|EPI_ISL_420795||USA|Rhode/Island||2020-03-01
+		USA/TX1/2020|EPI_ISL_411956||USA|Texas||2020-02-11
+		USA/UN-UW-1832/2020|EPI_ISL_424255||USA|||2020-03-16
+		USA/VA-DCLS-0016/2020|EPI_ISL_419710||USA|Virginia||2020-03-12
+		USA/VA-DCLS-0020/2020|EPI_ISL_419712||USA|Virginia||2020-03-10
+		USA/VA-DCLS-0021/2020|EPI_ISL_419713||USA|Virginia||2020-03-11
+		USA/VA-DCLS-0024/2020|EPI_ISL_420628||USA|Virginia||2020-03-13
+		USA/WA-S112/2020|EPI_ISL_417165||USA|Washington|King/County|2020-03-08
+		USA/WA-S81/2020|EPI_ISL_417134||USA|Washington|King/County|2020-02-26
+		USA/WA-S83/2020|EPI_ISL_417136||USA|Washington|King/County|2020-03-05
+		USA/WA-S89/2020|EPI_ISL_417142||USA|Washington|Umatilla/County|2020-02-29
+		USA/WA-S96/2020|EPI_ISL_417149||USA|Washington|King/County|2020-02-28
+		USA/WA-UW-1700/2020|EPI_ISL_424222||USA|Washington||2020-03-20
+		USA/WA-UW-1739/2020|EPI_ISL_424237||USA|Washington||2020-03-21
+		USA/WA-UW-1785/2020|EPI_ISL_424250||USA|Washington||2020-03-19
+		USA/WA-UW-1797/2020|EPI_ISL_424259||USA|Washington||2020-03-22
+		USA/WA-UW-1840/2020|EPI_ISL_424252||USA|Washington||2020-03-23
+		USA/WA-UW-2008/2020|EPI_ISL_424341||USA|Washington||2020-03-24
+		USA/WA-UW-4370/2020|EPI_ISL_426134||USA|Washington||2020-03-31
+		USA/WA1/2020|EPI_ISL_404895||USA|Washington|Snohomish/County|2020-01-19
+		USA/WI-104/2020|EPI_ISL_425161||USA|Wisconsin||2020-04-04
+		USA/WI-123/2020|EPI_ISL_427430||USA|Wisconsin||2020-04-11
+		USA/WI-143/2020|EPI_ISL_427450||USA|Wisconsin||2020-04-13
+		USA/WI-145/2020|EPI_ISL_427452||USA|Wisconsin||2020-04-10
+		USA/WI-149/2020|EPI_ISL_427456||USA|Wisconsin||2020-04-07
+		USA/WI-151/2020|EPI_ISL_427458||USA|Wisconsin||2020-04-08
+		USA/WI-153/2020|EPI_ISL_427460||USA|Wisconsin||2020-04-09
+		USA/WI-154/2020|EPI_ISL_427461||USA|Wisconsin||2020-04-12
+		USA/WI-201/2020|EPI_ISL_428297||USA|Wisconsin|Grafton|2020-03-25
+		USA/WI-224/2020|EPI_ISL_428320||USA|Wisconsin|Brookfield|2020-03-26
+		USA/WI-235/2020|EPI_ISL_428331||USA|Wisconsin|Cudahy|2020-03-28
+		USA/WI-GMF-00744/2020|EPI_ISL_422462||USA|Wisconsin|La/Crosse/County|2020-04-03
+		USA/WI1/2020|EPI_ISL_408670||USA|Wisconsin||2020-01-31
+		Vietnam/19-02S/2020|EPI_ISL_418267||Vietnam|Ho/Chi/Minh/City||2020-01-22
+		Vietnam/38142/2020|EPI_ISL_416427||Vietnam|Thanhhoa||2020-01-24
+		Vietnam/39607/2020|EPI_ISL_416428||Vietnam|Quangning||2020-03-07
+		Vietnam/CM295/2020|EPI_ISL_416430||Vietnam|Hanoi||2020-03-06
+		Vietnam/CM99/2020|EPI_ISL_416429||Vietnam|Vinhphuc||2020-02-11
+		Wales/PHW1/2020|EPI_ISL_413555||UK|Wales||2020-02-27
+		Wuhan/IPBCAMS-WH-01/2019|EPI_ISL_402123||China|Hubei|Wuhan|2019-12-24
+		Wuhan/IPBCAMS-WH-04/2019|EPI_ISL_403929||China|Hubei|Wuhan|2019-12-30
+		Wuhan/IPBCAMS-WH-05/2020|EPI_ISL_403928||China|Hubei|Wuhan|2020-01-01
+		Wuhan/WH01/2019|EPI_ISL_406798||China|Hubei|Wuhan|2019-12-26
+		Wuhan/WH04/2020|EPI_ISL_406801||China|Hubei|Wuhan|2020-01-05
+		Wuhan/WHU01/2020|EPI_ISL_406716||China|Hubei|Wuhan|2020-01-02
+		Zhejiang/WZ-01/2020|EPI_ISL_404227||China|Zhejiang||2020-01-16
+		hCoV-19/Brazil-RJ/314/2020|EPI_ISL_414045|2020-03-04
+		hCoV-19/Brazil/AL-837/2020|EPI_ISL_427292|2020-03-18
+		hCoV-19/Brazil/AM0201/2020-01|Brazil/AM/Manaus|2020-04-01
+		hCoV-19/Brazil/AM0202/2020-02|Brazil/AM/Manaus|2020-04-01
+		hCoV-19/Brazil/AM0203/2020-03|Brazil/AM/Manaus|2020-04-02
+		hCoV-19/Brazil/AM0204/2020-04|Brazil/AM/Manaus|2020-04-02
+		hCoV-19/Brazil/AM0205/2020-05|Brazil/AM/Manaus|2020-04-02
+		hCoV-19/Brazil/AMBR-02/2020|EPI_ISL_417034|2020-03-16
+		hCoV-19/Brazil/BA-312/2020|EPI_ISL_415105|2020-03-04
+		hCoV-19/Brazil/BA-510/2020|EPI_ISL_427293|2020-03-06
+		hCoV-19/Brazil/CE0206/2020-06|Brazil/CE/Fortaleza|2020-04-02
+		hCoV-19/Brazil/CV12/2020|EPI_ISL_429674|2020-03-11
+		hCoV-19/Brazil/CV13/2020|EPI_ISL_429675|2020-03-15
+		hCoV-19/Brazil/CV16/2020|EPI_ISL_429676|2020-03-16
+		hCoV-19/Brazil/CV19/2020|EPI_ISL_429679|2020-03-16
+		hCoV-19/Brazil/CV2/2020|EPI_ISL_429665|2020-03-08
+		hCoV-19/Brazil/CV21/2020|EPI_ISL_429681|2020-03-16
+		hCoV-19/Brazil/CV26/2020|EPI_ISL_429684|2020-03-17
+		hCoV-19/Brazil/CV28/2020|EPI_ISL_429686|2020-03-17
+		hCoV-19/Brazil/CV31/2020|EPI_ISL_429687|2020-03-17
+		hCoV-19/Brazil/CV32/2020|EPI_ISL_429688|2020-03-17
+		hCoV-19/Brazil/CV33/2020|EPI_ISL_429689|2020-03-17
+		hCoV-19/Brazil/CV4/2020|EPI_ISL_429667|2020-03-09
+		hCoV-19/Brazil/CV42/2020|EPI_ISL_429695|2020-03-20
+		hCoV-19/Brazil/CV43/2020|EPI_ISL_429696|2020-03-17
+		hCoV-19/Brazil/CV48/2020|EPI_ISL_429701|2020-03-20
+		hCoV-19/Brazil/CV49/2020|EPI_ISL_429702|2020-03-22
+		hCoV-19/Brazil/CV6/2020|EPI_ISL_429669|2020-03-13
+		hCoV-19/Brazil/CV8/2020|EPI_ISL_429671|2020-03-13
+		hCoV-19/Brazil/DF-615i/2020|EPI_ISL_427294|2020-03-13
+		hCoV-19/Brazil/DF-619i/2020|EPI_ISL_427295|2020-03-13
+		hCoV-19/Brazil/DF-861/2020|EPI_ISL_427296|2020-03-23
+		hCoV-19/Brazil/DF-862/2020|EPI_ISL_427297|2020-03-23
+		hCoV-19/Brazil/DF-891/2020|EPI_ISL_427298|2020-03-22
+		hCoV-19/Brazil/DFBR-0001/2020|EPI_ISL_426580|2020-03-13
+		hCoV-19/Brazil/ES-225/2020|EPI_ISL_415128|2020-02-29
+		hCoV-19/Brazil/GO0207/2020-07|Brazil/GO/Goiania|2020-03-13
+		hCoV-19/Brazil/GO0208/2020-08|Brazil/GO/Goiania|2020-03-18
+		hCoV-19/Brazil/GO0209/2020-09|Brazil/GO/Goiania|2020-04-03
+		hCoV-19/Brazil/GO0210/2020-10|Brazil/GO/Goiania|2020-04-04
+		hCoV-19/Brazil/L1/CAMPI10/2020|Brazil/SP/Campinas|2020-04-06
+		hCoV-19/Brazil/L1/CAMPI13/2020|Brazil/SP/Sumare|2020-04-07
+		hCoV-19/Brazil/L1/CAMPI14/2020|Brazil/SP/Campinas|2020-04-07
+		hCoV-19/Brazil/L1/CAMPI15/2020|Brazil/SP/Paulinia|2020-04-08
+		hCoV-19/Brazil/L1/CAMPI16/2020|Brazil/SP/Campinas|2020-04-08
+		hCoV-19/Brazil/L1/CAMPI18/2020|Brazil/SP/Campinas|2020-04-09
+		hCoV-19/Brazil/L1/CAMPI19/2020|Brazil/SP/Campinas|2020-04-09
+		hCoV-19/Brazil/L1/CAMPI2/2020|Brazil/SP/AguasdeLindoia|2020-04-01
+		hCoV-19/Brazil/L1/CAMPI20/2020|Brazil/SP/Sumare|2020-04-09
+		hCoV-19/Brazil/L1/CAMPI29/2020|Brazil/SP/Campinas|2020-04-14
+		hCoV-19/Brazil/L1/CAMPI3/2020|Brazil/SP/Campinas|2020-04-01
+		hCoV-19/Brazil/L1/CAMPI31/2020|Brazil/SP/Sumare|2020-04-14
+		hCoV-19/Brazil/L1/CAMPI36/2020|Brazil/SP/Campinas|2020-04-14
+		hCoV-19/Brazil/L1/CAMPI5/2020|Brazil/SP/Campinas|2020-04-02
+		hCoV-19/Brazil/L1/CAMPI7/2020|Brazil/SP/Campinas|2020-04-03
+		hCoV-19/Brazil/L1/CAMPI8/2020|Brazil/SP/Campinas|2020-04-03
+		hCoV-19/Brazil/L10/CD154/2020|Brazil/RJ/RioDeJaneiro|2020-03-16
+		hCoV-19/Brazil/L10/CD156/2020|Brazil/MG/JuizDeFora|2020-03-16
+		hCoV-19/Brazil/L10/CD158/2020|Brazil/RJ/RioDeJaneiro|2020-03-16
+		hCoV-19/Brazil/L10/CD167/2020|Brazil/CE/Fortaleza|2020-03-16
+		hCoV-19/Brazil/L10/CD171/2020|Brazil/CE/Fortaleza|2020-03-14
+		hCoV-19/Brazil/L10/CD175/2020|Brazil/RS/BentoGoncalves|2020-03-19
+		hCoV-19/Brazil/L11/CD179/2020|Brazil/PR/Maringa|2020-03-16
+		hCoV-19/Brazil/L11/CD180/2020|Brazil/RS/BentoGoncalves|2020-03-16
+		hCoV-19/Brazil/L11/CD183/2020|Brazil/MG/Uberlandia|2020-03-16
+		hCoV-19/Brazil/L11/CD184/2/2020|Brazil/SP/Bebedouro|2020-03-16
+		hCoV-19/Brazil/L11/CD185/2/2020|Brazil/SP/SaoPaulo|2020-03-17
+		hCoV-19/Brazil/L11/CD195/2020|Brazil/CE/Fortaleza|2020-03-24
+		hCoV-19/Brazil/L11/CD196/2020|Brazil/CE/Fortaleza|2020-03-23
+		hCoV-19/Brazil/L11/CD200/2020|Brazil/SP/RibeiraoPreto|2020-03-19
+		hCoV-19/Brazil/L11/CD93/2020|Brazil/SP/SaoPaulo|2020-03-25
+		hCoV-19/Brazil/L11/CD95/2020|Brazil/SP/SaoPaulo|2020-03-20
+		hCoV-19/Brazil/L12/CD192/2020|Brazil/RJ/Niteroi|2020-03-24
+		hCoV-19/Brazil/L12/CD202/2020|Brazil/SP/Jundiai|2020-03-16
+		hCoV-19/Brazil/L12/CD204/2020|Brazil/CE/Fortaleza|2020-03-16
+		hCoV-19/Brazil/L12/CD224/2020|Brazil/CE/Fortaleza|2020-03-21
+		hCoV-19/Brazil/L12/CD26/2020|Brazil/SP/SaoPaulo|2020-03-09
+		hCoV-19/Brazil/L12/CD28/2020|Brazil/SP/SaoPaulo|2020-03-09
+		hCoV-19/Brazil/L13/CD103/2020|Brazil/SP/SaoPaulo|2020-03-19
+		hCoV-19/Brazil/L13/CD166/2020|Brazil/AM/Manaus|2020-03-16
+		hCoV-19/Brazil/L13/CD22/2020|Brazil/SP/SaoPaulo|2020-03-08
+		hCoV-19/Brazil/L13/CD23/2020|Brazil/SP/SaoPaulo|2020-03-09
+		hCoV-19/Brazil/L14/CD231/2020|Brazil/SP/SaoPaulo|2020-03-26
+		hCoV-19/Brazil/L14/CD234/2020|Brazil/SP/Guarulhos|2020-03-26
+		hCoV-19/Brazil/L14/CD235/2020|Brazil/SP/SaoPaulo|2020-03-26
+		hCoV-19/Brazil/L14/CD239/2020|Brazil/SP/Itapevi|2020-03-26
+		hCoV-19/Brazil/L14/CD240/2020|Brazil/SP/Cotia|2020-03-26
+		hCoV-19/Brazil/L14/CD241/2020|Brazil/SP/SaoPaulo|2020-03-26
+		hCoV-19/Brazil/L14/CD242/2020|Brazil/SP/Carapicuiba|2020-03-27
+		hCoV-19/Brazil/L14/CD243/2020|Brazil/SP/SaoPaulo|2020-03-27
+		hCoV-19/Brazil/L14/CD250/2020|Brazil/SP-|2020-03-27
+		hCoV-19/Brazil/L14/CD257/2020|Brazil/SP/TaboaoDaSerra|2020-03-27
+		hCoV-19/Brazil/L14/CD258/2020|Brazil/SP/SaoPaulo|2020-03-27
+		hCoV-19/Brazil/L14/CD260/2020|Brazil/SP/SaoPaulo|2020-03-27
+		hCoV-19/Brazil/L15/CD263/2020|Brazil/SP/SaoPaulo|2020-03-29
+		hCoV-19/Brazil/L15/CD265/2020|Brazil/SC/Navegantes|2020-03-29
+		hCoV-19/Brazil/L15/CD266/2020|Brazil/SP/SaoPaulo|2020-03-29
+		hCoV-19/Brazil/L15/CD267/2020|Brazil/SP/SaoPaulo|2020-03-29
+		hCoV-19/Brazil/L15/CD268/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD270/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD272/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD273/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD274/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD275/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD278/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD281/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD282/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD283/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L15/CD286/2020|Brazil/SP/SaoPaulo|2020-03-30
+		hCoV-19/Brazil/L16/CD314/2020|Brazil/SC/Tubarao|2020-03-24
+		hCoV-19/Brazil/L16/CD318/2020|Brazil/SP/Itapira|2020-03-26
+		hCoV-19/Brazil/L16/CD332/2020|Brazil/CE/Fortaleza|2020-03-28
+		hCoV-19/Brazil/L16/CD333/2020|Brazil/PR/Curitiba|2020-03-28
+		hCoV-19/Brazil/L16/CD334/2020|Brazil/CE/Fortaleza|2020-03-29
+		hCoV-19/Brazil/L16/CD339/2020|Brazil/SP/Jundiai|2020-03-30
+		hCoV-19/Brazil/L16/CD341/2020|Brazil/SP/Barueri|2020-03-30
+		hCoV-19/Brazil/L16/CD344/2020|Brazil/CE/Fortaleza|2020-03-30
+		hCoV-19/Brazil/L16/CD346/2020|Brazil/CE/Fortaleza|2020-03-30
+		hCoV-19/Brazil/L16/CD347/2020|Brazil/MT/Cuiaba|2020-03-30
+		hCoV-19/Brazil/L16/CD349/2020|Brazil/RS/CaixasDoSul|2020-03-30
+		hCoV-19/Brazil/L16/CD350/2020|Brazil/SC/BalnearioCamboriu|2020-03-30
+		hCoV-19/Brazil/L16/CD384/2020|Brazil/SP/MogiGuacu|2020-04-02
+		hCoV-19/Brazil/L16/CD387/2020|Brazil/SP/SaoPaulo|2020-04-02
+		hCoV-19/Brazil/L17/CD322/2020|Brazil/SC/BalnearioCamboriu|2020-03-26
+		hCoV-19/Brazil/L17/CD324/2020|Brazil/SP/Osasco|2020-03-27
+		hCoV-19/Brazil/L17/CD327/2020|Brazil/SP/RibeiraoPreto|2020-03-27
+		hCoV-19/Brazil/L17/CD357/2020|Brazil/SP/Votorantim|2020-03-31
+		hCoV-19/Brazil/L17/CD358/2020|Brazil/BA/Salvador|2020-03-31
+		hCoV-19/Brazil/L17/CD359/2020|Brazil/BA/Salvador|2020-03-31
+		hCoV-19/Brazil/L17/CD361/2020|Brazil/CE/Fortaleza|2020-03-31
+		hCoV-19/Brazil/L17/CD363/2020|Brazil/MA/SaoLuis|2020-03-31
+		hCoV-19/Brazil/L17/CD365/2020|Brazil/PR/Curitiba|2020-03-31
+		hCoV-19/Brazil/L17/CD366/2020|Brazil/PR/Curitiba|2020-03-31
+		hCoV-19/Brazil/L17/CD367/2020|Brazil/PR/Curitiba|2020-03-31
+		hCoV-19/Brazil/L17/CD368/2020|Brazil/PR/Curitiba|2020-03-31
+		hCoV-19/Brazil/L17/CD370/2020|Brazil/RS/Pelotas|2020-03-31
+		hCoV-19/Brazil/L17/CD372/2020|Brazil/SC/Joinville|2020-03-31
+		hCoV-19/Brazil/L19/CD389/2020|Brazil/PR/Curitiba|2020-04-01
+		hCoV-19/Brazil/L19/CD390/2020|Brazil/RS/Lajeado|2020-04-01
+		hCoV-19/Brazil/L19/CD391/2020|Brazil/SP/RibeiraoPreto|2020-04-01
+		hCoV-19/Brazil/L19/CD393/2020|Brazil/SP/Atibaia|2020-04-02
+		hCoV-19/Brazil/L19/CD395/2020|Brazil/SP/Santos|2020-04-03
+		hCoV-19/Brazil/L19/CD399/2020|Brazil/SC/Palhoca|2020-04-01
+		hCoV-19/Brazil/L19/CD401/2020|Brazil/RN/Natal|2020-04-01
+		hCoV-19/Brazil/L19/CD403/2020|Brazil/MA/SaoLuis|2020-04-02
+		hCoV-19/Brazil/L19/CD405/2020|Brazil/MA/SaoLuis|2020-04-02
+		hCoV-19/Brazil/L19/CD406/2020|Brazil/MA/SaoLuis|2020-04-02
+		hCoV-19/Brazil/L19/CD407/2020|Brazil/MA/SaoLuis|2020-04-02
+		hCoV-19/Brazil/L19/CD408/2020|Brazil/CE/Fortaleza|2020-04-02
+		hCoV-19/Brazil/L19/CD409/2020|Brazil/SP/PilarDoSul|2020-04-03
+		hCoV-19/Brazil/L19/CD410/2020|Brazil/GO/Goiania|2020-04-02
+		hCoV-19/Brazil/L19/CD412/2020|Brazil/RS/BentoGoncalves|2020-04-02
+		hCoV-19/Brazil/L19/CD413/2020|Brazil/GO/Goiania|2020-04-02
+		hCoV-19/Brazil/L2/CAMPI30/2020|Brazil/SP/Campinas|2020-04-14
+		hCoV-19/Brazil/L2/CAMPI38/2020|Brazil/SP/Sumare|2020-04-14
+		hCoV-19/Brazil/L2/CAMPI45/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L2/CAMPI52/2020|Brazil/SP/Sumare|2020-04-18
+		hCoV-19/Brazil/L2/CAMPI53/2020|Brazil/SP/Hortolandia|2020-04-18
+		hCoV-19/Brazil/L2/CAMPI61/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L2/CAMPI63/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L2/CAMPI70/2020|Brazil/SP/Hortolandia|2020-04-18
+		hCoV-19/Brazil/L2/CAMPI75/2020|Brazil/SP/Campinas|2020-04-23
+		hCoV-19/Brazil/L2/CAMPI78/2020|Brazil/SP/Campinas|2020-04-23
+		hCoV-19/Brazil/L2/CAMPI93/2020|Brazil/SP/Sumare|2020-04-25
+		hCoV-19/Brazil/L20/CD415/2020|Brazil/SP/RibeiraoPreto|2020-04-03
+		hCoV-19/Brazil/L20/CD416/2020|Brazil/SP/RibeiraoPires|2020-04-02
+		hCoV-19/Brazil/L20/CD418/2020|Brazil/SP/Pindamonhangaba|2020-04-03
+		hCoV-19/Brazil/L20/CD422/2020|Brazil/SP/Caraguatatuba|2020-04-03
+		hCoV-19/Brazil/L20/CD432/2020|Brazil/PE/Olinda|2020-04-03
+		hCoV-19/Brazil/L20/CD436/2020|Brazil/SP/Itapetininga|2020-04-06
+		hCoV-19/Brazil/L20/CD437/2020|Brazil/SP/SaoJoseDosCampos|2020-04-06
+		hCoV-19/Brazil/L21/CD442/2020|Brazil/SP/Bebedouro|2020-04-06
+		hCoV-19/Brazil/L21/CD443/2020|Brazil/SP/MonteAlto|2020-04-06
+		hCoV-19/Brazil/L21/CD447/2020|Brazil/CE/Fortaleza|2020-04-06
+		hCoV-19/Brazil/L21/CD448/2020|Brazil/PR/Curitiba|2020-04-06
+		hCoV-19/Brazil/L22/CD474/2020|Brazil/SP/SaoPaulo|2020-04-01
+		hCoV-19/Brazil/L22/CD475/2020|Brazil/SP/SaoPaulo|2020-04-02
+		hCoV-19/Brazil/L22/CD476/2020|Brazil/SP/SaoPaulo|2020-04-02
+		hCoV-19/Brazil/L22/CD477/2020|Brazil/SP/Osasco|2020-04-02
+		hCoV-19/Brazil/L22/CD479/2020|Brazil/SP/SaoPaulo|2020-04-03
+		hCoV-19/Brazil/L22/CD483/2020|Brazil/SP/SaoPaulo|2020-04-04
+		hCoV-19/Brazil/L22/CD484/2020|Brazil/SP/SaoPaulo|2020-04-04
+		hCoV-19/Brazil/L22/CD486/2020|Brazil/SP/SaoPaulo|2020-04-05
+		hCoV-19/Brazil/L22/CD487/2020|Brazil/SP/SaoPaulo|2020-04-05
+		hCoV-19/Brazil/L22/CD488/2020|Brazil/SP/SaoPaulo|2020-04-05
+		hCoV-19/Brazil/L22/CD489/2020|Brazil/SP/SaoPaulo|2020-04-04
+		hCoV-19/Brazil/L22/CD490/2020|Brazil/SP/SaoPaulo|2020-04-06
+		hCoV-19/Brazil/L3/CAMPI17/2020|Brazil/SP/Campinas|2020-04-09
+		hCoV-19/Brazil/L3/CAMPI23/2020|Brazil/SP/Campinas|2020-04-09
+		hCoV-19/Brazil/L3/CAMPI24/2020|Brazil/SP/Paulinia|2020-04-09
+		hCoV-19/Brazil/L3/CAMPI33/2020|Brazil/SP/Campinas|2020-04-14
+		hCoV-19/Brazil/L3/CAMPI4/2020|Brazil/SP/Campinas|2020-04-02
+		hCoV-19/Brazil/L3/CAMPI43/2020|Brazil/SP/Sumare|2020-04-16
+		hCoV-19/Brazil/L3/CAMPI44/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L4/CAMPI51/2020|Brazil/SP/SantaBarbaraDoeste|2020-04-18
+		hCoV-19/Brazil/L4/CAMPI58/2020|Brazil/SP/Sumare|2020-04-18
+		hCoV-19/Brazil/L4/CAMPI62/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L4/CAMPI65/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L4/CAMPI66/2020|Brazil/SP/Campinas|2020-04-18
+		hCoV-19/Brazil/L4/CAMPI69/2020|Brazil/SP/Campinas|2020-04-20
+		hCoV-19/Brazil/L5/CAMPI102/2020|Brazil/SP/Jundiai|2020-04-25
+		hCoV-19/Brazil/L5/CAMPI105/2020|Brazil/SP/Campinas|2020-04-28
+		hCoV-19/Brazil/L5/CAMPI106/2020|Brazil/SP/SantaBarbaraDoeste|2020-04-28
+		hCoV-19/Brazil/L5/CAMPI114/2020|Brazil/SP/Campinas|2020-04-28
+		hCoV-19/Brazil/L5/CAMPI117/2020|Brazil/SP/ArturNogueira|2020-04-30
+		hCoV-19/Brazil/L5/CAMPI119/2020|Brazil/SP/Campinas|2020-04-30
+		hCoV-19/Brazil/L5/CAMPI123/2020|Brazil/SP/Campinas|2020-04-30
+		hCoV-19/Brazil/L5/CAMPI77/2020|Brazil/SP/Campinas|2020-04-23
+		hCoV-19/Brazil/L5/CAMPI83/2020|Brazil/SP/Campinas|2020-04-23
+		hCoV-19/Brazil/L5/CAMPI89/2020|Brazil/SP/Sumare|2020-04-25
+		hCoV-19/Brazil/L5/CAMPI91/2020|Brazil/SP/Sumare|2020-04-23
+		hCoV-19/Brazil/L5/CAMPI95/2020|Brazil/SP/Campinas|2020-04-25
+		hCoV-19/Brazil/L5/CAMPI97/2020|Brazil/SP/Sumare|2020-04-25
+		hCoV-19/Brazil/L5/CAMPI98/2020|Brazil/SP/Hortolandia|2020-04-25
+		hCoV-19/Brazil/L5/CAMPI99/2020|Brazil/SP/Sumare|2020-04-25
+		hCoV-19/Brazil/L7/CD61/2020|Brazil/SP/SaoPaulo|2020-03-21
+		hCoV-19/Brazil/L7/CD63/2020|Brazil/SP/SaoPaulo|2020-03-22
+		hCoV-19/Brazil/L7/CD65/2020|Brazil/SP/SaoPaulo|2020-03-18
+		hCoV-19/Brazil/L7/CD66/2020|Brazil/SP/SaoPaulo|2020-03-25
+		hCoV-19/Brazil/L7/CD67/2020|Brazil/SP/SaoPaulo|2020-03-19
+		hCoV-19/Brazil/L7/CD69/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L7/CD70/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L7/CD72/2020|Brazil/SP/Guarulhos|2020-03-24
+		hCoV-19/Brazil/L7/CD74/2020|Brazil/SP/Caieiras|2020-03-25
+		hCoV-19/Brazil/L7/CD76/2020|Brazil/SP/SaoPaulo|2020-03-19
+		hCoV-19/Brazil/L7/CD78/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L7/CD79/2020|Brazil/SP/RibeiraoPreto|2020-03-23
+		hCoV-19/Brazil/L7/CD81/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L7/CD82/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L7/CD83/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L8/CD100/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L8/CD101/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L8/CD104/2020|Brazil/SP/EmbuDasArtes|2020-03-20
+		hCoV-19/Brazil/L8/CD105/2020|Brazil/SP/SaoPaulo|2020-03-21
+		hCoV-19/Brazil/L8/CD106/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L8/CD110/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L8/CD112/2020|Brazil/SP/SaoPaulo|2020-03-17
+		hCoV-19/Brazil/L8/CD115/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L8/CD116/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L8/CD87/2020|Brazil/SP/SaoPaulo|2020-03-22
+		hCoV-19/Brazil/L8/CD88/2020|Brazil/SP/TaboaoDaSerra|2020-03-23
+		hCoV-19/Brazil/L8/CD98/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L8/CD99/2020|Brazil/SP/Cruzeiro|2020-03-24
+		hCoV-19/Brazil/L9/CD118/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD121/2020|Brazil/SP/SaoPaulo|2020-03-17
+		hCoV-19/Brazil/L9/CD122/2020|Brazil/SP/SantanaDeParnaiba|2020-03-19
+		hCoV-19/Brazil/L9/CD124/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L9/CD126/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD127/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD128/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L9/CD134/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L9/CD135/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD136/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD137/2020|Brazil/SP/SaoPaulo|2020-03-23
+		hCoV-19/Brazil/L9/CD139/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD140/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD38/2020|Brazil/SP/SaoPaulo|2020-03-16
+		hCoV-19/Brazil/L9/CD90/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/L9/CD91/2020|Brazil/SP/SaoPaulo|2020-03-24
+		hCoV-19/Brazil/MG0211/2020-11|Brazil/MG/Ipatinga|2020-03-14
+		hCoV-19/Brazil/MG0212/2020-12|Brazil/MG/BeloHorizonte|2020-03-14
+		hCoV-19/Brazil/MG0214/2020-14|Brazil/MG/Arapora|2020-03-17
+		hCoV-19/Brazil/MG0215/2020-15|Brazil/MG/BeloHorizonte|2020-03-19
+		hCoV-19/Brazil/MG0216/2020-16|Brazil/MG/BeloHorizonte|2020-03-19
+		hCoV-19/Brazil/MG0217/2020-17|Brazil/MG/BeloHorizonte|2020-03-20
+		hCoV-19/Brazil/MG0218/2020-18|Brazil/MG/BeloHorizonte|2020-03-23
+		hCoV-19/Brazil/MG0219/2020-19|Brazil/MG/MontesClaros|2020-04-03
+		hCoV-19/Brazil/MG0220/2020-20|Brazil/MG/Timoteo|2020-04-04
+		hCoV-19/Brazil/MG0221/2020-21|Brazil/MG/BeloHorizonte|2020-04-05
+		hCoV-19/Brazil/MG0222/2020-22|Brazil/MG/BeloHorizonte|2020-04-06
+		hCoV-19/Brazil/MG0258/2020-60|Brazil/MG/BeloHorizonte|2020-04-13
+		hCoV-19/Brazil/MG0285/2020-88|Brazil/MG/Betim|2020-04-08
+		hCoV-19/Brazil/MG0286/2020-89|Brazil/MG/BeloHorizonte|2020-04-17
+		hCoV-19/Brazil/MG0287/2020-90|Brazil/MG/BeloHorizonte|2020-04-15
+		hCoV-19/Brazil/MG0288/2020-91|Brazil/MG/NovaLima|2020-04-09
+		hCoV-19/Brazil/MG0289/2020-92|Brazil/MG/BeloHorizonte|2020-04-08
+		hCoV-19/Brazil/MG0290/2020-93|Brazil/MG/BeloHorizonte|2020-04-03
+		hCoV-19/Brazil/MG0291/2020-94|Brazil/MG/BeloHorizonte|2020-04-16
+		hCoV-19/Brazil/MT0225/2020-26|Brazil/MT/Rondonopolis|2020-03-19
+		hCoV-19/Brazil/PA0226/2020-27|Brazil/PA/Belem|2020-04-01
+		hCoV-19/Brazil/PA0227/2020-28|Brazil/PA/Belem|2020-04-01
+		hCoV-19/Brazil/PA0228/2020-29|Brazil/PA/Belem|2020-04-01
+		hCoV-19/Brazil/PA0229/2020-30|Brazil/PA/Belem|2020-04-01
+		hCoV-19/Brazil/PA0230/2020-31|Brazil/PA/Belem|2020-04-02
+		hCoV-19/Brazil/PA0231/2020-32|Brazil/PA/Belem|2020-04-02
+		hCoV-19/Brazil/PA0232/2020-33|Brazil/PA/Belem|2020-04-02
+		hCoV-19/Brazil/PA0234/2020-35|Brazil/PA/Belem|2020-04-03
+		hCoV-19/Brazil/PA0235/2020-36|Brazil/PA/Belem|2020-04-03
+		hCoV-19/Brazil/PA0236/2020-37|Brazil/PA/Belem|2020-04-03
+		hCoV-19/Brazil/PA0237/2020-38|Brazil/PA/Belem|2020-04-03
+		hCoV-19/Brazil/PE0238/2020-39|Brazil/PE/Recife|2020-04-03
+		hCoV-19/Brazil/PI0239/2020-40|Brazil/PI/Teresina|2020-03-19
+		hCoV-19/Brazil/PR0241/2020-42|Brazil/PR/Londrina|2020-04-02
+		hCoV-19/Brazil/RJ-352/2020|EPI_ISL_427299|2020-03-05
+		hCoV-19/Brazil/RJ-477/2020|EPI_ISL_427300|2020-03-11
+		hCoV-19/Brazil/RJ-477i/2020|EPI_ISL_427301|2020-03-11
+		hCoV-19/Brazil/RJ-763/2020|EPI_ISL_427302|2020-03-20
+		hCoV-19/Brazil/RJ-818/2020|EPI_ISL_427303|2020-03-25
+		hCoV-19/Brazil/RJ-872/2020|EPI_ISL_427304|2020-03-26
+		hCoV-19/Brazil/RJ0247/2020-49|Brazil/RJ/RioDeJaneiro|2020-03-23
+		hCoV-19/Brazil/RJ0248/2020-50|Brazil/RJ/RioDeJaneiro|2020-03-24
+		hCoV-19/Brazil/RJ0249/2020-51|Brazil/RJ/RioDeJaneiro|2020-03-25
+		hCoV-19/Brazil/RJ0250/2020-52|Brazil/RJ/RioDeJaneiro|2020-03-26
+		hCoV-19/Brazil/RJ0251/2020-53|Brazil/RJ/RioDeJaneiro|2020-03-27
+		hCoV-19/Brazil/RJ0252/2020-54|Brazil/RJ/RioDeJaneiro|2020-03-30
+		hCoV-19/Brazil/RJ0253/2020-55|Brazil/RJ/RioDeJaneiro|2020-03-31
+		hCoV-19/Brazil/RJ0254/2020-56|Brazil/RJ/RioDeJaneiro|2020-04-01
+		hCoV-19/Brazil/RJ0255/2020-57|Brazil/RJ/RioDeJaneiro|2020-04-02
+		hCoV-19/Brazil/RJ0256/2020-58|Brazil/RJ/RioDeJaneiro|2020-04-03
+		hCoV-19/Brazil/RJ0257/2020-59|Brazil/RJ/RioDeJaneiro|2020-04-06
+		hCoV-19/Brazil/RJ0259/2020-61|Brazil/RJ/RioDeJaneiro|2020-04-07
+		hCoV-19/Brazil/RJ0260/2020-62|Brazil/RJ/RioDeJaneiro|2020-04-07
+		hCoV-19/Brazil/RJ0261/2020-63|Brazil/RJ/RioDeJaneiro|2020-04-08
+		hCoV-19/Brazil/RJ0262/2020-64|Brazil/RJ/RioDeJaneiro|2020-04-09
+		hCoV-19/Brazil/RJ0263/2020-65|Brazil/RJ/RioDeJaneiro|2020-04-13
+		hCoV-19/Brazil/RJ0265/2020-67|Brazil/RJ/RioDeJaneiro|2020-04-14
+		hCoV-19/Brazil/RJ0266/2020-68|Brazil/RJ/RioDeJaneiro|2020-04-14
+		hCoV-19/Brazil/RJ0267/2020-69|Brazil/RJ/RioDeJaneiro|2020-04-15
+		hCoV-19/Brazil/RJ0268/2020-70|Brazil/RJ/RioDeJaneiro|2020-04-15
+		hCoV-19/Brazil/RJ0269/2020-71|Brazil/RJ/RioDeJaneiro|2020-04-16
+		hCoV-19/Brazil/RJ0270/2020-73|Brazil/RJ/RioDeJaneiro|2020-04-16
+		hCoV-19/Brazil/RJ0271/2020-74|Brazil/RJ/RioDeJaneiro|2020-04-17
+		hCoV-19/Brazil/RJ0272/2020-75|Brazil/RJ/RioDeJaneiro|2020-04-17
+		hCoV-19/Brazil/RJ0273/2020-76|Brazil/RJ/RioDeJaneiro|2020-04-20
+		hCoV-19/Brazil/RJ0274/2020-77|Brazil/RJ/RioDeJaneiro|2020-04-20
+		hCoV-19/Brazil/RJ0275/2020-78|Brazil/RJ/RioDeJaneiro|2020-04-20
+		hCoV-19/Brazil/RJ0276/2020-79|Brazil/RJ/RioDeJaneiro|2020-04-22
+		hCoV-19/Brazil/RJ0277/2020-80|Brazil/RJ/RioDeJaneiro|2020-04-22
+		hCoV-19/Brazil/RJ0278/2020-81|Brazil/RJ/RioDeJaneiro|2020-04-22
+		hCoV-19/Brazil/RJ0279/2020-82|Brazil/RJ/RioDeJaneiro|2020-04-22
+		hCoV-19/Brazil/RJ0280/2020-83|Brazil/RJ/RioDeJaneiro|2020-04-23
+		hCoV-19/Brazil/RJ0281/2020-84|Brazil/RJ/RioDeJaneiro|2020-04-24
+		hCoV-19/Brazil/RJ0282/2020-85|Brazil/RJ/RioDeJaneiro|2020-04-24
+		hCoV-19/Brazil/RJ0283/2020-86|Brazil/RJ/RioDeJaneiro|2020-04-24
+		hCoV-19/Brazil/RJ0284/2020-87|Brazil/RJ/RioDeJaneiro|2020-04-24
+		hCoV-19/Brazil/RS0242/2020-43|Brazil/RS/PortoAlegre|2020-03-20
+		hCoV-19/Brazil/SC-766/2020|EPI_ISL_427305|2020-03-10
+		hCoV-19/Brazil/SC-769/2020|EPI_ISL_427306|2020-03-10
+		hCoV-19/Brazil/SC0243/2020-44|Brazil/SC/Criciuma|2020-03-18
+		hCoV-19/Brazil/SC0244/2020-45|Brazil/SC/Criciuma|2020-03-18
+		hCoV-19/Brazil/SC0245/2020-46|Brazil/SC/Criciuma|2020-03-18
+		hCoV-19/Brazil/SC0246/2020-47|Brazil/SC/Cacador|2020-04-03
+		hCoV-19/Brazil/SPBR-01/2020|EPI_ISL_412964|2020-02-25
+		hCoV-19/Brazil/SPBR-02/2020|EPI_ISL_413016|2020-02-28
+		hCoV-19/Brazil/SPBR-03/2020|EPI_ISL_414014|2020-03-02
+		hCoV-19/Brazil/SPBR-04/2020|EPI_ISL_414017|2020-03-04
+		hCoV-19/Brazil/SPBR-05/2020|EPI_ISL_414016|2020-02-29
+		hCoV-19/Brazil/SPBR-06/2020|EPI_ISL_414015|2020-02-29
+		hCoV-19/Brazil/SPBR-07/2020|EPI_ISL_416028|2020-03-03
+		hCoV-19/Brazil/SPBR-08/2020|EPI_ISL_416029|2020-03-04
+		hCoV-19/Brazil/SPBR-09/2020|EPI_ISL_416031|2020-03-04
+		hCoV-19/Brazil/SPBR-10/2020|EPI_ISL_416032|2020-03-04
+		hCoV-19/Brazil/SPBR-11/2020|EPI_ISL_416033|2020-03-03
+		hCoV-19/Brazil/SPBR-12/2020|EPI_ISL_416034|2020-03-04
+		hCoV-19/Brazil/SPBR-13/2020|EPI_ISL_416035|2020-03-05
+		hCoV-19/Brazil/SPBR-14/2020|EPI_ISL_416036|2020-03-05
+		;
+End;
+
+Begin trees;
+	Translate
+		1 Algeria/G0638/2264/2020|EPI_ISL_418241||Algeria|Boufarik||2020-03-02,
+		2 Algeria/G0640/2265/2020|EPI_ISL_418242||Algeria|Blida||2020-03-08,
+		3 Argentina/C121/2020|EPI_ISL_420600||Argentina|||2020-03-07,
+		4 Argentina/C1374/2020|EPI_ISL_420599||Argentina|||2020-03-18,
+		5 Argentina/C3013/2020|EPI_ISL_420598||Argentina|||2020-03-22,
+		6 Australia/NSW01/2020|EPI_ISL_407893||Australia|New/South/Wales|Sydney|2020-01-24,
+		7 Australia/NSW02/2020|EPI_ISL_408976||Australia|New/South/Wales|Sydney|2020-01-22,
+		8 Australia/NSW03/2020|EPI_ISL_408977||Australia|New/South/Wales|Sydney|2020-01-25,
+		9 Australia/NSW08/2020|EPI_ISL_413594||Australia|NSW|Sydney|2020-02-28,
+		10 Australia/NSW11/2020|EPI_ISL_413597||Australia|NSW|Sydney|2020-03-02,
+		11 Australia/NSW12/2020|EPI_ISL_413598||Australia|NSW|Sydney|2020-03-04,
+		12 Australia/NSW14/2020|EPI_ISL_413600||Australia|NSW|Sydney|2020-03-03,
+		13 Australia/NSW18/2020|EPI_ISL_417384||Australia|New/South/Wales|Sydney|2020-03-05,
+		14 Australia/NSW24/2020|EPI_ISL_417387||Australia|New/South/Wales|Sydney|2020-03-06,
+		15 Australia/NT02/2020|EPI_ISL_419832||Australia|Northern/Territory||2020-02-21,
+		16 Australia/NT05/2020|EPI_ISL_419835||Australia|Northern/Territory||2020-02-24,
+		17 Australia/QLD01/2020|EPI_ISL_407894||Australia|Queensland|Gold/Coast|2020-01-28,
+		18 Australia/QLD02/2020|EPI_ISL_407896||Australia|Queensland|Gold/Coast|2020-01-30,
+		19 Australia/QLD04/2020|EPI_ISL_410718||Australia|Queensland|Gold/Coast|2020-02-05,
+		20 Australia/QLD09/2020|EPI_ISL_414414||Australia|Queensland|Gold/Coast|2020-02-29,
+		21 Australia/VIC07/2020|EPI_ISL_416415||Australia|Victoria|Melbourne|2020-02-08,
+		22 Australia/VIC114/2020|EPI_ISL_419725||Australia|Victoria||2020-03-18,
+		23 Australia/VIC117/2020|EPI_ISL_419727||Australia|Victoria||2020-03-19,
+		24 Australia/VIC126/2020|EPI_ISL_419728||Australia|Victoria||2020-03-20,
+		25 Australia/VIC129/2020|EPI_ISL_419732||Australia|Victoria||2020-03-21,
+		26 Australia/VIC137/2020|EPI_ISL_419830||Australia|Victoria||2020-03-22,
+		27 Australia/VIC138/2020|EPI_ISL_419834||Australia|Victoria||2020-02-23,
+		28 Australia/VIC143/2020|EPI_ISL_419840||Australia|Victoria||2020-03-16,
+		29 Australia/VIC144/2020|EPI_ISL_419841||Australia|Victoria||2020-03-17,
+		30 Australia/VIC18/2020|EPI_ISL_419737||Australia|Victoria||2020-03-07,
+		31 Australia/VIC20/2020|EPI_ISL_419741||Australia|Victoria||2020-03-08,
+		32 Australia/VIC22/2020|EPI_ISL_419742||Australia|Victoria||2020-03-09,
+		33 Australia/VIC27/2020|EPI_ISL_419746||Australia|Victoria||2020-03-10,
+		34 Australia/VIC41/2020|EPI_ISL_419760||Australia|Victoria||2020-03-11,
+		35 Australia/VIC48/2020|EPI_ISL_419762||Australia|Victoria||2020-03-12,
+		36 Australia/VIC538/2020|EPI_ISL_426804||Australia|Victoria||2020-03-23,
+		37 Australia/VIC555/2020|EPI_ISL_426816||Australia|Victoria||2020-03-25,
+		38 Australia/VIC606/2020|EPI_ISL_426861||Australia|Victoria||2020-03-27,
+		39 Australia/VIC617/2020|EPI_ISL_426872||Australia|Victoria||2020-03-26,
+		40 Australia/VIC636/2020|EPI_ISL_426877||Australia|Victoria||2020-03-28,
+		41 Australia/VIC638/2020|EPI_ISL_426934||Australia|Victoria||2020-03-29,
+		42 Australia/VIC68/2020|EPI_ISL_419782||Australia|Victoria||2020-03-13,
+		43 Australia/VIC779/2020|EPI_ISL_427054||Australia|Victoria||2020-03-30,
+		44 Australia/VIC81/2020|EPI_ISL_419793||Australia|Victoria||2020-03-14,
+		45 Australia/VIC812/2020|EPI_ISL_427085||Australia|Victoria||2020-04-02,
+		46 Australia/VIC820/2020|EPI_ISL_427092||Australia|Victoria||2020-04-03,
+		47 Australia/VIC853/2020|EPI_ISL_427113||Australia|Victoria||2020-04-04,
+		48 Australia/VIC857/2020|EPI_ISL_427116||Australia|Victoria||2020-04-05,
+		49 Australia/VIC87/2020|EPI_ISL_419797||Australia|Victoria||2020-03-15,
+		50 Australia/VIC878/2020|EPI_ISL_427133||Australia|Victoria||2020-04-06,
+		51 Australia/VIC898/2020|EPI_ISL_427148||Australia|Victoria||2020-04-08,
+		52 Australia/VIC912/2020|EPI_ISL_426881||Australia|Victoria||2020-03-24,
+		53 Australia/WA11/202|EPI_ISL_420456||Australia|Western/Australia|Perth|2020-02-22,
+		54 Austria/CeMM0003/2020|EPI_ISL_419656||Austria|||2020-02-26,
+		55 Austria/CeMM0005/2020|EPI_ISL_419658||Austria|||2020-03-06,
+		56 Austria/CeMM0011/2020|EPI_ISL_419664||Austria|||2020-03-23,
+		57 Austria/CeMM0013/2020|EPI_ISL_419666||Austria|||2020-03-11,
+		58 Austria/CeMM0018/2020|EPI_ISL_419671||Austria|||2020-03-19,
+		59 Austria/CeMM0020/2020|EPI_ISL_419673||Austria|||2020-03-22,
+		60 Austria/CeMM0021/2020|EPI_ISL_419674||Austria|||2020-03-24,
+		61 Beijing/105/2020|EPI_ISL_413518||China|Beijing||2020-01-26,
+		62 Beijing/233/2020|EPI_ISL_413520||China|Beijing||2020-01-28,
+		63 Beijing/Wuhan/IME-BJ05/2020|EPI_ISL_424359||China|Beijing||2020-01-27,
+		64 Beijing/Wuhan/IME-BJ07/2020|EPI_ISL_424360||China|Beijing||2020-01-29,
+		65 Belgium/CG-030158/2020|EPI_ISL_418987||Belgium|Eupen||2020-03-01,
+		66 Belgium/CJM-0323175/2020|EPI_ISL_420432||Belgium|Leuven||2020-03-23,
+		67 Belgium/DWAEE-030954/2020|EPI_ISL_418983||Belgium|Asse||2020-03-09,
+		68 Belgium/FR-03029/2020|EPI_ISL_417428||Belgium|Rixensart||2020-03-02,
+		69 Belgium/GHB-03021/2020|EPI_ISL_407976||Belgium|Leuven||2020-02-03,
+		70 Belgium/Human/CS-031052/2020|EPI_ISL_418800||Belgium|Gierle||2020-03-10,
+		71 Belgium/JL-03044/2020|EPI_ISL_418270||Belgium|Antwerp||2020-03-04,
+		72 Belgium/MMJ-03034/2020|EPI_ISL_417429||Belgium|Holsbeek||2020-03-03,
+		73 Belgium/QL-0324173/2020|EPI_ISL_420430||Belgium|Cuesmes||2020-03-24,
+		74 Belgium/UGent-17/2020|EPI_ISL_425057||Belgium|Ghent||2020-03-26,
+		75 Belgium/ULG-10027/2020|EPI_ISL_421201||Belgium|Liege||2020-03-31,
+		76 Belgium/ULG-10028/2020|EPI_ISL_421202||Belgium|Liege||2020-03-30,
+		77 Belgium/ULG-10056/2020|EPI_ISL_424655||Belgium|Liege||2020-04-05,
+		78 Belgium/ULG-10069/2020|EPI_ISL_424633||Belgium|Liege||2020-04-03,
+		79 Belgium/ULG-10094/2020|EPI_ISL_424650||Belgium|Liege||2020-04-04,
+		80 Belgium/ULG-10099/2020|EPI_ISL_427350||Belgium|Liege||2020-04-06,
+		81 Belgium/ULG-10100/2020|EPI_ISL_427351||Belgium|Liege||2020-04-07,
+		82 Belgium/ULG-10134/2020|EPI_ISL_427379||Belgium|Liege||2020-04-08,
+		83 Belgium/ULG-3000/2020|EPI_ISL_417004||Belgium|Liege||2020-03-05,
+		84 Belgium/ULG-3665/2020|EPI_ISL_417009||Belgium|Liege||2020-03-07,
+		85 Belgium/ULG-6216/2020|EPI_ISL_417014||Belgium|Liege||2020-03-13,
+		86 Belgium/ULG-6638/2020|EPI_ISL_417017||Belgium|Liege||2020-03-14,
+		87 Belgium/ULG-6939/2020|EPI_ISL_417020||Belgium|Liege||2020-03-15,
+		88 Belgium/ULG-7500/2020|EPI_ISL_418632||Belgium|Liege||2020-03-16,
+		89 Belgium/ULG-7729/2020|EPI_ISL_418630||Belgium|Liege||2020-03-17,
+		90 Belgium/ULG-8532/2020|EPI_ISL_418635||Belgium|Liege||2020-03-19,
+		91 Belgium/ULG-9572/2020|EPI_ISL_418646||Belgium|Liege||2020-03-21,
+		92 Belgium/ULG-9647/2020|EPI_ISL_418653||Belgium|Liege||2020-03-22,
+		93 Belgium/VL-0318104/2020|EPI_ISL_420360||Belgium|Doornik||2020-03-18,
+		94 Belgium/VM-0325171/2020|EPI_ISL_420428||Belgium|Boutersem||2020-03-25,
+		95 Belgium/VNP-0320107/2020|EPI_ISL_420363||Belgium|Watermaal-Bosvoorde||2020-03-20,
+		96 Belgium/VPE-030650/2020|EPI_ISL_418805||Belgium|Deinze||2020-03-06,
+		97 Cambodia/0012/2020|EPI_ISL_411902||Cambodia|Sihanoukville||2020-01-27,
+		98 Canada/BC/02421/2020|EPI_ISL_415581||Canada|British/Columbia||2020-03-01,
+		99 Canada/BC/4078583/2020|EPI_ISL_418824||Canada|British/Columbia||2020-03-03,
+		100 Canada/ON-VIDO-01/2020|EPI_ISL_425177||Canada|Ontario||2020-01-23,
+		101 Canada/ON/PHL0539/2020|EPI_ISL_418353||Canada|Ontario||2020-03-09,
+		102 Canada/ON/PHL3350/2020|EPI_ISL_418366||Canada|Ontario||2020-03-05,
+		103 Canada/ON/PHL3380/2020|EPI_ISL_418350||Canada|Ontario||2020-03-20,
+		104 Canada/ON/PHL3536/2020|EPI_ISL_418362||Canada|Ontario||2020-03-10,
+		105 Canada/ON/PHL3575/2020|EPI_ISL_418351||Canada|Ontario||2020-03-12,
+		106 Canada/ON/PHL3650/2020|EPI_ISL_418349||Canada|Ontario||2020-03-07,
+		107 Canada/ON/PHL4088/2020|EPI_ISL_418354||Canada|Ontario||2020-03-15,
+		108 Canada/ON/PHL4181/2020|EPI_ISL_418327||Canada|Ontario||2020-01-25,
+		109 Canada/ON/PHL5472/2020|EPI_ISL_418325||Canada|Ontario||2020-02-20,
+		110 Canada/ON/PHL5672/2020|EPI_ISL_418352||Canada|Ontario||2020-03-11,
+		111 Canada/ON/PHL6922/2020|EPI_ISL_418364||Canada|Ontario||2020-03-13,
+		112 Canada/ON/PHL7590/2020|EPI_ISL_418373||Canada|Ontario||2020-03-14,
+		113 Canada/ON/PHL8751/2020|EPI_ISL_418345||Canada|Ontario||2020-02-29,
+		114 Canada/ON/PHLU8150/2020|EPI_ISL_418355||Canada|Ontario||2020-03-08,
+		115 Chile/Santiago-1/2020|EPI_ISL_414579||Chile|Santiago||2020-03-03,
+		116 Chile/Santiago-2/2020|EPI_ISL_414580||Chile|Santiago||2020-03-05,
+		117 Chile/Santiago/op2d1/2020|EPI_ISL_415658||Chile|Santiago||2020-03-06,
+		118 Chile/Santiago/op3d1/2020|EPI_ISL_415660||Chile|Santiago||2020-03-07,
+		119 Chile/Santiago/op4d1/2020|EPI_ISL_415661||Chile|Santiago||2020-03-08,
+		120 Chile/Talca-1/2020|EPI_ISL_414577||Chile|Talca||2020-03-02,
+		121 Chile/Talca-2/2020|EPI_ISL_414578||Chile|Talca||2020-03-04,
+		122 Czech/Republic/IAB/1/2020|EPI_ISL_426883||Czech/Republic|||2020-03-27,
+		123 Czech/Republic/IAB/10/2020|EPI_ISL_426887||Czech/Republic|||2020-03-31,
+		124 Czech/Republic/IAB/14/2020|EPI_ISL_426889||Czech/Republic|||2020-04-02,
+		125 Czech/Republic/IAB/15/2020|EPI_ISL_426890||Czech/Republic|||2020-03-26,
+		126 Czech/Republic/IAB/23/2020|EPI_ISL_426897||Czech/Republic|||2020-03-29,
+		127 Czech/Republic/IAB/9/2020|EPI_ISL_426886||Czech/Republic|||2020-03-28,
+		128 Czech/Republic/Seq3/2020|EPI_ISL_426356||Czech/Republic|Central/Czechia/and/Prague||2020-03-21,
+		129 Czech/Republic/Seq5/2020|EPI_ISL_426358||Czech/Republic|Central/Czechia/and/Prague||2020-03-19,
+		130 Czech/Republic/Seq6/2020|EPI_ISL_426359||Czech/Republic|Central/Czechia/and/Prague||2020-03-17,
+		131 Czech/Republic/Seq7/2020|EPI_ISL_426360||Czech/Republic|Central/Czechia/and/Prague||2020-03-18,
+		132 DRC/158/2020|EPI_ISL_417950||DRC|Kinshasa||2020-03-20,
+		133 DRC/214/2020|EPI_ISL_420030||DRC|Kinshasa||2020-03-21,
+		134 DRC/241/2020|EPI_ISL_420033||DRC|Kinshasa||2020-03-22,
+		135 DRC/431/2020|EPI_ISL_420847||DRC|||2020-03-26,
+		136 DRC/523/2020|EPI_ISL_420849||DRC|Kinshasa||2020-03-28,
+		137 DRC/82/2020|EPI_ISL_417946||DRC|Kinshasa||2020-03-18,
+		138 DRC/94/2020|EPI_ISL_417947||DRC|Kinshasa||2020-03-19,
+		139 DRC/KN-0054/2020|EPI_ISL_417437||DRC|Kinshasa||2020-03-17,
+		140 Denmark/SSI-01/2020|EPI_ISL_416142||Denmark|Copenhagen||2020-02-26,
+		141 Denmark/SSI-03/2020|EPI_ISL_416144||Denmark|Copenhagen||2020-03-01,
+		142 Denmark/SSI-05/2020|EPI_ISL_416140||Denmark|Copenhagen||2020-03-02,
+		143 Denmark/SSI-09/2020|EPI_ISL_416141||Denmark|Copenhagen||2020-03-03,
+		144 England/01/2020|EPI_ISL_407071||UK|England||2020-01-29,
+		145 England/200641094/2020|EPI_ISL_414040||UK|England||2020-02-05,
+		146 England/200690300/2020|EPI_ISL_414042||UK|England||2020-02-08,
+		147 England/200690306/2020|EPI_ISL_414043||UK|England||2020-02-07,
+		148 England/200991076/2020|EPI_ISL_414524||UK|England||2020-03-01,
+		149 England/20104004902/2020|EPI_ISL_417226||UK|England||2020-03-02,
+		150 England/20104007503/2020|EPI_ISL_417227||UK|England||2020-03-03,
+		151 England/20108007002/2020|EPI_ISL_417255||UK|England||2020-03-04,
+		152 England/20109035906/2020|EPI_ISL_417260||UK|England||2020-03-05,
+		153 England/20109050406/2020|EPI_ISL_417265||UK|England||2020-03-08,
+		154 England/20109054806/2020|EPI_ISL_417280||UK|England||2020-03-07,
+		155 England/20109093606/2020|EPI_ISL_417285||UK|England||2020-03-06,
+		156 England/20129059204/2020|EPI_ISL_424054||UK|England||2020-03-09,
+		157 England/20134010904/2020|EPI_ISL_423078||UK|England||2020-03-25,
+		158 England/20139056904/2020|EPI_ISL_420716||UK|England||2020-03-26,
+		159 England/20139058304/2020|EPI_ISL_420724||UK|England||2020-03-27,
+		160 England/20142061804/2020|EPI_ISL_420772||UK|England||2020-03-30,
+		161 England/20142062604/2020|EPI_ISL_420774||UK|England||2020-03-28,
+		162 England/20144018704/2020|EPI_ISL_421939||UK|England||2020-04-01,
+		163 England/20144037304/2020|EPI_ISL_421946||UK|England||2020-03-31,
+		164 England/20148043704/2020|EPI_ISL_423591||UK|England||2020-04-02,
+		165 England/NOTT-10DEEA/2020|EPI_ISL_425466||UK|England||2020-03-11,
+		166 England/NOTT-10E195/2020|EPI_ISL_425505||UK|England||2020-03-18,
+		167 England/NOTT-10E2B0/2020|EPI_ISL_425522||UK|England||2020-03-20,
+		168 England/NOTT-10E2ED/2020|EPI_ISL_425525||UK|England||2020-03-21,
+		169 England/NOTT-10E308/2020|EPI_ISL_425527||UK|England||2020-03-19,
+		170 England/NOTT-10E4C9/2020|EPI_ISL_425554||UK|England||2020-03-22,
+		171 England/NOTT-10E64B/2020|EPI_ISL_425573||UK|England||2020-03-23,
+		172 England/NOTT-10E748/2020|EPI_ISL_425587||UK|England||2020-03-24,
+		173 England/NOTT-10E8FA/2020|EPI_ISL_425611||UK|England||2020-03-29,
+		174 England/NOTT-10EB6A/2020|EPI_ISL_425644||UK|England||2020-03-17,
+		175 Finland/13M58/2020|EPI_ISL_418392||Finland|||2020-03-13,
+		176 Finland/14M16/2020|EPI_ISL_418404||Finland|||2020-03-14,
+		177 Finland/FIN-266/2020|EPI_ISL_414646||Finland|||2020-03-04,
+		178 Finland/FIN-313/2020|EPI_ISL_414641||Finland|||2020-03-05,
+		179 Finland/FIN-455/2020|EPI_ISL_414642||Finland|||2020-03-08,
+		180 Finland/FIN-508/2020|EPI_ISL_414643||Finland|||2020-03-07,
+		181 Finland/FIN03032020A/2020|EPI_ISL_413602||Finland|Helsinki||2020-03-03,
+		182 France/ARA09434/2020|EPI_ISL_418414||France|ARA|Valence|2020-03-15,
+		183 France/ARA10165/2020|EPI_ISL_418419||France|ARA|Lyon|2020-03-16,
+		184 France/ARA10184/2020|EPI_ISL_418422||France|ARA|Lyon|2020-03-17,
+		185 France/ARA11036/2020|EPI_ISL_418432||France|ARA|Lyon|2020-03-18,
+		186 France/ARA12388/2020|EPI_ISL_420606||France|ARA|Lyon|2020-03-22,
+		187 France/ARA12485/2020|EPI_ISL_420607||France|ARA|Lyon|2020-03-23,
+		188 France/ARA1322/2020|EPI_ISL_420625||France|ARA|Lyon|2020-03-24,
+		189 France/B1623/2020|EPI_ISL_418219||France|Bretagne|Brest|2020-02-26,
+		190 France/B2334/2020|EPI_ISL_416503||France|Bretagne|Rennes|2020-03-01,
+		191 France/Bourg-en-Bresse/06813/2020|EPI_ISL_417340||France|ARA||2020-03-07,
+		192 France/CVL2000/2020|EPI_ISL_418222||France|Centre-Val/de/Loire|Tours|2020-03-04,
+		193 France/GE3372/2020|EPI_ISL_428348||France|Grand-est|Gondrecourt-le-chateau|2020-03-20,
+		194 France/HF1465/2020|EPI_ISL_418218||France|Hauts/de/France|Compiegne|2020-02-21,
+		195 France/HF1645/2020|EPI_ISL_418220||France|Hauts/de/France|Compiegne|2020-02-28,
+		196 France/HF1684/2020|EPI_ISL_414626||France|Hauts/de/France|Crepy/en/Valois|2020-02-29,
+		197 France/HF1805/2020|EPI_ISL_414628||France|Hauts/de/France|Compiegne|2020-03-02,
+		198 France/HF1871/2020|EPI_ISL_414630||France|Hauts/de/France|Compiegne|2020-03-03,
+		199 France/HF2060/2020|EPI_ISL_418223||France|Hauts/de/France|Compiegne|2020-03-05,
+		200 France/HF2150/2020|EPI_ISL_418224||France|Hauts/de/France|Compiegne|2020-03-08,
+		201 France/HF2381/2020|EPI_ISL_418226||France|Hauts/de/France|Crouy/en/Thelle|2020-03-09,
+		202 France/HF2405/2020|EPI_ISL_418228||France|Hauts/de/France|Compiegne|2020-03-12,
+		203 France/HF4220/2020|EPI_ISL_428366||France|Hauts/De/France|Chateau-thierry|2020-03-30,
+		204 France/IDF0372/2020|EPI_ISL_406596||France|Ile-de-France|Paris|2020-01-23,
+		205 France/IDF0386-islP1/2020|EPI_ISL_411219||France|Ile-de-France|Paris|2020-01-28,
+		206 France/IDF0571/2020|EPI_ISL_411218||France|Ile-de-France|Paris|2020-02-02,
+		207 France/IDF0626/2020|EPI_ISL_408431||France|Ile-de-France|Paris|2020-01-29,
+		208 France/IDF2251/2020|EPI_ISL_428355||France|Ile/De/France|Garches|2020-03-11,
+		209 France/IDF2420/2020|EPI_ISL_418230||France|Ile/de/France|Paris|2020-03-13,
+		210 France/IDF2534/2020|EPI_ISL_418234||France|Ile/de/France|Longjumeau|2020-03-14,
+		211 France/IDF2989/2020|EPI_ISL_420051||France|Ile/de/France|Saint-Thibault-des-Vignes|2020-03-19,
+		212 France/IDF3165/2020|EPI_ISL_420059||France|Ile/de/France|Longjumeau|2020-03-21,
+		213 France/IDF3703/2020|EPI_ISL_428361||France|Ile/De/France|Longjumeau|2020-03-25,
+		214 France/IDF3930/2020|EPI_ISL_428365||France|Ile/De/France|Longjumeau|2020-03-26,
+		215 France/Lyon/0668/2020|EPI_ISL_417336||France|ARA||2020-03-06,
+		216 France/Pollionay/1733/2020|EPI_ISL_416745||France|ARA||2020-03-10,
+		217 France/RA739/2020|EPI_ISL_410486||France|Rhone-Alpes|Contamines|2020-02-08,
+		218 Fuyang/FY002/2020|EPI_ISL_424352||China|Anhui|Fuyang|2020-03-10,
+		219 Georgia/Tb-1352/2020|EPI_ISL_420140||Georgia|Tbilisi||2020-03-28,
+		220 Georgia/Tb-1679/2020|EPI_ISL_420144||Georgia|Tbilisi||2020-04-01,
+		221 Georgia/Tb-390/2020|EPI_ISL_416477||Georgia|Tbilisi||2020-03-08,
+		222 Georgia/Tb-468/2020|EPI_ISL_415643||Georgia|Tbilisi||2020-03-10,
+		223 Georgia/Tb-537/2020|EPI_ISL_416480||Georgia|Tbilisi||2020-03-11,
+		224 Georgia/Tb-54/2020|EPI_ISL_415641||Georgia|Tbilisi||2020-02-27,
+		225 Georgia/Tb-673/2020|EPI_ISL_416478||Georgia|Tbilisi||2020-03-14,
+		226 Georgia/Tb-712/2020|EPI_ISL_416481||Georgia|Tbilisi||2020-03-16,
+		227 Georgia/Tb/2020|EPI_ISL_416482||Georgia|Tbilisi||2020-03-13,
+		228 Germany/BAV-V2010492/2020|EPI_ISL_420899||Germany|Munich||2020-03-11,
+		229 Germany/BAV-V2010840/2020|EPI_ISL_420901||Germany|Munich||2020-03-12,
+		230 Germany/BAV-V2012856/2020|EPI_ISL_420912||Germany|Munich||2020-03-21,
+		231 Germany/Baden-Wuerttemberg-1/2020|EPI_ISL_412912||Germany|Baden-Wuerttemberg||2020-02-25,
+		232 Germany/BavPat1/2020|EPI_ISL_406862||Germany|Bavaria|Munich|2020-01-28,
+		233 Germany/BavPat3/2020|EPI_ISL_414521||Germany|Munich||2020-03-02,
+		234 Germany/NRW-04/2020|EPI_ISL_414499||Germany|North/Rhine/Westphalia|Heinsberg/District|2020-02-26,
+		235 Germany/NRW-06/2020|EPI_ISL_414505||Germany|North/Rhine/Westphalia|Heinsberg/District|2020-02-27,
+		236 Germany/NRW-09/2020|EPI_ISL_414509||Germany|North/Rhine/Westphalia|Heinsberg/District|2020-02-28,
+		237 Germany/NRW-12/2020|EPI_ISL_417457||Germany|Duesseldorf||2020-03-10,
+		238 Germany/NRW-27/2020|EPI_ISL_419544||Germany|Duesseldorf||2020-03-15,
+		239 Germany/NRW-34/2020|EPI_ISL_419551||Germany|Duesseldorf||2020-03-16,
+		240 Germany/NRW-40/2020|EPI_ISL_425124||Germany|Duesseldorf||2020-03-17,
+		241 Germany/NRW-42/2020|EPI_ISL_425126||Germany|Duesseldorf||2020-03-18,
+		242 Germany/NRW-44/2020|EPI_ISL_425139||Germany|Duesseldorf||2020-03-19,
+		243 Germany/NRW-47/2020|EPI_ISL_425131||Germany|Duesseldorf||2020-03-20,
+		244 Greece/12/2020|EPI_ISL_418264||Greece|Athens||2020-03-18,
+		245 Guangdong/20SF012/2020|EPI_ISL_403932||China|Guandong|Shenzhen|2020-01-14,
+		246 Guangdong/20SF025/2020|EPI_ISL_403935||China|Guangdong|Shenzhen|2020-01-15,
+		247 Guangdong/20SF028/2020|EPI_ISL_403936||China|Guangdong|Zhuhai|2020-01-17,
+		248 Guangdong/20SF040/2020|EPI_ISL_403937||China|Guangdong|Zhuhai|2020-01-18,
+		249 Guangdong/20SF174/2020|EPI_ISL_406531||China|Guangdong|Zhuhai|2020-01-22,
+		250 Guangdong/20SF2546/2020|EPI_ISL_428458||China|Guangdong|Guangzhou|2020-02-06,
+		251 Guangdong/20SF4047/2020|EPI_ISL_428462||China|Guangdong|Guangzhou|2020-02-17,
+		252 Guangzhou/GZMU0016/2020|EPI_ISL_414663||China|Guangdong|Guangzhou|2020-02-25,
+		253 Hangzhou/HZ-1/2020|EPI_ISL_406970||China|Zhejiang|Hangzhou|2020-01-20,
+		254 Hangzhou/HZ185/2020|EPI_ISL_418510||China|Hangzhou||2020-01-23,
+		255 Hangzhou/HZ477/2020|EPI_ISL_418511||China|Zhejiang|Hangzhou|2020-01-24,
+		256 Hangzhou/HZ49/2020|EPI_ISL_418442||China|Hangzhou||2020-01-21,
+		257 Hangzhou/HZ576/2020|EPI_ISL_418514||China|Zhejiang|Hangzhou|2020-01-25,
+		258 Hangzhou/HZCDC0001/2020|EPI_ISL_407313||China|Zhejiang|Hangzhou|2020-01-19,
+		259 Hangzhou/HZCDC6706/2020|EPI_ISL_421222||China|Hangzhou||2020-03-14,
+		260 Hangzhou/HZCDC6789/2020|EPI_ISL_421221||China|Hangzhou||2020-03-15,
+		261 Hangzhou/ZJU-010/2020|EPI_ISL_418990||China|Hangzhou||2020-02-03,
+		262 Hangzhou/ZJU-011/2020|EPI_ISL_418991||China|Hangzhou||2020-02-04,
+		263 Hong/Kong/HKPU28/3001/2020|EPI_ISL_417185||Hong/Kong|||2020-02-09,
+		264 Hong/Kong/HKPU29/0102/2020|EPI_ISL_417187||Hong/Kong|||2020-02-08,
+		265 Hong/Kong/HKPU39-3001/2020|EPI_ISL_419214||Hong/Kong|||2020-02-10,
+		266 Hong/Kong/HKPU48-0202/2020|EPI_ISL_419222||Hong/Kong|||2020-02-11,
+		267 Hong/Kong/HKPU52-3101/2020|EPI_ISL_419224||Hong/Kong|||2020-02-13,
+		268 Hong/Kong/HKPU6/2101/2020|EPI_ISL_417178||Hong/Kong|||2020-01-25,
+		269 Hong/Kong/HKPU64-1202/2020|EPI_ISL_419232||Hong/Kong|||2020-02-19,
+		270 Hong/Kong/HKPU89-2502/2020|EPI_ISL_419250||Hong/Kong|||2020-02-26,
+		271 Hong/Kong/VB20017970/2020|EPI_ISL_417064||Hong/Kong|||2020-01-21,
+		272 Hong/Kong/VB20024950/2020|EPI_ISL_412029||Hong/Kong|||2020-01-30,
+		273 Hong/Kong/VB20026565/2020|EPI_ISL_412030||Hong/Kong|||2020-02-01,
+		274 Hong/Kong/VM20001061/2020|EPI_ISL_412028||Hong/Kong|||2020-01-22,
+		275 Hong/Kong/VM20002849/2020|EPI_ISL_414571||Hong/Kong|||2020-02-22,
+		276 Hong/Kong/VM20002868/2020|EPI_ISL_414519||Hong/Kong|||2020-02-24,
+		277 Hong/Kong/VM20002907/2020|EPI_ISL_414517||Hong/Kong|||2020-02-25,
+		278 Hungary/2/2020|EPI_ISL_418183||Hungary|Baranya||2020-03-17,
+		279 Hungary/49/2020|EPI_ISL_416744||Hungary|Baranya||2020-03-20,
+		280 Iceland/10/2020|EPI_ISL_417536||Iceland|Reykjavik||2020-03-16,
+		281 Iceland/101/2020|EPI_ISL_417682||Iceland|Reykjavik||2020-03-10,
+		282 Iceland/111/2020|EPI_ISL_417691||Iceland|Reykjavik||2020-03-11,
+		283 Iceland/116/2020|EPI_ISL_417541||Iceland|Reykjavik||2020-03-17,
+		284 Iceland/12/2020|EPI_ISL_417688||Iceland|Reykjavik||2020-03-01,
+		285 Iceland/135/2020|EPI_ISL_417696||Iceland|Reykjavik||2020-03-12,
+		286 Iceland/144/2020|EPI_ISL_417795||Iceland|Reykjavik||2020-03-13,
+		287 Iceland/171/2020|EPI_ISL_417549||Iceland|Reykjavik||2020-03-14,
+		288 Iceland/25/2020|EPI_ISL_417693||Iceland|Reykjavik||2020-03-02,
+		289 Iceland/30/2020|EPI_ISL_417773||Iceland|Reykjavik||2020-03-03,
+		290 Iceland/337/2020|EPI_ISL_417666||Iceland|Reykjavik||2020-03-15,
+		291 Iceland/353/2020|EPI_ISL_424377||Iceland|Reykjavik||2020-03-18,
+		292 Iceland/355/2020|EPI_ISL_424379||Iceland|Reykjavik||2020-03-19,
+		293 Iceland/37/2020|EPI_ISL_417681||Iceland|Reykjavik||2020-03-04,
+		294 Iceland/455/2020|EPI_ISL_424478||Iceland|Reykjavik||2020-03-20,
+		295 Iceland/47/2020|EPI_ISL_417683||Iceland|Reykjavik||2020-03-05,
+		296 Iceland/470/2020|EPI_ISL_424493||Iceland|Reykjavik||2020-03-21,
+		297 Iceland/516/2020|EPI_ISL_424538||Iceland|Reykjavik||2020-03-24,
+		298 Iceland/530/2020|EPI_ISL_424551||Iceland|Reykjavik||2020-03-25,
+		299 Iceland/54/2020|EPI_ISL_417684||Iceland|Reykjavik||2020-03-06,
+		300 Iceland/589/2020|EPI_ISL_424609||Iceland|Reykjavik||2020-03-29,
+		301 Iceland/590/2020|EPI_ISL_424610||Iceland|Reykjavik||2020-03-26,
+		302 Iceland/595/2020|EPI_ISL_424615||Iceland|Reykjavik||2020-03-27,
+		303 Iceland/604/2020|EPI_ISL_424624||Iceland|Reykjavik||2020-03-28,
+		304 Iceland/65/2020|EPI_ISL_417705||Iceland|Reykjavik||2020-03-07,
+		305 Iceland/70/2020|EPI_ISL_417728||Iceland|Reykjavik||2020-03-08,
+		306 Iceland/73/2020|EPI_ISL_417861||Iceland|Reykjavik||2020-03-09,
+		307 India/1-27/2020|EPI_ISL_413522||India|Kerala||2020-01-27,
+		308 India/1-31/2020|EPI_ISL_413523||India|Kerala||2020-01-31,
+		309 India/1063/2020|EPI_ISL_424361||India|||2020-03-10,
+		310 India/1644/2020|EPI_ISL_421672||India|||2020-03-12,
+		311 India/3239/2020|EPI_ISL_424365||India|||2020-03-17,
+		312 India/777/2020|EPI_ISL_420551||India|||2020-03-03,
+		313 India/GBRC1/2020|EPI_ISL_426414||India|Gujarat||2020-04-05,
+		314 India/c31/2020|EPI_ISL_426179||India|||2020-03-02,
+		315 Ireland/21023/2020|EPI_ISL_418516||Ireland|Tipperary||2020-03-06,
+		316 Ireland/24042/2020|EPI_ISL_418583||Ireland|Dublin||2020-03-10,
+		317 Ireland/COR-20134/2020|EPI_ISL_414487||Ireland|Cork||2020-03-04,
+		318 Ireland/Dublin-22428/2020|EPI_ISL_418581||Ireland|Dublin||2020-03-08,
+		319 Israel/ISR/IT0320/2020|EPI_ISL_419210||Israel|Ramat/Gan||2020-03-01,
+		320 Israel/ISR/JP0320/2020|EPI_ISL_419211||Israel|Ramat/Gan||2020-02-23,
+		321 Italy/CDG1/2020|EPI_ISL_412973||Italy|Lombardy||2020-02-20,
+		322 Italy/FVG-ICGEB/S8/2020|EPI_ISL_417421||Italy|Friuli/Venezia/Giulia||2020-03-01,
+		323 Italy/INMI10/2020|EPI_ISL_424344||Italy|Rome||2020-03-04,
+		324 Italy/INMI4/2020|EPI_ISL_417922||Italy|Rome||2020-02-28,
+		325 Italy/INMI8/2020|EPI_ISL_424342||Italy|Rome||2020-03-07,
+		326 Italy/SPL1/2020|EPI_ISL_412974||Italy|Rome||2020-01-29,
+		327 Italy/TE4880/2020|EPI_ISL_418256||Italy|Abruzzo||2020-03-14,
+		328 Italy/TE5166/2020|EPI_ISL_420563||Italy|Teramo||2020-03-18,
+		329 Italy/TE5472/2020|EPI_ISL_420564||Italy|Castel/di/Sangro||2020-03-19,
+		330 Italy/TE5780/2020|EPI_ISL_420567||Italy|Abruzzo|L-Aquila|2020-03-21,
+		331 Italy/TE6195/2020|EPI_ISL_420569||Italy|Abruzzo||2020-03-23,
+		332 Italy/UniMI03/2020|EPI_ISL_417447||Italy|Lombardy|Milan|2020-02-24,
+		333 Italy/UniSR1/2020|EPI_ISL_413489||Italy|Lombardy|Milan|2020-03-03,
+		334 Italy/VR/20COV21-26/2020|EPI_ISL_422437||Italy|Veneto|Verona|2020-03-25,
+		335 Japan/DP0065/2020|EPI_ISL_416570||Japan|unknown||2020-02-15,
+		336 Japan/DP0481/2020|EPI_ISL_416605||Japan|unknown||2020-02-16,
+		337 Japan/DP0588/2020|EPI_ISL_416610||Japan|unknown||2020-02-17,
+		338 Japan/Hu/DP/Kng/19-020/2020|EPI_ISL_412968||Japan|||2020-02-10,
+		339 Japan/Hu/DP/Kng/19-031/2020|EPI_ISL_420889||Japan|||2020-02-14,
+		340 Japan/Hu/Kng/19-437/2020|EPI_ISL_420890||Japan|||2020-03-09,
+		341 Japan/NA-20-05-1/2020|EPI_ISL_410531||Japan|Nara||2020-01-25,
+		342 Japan/OS-20-07-1/2020|EPI_ISL_410532||Japan|Osaka||2020-01-23,
+		343 Japan/P1/2020|EPI_ISL_419296||Japan|Kochi||2020-03-08,
+		344 Japan/P2-2/2020|EPI_ISL_419298||Japan|Chiba||2020-03-10,
+		345 Japan/P3-2/2020|EPI_ISL_419300||Japan|Ishikawa||2020-03-20,
+		346 Japan/P4-2/2020|EPI_ISL_419302||Japan|Saitama||2020-03-12,
+		347 Japan/P4-4/2020|EPI_ISL_419304||Japan|Saitama||2020-03-17,
+		348 Japan/P4-5/2020|EPI_ISL_419305||Japan|Saitama||2020-03-18,
+		349 Japan/P4-8/2020|EPI_ISL_419308||Japan|Saitama||2020-03-19,
+		350 Japan/P5-3/2020|EPI_ISL_419311||Japan|Chiba||2020-03-13,
+		351 Japan/SMU-0311S2/2020|EPI_ISL_416524||Japan|Saitama||2020-03-11,
+		352 Japan/TK-20-31-3/2020|EPI_ISL_413459||Japan|Tokyo||2020-02-20,
+		353 Japan/TY-WK-012/2020|EPI_ISL_408665||Japan|Tokyo||2020-01-29,
+		354 Japan/TY-WK-521/2020|EPI_ISL_408667||Japan|Tokyo||2020-01-31,
+		355 Jingzhou/HBCDC-HB-01/2020|EPI_ISL_412459||China|Hubei|Jingzhou|2020-01-08,
+		356 Korea/BA-ACH/2604/2020|EPI_ISL_420799||South/Korea|||2020-02-27,
+		357 Korea/BA-ACH/2719/2020|EPI_ISL_420801||South/Korea|||2020-02-29,
+		358 Korea/KCDC2004/2020|EPI_ISL_426164||South/Korea|||2020-02-02,
+		359 Korea/KCDC2005/2020|EPI_ISL_426166||South/Korea|||2020-02-04,
+		360 Korea/KCDC2009/2020|EPI_ISL_426173||South/Korea|||2020-02-07,
+		361 Korea/KCDC2010/2020|EPI_ISL_426180||South/Korea|||2020-02-05,
+		362 Korea/KCDC2011/2020|EPI_ISL_426181||South/Korea|||2020-02-23,
+		363 Korea/KCDC2012/2020|EPI_ISL_426182||South/Korea|||2020-02-09,
+		364 Korea/KCDC2014/2020|EPI_ISL_426187||South/Korea|||2020-02-12,
+		365 Korea/KCDC2015/2020|EPI_ISL_427809||South/Korea|||2020-02-26,
+		366 Korea/KCDC2016/2020|EPI_ISL_427810||South/Korea|||2020-02-18,
+		367 Korea/KCDC2018/2020|EPI_ISL_427812||South/Korea|||2020-02-19,
+		368 Kuwait/KU008/2020|EPI_ISL_422427||Kuwait|Dasman||2020-03-16,
+		369 Kuwait/KU12/2020|EPI_ISL_416458||Kuwait|Hawali||2020-03-02,
+		370 Latvia/0004/2020|EPI_ISL_421656||Latvia|||2020-03-25,
+		371 Latvia/0005/2020|EPI_ISL_426285||Latvia|||2020-03-30,
+		372 Luxembourg/LNS0366116/2020|EPI_ISL_419564||Luxembourg|||2020-03-15,
+		373 Luxembourg/LNS0641910/2020|EPI_ISL_419566||Luxembourg|||2020-03-05,
+		374 Luxembourg/LNS0756270/2020|EPI_ISL_419568||Luxembourg|||2020-03-14,
+		375 Luxembourg/LNS2128808/2020|EPI_ISL_417530||Luxembourg|||2020-03-18,
+		376 Luxembourg/LNS2458673/2020|EPI_ISL_421760||Luxembourg|||2020-03-17,
+		377 Luxembourg/LNS2614631/2020|EPI_ISL_419578||Luxembourg|||2020-03-08,
+		378 Luxembourg/LNS2907333/2020|EPI_ISL_419580||Luxembourg|||2020-03-12,
+		379 Luxembourg/LNS3711853/2020|EPI_ISL_419584||Luxembourg|||2020-03-13,
+		380 Luxembourg/LNS4691488/2020|EPI_ISL_419587||Luxembourg|||2020-03-11,
+		381 Luxembourg/LNS4836560/2020|EPI_ISL_419588||Luxembourg|||2020-03-16,
+		382 Luxembourg/Lux1/2020|EPI_ISL_413593||Luxembourg|||2020-02-29,
+		383 Malaysia/189332/2020|EPI_ISL_417917||Malaysia|Kuala/Lumpur||2020-03-20,
+		384 Malaysia/MKAK-CL-2020-5047/2020|EPI_ISL_416866||Malaysia|Selangor||2020-02-20,
+		385 Mexico/CDMX-INER/04/2020|EPI_ISL_424626||Mexico|Mexico/City||2020-03-15,
+		386 Mexico/CDMX-InDRE/01/2020|EPI_ISL_412972||Mexico|Mexico/City||2020-02-27,
+		387 Mexico/CDMX-InDRE/06/2020|EPI_ISL_424673||Mexico|CDMX||2020-03-12,
+		388 Mexico/EdoMex-InDRE/03/2020|EPI_ISL_424667||Mexico|Estado/de/Mexico||2020-03-04,
+		389 Mexico/Puebla-InDRE/05/2020|EPI_ISL_424672||Mexico|Puebla||2020-03-11,
+		390 Mexico/Queretaro-InDRE/04/2020|EPI_ISL_424670||Mexico|Queretaro||2020-03-10,
+		391 NanChang/JX216/2020|EPI_ISL_417420||China|NanChang||2020-03-23,
+		392 Nanchang/JXN3T4/2020|EPI_ISL_421246||China|Jiangxi|Nanchang|2020-02-26,
+		393 Nepal/61/2020|EPI_ISL_410301||Nepal|Kathmandu||2020-01-13,
+		394 Netherlands/Friesland/4/2020|EPI_ISL_422569||Netherlands|Friesland||2020-03-27,
+		395 Netherlands/Friesland/7/2020|EPI_ISL_422572||Netherlands|Friesland||2020-03-28,
+		396 Netherlands/Gelderland/11/2020|EPI_ISL_422639||Netherlands|Gelderland||2020-03-21,
+		397 Netherlands/Gelderland/6/2020|EPI_ISL_422642||Netherlands|Gelderland||2020-03-09,
+		398 Netherlands/Gelderland/7/2020|EPI_ISL_422643||Netherlands|Gelderland||2020-03-11,
+		399 Netherlands/Gelderland/8/2020|EPI_ISL_422644||Netherlands|Gelderland||2020-03-13,
+		400 Netherlands/Limburg/8/2020|EPI_ISL_422647||Netherlands|Limburg||2020-03-19,
+		401 Netherlands/Limburg/9/2020|EPI_ISL_422648||Netherlands|Limburg||2020-03-20,
+		402 Netherlands/NA/104/2020|EPI_ISL_422653||Netherlands|||2020-03-18,
+		403 Netherlands/NA/111/2020|EPI_ISL_422659||Netherlands|||2020-03-15,
+		404 Netherlands/NA/114/2020|EPI_ISL_422662||Netherlands|||2020-03-10,
+		405 Netherlands/NA/119/2020|EPI_ISL_422666||Netherlands|||2020-03-16,
+		406 Netherlands/NA/130/2020|EPI_ISL_422674||Netherlands|||2020-03-17,
+		407 Netherlands/NA/184/2020|EPI_ISL_422719||Netherlands|||2020-03-22,
+		408 Netherlands/NA/213/2020|EPI_ISL_422748||Netherlands|||2020-03-25,
+		409 Netherlands/NA/24/2020|EPI_ISL_415481||Netherlands|||2020-03-08,
+		410 Netherlands/NA/28/2020|EPI_ISL_415485||Netherlands|||2020-03-12,
+		411 Netherlands/NA/301/2020|EPI_ISL_422610||Netherlands|||2020-04-01,
+		412 Netherlands/NA/317/2020|EPI_ISL_422626||Netherlands|||2020-04-02,
+		413 Netherlands/NA/34/2020|EPI_ISL_415491||Netherlands|||2020-03-07,
+		414 Netherlands/NA/36/2020|EPI_ISL_422797||Netherlands|||2020-03-14,
+		415 Netherlands/NoordBrabant/6/2020|EPI_ISL_414451||Netherlands|Noord/Brabant||2020-03-06,
+		416 Netherlands/Oisterwijk/1364072/2020|EPI_ISL_413580||Netherlands|Oisterwijk||2020-03-02,
+		417 Netherlands/Rotterdam/1363790/2020|EPI_ISL_413582||Netherlands|Rotterdam||2020-03-01,
+		418 Netherlands/Rotterdam/1364740/2020|EPI_ISL_413584||Netherlands|Rotterdam||2020-03-03,
+		419 Netherlands/ZuidHolland/100/2020|EPI_ISL_422628||Netherlands|Zuid/Holland||2020-03-31,
+		420 Netherlands/ZuidHolland/61/2020|EPI_ISL_422929||Netherlands|Zuid/Holland||2020-03-23,
+		421 Netherlands/ZuidHolland/7/2020|EPI_ISL_414467||Netherlands|Zuid/Holland||2020-03-05,
+		422 Netherlands/ZuidHolland/70/2020|EPI_ISL_422938||Netherlands|Zuid/Holland||2020-03-24,
+		423 Netherlands/ZuidHolland/79/2020|EPI_ISL_422947||Netherlands|Zuid/Holland||2020-03-26,
+		424 Netherlands/ZuidHolland/90/2020|EPI_ISL_422957||Netherlands|Zuid/Holland||2020-03-29,
+		425 Netherlands/ZuidHolland/96/2020|EPI_ISL_422632||Netherlands|Zuid/Holland||2020-03-30,
+		426 New/Zealand/20VR0189/2020|EPI_ISL_416519||New/Zealand|Auckland||2020-03-02,
+		427 New/Zealand/20VR0275/2020|EPI_ISL_416538||New/Zealand|Wellington||2020-03-15,
+		428 NewZealand/CoV001/2020|EPI_ISL_417211||New/Zealand|Otago||2020-03-11,
+		429 Nonthaburi/61/2020|EPI_ISL_403962||Thailand|Nonthaburi||2020-01-08,
+		430 Nonthaburi/74/2020|EPI_ISL_403963||Thailand|Nonthaburi||2020-01-13,
+		431 Norway/1379/2020|EPI_ISL_417483||Norway|Oslo||2020-02-27,
+		432 Norway/1380/2020|EPI_ISL_417484||Norway|Oslo||2020-02-26,
+		433 Norway/1455/2020|EPI_ISL_420135||Norway|||2020-02-28,
+		434 Norway/1493/2020|EPI_ISL_417488||Norway|Oslo||2020-02-29,
+		435 Norway/1538/2020|EPI_ISL_417486||Norway|Oslo||2020-03-01,
+		436 Norway/1694/2020|EPI_ISL_420136||Norway|||2020-03-04,
+		437 Norway/1953/2020|EPI_ISL_420313||Norway|||2020-03-10,
+		438 Norway/1955/2020|EPI_ISL_420146||Norway|||2020-03-11,
+		439 Norway/2084/2020|EPI_ISL_420150||Norway|||2020-03-09,
+		440 Norway/2088/2020|EPI_ISL_420152||Norway|||2020-03-17,
+		441 Norway/2114/2020|EPI_ISL_420312||Norway|||2020-03-18,
+		442 Pakistan/Gilgit1/2020|EPI_ISL_417444||Pakistan|Gilgit||2020-03-04,
+		443 Peru/010/2020|EPI_ISL_415787||Peru|Lima||2020-03-10,
+		444 Pingxiang/JX5/2020|EPI_ISL_421252||China|Jiangxi|Pingxiang|2020-01-11,
+		445 Poland/PL/P1/2020|EPI_ISL_416488||Poland|Zielonogorskie||2020-03-03,
+		446 Portugal/CV62/2020|EPI_ISL_413647||Portugal|||2020-03-01,
+		447 Portugal/IGC00009/2020|EPI_ISL_419386||Portugal|Lisbon||2020-03-18,
+		448 Portugal/PT0001b/2020|EPI_ISL_417986||Portugal|||2020-03-03,
+		449 Portugal/PT0004/2020|EPI_ISL_417988||Portugal|||2020-03-05,
+		450 Portugal/PT0005/2020|EPI_ISL_417989||Portugal|||2020-03-04,
+		451 Portugal/PT0007/2020|EPI_ISL_417992||Portugal|||2020-03-07,
+		452 Portugal/PT0008/2020|EPI_ISL_417993||Portugal|||2020-03-08,
+		453 Portugal/PT0017/2020|EPI_ISL_418002||Portugal|||2020-03-11,
+		454 Portugal/PT0019/2020|EPI_ISL_418004||Portugal|||2020-03-12,
+		455 Portugal/PT0023/2020|EPI_ISL_418008||Portugal|||2020-03-13,
+		456 Portugal/PT0027/2020|EPI_ISL_418012||Portugal|||2020-03-06,
+		457 Portugal/PT0030/2020|EPI_ISL_418015||Portugal|||2020-03-09,
+		458 Portugal/PT0031/2020|EPI_ISL_418016||Portugal|||2020-03-10,
+		459 Portugal/PT0033/2020|EPI_ISL_418018||Portugal|||2020-03-16,
+		460 Portugal/PT0034/2020|EPI_ISL_418019||Portugal|||2020-03-15,
+		461 Portugal/PT0041/2020|EPI_ISL_418026||Portugal|||2020-03-17,
+		462 Portugal/PT0062/2020|EPI_ISL_421465||Portugal|||2020-03-19,
+		463 Portugal/PT0063/2020|EPI_ISL_421466||Portugal|||2020-03-20,
+		464 Portugal/PT0077/2020|EPI_ISL_421480||Portugal|||2020-03-21,
+		465 Portugal/PT0084/2020|EPI_ISL_421487||Portugal|||2020-03-22,
+		466 Portugal/PT0092/2020|EPI_ISL_421495||Portugal|||2020-03-23,
+		467 Portugal/PT0095/2020|EPI_ISL_421498||Portugal|||2020-03-24,
+		468 Qatar/QA20/2020|EPI_ISL_427416||Qatar|Doha||2020-03-23,
+		469 Russia/Moscow/PMVL-1/2020|EPI_ISL_421275||Russia|Moscow||2020-03-18,
+		470 Russia/StPetersburg-RII4144S/2020|EPI_ISL_427307||Russia|Saint-Petersburg||2020-03-20,
+		471 Russia/StPetersburg-RII4307V/2020|EPI_ISL_427308||Russia|Saint-Petersburg||2020-03-24,
+		472 Russia/StPetersburg-RII4326S/2020|EPI_ISL_427337||Russia|Saint-Petersburg||2020-03-25,
+		473 Russia/StPetersburg-RII4382V/2020|EPI_ISL_427310||Russia|Saint-Petersburg||2020-03-29,
+		474 Russia/StPetersburg-RII4532V/2020|EPI_ISL_427313||Russia|Saint-Petersburg||2020-04-03,
+		475 Russia/StPetersburg-RII4546V/2020|EPI_ISL_427314||Russia|Saint-Petersburg||2020-04-02,
+		476 Russia/StPetersburg-RII4597S/2020|EPI_ISL_427319||Russia|Saint-Petersburg||2020-04-04,
+		477 Russia/StPetersburg-RII4637S/2020|EPI_ISL_427320||Russia|Saint-Petersburg||2020-04-05,
+		478 Russia/StPetersburg-RII4678S/2020|EPI_ISL_427323||Russia|Saint-Petersburg||2020-04-06,
+		479 Russia/StPetersburg-RII4711S/2020|EPI_ISL_427330||Russia|Saint-Petersburg||2020-04-07,
+		480 Saudi/Arabia/KAIMRC-Alghoribi/2020|EPI_ISL_416432||Saudi/Arabia|Riyadh||2020-03-07,
+		481 Saudi/Arabia/SCDC-3324/2020|EPI_ISL_416522||Saudi/Arabia|||2020-03-10,
+		482 Scotland/CVR12/2020|EPI_ISL_425663||UK|Scotland||2020-03-10,
+		483 Scotland/CVR125/2020|EPI_ISL_425668||UK|Scotland||2020-03-14,
+		484 Scotland/CVR126/2020|EPI_ISL_425669||UK|Scotland||2020-03-15,
+		485 Scotland/CVR129/2020|EPI_ISL_425671||UK|Scotland||2020-03-13,
+		486 Scotland/CVR131/2020|EPI_ISL_425674||UK|Scotland||2020-03-12,
+		487 Scotland/CVR141/2020|EPI_ISL_425685||UK|Scotland||2020-03-16,
+		488 Senegal/016/2020|EPI_ISL_418207||Senegal|Dakar||2020-03-02,
+		489 Senegal/020/2020|EPI_ISL_418208||Senegal|Dakar||2020-03-04,
+		490 Senegal/026/2020|EPI_ISL_418209||Senegal|Dakar||2020-03-03,
+		491 Senegal/073/2020|EPI_ISL_418210||Senegal|Touba||2020-03-10,
+		492 Senegal/087/2020|EPI_ISL_418212||Senegal|Touba||2020-03-11,
+		493 Senegal/094/2020|EPI_ISL_418213||Senegal|Touba||2020-03-12,
+		494 Senegal/136/2020|EPI_ISL_418216||Senegal|Dakar||2020-03-13,
+		495 Senegal/315/2020|EPI_ISL_420070||Senegal|Dakar||2020-03-17,
+		496 Senegal/382/2020|EPI_ISL_420073||Senegal|Dakar||2020-03-19,
+		497 Senegal/618/2020|EPI_ISL_420077||Senegal|Dakar||2020-03-20,
+		498 Shandong/LY008/2020|EPI_ISL_414941||China|Shandong||2020-01-30,
+		499 Shanghai/SH0021/2020|EPI_ISL_416330||China|Shanghai||2020-02-02,
+		500 Shanghai/SH0027/2020|EPI_ISL_416336||China|Shanghai||2020-02-01,
+		501 Shanghai/SH0055/2020|EPI_ISL_416363||China|Shanghai||2020-02-08,
+		502 Shanghai/SH0070/2020|EPI_ISL_416373||China|Shanghai||2020-02-07,
+		503 Shanghai/SH0073/2020|EPI_ISL_416376||China|Shanghai||2020-02-05,
+		504 Shanghai/SH0094/2020|EPI_ISL_416390||China|Shanghai||2020-01-31,
+		505 Shanghai/SH0101/2020|EPI_ISL_416393||China|Shanghai||2020-02-09,
+		506 Shanghai/SH0102/2020|EPI_ISL_416394||China|Shanghai||2020-02-14,
+		507 Shanghai/SH0110/2020|EPI_ISL_416399||China|Shanghai||2020-02-13,
+		508 Shanghai/SH0115/2020|EPI_ISL_416402||China|Shanghai||2020-02-11,
+		509 Shanghai/SH0126/2020|EPI_ISL_416407||China|Shanghai||2020-02-15,
+		510 Shenzhen/HKU-SZ-002/2020|EPI_ISL_406030||China|Guangdong|Shenzhen|2020-01-10,
+		511 Shenzhen/SZTH-002/2020|EPI_ISL_406593||China|Guandong|Shenzhen|2020-01-13,
+		512 Singapore/1/2020|EPI_ISL_406973||Singapore|||2020-01-23,
+		513 Singapore/10/2020|EPI_ISL_410716||Singapore|||2020-02-04,
+		514 Singapore/11/2020|EPI_ISL_410719||Singapore|||2020-02-02,
+		515 Singapore/2/2020|EPI_ISL_407987||Singapore|||2020-01-25,
+		516 Singapore/20/2020|EPI_ISL_418993||Singapore|||2020-01-29,
+		517 Singapore/24/2020|EPI_ISL_420101||Singapore|||2020-03-04,
+		518 Singapore/27/2020|EPI_ISL_420104||Singapore|||2020-03-05,
+		519 Singapore/28/2020|EPI_ISL_420105||Singapore|||2020-03-06,
+		520 Singapore/3/2020|EPI_ISL_407988||Singapore|||2020-02-01,
+		521 Singapore/31/2020|EPI_ISL_420108||Singapore|||2020-03-10,
+		522 Singapore/33/2020|EPI_ISL_420110||Singapore|||2020-03-11,
+		523 Singapore/34/2020|EPI_ISL_420111||Singapore|||2020-03-12,
+		524 Singapore/36/2020|EPI_ISL_422429||Singapore|||2020-02-16,
+		525 Singapore/37/2020|EPI_ISL_422430||Singapore|||2020-03-13,
+		526 Singapore/4/2020|EPI_ISL_410535||Singapore|||2020-02-03,
+		527 Singapore/42/2020|EPI_ISL_422435||Singapore|||2020-03-31,
+		528 Singapore/5/2020|EPI_ISL_410536||Singapore|||2020-02-06,
+		529 Singapore/6/2020|EPI_ISL_410537||Singapore|||2020-02-09,
+		530 Singapore/7/2020|EPI_ISL_410713||Singapore|||2020-01-27,
+		531 Slovakia/SK-BMC2/2020|EPI_ISL_417878||Slovakia|Bratislava||2020-03-07,
+		532 Slovakia/SK-BMC5/2020|EPI_ISL_417879||Slovakia|Kosice||2020-03-06,
+		533 Slovakia/SK-BMC6/2020|EPI_ISL_417880||Slovakia|Martin||2020-03-08,
+		534 Slovenia/12304/2020|EPI_ISL_420295||Slovenia|||2020-03-24,
+		535 Slovenia/4584/2020|EPI_ISL_420294||Slovenia|||2020-03-06,
+		536 Slovenia/808/2020|EPI_ISL_420541||Slovenia|||2020-03-05,
+		537 Slovenia/MB0329/2020|EPI_ISL_426379||Slovenia|||2020-03-29,
+		538 South/Africa/R03006-20/2020|EPI_ISL_417186||South/Africa|KZN||2020-03-07,
+		539 South/Korea/KCDC03/2020|EPI_ISL_407193||South/Korea|Gyeonggi-do||2020-01-25,
+		540 South/Korea/KCDC06/2020|EPI_ISL_412870||South/Korea|Seoul||2020-01-30,
+		541 South/Korea/KCDC07/2020|EPI_ISL_412871||South/Korea|Seoul||2020-01-31,
+		542 South/Korea/KCDC12/2020|EPI_ISL_412872||South/Korea|Gyeonggi-do||2020-02-01,
+		543 South/Korea/KCDC24/2020|EPI_ISL_412873||South/Korea|Chungcheongnam-do||2020-02-06,
+		544 Spain/Andalucia201272/2020|EPI_ISL_418243||Spain|Andalusia||2020-02-28,
+		545 Spain/CastillayLeon201061/2020|EPI_ISL_418247||Spain|Castilla/y/Leon||2020-02-26,
+		546 Spain/CastillayLeon201323/2020|EPI_ISL_418248||Spain|Castilla/y/Leon||2020-03-01,
+		547 Spain/CastillayLeon201372/2020|EPI_ISL_418249||Spain|Castilla/y/Leon||2020-03-03,
+		548 Spain/Galicia201663/2020|EPI_ISL_417007||Spain|Galicia||2020-03-07,
+		549 Spain/Madrid/H10/39/2020|EPI_ISL_417963||Spain|Madrid||2020-03-12,
+		550 Spain/Madrid/H12/1301/2020|EPI_ISL_421171||Spain|Madrid||2020-03-05,
+		551 Spain/Madrid/H12/1703/2020|EPI_ISL_421173||Spain|Madrid||2020-03-08,
+		552 Spain/Madrid/H12/1905/2020|EPI_ISL_421175||Spain|Madrid||2020-03-29,
+		553 Spain/Madrid/H12/2410/2020|EPI_ISL_421180||Spain|Madrid||2020-03-27,
+		554 Spain/Madrid/R10/33/2020|EPI_ISL_417981||Spain|Madrid||2020-03-02,
+		555 Spain/Madrid201105/2020|EPI_ISL_418251||Spain|Madrid||2020-02-25,
+		556 Spain/PaisVasco201602/2020|EPI_ISL_419709||Spain|BasqueCountry||2020-03-04,
+		557 Spain/VH000001133/2020|EPI_ISL_418860||Spain|Barcelona||2020-03-15,
+		558 Spain/VH198152683/2020|EPI_ISL_418861||Spain|Barcelona||2020-03-24,
+		559 Spain/Valencia11/2020|EPI_ISL_419675||Spain|Comunitat/Valenciana|Valencia|2020-03-20,
+		560 Spain/Valencia12/2020|EPI_ISL_419676||Spain|Comunitat/Valenciana|Valencia|2020-03-09,
+		561 Spain/Valencia45/2020|EPI_ISL_420129||Spain|Comunitat/Valenciana|Valencia|2020-03-13,
+		562 Spain/Valencia51/2020|EPI_ISL_420132||Spain|Comunitat/Valenciana|Valencia|2020-03-18,
+		563 Spain/Valencia62/2020|EPI_ISL_425186||Spain|Comunitat/Valenciana|Valencia|2020-03-10,
+		564 Spain/Valencia65/2020|EPI_ISL_425189||Spain|Comunitat/Valenciana|Valencia|2020-03-16,
+		565 Spain/Valencia75/2020|EPI_ISL_425199||Spain|Comunitat/Valenciana|Valencia|2020-03-19,
+		566 Spain/Valencia86/2020|EPI_ISL_425210||Spain|Comunitat/Valenciana|Valencia|2020-03-25,
+		567 Spain/Valencia89/2020|EPI_ISL_425213||Spain|Comunitat/Valenciana|Valencia|2020-03-11,
+		568 Spain/Valencia97/2020|EPI_ISL_425221||Spain|Comunitat/Valenciana|Valencia|2020-03-17,
+		569 Sweden/01/2020|EPI_ISL_411951||Sweden|||2020-02-07,
+		570 Sweden/RV-FOI-1/2020|EPI_ISL_424703||Sweden|Vasterbotten||2020-03-15,
+		571 Sweden/RV-FOI-6/2020|EPI_ISL_428201||Sweden|Vasterbotten||2020-03-20,
+		572 Switzerland/AG0361/2020|EPI_ISL_413999||Switzerland|Argovie||2020-02-27,
+		573 Switzerland/BE2536/2020|EPI_ISL_415704||Switzerland|||2020-03-04,
+		574 Switzerland/BE6651/2020|EPI_ISL_415456||Switzerland|||2020-02-29,
+		575 Switzerland/GE06207/2020|EPI_ISL_415706||Switzerland|||2020-03-06,
+		576 Switzerland/GE1422/2020|EPI_ISL_415454||Switzerland|||2020-02-28,
+		577 Switzerland/GE3895/2020|EPI_ISL_413997||Switzerland|Geneva||2020-02-26,
+		578 Switzerland/GE4984/2020|EPI_ISL_415708||Switzerland|||2020-03-07,
+		579 Switzerland/GE6679/2020|EPI_ISL_415707||Switzerland|||2020-03-08,
+		580 Switzerland/SZ1417/2020|EPI_ISL_415702||Switzerland|||2020-03-02,
+		581 Switzerland/TI9486/2020|EPI_ISL_413996||Switzerland|Tessin||2020-02-24,
+		582 Switzerland/VD5615/2020|EPI_ISL_414023||Switzerland|Vaud||2020-03-01,
+		583 Taiwan/107/2020|EPI_ISL_420085||Taiwan|||2020-03-20,
+		584 Taiwan/170/2020|EPI_ISL_420084||Taiwan|||2020-03-21,
+		585 Taiwan/2/2020|EPI_ISL_406031||Taiwan|Kaohsiung||2020-01-23,
+		586 Taiwan/3/2020|EPI_ISL_411926||Taiwan|Taipei||2020-01-24,
+		587 Taiwan/4/2020|EPI_ISL_411927||Taiwan|Taipei||2020-01-28,
+		588 Taiwan/5/2020|EPI_ISL_428489||Taiwan|||2020-01-31,
+		589 Taiwan/CGMH-CGU-01/2020|EPI_ISL_411915||Taiwan|Taoyuan||2020-01-25,
+		590 Taiwan/CGMH-CGU-03/2020|EPI_ISL_415741||Taiwan|Taoyuan||2020-02-26,
+		591 Taiwan/CGMH-CGU-05/2020|EPI_ISL_415743||Taiwan|Taoyuan||2020-02-27,
+		592 Taiwan/CGMH-CGU-06/2020|EPI_ISL_417519||Taiwan|Taoyuan||2020-03-05,
+		593 Taiwan/CGMH-CGU-07/2020|EPI_ISL_417520||Taiwan|Taoyuan||2020-03-09,
+		594 Taiwan/CGMH-CGU-08/2020|EPI_ISL_417521||Taiwan|Taoyuan||2020-03-10,
+		595 Taiwan/CGMH-CGU-10/2020|EPI_ISL_417523||Taiwan|Taoyuan||2020-03-13,
+		596 Taiwan/CGMH-CGU-11/2020|EPI_ISL_417524||Taiwan|Taoyuan||2020-03-14,
+		597 Taiwan/CGMH-CGU-16/2020|EPI_ISL_424972||Taiwan|Taoyuan||2020-03-16,
+		598 Taiwan/CGMH-CGU-19/2020|EPI_ISL_424975||Taiwan|Taoyuan||2020-03-18,
+		599 Taiwan/NTU02/2020|EPI_ISL_410218||Taiwan|Taipei||2020-02-05,
+		600 Taiwan/NTU03/2020|EPI_ISL_413592||Taiwan|Taipei||2020-03-02,
+		601 Taiwan/NTU04/2020|EPI_ISL_422407||Taiwan|Taipei||2020-03-04,
+		602 Taiwan/NTU21/2020|EPI_ISL_422422||Taiwan|Taipei||2020-03-19,
+		603 Taiwan/TSGH-02/2020|EPI_ISL_426630||Taiwan|New/Taipei/city||2020-03-17,
+		604 Taiwan/TSGH-06/2020|EPI_ISL_427393||Taiwan|Taipei||2020-03-15,
+		605 Taiwan/TSGH-07/2020|EPI_ISL_427394||Taiwan|New/Taipei/City||2020-03-22,
+		606 Taiwan/TSGH-08/2020|EPI_ISL_427395||Taiwan|Keelung||2020-03-23,
+		607 Taiwan/TSGH-11/2020|EPI_ISL_427398||Taiwan|New/Taipei/City||2020-03-25,
+		608 Taiwan/TSGH-14/2020|EPI_ISL_428231||Taiwan|New/Taipei/City||2020-03-24,
+		609 Thailand/Bangkok-CONI-0021/2020|EPI_ISL_423042||Thailand|Bangkok||2020-03-24,
+		610 Thailand/Bangkok-CONI-0022/2020|EPI_ISL_423043||Thailand|Bangkok||2020-03-18,
+		611 Turkey/ERAGEM-001/2020|EPI_ISL_424366||Turkey|Kayseri||2020-03-17,
+		612 Turkey/GLAB-CoV008/2020|EPI_ISL_427391||Turkey|Istanbul||2020-04-13,
+		613 Turkey/GLAB-CoV012/2020|EPI_ISL_428346||Turkey|Istanbul||2020-04-17,
+		614 USA/AK-PHL077/2020|EPI_ISL_424347||USA|Alaska|Fairbanks|2020-03-29,
+		615 USA/AZ/8135/2020|EPI_ISL_424849||USA|Arizona||2020-03-09,
+		616 USA/AZ1/2020|EPI_ISL_406223||USA|Arizona|Phoenix|2020-01-22,
+		617 USA/CA-CDPH-UC2/2020|EPI_ISL_413558||USA|California|Solano/County|2020-02-27,
+		618 USA/CA1/2020|EPI_ISL_406034||USA|California|Los/Angeles|2020-01-23,
+		619 USA/CA7/2020|EPI_ISL_411954||USA|California||2020-02-06,
+		620 USA/CA8/2020|EPI_ISL_411955||USA|California||2020-02-10,
+		621 USA/CA9/2020|EPI_ISL_412862||USA|California|Solano|2020-02-23,
+		622 USA/CruiseA-12/2020|EPI_ISL_413617||USA|||2020-02-20,
+		623 USA/CruiseA-14/2020|EPI_ISL_413619||USA|||2020-02-25,
+		624 USA/CruiseA-15/2020|EPI_ISL_413620||USA|||2020-02-18,
+		625 USA/CruiseA-17/2020|EPI_ISL_413622||USA|||2020-02-24,
+		626 USA/CruiseA-5/2020|EPI_ISL_413610||USA|||2020-02-21,
+		627 USA/CruiseA-8/2020|EPI_ISL_413613||USA|||2020-02-17,
+		628 USA/DC/0004/2020|EPI_ISL_424852||USA|District/of/Columbia||2020-03-06,
+		629 USA/FL-2/2020|EPI_ISL_424351||USA|||2020-03-27,
+		630 USA/GA/1320/2020|EPI_ISL_420786||USA|Georgia||2020-03-03,
+		631 USA/GA/1445/2020|EPI_ISL_420788||USA|Georgia||2020-03-04,
+		632 USA/ID-UW-4427/2020|EPI_ISL_426072||USA|Idaho||2020-03-30,
+		633 USA/IL/0089/2020|EPI_ISL_424851||USA|Illinois||2020-03-07,
+		634 USA/IL2/2020|EPI_ISL_410045||USA|Illinois||2020-01-28,
+		635 USA/LA-096/2020|EPI_ISL_426627||USA|Louisiana||2020-04-06,
+		636 USA/MA1/2020|EPI_ISL_409067||USA|Massachusetts||2020-01-29,
+		637 USA/NC/200173/2020|EPI_ISL_424353||USA|North/Carolina||2020-04-02,
+		638 USA/NY-NYUMC11/2020|EPI_ISL_418196||USA|New/York|Manhattan|2020-03-14,
+		639 USA/NY-NYUMC12/2020|EPI_ISL_418197||USA|New/York|Manhattan|2020-03-15,
+		640 USA/NY-NYUMC162/2020|EPI_ISL_426617||USA|New/York|Suffolk/county|2020-04-01,
+		641 USA/NY-NYUMC236/2020|EPI_ISL_427635||USA|New/York|Brooklyn|2020-04-05,
+		642 USA/NY-NYUMC39/2020|EPI_ISL_419700||USA|New/York|Manhattan|2020-03-18,
+		643 USA/NY-NYUMC57/2020|EPI_ISL_420572||USA|New/York|Nassau/County|2020-03-17,
+		644 USA/NY/2929/2020|EPI_ISL_420793||USA|New/York||2020-03-02,
+		645 USA/RI/0556/2020|EPI_ISL_420795||USA|Rhode/Island||2020-03-01,
+		646 USA/TX1/2020|EPI_ISL_411956||USA|Texas||2020-02-11,
+		647 USA/UN-UW-1832/2020|EPI_ISL_424255||USA|||2020-03-16,
+		648 USA/VA-DCLS-0016/2020|EPI_ISL_419710||USA|Virginia||2020-03-12,
+		649 USA/VA-DCLS-0020/2020|EPI_ISL_419712||USA|Virginia||2020-03-10,
+		650 USA/VA-DCLS-0021/2020|EPI_ISL_419713||USA|Virginia||2020-03-11,
+		651 USA/VA-DCLS-0024/2020|EPI_ISL_420628||USA|Virginia||2020-03-13,
+		652 USA/WA-S112/2020|EPI_ISL_417165||USA|Washington|King/County|2020-03-08,
+		653 USA/WA-S81/2020|EPI_ISL_417134||USA|Washington|King/County|2020-02-26,
+		654 USA/WA-S83/2020|EPI_ISL_417136||USA|Washington|King/County|2020-03-05,
+		655 USA/WA-S89/2020|EPI_ISL_417142||USA|Washington|Umatilla/County|2020-02-29,
+		656 USA/WA-S96/2020|EPI_ISL_417149||USA|Washington|King/County|2020-02-28,
+		657 USA/WA-UW-1700/2020|EPI_ISL_424222||USA|Washington||2020-03-20,
+		658 USA/WA-UW-1739/2020|EPI_ISL_424237||USA|Washington||2020-03-21,
+		659 USA/WA-UW-1785/2020|EPI_ISL_424250||USA|Washington||2020-03-19,
+		660 USA/WA-UW-1797/2020|EPI_ISL_424259||USA|Washington||2020-03-22,
+		661 USA/WA-UW-1840/2020|EPI_ISL_424252||USA|Washington||2020-03-23,
+		662 USA/WA-UW-2008/2020|EPI_ISL_424341||USA|Washington||2020-03-24,
+		663 USA/WA-UW-4370/2020|EPI_ISL_426134||USA|Washington||2020-03-31,
+		664 USA/WA1/2020|EPI_ISL_404895||USA|Washington|Snohomish/County|2020-01-19,
+		665 USA/WI-104/2020|EPI_ISL_425161||USA|Wisconsin||2020-04-04,
+		666 USA/WI-123/2020|EPI_ISL_427430||USA|Wisconsin||2020-04-11,
+		667 USA/WI-143/2020|EPI_ISL_427450||USA|Wisconsin||2020-04-13,
+		668 USA/WI-145/2020|EPI_ISL_427452||USA|Wisconsin||2020-04-10,
+		669 USA/WI-149/2020|EPI_ISL_427456||USA|Wisconsin||2020-04-07,
+		670 USA/WI-151/2020|EPI_ISL_427458||USA|Wisconsin||2020-04-08,
+		671 USA/WI-153/2020|EPI_ISL_427460||USA|Wisconsin||2020-04-09,
+		672 USA/WI-154/2020|EPI_ISL_427461||USA|Wisconsin||2020-04-12,
+		673 USA/WI-201/2020|EPI_ISL_428297||USA|Wisconsin|Grafton|2020-03-25,
+		674 USA/WI-224/2020|EPI_ISL_428320||USA|Wisconsin|Brookfield|2020-03-26,
+		675 USA/WI-235/2020|EPI_ISL_428331||USA|Wisconsin|Cudahy|2020-03-28,
+		676 USA/WI-GMF-00744/2020|EPI_ISL_422462||USA|Wisconsin|La/Crosse/County|2020-04-03,
+		677 USA/WI1/2020|EPI_ISL_408670||USA|Wisconsin||2020-01-31,
+		678 Vietnam/19-02S/2020|EPI_ISL_418267||Vietnam|Ho/Chi/Minh/City||2020-01-22,
+		679 Vietnam/38142/2020|EPI_ISL_416427||Vietnam|Thanhhoa||2020-01-24,
+		680 Vietnam/39607/2020|EPI_ISL_416428||Vietnam|Quangning||2020-03-07,
+		681 Vietnam/CM295/2020|EPI_ISL_416430||Vietnam|Hanoi||2020-03-06,
+		682 Vietnam/CM99/2020|EPI_ISL_416429||Vietnam|Vinhphuc||2020-02-11,
+		683 Wales/PHW1/2020|EPI_ISL_413555||UK|Wales||2020-02-27,
+		684 Wuhan/IPBCAMS-WH-01/2019|EPI_ISL_402123||China|Hubei|Wuhan|2019-12-24,
+		685 Wuhan/IPBCAMS-WH-04/2019|EPI_ISL_403929||China|Hubei|Wuhan|2019-12-30,
+		686 Wuhan/IPBCAMS-WH-05/2020|EPI_ISL_403928||China|Hubei|Wuhan|2020-01-01,
+		687 Wuhan/WH01/2019|EPI_ISL_406798||China|Hubei|Wuhan|2019-12-26,
+		688 Wuhan/WH04/2020|EPI_ISL_406801||China|Hubei|Wuhan|2020-01-05,
+		689 Wuhan/WHU01/2020|EPI_ISL_406716||China|Hubei|Wuhan|2020-01-02,
+		690 Zhejiang/WZ-01/2020|EPI_ISL_404227||China|Zhejiang||2020-01-16,
+		691 hCoV-19/Brazil-RJ/314/2020|EPI_ISL_414045|2020-03-04,
+		692 hCoV-19/Brazil/AL-837/2020|EPI_ISL_427292|2020-03-18,
+		693 hCoV-19/Brazil/AM0201/2020-01|Brazil/AM/Manaus|2020-04-01,
+		694 hCoV-19/Brazil/AM0202/2020-02|Brazil/AM/Manaus|2020-04-01,
+		695 hCoV-19/Brazil/AM0203/2020-03|Brazil/AM/Manaus|2020-04-02,
+		696 hCoV-19/Brazil/AM0204/2020-04|Brazil/AM/Manaus|2020-04-02,
+		697 hCoV-19/Brazil/AM0205/2020-05|Brazil/AM/Manaus|2020-04-02,
+		698 hCoV-19/Brazil/AMBR-02/2020|EPI_ISL_417034|2020-03-16,
+		699 hCoV-19/Brazil/BA-312/2020|EPI_ISL_415105|2020-03-04,
+		700 hCoV-19/Brazil/BA-510/2020|EPI_ISL_427293|2020-03-06,
+		701 hCoV-19/Brazil/CE0206/2020-06|Brazil/CE/Fortaleza|2020-04-02,
+		702 hCoV-19/Brazil/CV12/2020|EPI_ISL_429674|2020-03-11,
+		703 hCoV-19/Brazil/CV13/2020|EPI_ISL_429675|2020-03-15,
+		704 hCoV-19/Brazil/CV16/2020|EPI_ISL_429676|2020-03-16,
+		705 hCoV-19/Brazil/CV19/2020|EPI_ISL_429679|2020-03-16,
+		706 hCoV-19/Brazil/CV2/2020|EPI_ISL_429665|2020-03-08,
+		707 hCoV-19/Brazil/CV21/2020|EPI_ISL_429681|2020-03-16,
+		708 hCoV-19/Brazil/CV26/2020|EPI_ISL_429684|2020-03-17,
+		709 hCoV-19/Brazil/CV28/2020|EPI_ISL_429686|2020-03-17,
+		710 hCoV-19/Brazil/CV31/2020|EPI_ISL_429687|2020-03-17,
+		711 hCoV-19/Brazil/CV32/2020|EPI_ISL_429688|2020-03-17,
+		712 hCoV-19/Brazil/CV33/2020|EPI_ISL_429689|2020-03-17,
+		713 hCoV-19/Brazil/CV4/2020|EPI_ISL_429667|2020-03-09,
+		714 hCoV-19/Brazil/CV42/2020|EPI_ISL_429695|2020-03-20,
+		715 hCoV-19/Brazil/CV43/2020|EPI_ISL_429696|2020-03-17,
+		716 hCoV-19/Brazil/CV48/2020|EPI_ISL_429701|2020-03-20,
+		717 hCoV-19/Brazil/CV49/2020|EPI_ISL_429702|2020-03-22,
+		718 hCoV-19/Brazil/CV6/2020|EPI_ISL_429669|2020-03-13,
+		719 hCoV-19/Brazil/CV8/2020|EPI_ISL_429671|2020-03-13,
+		720 hCoV-19/Brazil/DF-615i/2020|EPI_ISL_427294|2020-03-13,
+		721 hCoV-19/Brazil/DF-619i/2020|EPI_ISL_427295|2020-03-13,
+		722 hCoV-19/Brazil/DF-861/2020|EPI_ISL_427296|2020-03-23,
+		723 hCoV-19/Brazil/DF-862/2020|EPI_ISL_427297|2020-03-23,
+		724 hCoV-19/Brazil/DF-891/2020|EPI_ISL_427298|2020-03-22,
+		725 hCoV-19/Brazil/DFBR-0001/2020|EPI_ISL_426580|2020-03-13,
+		726 hCoV-19/Brazil/ES-225/2020|EPI_ISL_415128|2020-02-29,
+		727 hCoV-19/Brazil/GO0207/2020-07|Brazil/GO/Goiania|2020-03-13,
+		728 hCoV-19/Brazil/GO0208/2020-08|Brazil/GO/Goiania|2020-03-18,
+		729 hCoV-19/Brazil/GO0209/2020-09|Brazil/GO/Goiania|2020-04-03,
+		730 hCoV-19/Brazil/GO0210/2020-10|Brazil/GO/Goiania|2020-04-04,
+		731 hCoV-19/Brazil/L1/CAMPI10/2020|Brazil/SP/Campinas|2020-04-06,
+		732 hCoV-19/Brazil/L1/CAMPI13/2020|Brazil/SP/Sumare|2020-04-07,
+		733 hCoV-19/Brazil/L1/CAMPI14/2020|Brazil/SP/Campinas|2020-04-07,
+		734 hCoV-19/Brazil/L1/CAMPI15/2020|Brazil/SP/Paulinia|2020-04-08,
+		735 hCoV-19/Brazil/L1/CAMPI16/2020|Brazil/SP/Campinas|2020-04-08,
+		736 hCoV-19/Brazil/L1/CAMPI18/2020|Brazil/SP/Campinas|2020-04-09,
+		737 hCoV-19/Brazil/L1/CAMPI19/2020|Brazil/SP/Campinas|2020-04-09,
+		738 hCoV-19/Brazil/L1/CAMPI2/2020|Brazil/SP/AguasdeLindoia|2020-04-01,
+		739 hCoV-19/Brazil/L1/CAMPI20/2020|Brazil/SP/Sumare|2020-04-09,
+		740 hCoV-19/Brazil/L1/CAMPI29/2020|Brazil/SP/Campinas|2020-04-14,
+		741 hCoV-19/Brazil/L1/CAMPI3/2020|Brazil/SP/Campinas|2020-04-01,
+		742 hCoV-19/Brazil/L1/CAMPI31/2020|Brazil/SP/Sumare|2020-04-14,
+		743 hCoV-19/Brazil/L1/CAMPI36/2020|Brazil/SP/Campinas|2020-04-14,
+		744 hCoV-19/Brazil/L1/CAMPI5/2020|Brazil/SP/Campinas|2020-04-02,
+		745 hCoV-19/Brazil/L1/CAMPI7/2020|Brazil/SP/Campinas|2020-04-03,
+		746 hCoV-19/Brazil/L1/CAMPI8/2020|Brazil/SP/Campinas|2020-04-03,
+		747 hCoV-19/Brazil/L10/CD154/2020|Brazil/RJ/RioDeJaneiro|2020-03-16,
+		748 hCoV-19/Brazil/L10/CD156/2020|Brazil/MG/JuizDeFora|2020-03-16,
+		749 hCoV-19/Brazil/L10/CD158/2020|Brazil/RJ/RioDeJaneiro|2020-03-16,
+		750 hCoV-19/Brazil/L10/CD167/2020|Brazil/CE/Fortaleza|2020-03-16,
+		751 hCoV-19/Brazil/L10/CD171/2020|Brazil/CE/Fortaleza|2020-03-14,
+		752 hCoV-19/Brazil/L10/CD175/2020|Brazil/RS/BentoGoncalves|2020-03-19,
+		753 hCoV-19/Brazil/L11/CD179/2020|Brazil/PR/Maringa|2020-03-16,
+		754 hCoV-19/Brazil/L11/CD180/2020|Brazil/RS/BentoGoncalves|2020-03-16,
+		755 hCoV-19/Brazil/L11/CD183/2020|Brazil/MG/Uberlandia|2020-03-16,
+		756 hCoV-19/Brazil/L11/CD184/2/2020|Brazil/SP/Bebedouro|2020-03-16,
+		757 hCoV-19/Brazil/L11/CD185/2/2020|Brazil/SP/SaoPaulo|2020-03-17,
+		758 hCoV-19/Brazil/L11/CD195/2020|Brazil/CE/Fortaleza|2020-03-24,
+		759 hCoV-19/Brazil/L11/CD196/2020|Brazil/CE/Fortaleza|2020-03-23,
+		760 hCoV-19/Brazil/L11/CD200/2020|Brazil/SP/RibeiraoPreto|2020-03-19,
+		761 hCoV-19/Brazil/L11/CD93/2020|Brazil/SP/SaoPaulo|2020-03-25,
+		762 hCoV-19/Brazil/L11/CD95/2020|Brazil/SP/SaoPaulo|2020-03-20,
+		763 hCoV-19/Brazil/L12/CD192/2020|Brazil/RJ/Niteroi|2020-03-24,
+		764 hCoV-19/Brazil/L12/CD202/2020|Brazil/SP/Jundiai|2020-03-16,
+		765 hCoV-19/Brazil/L12/CD204/2020|Brazil/CE/Fortaleza|2020-03-16,
+		766 hCoV-19/Brazil/L12/CD224/2020|Brazil/CE/Fortaleza|2020-03-21,
+		767 hCoV-19/Brazil/L12/CD26/2020|Brazil/SP/SaoPaulo|2020-03-09,
+		768 hCoV-19/Brazil/L12/CD28/2020|Brazil/SP/SaoPaulo|2020-03-09,
+		769 hCoV-19/Brazil/L13/CD103/2020|Brazil/SP/SaoPaulo|2020-03-19,
+		770 hCoV-19/Brazil/L13/CD166/2020|Brazil/AM/Manaus|2020-03-16,
+		771 hCoV-19/Brazil/L13/CD22/2020|Brazil/SP/SaoPaulo|2020-03-08,
+		772 hCoV-19/Brazil/L13/CD23/2020|Brazil/SP/SaoPaulo|2020-03-09,
+		773 hCoV-19/Brazil/L14/CD231/2020|Brazil/SP/SaoPaulo|2020-03-26,
+		774 hCoV-19/Brazil/L14/CD234/2020|Brazil/SP/Guarulhos|2020-03-26,
+		775 hCoV-19/Brazil/L14/CD235/2020|Brazil/SP/SaoPaulo|2020-03-26,
+		776 hCoV-19/Brazil/L14/CD239/2020|Brazil/SP/Itapevi|2020-03-26,
+		777 hCoV-19/Brazil/L14/CD240/2020|Brazil/SP/Cotia|2020-03-26,
+		778 hCoV-19/Brazil/L14/CD241/2020|Brazil/SP/SaoPaulo|2020-03-26,
+		779 hCoV-19/Brazil/L14/CD242/2020|Brazil/SP/Carapicuiba|2020-03-27,
+		780 hCoV-19/Brazil/L14/CD243/2020|Brazil/SP/SaoPaulo|2020-03-27,
+		781 hCoV-19/Brazil/L14/CD250/2020|Brazil/SP-|2020-03-27,
+		782 hCoV-19/Brazil/L14/CD257/2020|Brazil/SP/TaboaoDaSerra|2020-03-27,
+		783 hCoV-19/Brazil/L14/CD258/2020|Brazil/SP/SaoPaulo|2020-03-27,
+		784 hCoV-19/Brazil/L14/CD260/2020|Brazil/SP/SaoPaulo|2020-03-27,
+		785 hCoV-19/Brazil/L15/CD263/2020|Brazil/SP/SaoPaulo|2020-03-29,
+		786 hCoV-19/Brazil/L15/CD265/2020|Brazil/SC/Navegantes|2020-03-29,
+		787 hCoV-19/Brazil/L15/CD266/2020|Brazil/SP/SaoPaulo|2020-03-29,
+		788 hCoV-19/Brazil/L15/CD267/2020|Brazil/SP/SaoPaulo|2020-03-29,
+		789 hCoV-19/Brazil/L15/CD268/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		790 hCoV-19/Brazil/L15/CD270/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		791 hCoV-19/Brazil/L15/CD272/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		792 hCoV-19/Brazil/L15/CD273/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		793 hCoV-19/Brazil/L15/CD274/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		794 hCoV-19/Brazil/L15/CD275/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		795 hCoV-19/Brazil/L15/CD278/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		796 hCoV-19/Brazil/L15/CD281/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		797 hCoV-19/Brazil/L15/CD282/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		798 hCoV-19/Brazil/L15/CD283/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		799 hCoV-19/Brazil/L15/CD286/2020|Brazil/SP/SaoPaulo|2020-03-30,
+		800 hCoV-19/Brazil/L16/CD314/2020|Brazil/SC/Tubarao|2020-03-24,
+		801 hCoV-19/Brazil/L16/CD318/2020|Brazil/SP/Itapira|2020-03-26,
+		802 hCoV-19/Brazil/L16/CD332/2020|Brazil/CE/Fortaleza|2020-03-28,
+		803 hCoV-19/Brazil/L16/CD333/2020|Brazil/PR/Curitiba|2020-03-28,
+		804 hCoV-19/Brazil/L16/CD334/2020|Brazil/CE/Fortaleza|2020-03-29,
+		805 hCoV-19/Brazil/L16/CD339/2020|Brazil/SP/Jundiai|2020-03-30,
+		806 hCoV-19/Brazil/L16/CD341/2020|Brazil/SP/Barueri|2020-03-30,
+		807 hCoV-19/Brazil/L16/CD344/2020|Brazil/CE/Fortaleza|2020-03-30,
+		808 hCoV-19/Brazil/L16/CD346/2020|Brazil/CE/Fortaleza|2020-03-30,
+		809 hCoV-19/Brazil/L16/CD347/2020|Brazil/MT/Cuiaba|2020-03-30,
+		810 hCoV-19/Brazil/L16/CD349/2020|Brazil/RS/CaixasDoSul|2020-03-30,
+		811 hCoV-19/Brazil/L16/CD350/2020|Brazil/SC/BalnearioCamboriu|2020-03-30,
+		812 hCoV-19/Brazil/L16/CD384/2020|Brazil/SP/MogiGuacu|2020-04-02,
+		813 hCoV-19/Brazil/L16/CD387/2020|Brazil/SP/SaoPaulo|2020-04-02,
+		814 hCoV-19/Brazil/L17/CD322/2020|Brazil/SC/BalnearioCamboriu|2020-03-26,
+		815 hCoV-19/Brazil/L17/CD324/2020|Brazil/SP/Osasco|2020-03-27,
+		816 hCoV-19/Brazil/L17/CD327/2020|Brazil/SP/RibeiraoPreto|2020-03-27,
+		817 hCoV-19/Brazil/L17/CD357/2020|Brazil/SP/Votorantim|2020-03-31,
+		818 hCoV-19/Brazil/L17/CD358/2020|Brazil/BA/Salvador|2020-03-31,
+		819 hCoV-19/Brazil/L17/CD359/2020|Brazil/BA/Salvador|2020-03-31,
+		820 hCoV-19/Brazil/L17/CD361/2020|Brazil/CE/Fortaleza|2020-03-31,
+		821 hCoV-19/Brazil/L17/CD363/2020|Brazil/MA/SaoLuis|2020-03-31,
+		822 hCoV-19/Brazil/L17/CD365/2020|Brazil/PR/Curitiba|2020-03-31,
+		823 hCoV-19/Brazil/L17/CD366/2020|Brazil/PR/Curitiba|2020-03-31,
+		824 hCoV-19/Brazil/L17/CD367/2020|Brazil/PR/Curitiba|2020-03-31,
+		825 hCoV-19/Brazil/L17/CD368/2020|Brazil/PR/Curitiba|2020-03-31,
+		826 hCoV-19/Brazil/L17/CD370/2020|Brazil/RS/Pelotas|2020-03-31,
+		827 hCoV-19/Brazil/L17/CD372/2020|Brazil/SC/Joinville|2020-03-31,
+		828 hCoV-19/Brazil/L19/CD389/2020|Brazil/PR/Curitiba|2020-04-01,
+		829 hCoV-19/Brazil/L19/CD390/2020|Brazil/RS/Lajeado|2020-04-01,
+		830 hCoV-19/Brazil/L19/CD391/2020|Brazil/SP/RibeiraoPreto|2020-04-01,
+		831 hCoV-19/Brazil/L19/CD393/2020|Brazil/SP/Atibaia|2020-04-02,
+		832 hCoV-19/Brazil/L19/CD395/2020|Brazil/SP/Santos|2020-04-03,
+		833 hCoV-19/Brazil/L19/CD399/2020|Brazil/SC/Palhoca|2020-04-01,
+		834 hCoV-19/Brazil/L19/CD401/2020|Brazil/RN/Natal|2020-04-01,
+		835 hCoV-19/Brazil/L19/CD403/2020|Brazil/MA/SaoLuis|2020-04-02,
+		836 hCoV-19/Brazil/L19/CD405/2020|Brazil/MA/SaoLuis|2020-04-02,
+		837 hCoV-19/Brazil/L19/CD406/2020|Brazil/MA/SaoLuis|2020-04-02,
+		838 hCoV-19/Brazil/L19/CD407/2020|Brazil/MA/SaoLuis|2020-04-02,
+		839 hCoV-19/Brazil/L19/CD408/2020|Brazil/CE/Fortaleza|2020-04-02,
+		840 hCoV-19/Brazil/L19/CD409/2020|Brazil/SP/PilarDoSul|2020-04-03,
+		841 hCoV-19/Brazil/L19/CD410/2020|Brazil/GO/Goiania|2020-04-02,
+		842 hCoV-19/Brazil/L19/CD412/2020|Brazil/RS/BentoGoncalves|2020-04-02,
+		843 hCoV-19/Brazil/L19/CD413/2020|Brazil/GO/Goiania|2020-04-02,
+		844 hCoV-19/Brazil/L2/CAMPI30/2020|Brazil/SP/Campinas|2020-04-14,
+		845 hCoV-19/Brazil/L2/CAMPI38/2020|Brazil/SP/Sumare|2020-04-14,
+		846 hCoV-19/Brazil/L2/CAMPI45/2020|Brazil/SP/Campinas|2020-04-18,
+		847 hCoV-19/Brazil/L2/CAMPI52/2020|Brazil/SP/Sumare|2020-04-18,
+		848 hCoV-19/Brazil/L2/CAMPI53/2020|Brazil/SP/Hortolandia|2020-04-18,
+		849 hCoV-19/Brazil/L2/CAMPI61/2020|Brazil/SP/Campinas|2020-04-18,
+		850 hCoV-19/Brazil/L2/CAMPI63/2020|Brazil/SP/Campinas|2020-04-18,
+		851 hCoV-19/Brazil/L2/CAMPI70/2020|Brazil/SP/Hortolandia|2020-04-18,
+		852 hCoV-19/Brazil/L2/CAMPI75/2020|Brazil/SP/Campinas|2020-04-23,
+		853 hCoV-19/Brazil/L2/CAMPI78/2020|Brazil/SP/Campinas|2020-04-23,
+		854 hCoV-19/Brazil/L2/CAMPI93/2020|Brazil/SP/Sumare|2020-04-25,
+		855 hCoV-19/Brazil/L20/CD415/2020|Brazil/SP/RibeiraoPreto|2020-04-03,
+		856 hCoV-19/Brazil/L20/CD416/2020|Brazil/SP/RibeiraoPires|2020-04-02,
+		857 hCoV-19/Brazil/L20/CD418/2020|Brazil/SP/Pindamonhangaba|2020-04-03,
+		858 hCoV-19/Brazil/L20/CD422/2020|Brazil/SP/Caraguatatuba|2020-04-03,
+		859 hCoV-19/Brazil/L20/CD432/2020|Brazil/PE/Olinda|2020-04-03,
+		860 hCoV-19/Brazil/L20/CD436/2020|Brazil/SP/Itapetininga|2020-04-06,
+		861 hCoV-19/Brazil/L20/CD437/2020|Brazil/SP/SaoJoseDosCampos|2020-04-06,
+		862 hCoV-19/Brazil/L21/CD442/2020|Brazil/SP/Bebedouro|2020-04-06,
+		863 hCoV-19/Brazil/L21/CD443/2020|Brazil/SP/MonteAlto|2020-04-06,
+		864 hCoV-19/Brazil/L21/CD447/2020|Brazil/CE/Fortaleza|2020-04-06,
+		865 hCoV-19/Brazil/L21/CD448/2020|Brazil/PR/Curitiba|2020-04-06,
+		866 hCoV-19/Brazil/L22/CD474/2020|Brazil/SP/SaoPaulo|2020-04-01,
+		867 hCoV-19/Brazil/L22/CD475/2020|Brazil/SP/SaoPaulo|2020-04-02,
+		868 hCoV-19/Brazil/L22/CD476/2020|Brazil/SP/SaoPaulo|2020-04-02,
+		869 hCoV-19/Brazil/L22/CD477/2020|Brazil/SP/Osasco|2020-04-02,
+		870 hCoV-19/Brazil/L22/CD479/2020|Brazil/SP/SaoPaulo|2020-04-03,
+		871 hCoV-19/Brazil/L22/CD483/2020|Brazil/SP/SaoPaulo|2020-04-04,
+		872 hCoV-19/Brazil/L22/CD484/2020|Brazil/SP/SaoPaulo|2020-04-04,
+		873 hCoV-19/Brazil/L22/CD486/2020|Brazil/SP/SaoPaulo|2020-04-05,
+		874 hCoV-19/Brazil/L22/CD487/2020|Brazil/SP/SaoPaulo|2020-04-05,
+		875 hCoV-19/Brazil/L22/CD488/2020|Brazil/SP/SaoPaulo|2020-04-05,
+		876 hCoV-19/Brazil/L22/CD489/2020|Brazil/SP/SaoPaulo|2020-04-04,
+		877 hCoV-19/Brazil/L22/CD490/2020|Brazil/SP/SaoPaulo|2020-04-06,
+		878 hCoV-19/Brazil/L3/CAMPI17/2020|Brazil/SP/Campinas|2020-04-09,
+		879 hCoV-19/Brazil/L3/CAMPI23/2020|Brazil/SP/Campinas|2020-04-09,
+		880 hCoV-19/Brazil/L3/CAMPI24/2020|Brazil/SP/Paulinia|2020-04-09,
+		881 hCoV-19/Brazil/L3/CAMPI33/2020|Brazil/SP/Campinas|2020-04-14,
+		882 hCoV-19/Brazil/L3/CAMPI4/2020|Brazil/SP/Campinas|2020-04-02,
+		883 hCoV-19/Brazil/L3/CAMPI43/2020|Brazil/SP/Sumare|2020-04-16,
+		884 hCoV-19/Brazil/L3/CAMPI44/2020|Brazil/SP/Campinas|2020-04-18,
+		885 hCoV-19/Brazil/L4/CAMPI51/2020|Brazil/SP/SantaBarbaraDoeste|2020-04-18,
+		886 hCoV-19/Brazil/L4/CAMPI58/2020|Brazil/SP/Sumare|2020-04-18,
+		887 hCoV-19/Brazil/L4/CAMPI62/2020|Brazil/SP/Campinas|2020-04-18,
+		888 hCoV-19/Brazil/L4/CAMPI65/2020|Brazil/SP/Campinas|2020-04-18,
+		889 hCoV-19/Brazil/L4/CAMPI66/2020|Brazil/SP/Campinas|2020-04-18,
+		890 hCoV-19/Brazil/L4/CAMPI69/2020|Brazil/SP/Campinas|2020-04-20,
+		891 hCoV-19/Brazil/L5/CAMPI102/2020|Brazil/SP/Jundiai|2020-04-25,
+		892 hCoV-19/Brazil/L5/CAMPI105/2020|Brazil/SP/Campinas|2020-04-28,
+		893 hCoV-19/Brazil/L5/CAMPI106/2020|Brazil/SP/SantaBarbaraDoeste|2020-04-28,
+		894 hCoV-19/Brazil/L5/CAMPI114/2020|Brazil/SP/Campinas|2020-04-28,
+		895 hCoV-19/Brazil/L5/CAMPI117/2020|Brazil/SP/ArturNogueira|2020-04-30,
+		896 hCoV-19/Brazil/L5/CAMPI119/2020|Brazil/SP/Campinas|2020-04-30,
+		897 hCoV-19/Brazil/L5/CAMPI123/2020|Brazil/SP/Campinas|2020-04-30,
+		898 hCoV-19/Brazil/L5/CAMPI77/2020|Brazil/SP/Campinas|2020-04-23,
+		899 hCoV-19/Brazil/L5/CAMPI83/2020|Brazil/SP/Campinas|2020-04-23,
+		900 hCoV-19/Brazil/L5/CAMPI89/2020|Brazil/SP/Sumare|2020-04-25,
+		901 hCoV-19/Brazil/L5/CAMPI91/2020|Brazil/SP/Sumare|2020-04-23,
+		902 hCoV-19/Brazil/L5/CAMPI95/2020|Brazil/SP/Campinas|2020-04-25,
+		903 hCoV-19/Brazil/L5/CAMPI97/2020|Brazil/SP/Sumare|2020-04-25,
+		904 hCoV-19/Brazil/L5/CAMPI98/2020|Brazil/SP/Hortolandia|2020-04-25,
+		905 hCoV-19/Brazil/L5/CAMPI99/2020|Brazil/SP/Sumare|2020-04-25,
+		906 hCoV-19/Brazil/L7/CD61/2020|Brazil/SP/SaoPaulo|2020-03-21,
+		907 hCoV-19/Brazil/L7/CD63/2020|Brazil/SP/SaoPaulo|2020-03-22,
+		908 hCoV-19/Brazil/L7/CD65/2020|Brazil/SP/SaoPaulo|2020-03-18,
+		909 hCoV-19/Brazil/L7/CD66/2020|Brazil/SP/SaoPaulo|2020-03-25,
+		910 hCoV-19/Brazil/L7/CD67/2020|Brazil/SP/SaoPaulo|2020-03-19,
+		911 hCoV-19/Brazil/L7/CD69/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		912 hCoV-19/Brazil/L7/CD70/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		913 hCoV-19/Brazil/L7/CD72/2020|Brazil/SP/Guarulhos|2020-03-24,
+		914 hCoV-19/Brazil/L7/CD74/2020|Brazil/SP/Caieiras|2020-03-25,
+		915 hCoV-19/Brazil/L7/CD76/2020|Brazil/SP/SaoPaulo|2020-03-19,
+		916 hCoV-19/Brazil/L7/CD78/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		917 hCoV-19/Brazil/L7/CD79/2020|Brazil/SP/RibeiraoPreto|2020-03-23,
+		918 hCoV-19/Brazil/L7/CD81/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		919 hCoV-19/Brazil/L7/CD82/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		920 hCoV-19/Brazil/L7/CD83/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		921 hCoV-19/Brazil/L8/CD100/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		922 hCoV-19/Brazil/L8/CD101/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		923 hCoV-19/Brazil/L8/CD104/2020|Brazil/SP/EmbuDasArtes|2020-03-20,
+		924 hCoV-19/Brazil/L8/CD105/2020|Brazil/SP/SaoPaulo|2020-03-21,
+		925 hCoV-19/Brazil/L8/CD106/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		926 hCoV-19/Brazil/L8/CD110/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		927 hCoV-19/Brazil/L8/CD112/2020|Brazil/SP/SaoPaulo|2020-03-17,
+		928 hCoV-19/Brazil/L8/CD115/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		929 hCoV-19/Brazil/L8/CD116/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		930 hCoV-19/Brazil/L8/CD87/2020|Brazil/SP/SaoPaulo|2020-03-22,
+		931 hCoV-19/Brazil/L8/CD88/2020|Brazil/SP/TaboaoDaSerra|2020-03-23,
+		932 hCoV-19/Brazil/L8/CD98/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		933 hCoV-19/Brazil/L8/CD99/2020|Brazil/SP/Cruzeiro|2020-03-24,
+		934 hCoV-19/Brazil/L9/CD118/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		935 hCoV-19/Brazil/L9/CD121/2020|Brazil/SP/SaoPaulo|2020-03-17,
+		936 hCoV-19/Brazil/L9/CD122/2020|Brazil/SP/SantanaDeParnaiba|2020-03-19,
+		937 hCoV-19/Brazil/L9/CD124/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		938 hCoV-19/Brazil/L9/CD126/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		939 hCoV-19/Brazil/L9/CD127/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		940 hCoV-19/Brazil/L9/CD128/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		941 hCoV-19/Brazil/L9/CD134/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		942 hCoV-19/Brazil/L9/CD135/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		943 hCoV-19/Brazil/L9/CD136/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		944 hCoV-19/Brazil/L9/CD137/2020|Brazil/SP/SaoPaulo|2020-03-23,
+		945 hCoV-19/Brazil/L9/CD139/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		946 hCoV-19/Brazil/L9/CD140/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		947 hCoV-19/Brazil/L9/CD38/2020|Brazil/SP/SaoPaulo|2020-03-16,
+		948 hCoV-19/Brazil/L9/CD90/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		949 hCoV-19/Brazil/L9/CD91/2020|Brazil/SP/SaoPaulo|2020-03-24,
+		950 hCoV-19/Brazil/MG0211/2020-11|Brazil/MG/Ipatinga|2020-03-14,
+		951 hCoV-19/Brazil/MG0212/2020-12|Brazil/MG/BeloHorizonte|2020-03-14,
+		952 hCoV-19/Brazil/MG0214/2020-14|Brazil/MG/Arapora|2020-03-17,
+		953 hCoV-19/Brazil/MG0215/2020-15|Brazil/MG/BeloHorizonte|2020-03-19,
+		954 hCoV-19/Brazil/MG0216/2020-16|Brazil/MG/BeloHorizonte|2020-03-19,
+		955 hCoV-19/Brazil/MG0217/2020-17|Brazil/MG/BeloHorizonte|2020-03-20,
+		956 hCoV-19/Brazil/MG0218/2020-18|Brazil/MG/BeloHorizonte|2020-03-23,
+		957 hCoV-19/Brazil/MG0219/2020-19|Brazil/MG/MontesClaros|2020-04-03,
+		958 hCoV-19/Brazil/MG0220/2020-20|Brazil/MG/Timoteo|2020-04-04,
+		959 hCoV-19/Brazil/MG0221/2020-21|Brazil/MG/BeloHorizonte|2020-04-05,
+		960 hCoV-19/Brazil/MG0222/2020-22|Brazil/MG/BeloHorizonte|2020-04-06,
+		961 hCoV-19/Brazil/MG0258/2020-60|Brazil/MG/BeloHorizonte|2020-04-13,
+		962 hCoV-19/Brazil/MG0285/2020-88|Brazil/MG/Betim|2020-04-08,
+		963 hCoV-19/Brazil/MG0286/2020-89|Brazil/MG/BeloHorizonte|2020-04-17,
+		964 hCoV-19/Brazil/MG0287/2020-90|Brazil/MG/BeloHorizonte|2020-04-15,
+		965 hCoV-19/Brazil/MG0288/2020-91|Brazil/MG/NovaLima|2020-04-09,
+		966 hCoV-19/Brazil/MG0289/2020-92|Brazil/MG/BeloHorizonte|2020-04-08,
+		967 hCoV-19/Brazil/MG0290/2020-93|Brazil/MG/BeloHorizonte|2020-04-03,
+		968 hCoV-19/Brazil/MG0291/2020-94|Brazil/MG/BeloHorizonte|2020-04-16,
+		969 hCoV-19/Brazil/MT0225/2020-26|Brazil/MT/Rondonopolis|2020-03-19,
+		970 hCoV-19/Brazil/PA0226/2020-27|Brazil/PA/Belem|2020-04-01,
+		971 hCoV-19/Brazil/PA0227/2020-28|Brazil/PA/Belem|2020-04-01,
+		972 hCoV-19/Brazil/PA0228/2020-29|Brazil/PA/Belem|2020-04-01,
+		973 hCoV-19/Brazil/PA0229/2020-30|Brazil/PA/Belem|2020-04-01,
+		974 hCoV-19/Brazil/PA0230/2020-31|Brazil/PA/Belem|2020-04-02,
+		975 hCoV-19/Brazil/PA0231/2020-32|Brazil/PA/Belem|2020-04-02,
+		976 hCoV-19/Brazil/PA0232/2020-33|Brazil/PA/Belem|2020-04-02,
+		977 hCoV-19/Brazil/PA0234/2020-35|Brazil/PA/Belem|2020-04-03,
+		978 hCoV-19/Brazil/PA0235/2020-36|Brazil/PA/Belem|2020-04-03,
+		979 hCoV-19/Brazil/PA0236/2020-37|Brazil/PA/Belem|2020-04-03,
+		980 hCoV-19/Brazil/PA0237/2020-38|Brazil/PA/Belem|2020-04-03,
+		981 hCoV-19/Brazil/PE0238/2020-39|Brazil/PE/Recife|2020-04-03,
+		982 hCoV-19/Brazil/PI0239/2020-40|Brazil/PI/Teresina|2020-03-19,
+		983 hCoV-19/Brazil/PR0241/2020-42|Brazil/PR/Londrina|2020-04-02,
+		984 hCoV-19/Brazil/RJ-352/2020|EPI_ISL_427299|2020-03-05,
+		985 hCoV-19/Brazil/RJ-477/2020|EPI_ISL_427300|2020-03-11,
+		986 hCoV-19/Brazil/RJ-477i/2020|EPI_ISL_427301|2020-03-11,
+		987 hCoV-19/Brazil/RJ-763/2020|EPI_ISL_427302|2020-03-20,
+		988 hCoV-19/Brazil/RJ-818/2020|EPI_ISL_427303|2020-03-25,
+		989 hCoV-19/Brazil/RJ-872/2020|EPI_ISL_427304|2020-03-26,
+		990 hCoV-19/Brazil/RJ0247/2020-49|Brazil/RJ/RioDeJaneiro|2020-03-23,
+		991 hCoV-19/Brazil/RJ0248/2020-50|Brazil/RJ/RioDeJaneiro|2020-03-24,
+		992 hCoV-19/Brazil/RJ0249/2020-51|Brazil/RJ/RioDeJaneiro|2020-03-25,
+		993 hCoV-19/Brazil/RJ0250/2020-52|Brazil/RJ/RioDeJaneiro|2020-03-26,
+		994 hCoV-19/Brazil/RJ0251/2020-53|Brazil/RJ/RioDeJaneiro|2020-03-27,
+		995 hCoV-19/Brazil/RJ0252/2020-54|Brazil/RJ/RioDeJaneiro|2020-03-30,
+		996 hCoV-19/Brazil/RJ0253/2020-55|Brazil/RJ/RioDeJaneiro|2020-03-31,
+		997 hCoV-19/Brazil/RJ0254/2020-56|Brazil/RJ/RioDeJaneiro|2020-04-01,
+		998 hCoV-19/Brazil/RJ0255/2020-57|Brazil/RJ/RioDeJaneiro|2020-04-02,
+		999 hCoV-19/Brazil/RJ0256/2020-58|Brazil/RJ/RioDeJaneiro|2020-04-03,
+		1000 hCoV-19/Brazil/RJ0257/2020-59|Brazil/RJ/RioDeJaneiro|2020-04-06,
+		1001 hCoV-19/Brazil/RJ0259/2020-61|Brazil/RJ/RioDeJaneiro|2020-04-07,
+		1002 hCoV-19/Brazil/RJ0260/2020-62|Brazil/RJ/RioDeJaneiro|2020-04-07,
+		1003 hCoV-19/Brazil/RJ0261/2020-63|Brazil/RJ/RioDeJaneiro|2020-04-08,
+		1004 hCoV-19/Brazil/RJ0262/2020-64|Brazil/RJ/RioDeJaneiro|2020-04-09,
+		1005 hCoV-19/Brazil/RJ0263/2020-65|Brazil/RJ/RioDeJaneiro|2020-04-13,
+		1006 hCoV-19/Brazil/RJ0265/2020-67|Brazil/RJ/RioDeJaneiro|2020-04-14,
+		1007 hCoV-19/Brazil/RJ0266/2020-68|Brazil/RJ/RioDeJaneiro|2020-04-14,
+		1008 hCoV-19/Brazil/RJ0267/2020-69|Brazil/RJ/RioDeJaneiro|2020-04-15,
+		1009 hCoV-19/Brazil/RJ0268/2020-70|Brazil/RJ/RioDeJaneiro|2020-04-15,
+		1010 hCoV-19/Brazil/RJ0269/2020-71|Brazil/RJ/RioDeJaneiro|2020-04-16,
+		1011 hCoV-19/Brazil/RJ0270/2020-73|Brazil/RJ/RioDeJaneiro|2020-04-16,
+		1012 hCoV-19/Brazil/RJ0271/2020-74|Brazil/RJ/RioDeJaneiro|2020-04-17,
+		1013 hCoV-19/Brazil/RJ0272/2020-75|Brazil/RJ/RioDeJaneiro|2020-04-17,
+		1014 hCoV-19/Brazil/RJ0273/2020-76|Brazil/RJ/RioDeJaneiro|2020-04-20,
+		1015 hCoV-19/Brazil/RJ0274/2020-77|Brazil/RJ/RioDeJaneiro|2020-04-20,
+		1016 hCoV-19/Brazil/RJ0275/2020-78|Brazil/RJ/RioDeJaneiro|2020-04-20,
+		1017 hCoV-19/Brazil/RJ0276/2020-79|Brazil/RJ/RioDeJaneiro|2020-04-22,
+		1018 hCoV-19/Brazil/RJ0277/2020-80|Brazil/RJ/RioDeJaneiro|2020-04-22,
+		1019 hCoV-19/Brazil/RJ0278/2020-81|Brazil/RJ/RioDeJaneiro|2020-04-22,
+		1020 hCoV-19/Brazil/RJ0279/2020-82|Brazil/RJ/RioDeJaneiro|2020-04-22,
+		1021 hCoV-19/Brazil/RJ0280/2020-83|Brazil/RJ/RioDeJaneiro|2020-04-23,
+		1022 hCoV-19/Brazil/RJ0281/2020-84|Brazil/RJ/RioDeJaneiro|2020-04-24,
+		1023 hCoV-19/Brazil/RJ0282/2020-85|Brazil/RJ/RioDeJaneiro|2020-04-24,
+		1024 hCoV-19/Brazil/RJ0283/2020-86|Brazil/RJ/RioDeJaneiro|2020-04-24,
+		1025 hCoV-19/Brazil/RJ0284/2020-87|Brazil/RJ/RioDeJaneiro|2020-04-24,
+		1026 hCoV-19/Brazil/RS0242/2020-43|Brazil/RS/PortoAlegre|2020-03-20,
+		1027 hCoV-19/Brazil/SC-766/2020|EPI_ISL_427305|2020-03-10,
+		1028 hCoV-19/Brazil/SC-769/2020|EPI_ISL_427306|2020-03-10,
+		1029 hCoV-19/Brazil/SC0243/2020-44|Brazil/SC/Criciuma|2020-03-18,
+		1030 hCoV-19/Brazil/SC0244/2020-45|Brazil/SC/Criciuma|2020-03-18,
+		1031 hCoV-19/Brazil/SC0245/2020-46|Brazil/SC/Criciuma|2020-03-18,
+		1032 hCoV-19/Brazil/SC0246/2020-47|Brazil/SC/Cacador|2020-04-03,
+		1033 hCoV-19/Brazil/SPBR-01/2020|EPI_ISL_412964|2020-02-25,
+		1034 hCoV-19/Brazil/SPBR-02/2020|EPI_ISL_413016|2020-02-28,
+		1035 hCoV-19/Brazil/SPBR-03/2020|EPI_ISL_414014|2020-03-02,
+		1036 hCoV-19/Brazil/SPBR-04/2020|EPI_ISL_414017|2020-03-04,
+		1037 hCoV-19/Brazil/SPBR-05/2020|EPI_ISL_414016|2020-02-29,
+		1038 hCoV-19/Brazil/SPBR-06/2020|EPI_ISL_414015|2020-02-29,
+		1039 hCoV-19/Brazil/SPBR-07/2020|EPI_ISL_416028|2020-03-03,
+		1040 hCoV-19/Brazil/SPBR-08/2020|EPI_ISL_416029|2020-03-04,
+		1041 hCoV-19/Brazil/SPBR-09/2020|EPI_ISL_416031|2020-03-04,
+		1042 hCoV-19/Brazil/SPBR-10/2020|EPI_ISL_416032|2020-03-04,
+		1043 hCoV-19/Brazil/SPBR-11/2020|EPI_ISL_416033|2020-03-03,
+		1044 hCoV-19/Brazil/SPBR-12/2020|EPI_ISL_416034|2020-03-04,
+		1045 hCoV-19/Brazil/SPBR-13/2020|EPI_ISL_416035|2020-03-05,
+		1046 hCoV-19/Brazil/SPBR-14/2020|EPI_ISL_416036|2020-03-05
+		;
+tree UNTITLED = [&U] (1:0.0001007984,2:9.937e-07,(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((3:0,426:0):0,681:0):0,680:0):0,104:0):0,453:0):0,164:0):0,334:0):0,111:0):0,346:0):0,324:0):0,220:0):0,348:0):0,230:0):0,327:0):0,347:0):0,131:0):0,302:0):0,459:0):0,474:0):0,169:0):0,464:0):0,83:0):0,161:0):0,368:0):0,386:0):0,452:0):0,130:0):9.667e-07,(((128:9.667e-07,129:3.27175e-05):3.27206e-05,950:3.4431e-05):9.937e-07,(244:3.12861e-05,904:6.95567e-05):2.2712e-06):9.937e-07):9.667e-07,((41:9.667e-07,152:9.667e-07):9.667e-07,((((54:3.26349e-05,465:9.80667e-05):9.667e-07,479:3.26347e-05):9.667e-07,330:9.667e-07):9.667e-07,(68:3.2635e-05,350:3.26346e-05):9.667e-07):9.667e-07):9.667e-07):9.667e-07,(29:3.26332e-05,(124:3.26349e-05,822:3.25371e-05):9.667e-07):9.667e-07):9.667e-07,(((((28:3.27198e-05,(699:9.667e-07,700:9.667e-07):3.27215e-05):9.667e-07,(((314:0,1040:0):0,1045:0):9.667e-07,319:9.667e-07):9.667e-07):1.939e-06,558:3.26352e-05):3.26348e-05,140:3.26366e-05):2.8366e-06,(349:9.83342e-05,756:3.52879e-05):9.667e-07):9.667e-07):9.667e-07,((318:3.2635e-05,454:9.80853e-05):9.667e-07,(331:9.667e-07,(460:3.26378e-05,((((692:9.667e-07,((((((((731:9.667e-07,882:9.667e-07):9.667e-07,(733:9.667e-07,878:9.667e-07):2.7075e-06):3.25168e-05,(((832:3.32829e-05,(861:9.667e-07,871:3.26167e-05):9.667e-07):9.667e-07,(872:0.0001333321,1026:9.667e-07):9.667e-07):9.667e-07,1031:9.667e-07):9.667e-07):9.667e-07,899:9.667e-07):9.937e-07,((((849:9.667e-07,852:9.667e-07):0.000102598,896:6.83976e-05):9.937e-07,875:9.937e-07):9.937e-07,(881:3.4997e-05,895:3.41151e-05):9.937e-07):9.937e-07):2.8782e-06,((785:3.51251e-05,787:9.667e-07):9.667e-07,868:9.667e-07):3.38533e-05):2.8603e-06,(((((775:3.62151e-05,789:9.667e-07):9.667e-07,930:3.26147e-05):1.9459e-06,((((((((776:9.667e-07,788:9.667e-07):9.667e-07,(795:9.667e-07,((911:9.667e-07,932:9.667e-07):3.31133e-05,(931:3.46213e-05,933:9.667e-07):9.667e-07):1.9764e-06):9.667e-07):9.667e-07,924:9.667e-07):9.667e-07,786:6.66809e-05):3.24985e-05,942:3.565e-05):9.937e-07,782:3.48286e-05):9.937e-07,(806:9.667e-07,812:0.000100037):9.667e-07):9.667e-07,777:9.667e-07):9.667e-07):9.667e-07,948:9.667e-07):9.667e-07,(914:9.667e-07,920:3.31724e-05):9.667e-07):9.667e-07):9.667e-07,((((((734:9.667e-07,(844:9.667e-07,891:9.667e-07):9.667e-07):9.667e-07,901:9.667e-07):9.667e-07,((((736:9.667e-07,745:9.667e-07):9.667e-07,898:9.667e-07):9.667e-07,(((739:9.667e-07,742:9.667e-07):3.12861e-05,883:9.667e-07):2.0177e-06,(((850:9.667e-07,(887:9.667e-07,903:9.667e-07):9.667e-07):9.667e-07,(886:3.25403e-05,890:9.667e-07):9.667e-07):9.667e-07,900:9.667e-07):9.667e-07):9.667e-07):9.667e-07,740:9.667e-07):9.667e-07):9.667e-07,((845:3.32785e-05,884:9.667e-07):9.667e-07,(((846:9.667e-07,854:3.2911e-05):9.667e-07,847:9.667e-07):9.667e-07,853:9.667e-07):9.667e-07):9.667e-07):9.667e-07,((((743:9.667e-07,848:9.667e-07):9.667e-07,(851:9.667e-07,889:9.667e-07):9.667e-07):9.667e-07,888:3.22968e-05):9.667e-07,((880:9.667e-07,893:6.76607e-05):9.667e-07,885:9.667e-07):9.667e-07):9.667e-07):9.667e-07,801:9.667e-07):3.12861e-05):9.667e-07):9.667e-07,(866:9.667e-07,1030:9.667e-07):9.667e-07):3.2724e-05,929:3.26205e-05):9.667e-07,((((716:0.000105795,813:6.8381e-05):9.667e-07,((((762:3.52556e-05,892:3.48172e-05):9.667e-07,((((((769:9.667e-07,927:9.667e-07):3.49196e-05,((864:6.64583e-05,909:9.667e-07):9.667e-07,908:9.667e-07):9.667e-07):9.667e-07,939:3.46124e-05):9.667e-07,906:9.667e-07):9.667e-07,926:9.667e-07):9.667e-07,799:9.667e-07):9.667e-07):9.667e-07,(928:9.667e-07,937:3.62378e-05):3.28569e-05):9.667e-07,(((((((774:3.72552e-05,(894:0.0001343791,1013:3.44301e-05):9.937e-07):9.937e-07,897:0.000100907):9.667e-07,877:9.667e-07):9.667e-07,876:3.45247e-05):9.667e-07,794:9.667e-07):9.667e-07,793:6.73434e-05):9.667e-07,((783:0.0001008062,879:6.71911e-05):9.667e-07,869:9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07,(((((738:9.667e-07,(((831:0.0001032515,(977:0.0001378378,979:3.40842e-05):9.937e-07):9.937e-07,(863:9.667e-07,((970:9.667e-07,981:9.667e-07):9.667e-07,975:3.25162e-05):9.667e-07):9.667e-07):9.667e-07,(972:3.24883e-05,974:9.667e-07):9.667e-07):9.667e-07):9.667e-07,((792:6.79734e-05,938:9.667e-07):9.667e-07,918:3.22648e-05):9.667e-07):1.9414e-06,((803:9.667e-07,(823:9.667e-07,(824:9.667e-07,825:9.667e-07):9.667e-07):9.667e-07):2.5476e-06,(828:9.667e-07,865:3.28149e-05):9.667e-07):3.26333e-05):3.26313e-05,873:7.23323e-05):3.27263e-05,((((((773:9.667e-07,(940:9.667e-07,941:9.667e-07):9.667e-07):9.667e-07,919:9.667e-07):9.667e-07,917:9.667e-07):9.667e-07,934:3.23066e-05):3.23047e-05,935:9.667e-07):6.61802e-05,((781:0.0001016036,(796:9.667e-07,923:3.56373e-05):9.667e-07):9.667e-07,947:9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07,1046:9.667e-07):9.667e-07):3.26377e-05):9.667e-07):9.667e-07):9.667e-07):9.667e-07,(116:3.27183e-05,1029:3.28155e-05):9.667e-07):9.667e-07,(231:3.2719e-05,(582:3.12861e-05,748:0.0001039919):9.667e-07):9.667e-07):9.667e-07,((102:3.27212e-05,561:3.27229e-05):9.667e-07,467:3.27232e-05):9.667e-07):9.667e-07,((112:0.0001007784,443:6.71642e-05):9.937e-07,(395:6.55461e-05,451:9.667e-07):3.26381e-05):9.937e-07):9.667e-07,(((((((58:9.667e-07,(85:3.27229e-05,(178:6.53815e-05,305:3.26347e-05):9.667e-07):9.667e-07):9.667e-07,72:9.667e-07):9.667e-07,(((67:3.27247e-05,((228:9.667e-07,284:9.667e-07):9.667e-07,299:3.26396e-05):9.667e-07):3.26398e-05,(315:3.26366e-05,(400:9.667e-07,405:9.667e-07):3.27215e-05):9.667e-07):9.667e-07,((((((((((((71:0,180:0):0,1035:0):0,414:0):0,1036:0):0,403:0):0,448:0):0,406:0):0,446:0):0,1039:0):0,293:0):0,418:0):9.667e-07,(127:0.0001311646,610:3.26366e-05):9.667e-07):9.667e-07):9.667e-07):9.667e-07,306:3.26367e-05):9.667e-07,286:6.5551e-05):3.26349e-05,455:3.26378e-05):9.667e-07,(((((((75:3.27216e-05,279:6.55544e-05):3.26339e-05,134:6.55549e-05):9.667e-07,574:3.26332e-05):9.667e-07,163:9.667e-07):9.667e-07,577:9.667e-07):9.667e-07,158:3.26331e-05):3.26332e-05,(471:9.667e-07,815:3.30427e-05):6.55484e-05):1.9593e-06):9.667e-07):9.667e-07,(((((122:9.83852e-05,125:6.55849e-05):6.5382e-05,1044:3.26361e-05):9.667e-07,580:3.26365e-05):3.26378e-05,462:9.83348e-05):9.667e-07,859:9.667e-07):9.667e-07):9.667e-07,(126:6.53724e-05,(457:9.667e-07,458:9.667e-07):3.26376e-05):9.667e-07):1.9371e-06,(((((((136:0,153:0):9.667e-07,142:9.667e-07):9.667e-07,(469:3.27269e-05,973:9.667e-07):3.26446e-05):9.667e-07,408:3.26398e-05):6.55587e-05,156:3.27347e-05):3.27247e-05,715:0.000141298):3.26322e-05,(((576:3.27173e-05,((((((((((((695:9.667e-07,697:9.667e-07):6.66424e-05,833:9.667e-07):9.667e-07,((838:3.44284e-05,867:3.47472e-05):9.937e-07,860:3.49639e-05):9.937e-07):9.667e-07,(((732:9.667e-07,956:9.667e-07):9.937e-07,(978:3.44249e-05,1019:0.0001366469):9.937e-07):9.937e-07,(835:3.40868e-05,(856:3.46914e-05,959:6.95147e-05):9.937e-07):9.937e-07):9.667e-07):9.667e-07,(999:9.92446e-05,1008:3.22887e-05):9.667e-07):9.667e-07,((747:3.3187e-05,1018:3.25251e-05):3.27168e-05,(946:9.667e-07,1023:3.25641e-05):3.22431e-05):9.667e-07):9.667e-07,((((749:9.667e-07,945:9.667e-07):9.667e-07,((805:9.667e-07,((809:7.06768e-05,826:9.667e-07):9.667e-07,817:3.27578e-05):9.667e-07):9.667e-07,(821:3.25256e-05,944:6.74779e-05):9.667e-07):9.667e-07):9.667e-07,(((752:9.667e-07,819:3.24913e-05):9.667e-07,910:3.22985e-05):9.667e-07,768:9.667e-07):9.667e-07):9.667e-07,989:6.55537e-05):9.667e-07):9.667e-07,(((((((((((730:9.937e-07,(1015:3.40972e-05,1021:3.40878e-05):9.937e-07):9.937e-07,982:9.667e-07):9.667e-07,(862:3.47954e-05,980:6.7308e-05):9.667e-07):9.667e-07,(842:9.667e-07,996:6.91646e-05):9.667e-07):9.667e-07,((735:3.40804e-05,1024:0.0001024471):9.937e-07,1025:9.937e-07):9.937e-07):9.667e-07,(998:3.22918e-05,1001:9.92133e-05):9.667e-07):9.667e-07,((1000:9.667e-07,(1006:6.61402e-05,1009:9.667e-07):9.667e-07):9.667e-07,1004:9.667e-07):9.667e-07):9.667e-07,(((840:9.667e-07,(857:3.31649e-05,902:9.667e-07):9.667e-07):9.667e-07,((1002:9.92217e-05,1022:6.61479e-05):9.667e-07,1007:9.667e-07):9.667e-07):3.38265e-05,((952:3.32881e-05,964:6.92484e-05):3.40868e-05,((955:9.937e-07,(961:3.44251e-05,976:3.44282e-05):9.937e-07):9.937e-07,992:9.667e-07):9.937e-07):9.937e-07):9.937e-07):9.667e-07,((((837:9.667e-07,968:9.667e-07):9.667e-07,1003:9.667e-07):9.667e-07,(957:9.667e-07,(960:6.83044e-05,(963:9.937e-07,966:6.82994e-05):9.937e-07):0.0001024354):9.667e-07):9.667e-07,(1010:9.667e-07,1011:9.667e-07):3.22877e-05):9.667e-07):9.667e-07,((800:3.23124e-05,971:3.25209e-05):3.27193e-05,988:3.27196e-05):9.667e-07):9.667e-07,((((((753:9.667e-07,(916:3.56092e-05,921:3.59711e-05):3.56071e-05):9.667e-07,755:9.667e-07):9.667e-07,(((754:9.667e-07,(790:3.45371e-05,802:9.667e-07):9.667e-07):9.667e-07,913:6.61631e-05):9.667e-07,814:9.667e-07):9.667e-07):9.667e-07,760:9.667e-07):9.667e-07,(761:0.0001003099,((779:9.667e-07,(780:9.667e-07,827:9.667e-07):9.667e-07):9.667e-07,811:9.667e-07):9.667e-07):9.667e-07):9.667e-07,((798:3.46972e-05,1017:3.23365e-05):9.937e-07,943:3.56156e-05):9.937e-07):9.667e-07):9.667e-07):9.667e-07,721:9.667e-07):9.667e-07,((((720:0,724:0):0,987:0):0,723:0):9.667e-07,(722:3.27177e-05,((737:9.667e-07,(746:9.667e-07,836:9.667e-07):9.667e-07):9.667e-07,((764:3.53785e-05,778:9.667e-07):9.667e-07,((797:3.49e-05,870:3.51458e-05):9.667e-07,922:9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07,((((((744:0.0001078684,1012:3.12861e-05):2.012e-06,958:9.99534e-05):9.667e-07,((855:3.24814e-05,954:6.66403e-05):9.667e-07,(962:6.66369e-05,983:7.03547e-05):9.667e-07):9.667e-07):9.667e-07,(((829:6.66381e-05,1020:3.25394e-05):9.667e-07,(858:3.48551e-05,905:3.48905e-05):9.667e-07):9.667e-07,((874:0,967:0):0,1032:0):9.667e-07):9.667e-07):9.667e-07,((990:3.2575e-05,995:6.61433e-05):9.667e-07,1016:9.667e-07):9.667e-07):9.667e-07,993:9.667e-07):9.667e-07):1.8944e-06,(711:6.55122e-05,(763:3.46575e-05,(1005:3.40873e-05,1014:0.0001016838):9.937e-07):1.8944e-06):3.27191e-05):3.27131e-05):9.667e-07,(((704:9.667e-07,(708:9.667e-07,719:6.6946e-05):6.52951e-05):6.39749e-05,705:6.89063e-05):1.2572e-06,725:9.667e-07):9.667e-07):9.667e-07,712:3.28556e-05):3.26331e-05):9.937e-07):1.9372e-06,(985:9.667e-07,986:9.667e-07):3.26333e-05):0.0001007706,578:6.71664e-05):9.937e-07,(385:0.0001008343,602:3.26324e-05):9.937e-07):9.937e-07,372:6.7222e-05):9.937e-07,(227:3.27181e-05,294:6.55394e-05):9.667e-07):9.667e-07,(114:3.27184e-05,538:6.55399e-05):9.667e-07):9.667e-07,((312:3.12861e-05,703:6.902e-05):2.2646e-06,(534:3.26352e-05,668:0.0001680043):9.937e-07):9.937e-07):9.667e-07,((((((((((((((((((((47:0,683:0):0,397:0):0,321:0):0,150:0):0,332:0):0,1038:0):0,381:0):0,322:0):0,581:0):0,282:0):0,1037:0):0,486:0):0,670:0):0,143:0):0,1041:0):0,351:0):0,1033:0):0,376:0):9.667e-07,((173:9.83139e-05,((((729:9.937e-07,(965:3.41016e-05,991:3.40956e-05):9.937e-07):9.937e-07,994:9.667e-07):9.667e-07,(741:3.28303e-05,951:9.667e-07):9.667e-07):9.667e-07,(841:9.667e-07,843:3.25223e-05):9.667e-07):9.667e-07):9.667e-07,((325:9.667e-07,382:9.667e-07):3.2714e-05,632:9.667e-07):9.667e-07):9.667e-07):9.667e-07,(229:6.71752e-05,((((239:6.53597e-05,425:3.26313e-05):9.667e-07,394:6.53693e-05):9.667e-07,404:9.667e-07):3.27127e-05,(671:9.667e-07,672:9.667e-07):0.0001343944):9.937e-07):9.937e-07):9.667e-07):9.667e-07,((((51:3.26342e-05,52:9.667e-07):9.80494e-05,571:3.26359e-05):2.4552e-06,(141:3.26326e-05,323:3.26324e-05):9.667e-07):9.667e-07,(((171:9.667e-07,174:9.667e-07):6.55461e-05,535:9.667e-07):9.667e-07,(((242:6.53589e-05,412:3.26322e-05):9.667e-07,(545:3.27288e-05,555:6.5561e-05):3.26329e-05):9.667e-07,691:9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07,((((((((((((((22:0,548:0):0,550:0):0,226:0):0,478:0):0,557:0):0,549:0):0,473:0):0,420:0):9.667e-07,(((((((56:9.667e-07,(389:0.0001311244,645:3.27175e-05):9.667e-07):9.667e-07,95:9.667e-07):9.667e-07,(((475:6.71731e-05,710:0.0001007957):9.937e-07,553:6.71769e-05):9.937e-07,562:9.667e-07):9.667e-07):9.667e-07,(59:9.667e-07,(422:9.667e-07,424:3.27229e-05):9.83505e-05):9.667e-07):9.667e-07,((466:3.26313e-05,552:9.83244e-05):9.667e-07,470:3.26327e-05):9.667e-07):9.667e-07,(476:6.55447e-05,551:6.55513e-05):9.667e-07):9.667e-07,(407:3.26343e-05,(564:6.71692e-05,818:0.0001415321):9.937e-07):9.937e-07):9.667e-07):9.667e-07,(278:3.26341e-05,565:3.26325e-05):9.667e-07):9.667e-07,(440:3.26314e-05,477:3.26297e-05):9.667e-07):2.7356e-06,(280:9.667e-07,287:9.667e-07):3.26297e-05):3.26309e-05,181:6.55522e-05):1.9451e-06,375:9.667e-07):9.667e-07):9.667e-07,107:9.667e-07):9.667e-07,((160:9.83912e-05,167:6.55486e-05):6.72017e-05,((((((313:4.34519e-05,834:9.667e-07):4.33345e-05,696:3.30143e-05):9.667e-07,694:9.667e-07):9.667e-07,784:9.667e-07):9.667e-07,693:6.66677e-05):4.47672e-05,(482:9.667e-07,485:3.27209e-05):6.71722e-05):9.937e-07):9.937e-07):9.667e-07,(((149:9.667e-07,151:9.667e-07):3.27217e-05,((491:9.667e-07,492:9.667e-07):9.667e-07,493:3.2634e-05):3.22692e-05):1.9414e-06,((((449:0,566:0):9.667e-07,456:9.667e-07):9.667e-07,568:6.55629e-05):3.26325e-05,714:3.26431e-05):9.667e-07):9.667e-07):9.667e-07,(((((((((((((((5:9.667e-07,419:9.667e-07):6.55135e-05,(187:3.27151e-05,(374:9.667e-07,378:9.667e-07):1.9588e-06):3.31297e-05):9.667e-07,((92:3.26362e-05,(183:3.26361e-05,192:3.2636e-05):9.667e-07):9.667e-07,135:3.27159e-05):3.26342e-05):9.667e-07,137:9.667e-07):9.667e-07,(79:9.83226e-05,(((193:3.27167e-05,(816:3.33014e-05,830:9.667e-07):3.22621e-05):9.667e-07,((701:6.67468e-05,(((758:9.667e-07,759:9.667e-07):9.667e-07,820:3.27802e-05):9.667e-07,839:9.667e-07):3.22641e-05):9.667e-07,717:9.667e-07):9.667e-07):9.667e-07,(((751:9.667e-07,766:6.87555e-05):9.667e-07,804:3.44751e-05):9.667e-07,(807:9.667e-07,808:9.92655e-05):9.667e-07):9.667e-07):3.26345e-05):9.667e-07):9.667e-07,((77:3.27125e-05,78:9.667e-07):6.55343e-05,377:9.667e-07):9.667e-07):9.667e-07,(26:6.55365e-05,81:0.0001310964):9.667e-07):9.667e-07,(182:3.26344e-05,213:3.26327e-05):9.667e-07):9.667e-07,(((82:6.55362e-05,212:3.27115e-05):9.667e-07,(138:3.2716e-05,216:9.8319e-05):9.667e-07):9.667e-07,(210:3.2714e-05,750:3.49983e-05):9.667e-07):9.667e-07):9.667e-07,((((80:0,133:0):9.667e-07,89:9.667e-07):3.26342e-05,90:3.26373e-05):9.667e-07,(((((88:0,209:0):0,573:0):0,575:0):0,579:0):0,184:0):9.667e-07):9.667e-07):9.667e-07,(380:3.27129e-05,(605:3.12861e-05,765:9.667e-07):9.667e-07):9.667e-07):9.667e-07,((66:3.26344e-05,93:3.26343e-05):9.667e-07,(139:6.55401e-05,495:6.55345e-05):9.667e-07):9.667e-07):9.667e-07,73:6.5534e-05):3.26323e-05,472:6.53727e-05):9.667e-07,328:9.667e-07):9.667e-07):9.667e-07,(((148:3.26351e-05,((177:9.667e-07,(291:3.26341e-05,((311:3.26312e-05,(329:9.667e-07,398:9.667e-07):9.667e-07):3.26342e-05,(450:3.27103e-05,572:9.667e-07):3.2631e-05):9.667e-07):9.667e-07):9.667e-07,438:9.667e-07):9.667e-07):9.667e-07,437:3.26325e-05):3.26312e-05,333:3.26341e-05):9.667e-07):9.667e-07,((((((((((((((((((((((((((((((((6:0,688:0):0,586:0):0,392:0):0,252:0):9.667e-07,((250:9.667e-07,251:9.667e-07):3.26971e-05,499:6.55091e-05):9.667e-07):9.667e-07,(((((((((((((23:3.26349e-05,427:9.667e-07):9.667e-07,33:3.26346e-05):6.53679e-05,629:6.55048e-05):9.667e-07,631:9.667e-07):9.667e-07,630:9.667e-07):9.937e-07,(667:0.0001679598,675:0.0001007513):9.937e-07):3.26301e-05,634:9.667e-07):3.26972e-05,(363:9.667e-07,364:3.27011e-05):6.55082e-05):3.27052e-05,682:6.55072e-05):9.667e-07,679:9.667e-07):9.667e-07,618:6.5507e-05):9.667e-07,274:6.55151e-05):9.79585e-05,(((((24:6.55216e-05,(494:3.27043e-05,770:7.02037e-05):9.667e-07):9.667e-07,(((((((117:0,567:0):0,119:0):0,547:0):0,563:0):0,401:0):0,560:0):0,546:0):9.667e-07):9.667e-07,((115:9.667e-07,(221:3.26366e-05,(556:9.8078e-05,984:3.26354e-05):9.667e-07):9.667e-07):9.667e-07,118:9.667e-07):9.667e-07):9.667e-07,698:6.55218e-05):6.55205e-05,554:9.667e-07):9.82756e-05):9.667e-07):9.667e-07,(144:6.55038e-05,508:3.26975e-05):9.667e-07):9.667e-07,(308:0.0001310281,498:3.26949e-05):9.667e-07):9.667e-07,((((((((17:0,526:0):0,619:0):9.667e-07,((21:3.26313e-05,669:0.0002016121):9.937e-07,(497:3.27021e-05,650:6.55196e-05):3.26405e-05):9.937e-07):9.667e-07,19:9.667e-07):9.667e-07,18:6.5512e-05):3.26302e-05,((((((((((((31:9.667e-07,(42:3.26322e-05,387:9.80826e-05):9.667e-07):3.26343e-05,(655:6.71748e-05,659:0.0001007679):9.937e-07):9.937e-07,628:9.667e-07):9.667e-07,((34:6.55121e-05,661:6.55157e-05):9.667e-07,654:3.27031e-05):9.667e-07):9.667e-07,(633:3.26356e-05,(653:3.26309e-05,656:6.55168e-05):9.667e-07):9.667e-07):9.667e-07,615:9.667e-07):9.667e-07,657:9.667e-07):9.667e-07,652:3.26326e-05):9.667e-07,651:3.27028e-05):3.26317e-05,40:3.27066e-05):3.26313e-05,664:9.667e-07):9.667e-07,516:6.53691e-05):3.26303e-05):9.667e-07,(((((27:0,463:0):9.667e-07,390:9.667e-07):9.667e-07,((120:9.667e-07,121:9.667e-07):6.50551e-05,388:9.667e-07):3.26319e-05):3.26304e-05,64:0.0001679946):9.937e-07,((233:3.26349e-05,((((245:0,510:0):0,511:0):9.667e-07,((353:3.27035e-05,354:9.667e-07):3.2632e-05,616:3.26351e-05):9.667e-07):9.667e-07,246:9.667e-07):9.667e-07):9.667e-07,646:0.0001310599):3.26305e-05):9.937e-07):9.667e-07,69:9.667e-07):9.667e-07):9.937e-07,((((((61:0,539:0):0,540:0):9.667e-07,367:9.667e-07):9.667e-07,(360:3.26301e-05,(361:9.667e-07,362:9.667e-07):3.26302e-05):9.667e-07):9.667e-07,62:3.26318e-05):9.667e-07,541:6.53625e-05):6.71645e-05):9.937e-07,543:0.0001343727):6.71584e-05,((((((((((((((((10:9.667e-07,((11:0.0001007791,310:6.71749e-05):9.937e-07,432:3.27001e-05):9.937e-07):9.667e-07,(309:3.2703e-05,369:3.26993e-05):3.26431e-05):9.667e-07,14:3.26346e-05):6.71703e-05,((13:6.55106e-05,611:3.27034e-05):3.26958e-05,(((595:0,603:0):9.667e-07,596:9.667e-07):6.55154e-05,969:3.48858e-05):0.0001343994):9.937e-07):9.937e-07,((12:6.71681e-05,399:0.0002351834):9.937e-07,(20:3.2703e-05,45:9.82819e-05):3.26299e-05):9.937e-07):9.667e-07,((98:3.26317e-05,(509:0.0001343868,((((590:0,594:0):0,592:0):9.667e-07,591:9.667e-07):9.667e-07,593:3.26963e-05):0.0001007623):9.937e-07):9.937e-07,(109:3.26302e-05,502:6.54998e-05):9.667e-07):9.667e-07):9.667e-07,99:9.667e-07):9.667e-07,50:0.000163471):3.30898e-05,442:9.82859e-05):3.26358e-05,625:6.55104e-05):9.667e-07,((206:6.71728e-05,623:0.0001343677):9.937e-07,335:3.26347e-05):9.937e-07):9.667e-07,(((((((((((((((((30:0.0001635205,49:3.26355e-05):9.667e-07,727:9.667e-07):9.667e-07,(157:0,447:0):9.667e-07):9.667e-07,172:9.667e-07):9.667e-07,(132:9.79557e-05,772:9.667e-07):9.667e-07):9.667e-07,726:3.26377e-05):3.22065e-05,44:9.667e-07):3.2635e-05,(536:3.26961e-05,544:9.667e-07):6.53703e-05):2.8961e-06,(((356:0,365:0):9.667e-07,357:9.667e-07):3.27005e-05,366:3.26962e-05):3.26436e-05):9.667e-07,(((((((55:9.667e-07,(260:0.0001634791,(285:3.26349e-05,(296:9.667e-07,303:9.667e-07):9.667e-07):3.26334e-05):9.667e-07):9.667e-07,(316:0,413:0):9.667e-07):9.667e-07,(((298:3.26936e-05,518:9.667e-07):6.54922e-05,1034:3.26933e-05):9.667e-07,((415:3.26315e-05,(483:3.26959e-05,484:9.667e-07):3.26939e-05):9.667e-07,1042:3.26347e-05):9.667e-07):9.667e-07):9.667e-07,373:9.667e-07):9.667e-07,(((86:3.26939e-05,(154:9.667e-07,997:9.667e-07):9.667e-07):6.71723e-05,283:0.0001007627):9.937e-07,185:6.71814e-05):9.937e-07):9.667e-07,(84:9.82482e-05,162:3.26322e-05):9.667e-07):3.26332e-05,647:0.0001638339):9.667e-07):9.667e-07,431:9.667e-07):9.667e-07,402:3.26353e-05):3.26335e-05,(190:9.8075e-05,((222:3.2632e-05,223:3.2635e-05):9.667e-07,224:9.667e-07):3.26317e-05):9.667e-07):9.667e-07,(218:9.82652e-05,(433:9.667e-07,(434:9.667e-07,436:9.667e-07):9.667e-07):3.26966e-05):9.667e-07):9.667e-07,(326:9.667e-07,(435:6.55026e-05,604:3.26363e-05):9.667e-07):9.667e-07):9.667e-07,559:3.26315e-05):3.2635e-05,(339:6.71719e-05,((((((383:6.55237e-05,527:3.27122e-05):3.27077e-05,537:9.667e-07):3.26387e-05,1027:3.26387e-05):9.667e-07,607:9.667e-07):9.667e-07,601:3.2639e-05):9.667e-07,480:3.2637e-05):0.0001343754):9.937e-07):9.937e-07):9.667e-07,(((((16:0,622:0):0,352:0):9.667e-07,337:9.667e-07):3.26318e-05,275:3.26319e-05):9.667e-07,320:9.667e-07):9.667e-07):9.667e-07,((((273:0,626:0):0,624:0):0,338:0):0,520:0):9.667e-07):9.667e-07,((15:9.667e-07,53:3.27011e-05):9.82605e-05,627:3.26968e-05):2.4623e-06):9.667e-07,336:9.82712e-05):3.26295e-05):9.667e-07,((100:9.667e-07,108:9.667e-07):3.27065e-05,636:9.83198e-05):3.27052e-05):9.667e-07,(416:9.667e-07,(522:3.27019e-05,570:6.55273e-05):9.667e-07):9.667e-07):9.667e-07,(97:3.26331e-05,262:0.000131057):9.667e-07):9.667e-07,((7:3.27018e-05,504:9.83191e-05):3.26396e-05,(((65:9.667e-07,((((76:3.2633e-05,236:3.26329e-05):9.667e-07,445:9.667e-07):9.667e-07,(235:0,1043:0):9.667e-07):9.667e-07,((234:3.26375e-05,370:0.0002015742):9.937e-07,396:6.7174e-05):9.937e-07):9.667e-07):9.667e-07,70:3.27064e-05):6.55152e-05,517:3.26287e-05):9.667e-07):9.667e-07):9.667e-07,((207:3.26305e-05,((247:0,249:0):9.667e-07,248:9.667e-07):3.26303e-05):1.9413e-06,690:3.26305e-05):9.667e-07):9.667e-07,((((8:9.667e-07,((((((264:9.667e-07,265:9.667e-07):9.937e-07,(276:9.667e-07,277:9.667e-07):6.71733e-05):9.937e-07,(269:3.27087e-05,270:9.667e-07):0.0001007922):0.0001007698,272:9.667e-07):3.26296e-05,569:0.0002015848):9.937e-07,(513:9.667e-07,528:9.667e-07):3.27036e-05):9.937e-07):9.667e-07,((((204:9.667e-07,205:9.667e-07):3.26348e-05,267:3.26315e-05):9.667e-07,263:9.667e-07):9.667e-07,(266:9.80636e-05,530:3.26318e-05):9.667e-07):9.667e-07):9.937e-07,(96:0.0001007969,585:6.7176e-05):9.937e-07):3.26332e-05,(155:0.0001679717,588:6.71728e-05):9.937e-07):9.937e-07):9.667e-07,((((((74:3.27053e-05,533:9.667e-07):3.26312e-05,428:3.26313e-05):9.667e-07,292:9.667e-07):2.8404e-06,461:3.27052e-05):3.26312e-05,((165:9.937e-07,290:3.27111e-05):9.937e-07,767:3.45731e-05):3.35617e-05):9.667e-07,468:9.667e-07):9.667e-07):9.667e-07,((((384:0,529:0):9.667e-07,515:9.667e-07):9.667e-07,524:9.667e-07):3.26332e-05,(417:9.667e-07,421:3.27103e-05):3.2633e-05):9.667e-07):9.667e-07,(166:9.83057e-05,(617:3.27083e-05,621:9.667e-07):3.27047e-05):9.667e-07):9.667e-07,(268:6.55213e-05,507:9.82972e-05):9.667e-07):9.667e-07,((((43:0.0001311645,170:3.26946e-05):0.0001311113,(505:9.667e-07,506:9.667e-07):3.27087e-05):9.667e-07,(487:6.55209e-05,599:6.55158e-05):9.667e-07):9.667e-07,((((63:6.55247e-05,340:6.55277e-05):9.667e-07,(501:6.55226e-05,674:6.55229e-05):9.667e-07):9.667e-07,((512:3.27059e-05,684:9.82916e-05):9.667e-07,686:3.27096e-05):9.667e-07):9.667e-07,(259:3.26305e-05,444:3.26301e-05):9.667e-07):9.667e-07):9.667e-07):9.667e-07,(261:6.55284e-05,500:6.55219e-05):9.667e-07):9.667e-07,(9:3.26331e-05,355:0.0001634615):9.667e-07):9.667e-07,((((((((((((((((((((((253:0,341:0):0,256:0):0,587:0):0,685:0):0,258:0):0,255:0):0,430:0):0,542:0):0,589:0):0,342:0):0,358:0):0,503:0):0,317:0):0,673:0):0,297:0):0,519:0):0,257:0):0,521:0):0,429:0):0,689:0):0,359:0):9.667e-07,(((271:3.26286e-05,(307:0.0001307781,(514:3.26306e-05,677:9.667e-07):9.667e-07):3.263e-05):9.667e-07,(620:3.27058e-05,687:6.5533e-05):9.667e-07):9.667e-07,(523:3.2635e-05,678:3.26305e-05):9.667e-07):9.667e-07):9.667e-07):9.667e-07,(145:9.667e-07,((146:9.667e-07,147:9.667e-07):9.667e-07,217:9.667e-07):9.667e-07):9.667e-07):9.667e-07,254:9.667e-07):9.667e-07,393:3.27077e-05):9.667e-07,25:3.27104e-05):6.55216e-05,232:9.667e-07):3.26307e-05,614:3.26324e-05):9.667e-07):3.26355e-05,(197:3.26325e-05,771:3.60723e-05):9.667e-07):9.667e-07,215:9.667e-07):9.667e-07,189:9.667e-07):9.667e-07,(((((((((((4:6.36121e-05,936:9.667e-07):9.667e-07,912:9.667e-07):9.667e-07,791:9.667e-07):9.667e-07,(597:9.83454e-05,666:6.55397e-05):9.667e-07):9.667e-07,600:9.667e-07):9.667e-07,((113:9.667e-07,(((175:9.667e-07,176:9.667e-07):3.27221e-05,481:9.667e-07):3.26357e-05,(907:9.667e-07,949:9.667e-07):3.23144e-05):9.667e-07):9.667e-07,((345:3.26359e-05,(((371:9.667e-07,613:3.26439e-05):9.667e-07,612:3.26411e-05):6.53779e-05,707:9.667e-07):3.26357e-05):9.667e-07,(608:9.83521e-05,702:0.0001025245):9.667e-07):9.667e-07):9.667e-07):9.667e-07,((((38:0,343:0):0,344:0):0,713:0):0,598:0):9.667e-07):9.667e-07,640:3.26389e-05):3.26338e-05,709:7.22887e-05):9.667e-07,(410:6.538e-05,(411:3.26408e-05,728:9.667e-07):9.667e-07):6.53654e-05):9.667e-07,(706:0.0001732872,718:3.26342e-05):9.667e-07):9.667e-07):9.667e-07,(101:3.26375e-05,((((159:9.80809e-05,648:9.80719e-05):9.667e-07,(((186:9.667e-07,532:9.667e-07):3.26389e-05,496:6.55576e-05):9.667e-07,199:9.667e-07):9.667e-07):9.667e-07,(531:3.26386e-05,584:6.55511e-05):9.667e-07):9.667e-07,(196:0,649:0):9.667e-07):9.667e-07):3.26339e-05):3.2634e-05,409:3.26359e-05):9.667e-07,(168:3.26386e-05,211:3.27195e-05):9.667e-07):9.667e-07,((36:3.26357e-05,94:9.83381e-05):9.667e-07,(((((((87:0,583:0):9.667e-07,91:9.667e-07):3.27234e-05,609:3.27273e-05):3.26368e-05,637:3.26357e-05):9.667e-07,(188:6.55473e-05,243:3.27258e-05):9.667e-07):9.667e-07,103:9.667e-07):9.667e-07,(110:3.26388e-05,238:9.667e-07):9.667e-07):9.667e-07):9.667e-07):9.667e-07,(423:3.26357e-05,((915:9.667e-07,925:9.667e-07):3.41045e-05,953:0.0001024588):9.937e-07):9.937e-07):9.667e-07,(203:3.26358e-05,289:3.26386e-05):9.667e-07):9.667e-07,(48:3.26358e-05,219:3.26386e-05):9.667e-07):9.667e-07,((((((((((((32:3.26346e-05,676:0.0001679669):9.937e-07,639:9.937e-07):3.26374e-05,(439:6.72141e-05,441:6.72167e-05):9.937e-07):9.937e-07,(57:9.667e-07,(660:9.667e-07,663:9.667e-07):3.27208e-05):9.667e-07):9.667e-07,(638:3.27237e-05,757:9.667e-07):9.667e-07):9.667e-07,(((((((((((((((((((60:0,195:0):0,288:0):0,200:0):0,644:0):0,105:0):0,179:0):0,241:0):0,240:0):0,665:0):0,379:0):0,300:0):0,1028:0):0,304:0):0,194:0):0,201:0):0,106:0):0,301:0):0,237:0):0,295:0):9.667e-07):9.667e-07,35:9.667e-07):9.667e-07,(525:9.667e-07,658:3.2719e-05):9.667e-07):9.667e-07,((46:3.27208e-05,643:9.667e-07):3.26356e-05,(635:0.0001680087,641:6.71698e-05):9.937e-07):9.937e-07):9.667e-07,((37:3.27304e-05,(((391:0.0001343963,606:3.27251e-05):9.937e-07,642:3.26435e-05):9.937e-07,810:3.72105e-05):6.72385e-05):3.27193e-05,123:0.0001311561):9.667e-07):9.667e-07,(191:3.2719e-05,(214:0.0001007869,662:0.0001344068):9.937e-07):9.937e-07):9.667e-07,((39:3.27234e-05,((488:9.667e-07,490:3.27188e-05):9.667e-07,489:9.667e-07):6.55478e-05):9.667e-07,(202:9.83316e-05,225:6.55431e-05):9.667e-07):9.667e-07):9.667e-07):9.667e-07,281:9.8345e-05):3.26358e-05,198:6.72175e-05):9.937e-07,208:6.7174e-05):3.26372e-05);
+End;

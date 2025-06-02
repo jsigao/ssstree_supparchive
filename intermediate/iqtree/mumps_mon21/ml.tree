@@ -1,0 +1,947 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=467;
+	Taxlabels
+		'Alabama.USA/11.17/G|2017-03-XX|north_america|usa|alabama'
+		'Alabama.USA/15.17/G|2017-04-XX|north_america|usa|alabama'
+		'Alabama.USA/19.17/G|2017-05-XX|north_america|usa|alabama'
+		'Alabama.USA/50.17/G|2017-12-XX|north_america|usa|alabama'
+		'Alabama.USA/7.17/G|2017-02-XX|north_america|usa|alabama'
+		'Arkansas.USA/12.17/G|2017-03-21|north_america|usa|arkansas'
+		'Arkansas.USA/13.17/G|2017-03-26|north_america|usa|arkansas'
+		'Arkansas.USA/38.16/G|2016-09-15|north_america|usa|arkansas'
+		'Arkansas.USA/40.16/G|2016-09-30|north_america|usa|arkansas'
+		'Arkansas.USA/41.16/G|2016-10-03|north_america|usa|arkansas'
+		'Arkansas.USA/43.16/G|2016-10-18|north_america|usa|arkansas'
+		'Arkansas.USA/44.16/G|2016-10-26|north_america|usa|arkansas'
+		'Arkansas.USA/45.16/G|2016-10-30|north_america|usa|arkansas'
+		'Arkansas.USA/46.16/G|2016-11-10|north_america|usa|arkansas'
+		'Arkansas.USA/47.16/G|2016-11-14|north_america|usa|arkansas'
+		'Arkansas.USA/48.16/G|2016-11-21|north_america|usa|arkansas'
+		'Arkansas.USA/49.16/G|2016-11-29|north_america|usa|arkansas'
+		'Arkansas.USA/5.17/G|2017-02-02|north_america|usa|arkansas'
+		'Arkansas.USA/50.16/G|2016-12-10|north_america|usa|arkansas'
+		'Arkansas.USA/51.16/G|2016-12-16|north_america|usa|arkansas'
+		'Arkansas.USA/52.16/G|2016-12-19|north_america|usa|arkansas'
+		'BritishColumbia.CAN/11.16/G|2016-03-14|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/13.16/G|2016-04-01|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/14.11/2/G|2011-04-03|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/16.16/4/G|2016-04-21|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/17.16/G|2016-04-29|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/18.16/2/G|2016-05-07|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/18.16/3/G|2016-05-09|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/18.16/4/G|2016-05-08|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/18.16/G|2016-05-04|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/18.17/2/G|2017-05-05|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/19.16/1/G|2016-05-10|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/19.16/2/G|2016-05-10|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/19.16/3/G|2016-05-10|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/19.16/5/G|2016-05-10|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/20.16/1/G|2016-05-22|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/21.16/2/G|2016-05-23|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/21.16/3/G|2016-05-24|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/21.16/4/G|2016-05-25|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/21.16/6/G|2016-05-25|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/22.16/2/G|2016-05-31|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/23.16/1/G|2016-06-06|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/23.16/2/G|2016-06-12|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/24.16/1/G|2016-06-13|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/24.16/2/G|2016-06-13|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/24.16/3/G|2016-06-14|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/24.16/4/G|2016-06-15|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/24.16/5/G|2016-06-14|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/24.16/7/G|2016-06-15|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/25.16/3/G|2016-06-20|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/25.16/5/G|2016-06-22|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/26.16/1/G|2016-06-27|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/26.16/5/G|2016-06-30|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/27.16/3/G|2016-07-07|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/27.16/4/G|2016-07-06|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/27.16/7/G|2016-07-09|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/28.16/1/G|2016-07-11|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/28.16/4/G|2016-07-13|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/28.16/5/G|2016-07-13|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/28.16/6/G|2016-07-14|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/29.16/3/G|2016-07-22|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/29.16/4/G|2016-07-24|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/29.16/5/G|2016-07-22|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/29.16/6/G|2016-07-21|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/30.16/1/G|2016-07-31|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/30.16/2/G|2016-07-31|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/30.16/3/G|2016-07-27|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/31.16/1/G|2016-08-02|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/31.16/2/G|2016-08-04|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/31.16/4/G|2016-08-04|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/33.16/2/G|2016-08-18|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/34.16/3/G|2016-08-28|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/36.16/G|2016-09-07|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/42.16/G|2016-10-17|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/8.17/2/G|2017-02-23|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/8.17/3/G|2017-02-22|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/8.17/5/G|2017-02-24|north_america|canada|british_columbia'
+		'BritishColumbia.CAN/8.17/8/G|2017-02-26|north_america|canada|british_columbia'
+		'California.USA/40.11/G|2011-10-08|north_america|usa|california'
+		'Georgia.USA/13.17/G|2017-03-27|north_america|usa|georgia'
+		'Illinois.USA/11.17/G|2017-03-18|north_america|usa|illinois'
+		'Illinois.USA/14.17/G|2017-04-05|north_america|usa|illinois'
+		'Illinois.USA/26.15/2/G|2015-06-24|north_america|usa|illinois'
+		'Indiana.USA/1.17/G|2017-01-06|north_america|usa|indiana'
+		'Indiana.USA/48.16/G|2016-11-28|north_america|usa|indiana'
+		'Indiana.USA/49.16/G|2016-12-12|north_america|usa|indiana'
+		'Indiana.USA/5.14/G|2014-01-31|north_america|usa|indiana'
+		'Iowa.USA/06/G|2006-XX-XX|north_america|usa|iowa'
+		'Kansas.USA/10.17/G|2017-03-10|north_america|usa|kansas'
+		'Kansas.USA/13.17/2/G|2017-03-29|north_america|usa|kansas'
+		'Kansas.USA/15.17/G|2017-04-10|north_america|usa|kansas'
+		'Kansas.USA/8.17/4/G|2017-02-23|north_america|usa|kansas'
+		'Kansas.USA/8.17/G|2017-02-21|north_america|usa|kansas'
+		'Kansas.USA/9.17/2/G|2017-02-28|north_america|usa|kansas'
+		'Louisiana.USA/29.17/G|2017-07-21|north_america|usa|louisiana'
+		'Manitoba.CAN/43.16/11/G|2016-10-26|north_america|canada|manitoba'
+		'Manitoba.CAN/43.16/5/G|2016-10-25|north_america|canada|manitoba'
+		'Manitoba.CAN/44.16/15/G|2016-11-02|north_america|canada|manitoba'
+		'Manitoba.CAN/47.16/4/G|2016-10-25|north_america|canada|manitoba'
+		'Massachusetts.USA/10.16/1/G|2016-03-07|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/10/G|2016-03-12|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/12/G|2016-03-12|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/13/G|2016-03-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/14/G|2016-03-15|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/2/G|2016-03-08|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/3/G|2016-03-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/4/G|2016-03-10|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/5/G|2016-03-10|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/6/G|2016-03-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/7/G|2016-03-10|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/8/G|2016-03-12|north_america|usa|massachusetts'
+		'Massachusetts.USA/10.16/9/G|2016-03-10|north_america|usa|massachusetts'
+		'Massachusetts.USA/11.16/1/G|2016-03-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/11.16/2/G|2016-03-15|north_america|usa|massachusetts'
+		'Massachusetts.USA/11.16/3/G|2016-03-16|north_america|usa|massachusetts'
+		'Massachusetts.USA/11.16/4/G|2016-03-18|north_america|usa|massachusetts'
+		'Massachusetts.USA/11.16/5/G|2016-03-20|north_america|usa|massachusetts'
+		'Massachusetts.USA/11.16/6/G|2016-03-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/12.16/1/G|2016-03-23|north_america|usa|massachusetts'
+		'Massachusetts.USA/12.16/2/G|2016-03-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/12.16/3/G|2016-03-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/12.16/4/G|2016-03-27|north_america|usa|massachusetts'
+		'Massachusetts.USA/12.16/5/G|2016-03-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/13.16/1/G|2016-03-31|north_america|usa|massachusetts'
+		'Massachusetts.USA/13.16/2/G|2016-03-30|north_america|usa|massachusetts'
+		'Massachusetts.USA/13.16/3/G|2016-03-31|north_america|usa|massachusetts'
+		'Massachusetts.USA/13.16/4/G|2016-04-01|north_america|usa|massachusetts'
+		'Massachusetts.USA/13.17/2/G|2017-03-28|north_america|usa|massachusetts'
+		'Massachusetts.USA/14.16/1/G|2016-04-08|north_america|usa|massachusetts'
+		'Massachusetts.USA/14.16/2/G|2016-04-08|north_america|usa|massachusetts'
+		'Massachusetts.USA/14.16/3/G|2016-04-12|north_america|usa|massachusetts'
+		'Massachusetts.USA/14.17/2/G|2017-04-10|north_america|usa|massachusetts'
+		'Massachusetts.USA/14.17/G|2017-04-02|north_america|usa|massachusetts'
+		'Massachusetts.USA/15.16/1/G|2016-04-12|north_america|usa|massachusetts'
+		'Massachusetts.USA/15.16/2/G|2016-04-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/1/G|2016-04-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/10/G|2016-04-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/12/G|2016-04-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/13/G|2016-04-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/14/G|2016-04-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/15/G|2016-04-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/16/G|2016-04-23|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/17/G|2016-04-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/18/G|2016-04-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/19/G|2016-04-22|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/2/G|2016-04-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/3/G|2016-04-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/4/G|2016-04-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/5/G|2016-04-20|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/6/G|2016-04-20|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/7/G|2016-04-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/8/G|2016-04-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/16.16/9/G|2016-04-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/1/G|2016-04-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/10/G|2016-05-01|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/11/G|2016-04-30|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/12/G|2016-05-02|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/13/G|2016-05-02|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/2/G|2016-04-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/3/G|2016-04-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/4/G|2016-04-26|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/6/G|2016-04-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/7/G|2016-04-27|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/8/G|2016-04-26|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.16/9/G|2016-04-29|north_america|usa|massachusetts'
+		'Massachusetts.USA/17.17/G|2017-04-23|north_america|usa|massachusetts'
+		'Massachusetts.USA/18.16/1/G|2016-05-04|north_america|usa|massachusetts'
+		'Massachusetts.USA/18.16/2/G|2016-05-05|north_america|usa|massachusetts'
+		'Massachusetts.USA/18.16/3/G|2016-05-05|north_america|usa|massachusetts'
+		'Massachusetts.USA/18.16/4/G|2016-05-08|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/1/G|2016-05-08|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/10/G|2016-05-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/11/G|2016-05-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/2/G|2016-05-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/3/G|2016-05-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/4/G|2016-05-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/5/G|2016-05-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/6/G|2016-05-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/7/G|2016-05-10|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/8/G|2016-05-11|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.16/9/G|2016-05-13|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.17/3/G|2017-05-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.17/4/G|2017-05-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/19.17/G|2017-05-11|north_america|usa|massachusetts'
+		'Massachusetts.USA/20.16/1/G|2016-05-18|north_america|usa|massachusetts'
+		'Massachusetts.USA/20.16/2/G|2016-05-20|north_america|usa|massachusetts'
+		'Massachusetts.USA/21.16/1/G|2016-05-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/21.17/2/G|2017-05-30|north_america|usa|massachusetts'
+		'Massachusetts.USA/21.17/G|2017-05-26|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.16/1/G|2016-06-03|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.16/2/G|2016-06-03|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.16/3/G|2016-06-03|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/2/G|2017-05-30|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/3/G|2017-05-30|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/4/G|2017-05-31|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/5/G|2017-05-31|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/6/G|2017-05-31|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/8/G|2017-06-04|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/9/G|2017-06-05|north_america|usa|massachusetts'
+		'Massachusetts.USA/22.17/G|2017-05-30|north_america|usa|massachusetts'
+		'Massachusetts.USA/23.17/G|2017-06-05|north_america|usa|massachusetts'
+		'Massachusetts.USA/24.17/2/G|2017-06-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/24.17/3/G|2017-06-17|north_america|usa|massachusetts'
+		'Massachusetts.USA/24.17/4/G|2017-06-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/24.17/G|2017-06-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/2/G|2017-06-20|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/3/G|2017-06-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/4/G|2017-06-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/5/G|2017-06-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/6/G|2017-06-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/7/G|2017-06-23|north_america|usa|massachusetts'
+		'Massachusetts.USA/25.17/G|2017-06-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/26.15/1/G|2015-07-04|north_america|usa|massachusetts'
+		'Massachusetts.USA/26.17/G|2017-06-29|north_america|usa|massachusetts'
+		'Massachusetts.USA/27.16/1/G|2016-07-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/27.16/2/G|2016-07-12|north_america|usa|massachusetts'
+		'Massachusetts.USA/30.16/1/G|2016-08-01|north_america|usa|massachusetts'
+		'Massachusetts.USA/33.16/1/G|2016-08-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/37.15/1/G|2015-09-15|north_america|usa|massachusetts'
+		'Massachusetts.USA/39.16/1/G|2016-10-03|north_america|usa|massachusetts'
+		'Massachusetts.USA/42.16/1/G|2016-10-21|north_america|usa|massachusetts'
+		'Massachusetts.USA/43.16/1/G|2016-10-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/43.16/2/G|2016-10-26|north_america|usa|massachusetts'
+		'Massachusetts.USA/44.16/1/G|2016-10-31|north_america|usa|massachusetts'
+		'Massachusetts.USA/45.16/1/G|2016-11-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/45.16/2/G|2016-11-09|north_america|usa|massachusetts'
+		'Massachusetts.USA/45.16/3/G|2016-11-11|north_america|usa|massachusetts'
+		'Massachusetts.USA/45.16/4/G|2016-11-11|north_america|usa|massachusetts'
+		'Massachusetts.USA/45.16/5/G|2016-11-13|north_america|usa|massachusetts'
+		'Massachusetts.USA/45.16/7/G|2016-11-15|north_america|usa|massachusetts'
+		'Massachusetts.USA/46.16/1/G|2016-11-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/46.16/2/G|2016-11-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/46.16/4/G|2016-11-15|north_america|usa|massachusetts'
+		'Massachusetts.USA/46.16/5/G|2016-11-17|north_america|usa|massachusetts'
+		'Massachusetts.USA/46.16/6/G|2016-11-20|north_america|usa|massachusetts'
+		'Massachusetts.USA/46.16/7/G|2016-11-17|north_america|usa|massachusetts'
+		'Massachusetts.USA/50.16/1/G|2016-12-14|north_america|usa|massachusetts'
+		'Massachusetts.USA/52.16/G|2016-12-27|north_america|usa|massachusetts'
+		'Massachusetts.USA/8.16/1/G|2016-02-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/8.16/2/G|2016-02-24|north_america|usa|massachusetts'
+		'Massachusetts.USA/8.16/3/G|2016-02-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/8.16/5/G|2016-02-25|north_america|usa|massachusetts'
+		'Massachusetts.USA/8.16/6/G|2016-02-27|north_america|usa|massachusetts'
+		'Massachusetts.USA/8.17/G|2017-02-19|north_america|usa|massachusetts'
+		'Massachusetts.USA/9.16/1/G|2016-03-02|north_america|usa|massachusetts'
+		'Massachusetts.USA/9.16/2/G|2016-03-06|north_america|usa|massachusetts'
+		'Massachusetts.USA/9.16/3/G|2016-03-05|north_america|usa|massachusetts'
+		'Massachusetts.USA/9.16/4/G|2016-03-08|north_america|usa|massachusetts'
+		'Michigan.USA/12.14/G|2014-03-20|north_america|usa|michigan'
+		'Michigan.USA/4.16/G|2016-01-26|north_america|usa|michigan'
+		'Missouri.USA/11.17/G|2017-03-XX|north_america|usa|missouri'
+		'Missouri.USA/15.17/2/G|2017-04-XX|north_america|usa|missouri'
+		'Missouri.USA/15.17/3/G|2017-04-XX|north_america|usa|missouri'
+		'Missouri.USA/15.17/G|2017-04-XX|north_america|usa|missouri'
+		'Missouri.USA/19.17/G|2017-05-XX|north_america|usa|missouri'
+		'Missouri.USA/2.17/G|2017-01-XX|north_america|usa|missouri'
+		'Missouri.USA/24.17/G|2017-06-XX|north_america|usa|missouri'
+		'Missouri.USA/28.17/G|2017-07-XX|north_america|usa|missouri'
+		'Missouri.USA/29.15/G|2015-07-XX|north_america|usa|missouri'
+		'Missouri.USA/32.16/G|2016-08-XX|north_america|usa|missouri'
+		'Missouri.USA/33.17/G|2017-08-XX|north_america|usa|missouri'
+		'Missouri.USA/41.16/G|2016-10-XX|north_america|usa|missouri'
+		'Missouri.USA/46.16/2/G|2016-11-XX|north_america|usa|missouri'
+		'Missouri.USA/46.16/G|2016-11-XX|north_america|usa|missouri'
+		'Missouri.USA/50.16/G|2016-12-XX|north_america|usa|missouri'
+		'Missouri.USA/7.17/G|2017-02-XX|north_america|usa|missouri'
+		'Montana.USA/11.16/G|2016-03-15|north_america|usa|montana'
+		'NewHampshire.USA/40.16/G|2016-10-07|north_america|usa|new_hampshire'
+		'NewHampshire.USA/8.16/1/G|2016-02-25|north_america|usa|new_hampshire'
+		'NewJersey.USA/16.14/2/G|2014-04-28|north_america|usa|new_jersey'
+		'NewJersey.USA/49.14/G|2014-12-06|north_america|usa|new_jersey'
+		'NewYork.USA.USA/51.14/G|2014-12-16|north_america|usa|new_york'
+		'NewYork.USA/10.14/2/G|2014-03-03|north_america|usa|new_york'
+		'NewYork.USA/10.14/3/G|2014-03-04|north_america|usa|new_york'
+		'NewYork.USA/51.14/G|2014-12-16|north_america|usa|new_york'
+		'NewYork.USA/8.14/G|2014-02-20|north_america|usa|new_york'
+		'NewYork/10.14/2/G|2014-03-03|north_america|usa|new_york'
+		'NorthCarolina.USA/11.17/G|2017-03-XX|north_america|usa|north_carolina'
+		'NorthDakota.USA/14.17/G|2017-04-07|north_america|usa|north_dakota'
+		'NorthDakota.USA/15.17/G|2017-04-13|north_america|usa|north_dakota'
+		'NorthDakota.USA/9.17/G|2017-02-27|north_america|usa|north_dakota'
+		'Ohio.USA/11.14/2/G|2014-03-16|north_america|usa|ohio'
+		'Ohio.USA/11.17/G|2017-03-XX|north_america|usa|ohio'
+		'Ohio.USA/12.14/9/G|2014-03-21|north_america|usa|ohio'
+		'Ohio.USA/13.14/10/G|2014-03-30|north_america|usa|ohio'
+		'Ohio.USA/13.14/6/G|2014-03-26|north_america|usa|ohio'
+		'Ohio.USA/13.14/7/G|2014-03-25|north_america|usa|ohio'
+		'Ohio.USA/16.14/1/G|2014-04-15|north_america|usa|ohio'
+		'Ohio.USA/16.14/2/G|2014-04-15|north_america|usa|ohio'
+		'Ohio.USA/19.16/G|2016-05-XX|north_america|usa|ohio'
+		'Ohio.USA/2.17/G|2017-01-XX|north_america|usa|ohio'
+		'Ohio.USA/2.18/G|2018-01-XX|north_america|usa|ohio'
+		'Ohio.USA/46.17/G|2017-11-XX|north_america|usa|ohio'
+		'Ohio.USA/7.17/G|2017-02-XX|north_america|usa|ohio'
+		'Ontario.CAN/04.17/1/G|2017-01-23|north_america|canada|ontario'
+		'Ontario.CAN/06.17/1/G|2017-02-06|north_america|canada|ontario'
+		'Ontario.CAN/06.17/2/G|2017-02-07|north_america|canada|ontario'
+		'Ontario.CAN/06.17/3/G|2017-02-08|north_america|canada|ontario'
+		'Ontario.CAN/06.17/4/G|2017-02-06|north_america|canada|ontario'
+		'Ontario.CAN/07.17/1/G|2017-02-15|north_america|canada|ontario'
+		'Ontario.CAN/08.17/2/G|2017-02-19|north_america|canada|ontario'
+		'Ontario.CAN/08.17/3/G|2017-02-24|north_america|canada|ontario'
+		'Ontario.CAN/09.17/1/G|2017-02-28|north_america|canada|ontario'
+		'Ontario.CAN/09.17/10/G|2017-03-01|north_america|canada|ontario'
+		'Ontario.CAN/09.17/2/G|2017-02-23|north_america|canada|ontario'
+		'Ontario.CAN/09.17/3/G|2017-02-24|north_america|canada|ontario'
+		'Ontario.CAN/09.17/4/G|2017-02-25|north_america|canada|ontario'
+		'Ontario.CAN/09.17/6/G|2017-02-27|north_america|canada|ontario'
+		'Ontario.CAN/09.17/7/G|2017-02-27|north_america|canada|ontario'
+		'Ontario.CAN/09.17/8/G|2017-02-28|north_america|canada|ontario'
+		'Ontario.CAN/09.17/9/G|2017-02-28|north_america|canada|ontario'
+		'Ontario.CAN/12.17/1/G|2017-03-20|north_america|canada|ontario'
+		'Ontario.CAN/12.17/2/G|2017-03-21|north_america|canada|ontario'
+		'Ontario.CAN/12.17/3/G|2017-03-20|north_america|canada|ontario'
+		'Ontario.CAN/12.17/4/G|2017-03-22|north_america|canada|ontario'
+		'Ontario.CAN/12.17/5/G|2017-03-25|north_america|canada|ontario'
+		'Ontario.CAN/13.17/1/G|2017-03-30|north_america|canada|ontario'
+		'Ontario.CAN/13.17/2/G|2017-03-31|north_america|canada|ontario'
+		'Ontario.CAN/37.09/G|2009-09-13|north_america|canada|ontario'
+		'Ontario.CAN/38.09/2/G|2009-09-17|north_america|canada|ontario'
+		'Ontario.CAN/40.09/1/G|2009-09-28|north_america|canada|ontario'
+		'Ontario.CAN/50.09/1/G|2009-12-13|north_america|canada|ontario'
+		'Ontario.CAN/50.09/3/G|2009-12-11|north_america|canada|ontario'
+		'Pennsylvania.USA/19.16/G|2016-05-10|north_america|usa|pennsylvania'
+		'Pennsylvania.USA/51.14/G|2014-12-16|north_america|usa|pennsylvania'
+		Springdale_730/2016/G|2016-XX-XX|north_america|usa|arkansas
+		Springdale_745/2016/G|2016-XX-XX|north_america|usa|arkansas
+		Springdale_754/2016/G|2016-XX-XX|north_america|usa|arkansas
+		'Texas.USA/15.17/G|2017-04-13|north_america|usa|texas'
+		'Texas.USA/18.17/G|2017-05-05|north_america|usa|texas'
+		'Texas.USA/27.17/G|2017-07-03|north_america|usa|texas'
+		'Virginia.USA/51.14/G|2014-12-19|north_america|usa|virginia'
+		'Washington.USA/1.17/FH160/G|2017-01-03|north_america|usa|washington'
+		'Washington.USA/1.17/FH29/G|2017-01-10|north_america|usa|washington'
+		'Washington.USA/1.17/FH5/G|2017-01-03|north_america|usa|washington'
+		'Washington.USA/1.17/FH6/G|2017-01-04|north_america|usa|washington'
+		'Washington.USA/1.17/FH65/G|2017-01-08|north_america|usa|washington'
+		'Washington.USA/1.17/FH7/G|2017-01-06|north_america|usa|washington'
+		'Washington.USA/1.17/FH77/G|2017-01-11|north_america|usa|washington'
+		'Washington.USA/1.17/FH8/G|2017-01-05|north_america|usa|washington'
+		'Washington.USA/10.17/FH43/G|2017-03-07|north_america|usa|washington'
+		'Washington.USA/10.17/FH52/G|2017-03-12|north_america|usa|washington'
+		'Washington.USA/11.17/FH143/G|2017-03-15|north_america|usa|washington'
+		'Washington.USA/11.17/FH56/G|2017-03-15|north_america|usa|washington'
+		'Washington.USA/11.17/FH95/G|2017-03-15|north_america|usa|washington'
+		'Washington.USA/11.17/FH96/G|2017-03-18|north_america|usa|washington'
+		'Washington.USA/12.17/FH144/G|2017-03-27|north_america|usa|washington'
+		'Washington.USA/12.17/FH34/G|2017-03-22|north_america|usa|washington'
+		'Washington.USA/12.17/FH35/G|2017-03-24|north_america|usa|washington'
+		'Washington.USA/12.17/FH57/G|2017-03-22|north_america|usa|washington'
+		'Washington.USA/12.17/FH76/G|2017-03-22|north_america|usa|washington'
+		'Washington.USA/12.17/FH78/G|2017-03-24|north_america|usa|washington'
+		'Washington.USA/12.17/FH97/G|2017-03-23|north_america|usa|washington'
+		'Washington.USA/14.17/FH145/G|2017-04-06|north_america|usa|washington'
+		'Washington.USA/14.17/FH98/G|2017-04-06|north_america|usa|washington'
+		'Washington.USA/15.17/FH146/G|2017-04-18|north_america|usa|washington'
+		'Washington.USA/15.17/FH20/G|2017-04-13|north_america|usa|washington'
+		'Washington.USA/16.17/FH152/G|2017-04-17|north_america|usa|washington'
+		'Washington.USA/16.17/FH36/G|2017-04-19|north_america|usa|washington'
+		'Washington.USA/16.17/FH63/G|2017-04-21|north_america|usa|washington'
+		'Washington.USA/16.17/FH79/G|2017-04-23|north_america|usa|washington'
+		'Washington.USA/17.17/FH37/G|2017-05-02|north_america|usa|washington'
+		'Washington.USA/17.17/FH38/G|2017-04-25|north_america|usa|washington'
+		'Washington.USA/17.17/FH39/G|2017-04-27|north_america|usa|washington'
+		'Washington.USA/17.17/FH40/G|2017-04-29|north_america|usa|washington'
+		'Washington.USA/18.17/FH147/G|2017-05-04|north_america|usa|washington'
+		'Washington.USA/19.17/FH100/G|2017-05-11|north_america|usa|washington'
+		'Washington.USA/19.17/FH44/G|2017-05-10|north_america|usa|washington'
+		'Washington.USA/19.17/FH53/G|2017-05-12|north_america|usa|washington'
+		'Washington.USA/19.17/FH80/G|2017-05-11|north_america|usa|washington'
+		'Washington.USA/2.17/FH21/G|2017-01-13|north_america|usa|washington'
+		'Washington.USA/2.17/FH22/G|2017-01-17|north_america|usa|washington'
+		'Washington.USA/2.17/FH23/G|2017-01-13|north_america|usa|washington'
+		'Washington.USA/2.17/FH26/G|2017-01-12|north_america|usa|washington'
+		'Washington.USA/2.17/FH47/G|2017-01-11|north_america|usa|washington'
+		'Washington.USA/2.17/FH54/G|2017-01-12|north_america|usa|washington'
+		'Washington.USA/2.17/FH58/G|2017-01-13|north_america|usa|washington'
+		'Washington.USA/2.17/FH66/G|2017-01-13|north_america|usa|washington'
+		'Washington.USA/2.17/FH84/G|2017-01-13|north_america|usa|washington'
+		'Washington.USA/20.17/FH148/G|2017-05-24|north_america|usa|washington'
+		'Washington.USA/20.17/FH73/G|2017-05-21|north_america|usa|washington'
+		'Washington.USA/20.17/FH81/G|2017-05-21|north_america|usa|washington'
+		'Washington.USA/20.17/FH82/G|2017-05-22|north_america|usa|washington'
+		'Washington.USA/21.17/FH69/G|2017-05-22|north_america|usa|washington'
+		'Washington.USA/22.17/FH74/G|2017-05-30|north_america|usa|washington'
+		'Washington.USA/23.17/FH149/G|2017-06-11|north_america|usa|washington'
+		'Washington.USA/23.17/FH150/G|2017-06-12|north_america|usa|washington'
+		'Washington.USA/28.17/FH151/G|2017-07-12|north_america|usa|washington'
+		'Washington.USA/29.17/FH83/G|2017-07-26|north_america|usa|washington'
+		'Washington.USA/3.17/FH24/G|2017-01-19|north_america|usa|washington'
+		'Washington.USA/3.17/FH25/G|2017-01-20|north_america|usa|washington'
+		'Washington.USA/3.17/FH59/G|2017-01-18|north_america|usa|washington'
+		'Washington.USA/3.17/FH62/G|2017-01-19|north_america|usa|washington'
+		'Washington.USA/3.17/FH67/G|2017-01-17|north_america|usa|washington'
+		'Washington.USA/30.17/FH32/G|2017-07-25|north_america|usa|washington'
+		'Washington.USA/4.17/FH103/G|2017-01-29|north_america|usa|washington'
+		'Washington.USA/4.17/FH48/G|2017-01-28|north_america|usa|washington'
+		'Washington.USA/4.17/FH49/G|2017-01-31|north_america|usa|washington'
+		'Washington.USA/4.17/FH60/G|2017-02-03|north_america|usa|washington'
+		'Washington.USA/4.17/FH68/G|2017-01-26|north_america|usa|washington'
+		'Washington.USA/4.17/FH70/G|2017-01-30|north_america|usa|washington'
+		'Washington.USA/4.17/FH71/G|2017-01-30|north_america|usa|washington'
+		'Washington.USA/48.16/FH1/G|2016-12-07|north_america|usa|washington'
+		'Washington.USA/49.16/FH158/G|2016-12-11|north_america|usa|washington'
+		'Washington.USA/49.16/FH45/G|2016-12-10|north_america|usa|washington'
+		'Washington.USA/49.16/FH55/G|2016-12-07|north_america|usa|washington'
+		'Washington.USA/5.17/FH10/G|2017-02-04|north_america|usa|washington'
+		'Washington.USA/5.17/FH104/G|2017-02-08|north_america|usa|washington'
+		'Washington.USA/5.17/FH11/G|2017-02-08|north_america|usa|washington'
+		'Washington.USA/5.17/FH161/G|2017-01-31|north_america|usa|washington'
+		'Washington.USA/5.17/FH162/G|2017-02-02|north_america|usa|washington'
+		'Washington.USA/5.17/FH27/G|2017-01-30|north_america|usa|washington'
+		'Washington.USA/5.17/FH30/G|2017-02-02|north_america|usa|washington'
+		'Washington.USA/5.17/FH50/G|2017-02-06|north_america|usa|washington'
+		'Washington.USA/5.17/FH72/G|2017-02-01|north_america|usa|washington'
+		'Washington.USA/5.17/FH9/G|2017-01-31|north_america|usa|washington'
+		'Washington.USA/50.16/FH2/G|2016-12-13|north_america|usa|washington'
+		'Washington.USA/50.16/FH3/G|2016-12-12|north_america|usa|washington'
+		'Washington.USA/50.16/FH33/G|2016-12-19|north_america|usa|washington'
+		'Washington.USA/50.16/FH4/G|2016-12-13|north_america|usa|washington'
+		'Washington.USA/50.16/FH64/G|2016-12-12|north_america|usa|washington'
+		'Washington.USA/51.16/FH41/G|2016-12-21|north_america|usa|washington'
+		'Washington.USA/51.16/FH46/G|2016-12-22|north_america|usa|washington'
+		'Washington.USA/52.16/FH28/G|2016-12-31|north_america|usa|washington'
+		'Washington.USA/52.16/FH75/G|2016-12-30|north_america|usa|washington'
+		'Washington.USA/6.17/FH105/G|2017-02-10|north_america|usa|washington'
+		'Washington.USA/6.17/FH12/G|2017-02-08|north_america|usa|washington'
+		'Washington.USA/6.17/FH13/G|2017-02-13|north_america|usa|washington'
+		'Washington.USA/6.17/FH14/G|2017-02-08|north_america|usa|washington'
+		'Washington.USA/6.17/FH51/G|2017-02-06|north_america|usa|washington'
+		'Washington.USA/7.17/FH106/G|2017-02-14|north_america|usa|washington'
+		'Washington.USA/7.17/FH15/G|2017-02-15|north_america|usa|washington'
+		'Washington.USA/7.17/FH166/G|2017-02-19|north_america|usa|washington'
+		'Washington.USA/7.17/FH61/G|2017-02-22|north_america|usa|washington'
+		'Washington.USA/8.17/FH142/G|2017-02-22|north_america|usa|washington'
+		'Washington.USA/8.17/FH17/G|2017-02-23|north_america|usa|washington'
+		'Washington.USA/8.17/FH19/G|2017-02-28|north_america|usa|washington'
+		'Washington.USA/9.17/FH16/G|2017-02-28|north_america|usa|washington'
+		'Washington.USA/9.17/FH18/G|2017-03-01|north_america|usa|washington'
+		'Washington.USA/9.17/FH31/G|2017-03-01|north_america|usa|washington'
+		'Washington.USA/9.17/FH42/G|2017-03-06|north_america|usa|washington'
+		'Wisconsin.USA/11.07/2/G|2007-03-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/11.07/G|2007-03-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/15.06/3/G|2006-04-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/15.17/2/G|2017-04-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/15.17/G|2017-04-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/16.14/2/G|2014-04-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/16.14/G|2014-04-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/19.16/G|2016-05-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/19.17/G|2017-05-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/2.16/G|2016-01-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/20.14/2/G|2014-05-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/20.14/G|2014-05-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/24.14/G|2014-06-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/24.16/G|2016-06-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/28.06/G|2006-07-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/29.14/G|2014-07-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/37.06/G|2006-09-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/41.06/2/G|2006-10-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/41.06/G|2006-10-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/42.15/2/G|2015-10-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/42.15/G|2015-10-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/46.15/G|2015-11-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/50.16/G|2016-12-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/51.15/G|2015-12-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/7.07/2/G|2007-02-XX|north_america|usa|wisconsin'
+		'Wisconsin.USA/7.07/G|2007-02-XX|north_america|usa|wisconsin'
+		;
+End;
+
+Begin trees;
+	Translate
+		1 'Alabama.USA/11.17/G|2017-03-XX|north_america|usa|alabama',
+		2 'Alabama.USA/15.17/G|2017-04-XX|north_america|usa|alabama',
+		3 'Alabama.USA/19.17/G|2017-05-XX|north_america|usa|alabama',
+		4 'Alabama.USA/50.17/G|2017-12-XX|north_america|usa|alabama',
+		5 'Alabama.USA/7.17/G|2017-02-XX|north_america|usa|alabama',
+		6 'Arkansas.USA/12.17/G|2017-03-21|north_america|usa|arkansas',
+		7 'Arkansas.USA/13.17/G|2017-03-26|north_america|usa|arkansas',
+		8 'Arkansas.USA/38.16/G|2016-09-15|north_america|usa|arkansas',
+		9 'Arkansas.USA/40.16/G|2016-09-30|north_america|usa|arkansas',
+		10 'Arkansas.USA/41.16/G|2016-10-03|north_america|usa|arkansas',
+		11 'Arkansas.USA/43.16/G|2016-10-18|north_america|usa|arkansas',
+		12 'Arkansas.USA/44.16/G|2016-10-26|north_america|usa|arkansas',
+		13 'Arkansas.USA/45.16/G|2016-10-30|north_america|usa|arkansas',
+		14 'Arkansas.USA/46.16/G|2016-11-10|north_america|usa|arkansas',
+		15 'Arkansas.USA/47.16/G|2016-11-14|north_america|usa|arkansas',
+		16 'Arkansas.USA/48.16/G|2016-11-21|north_america|usa|arkansas',
+		17 'Arkansas.USA/49.16/G|2016-11-29|north_america|usa|arkansas',
+		18 'Arkansas.USA/5.17/G|2017-02-02|north_america|usa|arkansas',
+		19 'Arkansas.USA/50.16/G|2016-12-10|north_america|usa|arkansas',
+		20 'Arkansas.USA/51.16/G|2016-12-16|north_america|usa|arkansas',
+		21 'Arkansas.USA/52.16/G|2016-12-19|north_america|usa|arkansas',
+		22 'BritishColumbia.CAN/11.16/G|2016-03-14|north_america|canada|british_columbia',
+		23 'BritishColumbia.CAN/13.16/G|2016-04-01|north_america|canada|british_columbia',
+		24 'BritishColumbia.CAN/14.11/2/G|2011-04-03|north_america|canada|british_columbia',
+		25 'BritishColumbia.CAN/16.16/4/G|2016-04-21|north_america|canada|british_columbia',
+		26 'BritishColumbia.CAN/17.16/G|2016-04-29|north_america|canada|british_columbia',
+		27 'BritishColumbia.CAN/18.16/2/G|2016-05-07|north_america|canada|british_columbia',
+		28 'BritishColumbia.CAN/18.16/3/G|2016-05-09|north_america|canada|british_columbia',
+		29 'BritishColumbia.CAN/18.16/4/G|2016-05-08|north_america|canada|british_columbia',
+		30 'BritishColumbia.CAN/18.16/G|2016-05-04|north_america|canada|british_columbia',
+		31 'BritishColumbia.CAN/18.17/2/G|2017-05-05|north_america|canada|british_columbia',
+		32 'BritishColumbia.CAN/19.16/1/G|2016-05-10|north_america|canada|british_columbia',
+		33 'BritishColumbia.CAN/19.16/2/G|2016-05-10|north_america|canada|british_columbia',
+		34 'BritishColumbia.CAN/19.16/3/G|2016-05-10|north_america|canada|british_columbia',
+		35 'BritishColumbia.CAN/19.16/5/G|2016-05-10|north_america|canada|british_columbia',
+		36 'BritishColumbia.CAN/20.16/1/G|2016-05-22|north_america|canada|british_columbia',
+		37 'BritishColumbia.CAN/21.16/2/G|2016-05-23|north_america|canada|british_columbia',
+		38 'BritishColumbia.CAN/21.16/3/G|2016-05-24|north_america|canada|british_columbia',
+		39 'BritishColumbia.CAN/21.16/4/G|2016-05-25|north_america|canada|british_columbia',
+		40 'BritishColumbia.CAN/21.16/6/G|2016-05-25|north_america|canada|british_columbia',
+		41 'BritishColumbia.CAN/22.16/2/G|2016-05-31|north_america|canada|british_columbia',
+		42 'BritishColumbia.CAN/23.16/1/G|2016-06-06|north_america|canada|british_columbia',
+		43 'BritishColumbia.CAN/23.16/2/G|2016-06-12|north_america|canada|british_columbia',
+		44 'BritishColumbia.CAN/24.16/1/G|2016-06-13|north_america|canada|british_columbia',
+		45 'BritishColumbia.CAN/24.16/2/G|2016-06-13|north_america|canada|british_columbia',
+		46 'BritishColumbia.CAN/24.16/3/G|2016-06-14|north_america|canada|british_columbia',
+		47 'BritishColumbia.CAN/24.16/4/G|2016-06-15|north_america|canada|british_columbia',
+		48 'BritishColumbia.CAN/24.16/5/G|2016-06-14|north_america|canada|british_columbia',
+		49 'BritishColumbia.CAN/24.16/7/G|2016-06-15|north_america|canada|british_columbia',
+		50 'BritishColumbia.CAN/25.16/3/G|2016-06-20|north_america|canada|british_columbia',
+		51 'BritishColumbia.CAN/25.16/5/G|2016-06-22|north_america|canada|british_columbia',
+		52 'BritishColumbia.CAN/26.16/1/G|2016-06-27|north_america|canada|british_columbia',
+		53 'BritishColumbia.CAN/26.16/5/G|2016-06-30|north_america|canada|british_columbia',
+		54 'BritishColumbia.CAN/27.16/3/G|2016-07-07|north_america|canada|british_columbia',
+		55 'BritishColumbia.CAN/27.16/4/G|2016-07-06|north_america|canada|british_columbia',
+		56 'BritishColumbia.CAN/27.16/7/G|2016-07-09|north_america|canada|british_columbia',
+		57 'BritishColumbia.CAN/28.16/1/G|2016-07-11|north_america|canada|british_columbia',
+		58 'BritishColumbia.CAN/28.16/4/G|2016-07-13|north_america|canada|british_columbia',
+		59 'BritishColumbia.CAN/28.16/5/G|2016-07-13|north_america|canada|british_columbia',
+		60 'BritishColumbia.CAN/28.16/6/G|2016-07-14|north_america|canada|british_columbia',
+		61 'BritishColumbia.CAN/29.16/3/G|2016-07-22|north_america|canada|british_columbia',
+		62 'BritishColumbia.CAN/29.16/4/G|2016-07-24|north_america|canada|british_columbia',
+		63 'BritishColumbia.CAN/29.16/5/G|2016-07-22|north_america|canada|british_columbia',
+		64 'BritishColumbia.CAN/29.16/6/G|2016-07-21|north_america|canada|british_columbia',
+		65 'BritishColumbia.CAN/30.16/1/G|2016-07-31|north_america|canada|british_columbia',
+		66 'BritishColumbia.CAN/30.16/2/G|2016-07-31|north_america|canada|british_columbia',
+		67 'BritishColumbia.CAN/30.16/3/G|2016-07-27|north_america|canada|british_columbia',
+		68 'BritishColumbia.CAN/31.16/1/G|2016-08-02|north_america|canada|british_columbia',
+		69 'BritishColumbia.CAN/31.16/2/G|2016-08-04|north_america|canada|british_columbia',
+		70 'BritishColumbia.CAN/31.16/4/G|2016-08-04|north_america|canada|british_columbia',
+		71 'BritishColumbia.CAN/33.16/2/G|2016-08-18|north_america|canada|british_columbia',
+		72 'BritishColumbia.CAN/34.16/3/G|2016-08-28|north_america|canada|british_columbia',
+		73 'BritishColumbia.CAN/36.16/G|2016-09-07|north_america|canada|british_columbia',
+		74 'BritishColumbia.CAN/42.16/G|2016-10-17|north_america|canada|british_columbia',
+		75 'BritishColumbia.CAN/8.17/2/G|2017-02-23|north_america|canada|british_columbia',
+		76 'BritishColumbia.CAN/8.17/3/G|2017-02-22|north_america|canada|british_columbia',
+		77 'BritishColumbia.CAN/8.17/5/G|2017-02-24|north_america|canada|british_columbia',
+		78 'BritishColumbia.CAN/8.17/8/G|2017-02-26|north_america|canada|british_columbia',
+		79 'California.USA/40.11/G|2011-10-08|north_america|usa|california',
+		80 'Georgia.USA/13.17/G|2017-03-27|north_america|usa|georgia',
+		81 'Illinois.USA/11.17/G|2017-03-18|north_america|usa|illinois',
+		82 'Illinois.USA/14.17/G|2017-04-05|north_america|usa|illinois',
+		83 'Illinois.USA/26.15/2/G|2015-06-24|north_america|usa|illinois',
+		84 'Indiana.USA/1.17/G|2017-01-06|north_america|usa|indiana',
+		85 'Indiana.USA/48.16/G|2016-11-28|north_america|usa|indiana',
+		86 'Indiana.USA/49.16/G|2016-12-12|north_america|usa|indiana',
+		87 'Indiana.USA/5.14/G|2014-01-31|north_america|usa|indiana',
+		88 'Iowa.USA/06/G|2006-XX-XX|north_america|usa|iowa',
+		89 'Kansas.USA/10.17/G|2017-03-10|north_america|usa|kansas',
+		90 'Kansas.USA/13.17/2/G|2017-03-29|north_america|usa|kansas',
+		91 'Kansas.USA/15.17/G|2017-04-10|north_america|usa|kansas',
+		92 'Kansas.USA/8.17/4/G|2017-02-23|north_america|usa|kansas',
+		93 'Kansas.USA/8.17/G|2017-02-21|north_america|usa|kansas',
+		94 'Kansas.USA/9.17/2/G|2017-02-28|north_america|usa|kansas',
+		95 'Louisiana.USA/29.17/G|2017-07-21|north_america|usa|louisiana',
+		96 'Manitoba.CAN/43.16/11/G|2016-10-26|north_america|canada|manitoba',
+		97 'Manitoba.CAN/43.16/5/G|2016-10-25|north_america|canada|manitoba',
+		98 'Manitoba.CAN/44.16/15/G|2016-11-02|north_america|canada|manitoba',
+		99 'Manitoba.CAN/47.16/4/G|2016-10-25|north_america|canada|manitoba',
+		100 'Massachusetts.USA/10.16/1/G|2016-03-07|north_america|usa|massachusetts',
+		101 'Massachusetts.USA/10.16/10/G|2016-03-12|north_america|usa|massachusetts',
+		102 'Massachusetts.USA/10.16/12/G|2016-03-12|north_america|usa|massachusetts',
+		103 'Massachusetts.USA/10.16/13/G|2016-03-14|north_america|usa|massachusetts',
+		104 'Massachusetts.USA/10.16/14/G|2016-03-15|north_america|usa|massachusetts',
+		105 'Massachusetts.USA/10.16/2/G|2016-03-08|north_america|usa|massachusetts',
+		106 'Massachusetts.USA/10.16/3/G|2016-03-09|north_america|usa|massachusetts',
+		107 'Massachusetts.USA/10.16/4/G|2016-03-10|north_america|usa|massachusetts',
+		108 'Massachusetts.USA/10.16/5/G|2016-03-10|north_america|usa|massachusetts',
+		109 'Massachusetts.USA/10.16/6/G|2016-03-09|north_america|usa|massachusetts',
+		110 'Massachusetts.USA/10.16/7/G|2016-03-10|north_america|usa|massachusetts',
+		111 'Massachusetts.USA/10.16/8/G|2016-03-12|north_america|usa|massachusetts',
+		112 'Massachusetts.USA/10.16/9/G|2016-03-10|north_america|usa|massachusetts',
+		113 'Massachusetts.USA/11.16/1/G|2016-03-14|north_america|usa|massachusetts',
+		114 'Massachusetts.USA/11.16/2/G|2016-03-15|north_america|usa|massachusetts',
+		115 'Massachusetts.USA/11.16/3/G|2016-03-16|north_america|usa|massachusetts',
+		116 'Massachusetts.USA/11.16/4/G|2016-03-18|north_america|usa|massachusetts',
+		117 'Massachusetts.USA/11.16/5/G|2016-03-20|north_america|usa|massachusetts',
+		118 'Massachusetts.USA/11.16/6/G|2016-03-22|north_america|usa|massachusetts',
+		119 'Massachusetts.USA/12.16/1/G|2016-03-23|north_america|usa|massachusetts',
+		120 'Massachusetts.USA/12.16/2/G|2016-03-24|north_america|usa|massachusetts',
+		121 'Massachusetts.USA/12.16/3/G|2016-03-25|north_america|usa|massachusetts',
+		122 'Massachusetts.USA/12.16/4/G|2016-03-27|north_america|usa|massachusetts',
+		123 'Massachusetts.USA/12.16/5/G|2016-03-22|north_america|usa|massachusetts',
+		124 'Massachusetts.USA/13.16/1/G|2016-03-31|north_america|usa|massachusetts',
+		125 'Massachusetts.USA/13.16/2/G|2016-03-30|north_america|usa|massachusetts',
+		126 'Massachusetts.USA/13.16/3/G|2016-03-31|north_america|usa|massachusetts',
+		127 'Massachusetts.USA/13.16/4/G|2016-04-01|north_america|usa|massachusetts',
+		128 'Massachusetts.USA/13.17/2/G|2017-03-28|north_america|usa|massachusetts',
+		129 'Massachusetts.USA/14.16/1/G|2016-04-08|north_america|usa|massachusetts',
+		130 'Massachusetts.USA/14.16/2/G|2016-04-08|north_america|usa|massachusetts',
+		131 'Massachusetts.USA/14.16/3/G|2016-04-12|north_america|usa|massachusetts',
+		132 'Massachusetts.USA/14.17/2/G|2017-04-10|north_america|usa|massachusetts',
+		133 'Massachusetts.USA/14.17/G|2017-04-02|north_america|usa|massachusetts',
+		134 'Massachusetts.USA/15.16/1/G|2016-04-12|north_america|usa|massachusetts',
+		135 'Massachusetts.USA/15.16/2/G|2016-04-14|north_america|usa|massachusetts',
+		136 'Massachusetts.USA/16.16/1/G|2016-04-19|north_america|usa|massachusetts',
+		137 'Massachusetts.USA/16.16/10/G|2016-04-22|north_america|usa|massachusetts',
+		138 'Massachusetts.USA/16.16/12/G|2016-04-21|north_america|usa|massachusetts',
+		139 'Massachusetts.USA/16.16/13/G|2016-04-22|north_america|usa|massachusetts',
+		140 'Massachusetts.USA/16.16/14/G|2016-04-22|north_america|usa|massachusetts',
+		141 'Massachusetts.USA/16.16/15/G|2016-04-22|north_america|usa|massachusetts',
+		142 'Massachusetts.USA/16.16/16/G|2016-04-23|north_america|usa|massachusetts',
+		143 'Massachusetts.USA/16.16/17/G|2016-04-24|north_america|usa|massachusetts',
+		144 'Massachusetts.USA/16.16/18/G|2016-04-25|north_america|usa|massachusetts',
+		145 'Massachusetts.USA/16.16/19/G|2016-04-22|north_america|usa|massachusetts',
+		146 'Massachusetts.USA/16.16/2/G|2016-04-19|north_america|usa|massachusetts',
+		147 'Massachusetts.USA/16.16/3/G|2016-04-19|north_america|usa|massachusetts',
+		148 'Massachusetts.USA/16.16/4/G|2016-04-19|north_america|usa|massachusetts',
+		149 'Massachusetts.USA/16.16/5/G|2016-04-20|north_america|usa|massachusetts',
+		150 'Massachusetts.USA/16.16/6/G|2016-04-20|north_america|usa|massachusetts',
+		151 'Massachusetts.USA/16.16/7/G|2016-04-21|north_america|usa|massachusetts',
+		152 'Massachusetts.USA/16.16/8/G|2016-04-21|north_america|usa|massachusetts',
+		153 'Massachusetts.USA/16.16/9/G|2016-04-21|north_america|usa|massachusetts',
+		154 'Massachusetts.USA/17.16/1/G|2016-04-25|north_america|usa|massachusetts',
+		155 'Massachusetts.USA/17.16/10/G|2016-05-01|north_america|usa|massachusetts',
+		156 'Massachusetts.USA/17.16/11/G|2016-04-30|north_america|usa|massachusetts',
+		157 'Massachusetts.USA/17.16/12/G|2016-05-02|north_america|usa|massachusetts',
+		158 'Massachusetts.USA/17.16/13/G|2016-05-02|north_america|usa|massachusetts',
+		159 'Massachusetts.USA/17.16/2/G|2016-04-24|north_america|usa|massachusetts',
+		160 'Massachusetts.USA/17.16/3/G|2016-04-25|north_america|usa|massachusetts',
+		161 'Massachusetts.USA/17.16/4/G|2016-04-26|north_america|usa|massachusetts',
+		162 'Massachusetts.USA/17.16/6/G|2016-04-25|north_america|usa|massachusetts',
+		163 'Massachusetts.USA/17.16/7/G|2016-04-27|north_america|usa|massachusetts',
+		164 'Massachusetts.USA/17.16/8/G|2016-04-26|north_america|usa|massachusetts',
+		165 'Massachusetts.USA/17.16/9/G|2016-04-29|north_america|usa|massachusetts',
+		166 'Massachusetts.USA/17.17/G|2017-04-23|north_america|usa|massachusetts',
+		167 'Massachusetts.USA/18.16/1/G|2016-05-04|north_america|usa|massachusetts',
+		168 'Massachusetts.USA/18.16/2/G|2016-05-05|north_america|usa|massachusetts',
+		169 'Massachusetts.USA/18.16/3/G|2016-05-05|north_america|usa|massachusetts',
+		170 'Massachusetts.USA/18.16/4/G|2016-05-08|north_america|usa|massachusetts',
+		171 'Massachusetts.USA/19.16/1/G|2016-05-08|north_america|usa|massachusetts',
+		172 'Massachusetts.USA/19.16/10/G|2016-05-14|north_america|usa|massachusetts',
+		173 'Massachusetts.USA/19.16/11/G|2016-05-14|north_america|usa|massachusetts',
+		174 'Massachusetts.USA/19.16/2/G|2016-05-09|north_america|usa|massachusetts',
+		175 'Massachusetts.USA/19.16/3/G|2016-05-09|north_america|usa|massachusetts',
+		176 'Massachusetts.USA/19.16/4/G|2016-05-09|north_america|usa|massachusetts',
+		177 'Massachusetts.USA/19.16/5/G|2016-05-09|north_america|usa|massachusetts',
+		178 'Massachusetts.USA/19.16/6/G|2016-05-09|north_america|usa|massachusetts',
+		179 'Massachusetts.USA/19.16/7/G|2016-05-10|north_america|usa|massachusetts',
+		180 'Massachusetts.USA/19.16/8/G|2016-05-11|north_america|usa|massachusetts',
+		181 'Massachusetts.USA/19.16/9/G|2016-05-13|north_america|usa|massachusetts',
+		182 'Massachusetts.USA/19.17/3/G|2017-05-14|north_america|usa|massachusetts',
+		183 'Massachusetts.USA/19.17/4/G|2017-05-14|north_america|usa|massachusetts',
+		184 'Massachusetts.USA/19.17/G|2017-05-11|north_america|usa|massachusetts',
+		185 'Massachusetts.USA/20.16/1/G|2016-05-18|north_america|usa|massachusetts',
+		186 'Massachusetts.USA/20.16/2/G|2016-05-20|north_america|usa|massachusetts',
+		187 'Massachusetts.USA/21.16/1/G|2016-05-24|north_america|usa|massachusetts',
+		188 'Massachusetts.USA/21.17/2/G|2017-05-30|north_america|usa|massachusetts',
+		189 'Massachusetts.USA/21.17/G|2017-05-26|north_america|usa|massachusetts',
+		190 'Massachusetts.USA/22.16/1/G|2016-06-03|north_america|usa|massachusetts',
+		191 'Massachusetts.USA/22.16/2/G|2016-06-03|north_america|usa|massachusetts',
+		192 'Massachusetts.USA/22.16/3/G|2016-06-03|north_america|usa|massachusetts',
+		193 'Massachusetts.USA/22.17/2/G|2017-05-30|north_america|usa|massachusetts',
+		194 'Massachusetts.USA/22.17/3/G|2017-05-30|north_america|usa|massachusetts',
+		195 'Massachusetts.USA/22.17/4/G|2017-05-31|north_america|usa|massachusetts',
+		196 'Massachusetts.USA/22.17/5/G|2017-05-31|north_america|usa|massachusetts',
+		197 'Massachusetts.USA/22.17/6/G|2017-05-31|north_america|usa|massachusetts',
+		198 'Massachusetts.USA/22.17/8/G|2017-06-04|north_america|usa|massachusetts',
+		199 'Massachusetts.USA/22.17/9/G|2017-06-05|north_america|usa|massachusetts',
+		200 'Massachusetts.USA/22.17/G|2017-05-30|north_america|usa|massachusetts',
+		201 'Massachusetts.USA/23.17/G|2017-06-05|north_america|usa|massachusetts',
+		202 'Massachusetts.USA/24.17/2/G|2017-06-14|north_america|usa|massachusetts',
+		203 'Massachusetts.USA/24.17/3/G|2017-06-17|north_america|usa|massachusetts',
+		204 'Massachusetts.USA/24.17/4/G|2017-06-19|north_america|usa|massachusetts',
+		205 'Massachusetts.USA/24.17/G|2017-06-14|north_america|usa|massachusetts',
+		206 'Massachusetts.USA/25.17/2/G|2017-06-20|north_america|usa|massachusetts',
+		207 'Massachusetts.USA/25.17/3/G|2017-06-21|north_america|usa|massachusetts',
+		208 'Massachusetts.USA/25.17/4/G|2017-06-21|north_america|usa|massachusetts',
+		209 'Massachusetts.USA/25.17/5/G|2017-06-21|north_america|usa|massachusetts',
+		210 'Massachusetts.USA/25.17/6/G|2017-06-21|north_america|usa|massachusetts',
+		211 'Massachusetts.USA/25.17/7/G|2017-06-23|north_america|usa|massachusetts',
+		212 'Massachusetts.USA/25.17/G|2017-06-19|north_america|usa|massachusetts',
+		213 'Massachusetts.USA/26.15/1/G|2015-07-04|north_america|usa|massachusetts',
+		214 'Massachusetts.USA/26.17/G|2017-06-29|north_america|usa|massachusetts',
+		215 'Massachusetts.USA/27.16/1/G|2016-07-09|north_america|usa|massachusetts',
+		216 'Massachusetts.USA/27.16/2/G|2016-07-12|north_america|usa|massachusetts',
+		217 'Massachusetts.USA/30.16/1/G|2016-08-01|north_america|usa|massachusetts',
+		218 'Massachusetts.USA/33.16/1/G|2016-08-19|north_america|usa|massachusetts',
+		219 'Massachusetts.USA/37.15/1/G|2015-09-15|north_america|usa|massachusetts',
+		220 'Massachusetts.USA/39.16/1/G|2016-10-03|north_america|usa|massachusetts',
+		221 'Massachusetts.USA/42.16/1/G|2016-10-21|north_america|usa|massachusetts',
+		222 'Massachusetts.USA/43.16/1/G|2016-10-24|north_america|usa|massachusetts',
+		223 'Massachusetts.USA/43.16/2/G|2016-10-26|north_america|usa|massachusetts',
+		224 'Massachusetts.USA/44.16/1/G|2016-10-31|north_america|usa|massachusetts',
+		225 'Massachusetts.USA/45.16/1/G|2016-11-09|north_america|usa|massachusetts',
+		226 'Massachusetts.USA/45.16/2/G|2016-11-09|north_america|usa|massachusetts',
+		227 'Massachusetts.USA/45.16/3/G|2016-11-11|north_america|usa|massachusetts',
+		228 'Massachusetts.USA/45.16/4/G|2016-11-11|north_america|usa|massachusetts',
+		229 'Massachusetts.USA/45.16/5/G|2016-11-13|north_america|usa|massachusetts',
+		230 'Massachusetts.USA/45.16/7/G|2016-11-15|north_america|usa|massachusetts',
+		231 'Massachusetts.USA/46.16/1/G|2016-11-14|north_america|usa|massachusetts',
+		232 'Massachusetts.USA/46.16/2/G|2016-11-14|north_america|usa|massachusetts',
+		233 'Massachusetts.USA/46.16/4/G|2016-11-15|north_america|usa|massachusetts',
+		234 'Massachusetts.USA/46.16/5/G|2016-11-17|north_america|usa|massachusetts',
+		235 'Massachusetts.USA/46.16/6/G|2016-11-20|north_america|usa|massachusetts',
+		236 'Massachusetts.USA/46.16/7/G|2016-11-17|north_america|usa|massachusetts',
+		237 'Massachusetts.USA/50.16/1/G|2016-12-14|north_america|usa|massachusetts',
+		238 'Massachusetts.USA/52.16/G|2016-12-27|north_america|usa|massachusetts',
+		239 'Massachusetts.USA/8.16/1/G|2016-02-24|north_america|usa|massachusetts',
+		240 'Massachusetts.USA/8.16/2/G|2016-02-24|north_america|usa|massachusetts',
+		241 'Massachusetts.USA/8.16/3/G|2016-02-25|north_america|usa|massachusetts',
+		242 'Massachusetts.USA/8.16/5/G|2016-02-25|north_america|usa|massachusetts',
+		243 'Massachusetts.USA/8.16/6/G|2016-02-27|north_america|usa|massachusetts',
+		244 'Massachusetts.USA/8.17/G|2017-02-19|north_america|usa|massachusetts',
+		245 'Massachusetts.USA/9.16/1/G|2016-03-02|north_america|usa|massachusetts',
+		246 'Massachusetts.USA/9.16/2/G|2016-03-06|north_america|usa|massachusetts',
+		247 'Massachusetts.USA/9.16/3/G|2016-03-05|north_america|usa|massachusetts',
+		248 'Massachusetts.USA/9.16/4/G|2016-03-08|north_america|usa|massachusetts',
+		249 'Michigan.USA/12.14/G|2014-03-20|north_america|usa|michigan',
+		250 'Michigan.USA/4.16/G|2016-01-26|north_america|usa|michigan',
+		251 'Missouri.USA/11.17/G|2017-03-XX|north_america|usa|missouri',
+		252 'Missouri.USA/15.17/2/G|2017-04-XX|north_america|usa|missouri',
+		253 'Missouri.USA/15.17/3/G|2017-04-XX|north_america|usa|missouri',
+		254 'Missouri.USA/15.17/G|2017-04-XX|north_america|usa|missouri',
+		255 'Missouri.USA/19.17/G|2017-05-XX|north_america|usa|missouri',
+		256 'Missouri.USA/2.17/G|2017-01-XX|north_america|usa|missouri',
+		257 'Missouri.USA/24.17/G|2017-06-XX|north_america|usa|missouri',
+		258 'Missouri.USA/28.17/G|2017-07-XX|north_america|usa|missouri',
+		259 'Missouri.USA/29.15/G|2015-07-XX|north_america|usa|missouri',
+		260 'Missouri.USA/32.16/G|2016-08-XX|north_america|usa|missouri',
+		261 'Missouri.USA/33.17/G|2017-08-XX|north_america|usa|missouri',
+		262 'Missouri.USA/41.16/G|2016-10-XX|north_america|usa|missouri',
+		263 'Missouri.USA/46.16/2/G|2016-11-XX|north_america|usa|missouri',
+		264 'Missouri.USA/46.16/G|2016-11-XX|north_america|usa|missouri',
+		265 'Missouri.USA/50.16/G|2016-12-XX|north_america|usa|missouri',
+		266 'Missouri.USA/7.17/G|2017-02-XX|north_america|usa|missouri',
+		267 'Montana.USA/11.16/G|2016-03-15|north_america|usa|montana',
+		268 'NewHampshire.USA/40.16/G|2016-10-07|north_america|usa|new_hampshire',
+		269 'NewHampshire.USA/8.16/1/G|2016-02-25|north_america|usa|new_hampshire',
+		270 'NewJersey.USA/16.14/2/G|2014-04-28|north_america|usa|new_jersey',
+		271 'NewJersey.USA/49.14/G|2014-12-06|north_america|usa|new_jersey',
+		272 'NewYork.USA.USA/51.14/G|2014-12-16|north_america|usa|new_york',
+		273 'NewYork.USA/10.14/2/G|2014-03-03|north_america|usa|new_york',
+		274 'NewYork.USA/10.14/3/G|2014-03-04|north_america|usa|new_york',
+		275 'NewYork.USA/51.14/G|2014-12-16|north_america|usa|new_york',
+		276 'NewYork.USA/8.14/G|2014-02-20|north_america|usa|new_york',
+		277 'NewYork/10.14/2/G|2014-03-03|north_america|usa|new_york',
+		278 'NorthCarolina.USA/11.17/G|2017-03-XX|north_america|usa|north_carolina',
+		279 'NorthDakota.USA/14.17/G|2017-04-07|north_america|usa|north_dakota',
+		280 'NorthDakota.USA/15.17/G|2017-04-13|north_america|usa|north_dakota',
+		281 'NorthDakota.USA/9.17/G|2017-02-27|north_america|usa|north_dakota',
+		282 'Ohio.USA/11.14/2/G|2014-03-16|north_america|usa|ohio',
+		283 'Ohio.USA/11.17/G|2017-03-XX|north_america|usa|ohio',
+		284 'Ohio.USA/12.14/9/G|2014-03-21|north_america|usa|ohio',
+		285 'Ohio.USA/13.14/10/G|2014-03-30|north_america|usa|ohio',
+		286 'Ohio.USA/13.14/6/G|2014-03-26|north_america|usa|ohio',
+		287 'Ohio.USA/13.14/7/G|2014-03-25|north_america|usa|ohio',
+		288 'Ohio.USA/16.14/1/G|2014-04-15|north_america|usa|ohio',
+		289 'Ohio.USA/16.14/2/G|2014-04-15|north_america|usa|ohio',
+		290 'Ohio.USA/19.16/G|2016-05-XX|north_america|usa|ohio',
+		291 'Ohio.USA/2.17/G|2017-01-XX|north_america|usa|ohio',
+		292 'Ohio.USA/2.18/G|2018-01-XX|north_america|usa|ohio',
+		293 'Ohio.USA/46.17/G|2017-11-XX|north_america|usa|ohio',
+		294 'Ohio.USA/7.17/G|2017-02-XX|north_america|usa|ohio',
+		295 'Ontario.CAN/04.17/1/G|2017-01-23|north_america|canada|ontario',
+		296 'Ontario.CAN/06.17/1/G|2017-02-06|north_america|canada|ontario',
+		297 'Ontario.CAN/06.17/2/G|2017-02-07|north_america|canada|ontario',
+		298 'Ontario.CAN/06.17/3/G|2017-02-08|north_america|canada|ontario',
+		299 'Ontario.CAN/06.17/4/G|2017-02-06|north_america|canada|ontario',
+		300 'Ontario.CAN/07.17/1/G|2017-02-15|north_america|canada|ontario',
+		301 'Ontario.CAN/08.17/2/G|2017-02-19|north_america|canada|ontario',
+		302 'Ontario.CAN/08.17/3/G|2017-02-24|north_america|canada|ontario',
+		303 'Ontario.CAN/09.17/1/G|2017-02-28|north_america|canada|ontario',
+		304 'Ontario.CAN/09.17/10/G|2017-03-01|north_america|canada|ontario',
+		305 'Ontario.CAN/09.17/2/G|2017-02-23|north_america|canada|ontario',
+		306 'Ontario.CAN/09.17/3/G|2017-02-24|north_america|canada|ontario',
+		307 'Ontario.CAN/09.17/4/G|2017-02-25|north_america|canada|ontario',
+		308 'Ontario.CAN/09.17/6/G|2017-02-27|north_america|canada|ontario',
+		309 'Ontario.CAN/09.17/7/G|2017-02-27|north_america|canada|ontario',
+		310 'Ontario.CAN/09.17/8/G|2017-02-28|north_america|canada|ontario',
+		311 'Ontario.CAN/09.17/9/G|2017-02-28|north_america|canada|ontario',
+		312 'Ontario.CAN/12.17/1/G|2017-03-20|north_america|canada|ontario',
+		313 'Ontario.CAN/12.17/2/G|2017-03-21|north_america|canada|ontario',
+		314 'Ontario.CAN/12.17/3/G|2017-03-20|north_america|canada|ontario',
+		315 'Ontario.CAN/12.17/4/G|2017-03-22|north_america|canada|ontario',
+		316 'Ontario.CAN/12.17/5/G|2017-03-25|north_america|canada|ontario',
+		317 'Ontario.CAN/13.17/1/G|2017-03-30|north_america|canada|ontario',
+		318 'Ontario.CAN/13.17/2/G|2017-03-31|north_america|canada|ontario',
+		319 'Ontario.CAN/37.09/G|2009-09-13|north_america|canada|ontario',
+		320 'Ontario.CAN/38.09/2/G|2009-09-17|north_america|canada|ontario',
+		321 'Ontario.CAN/40.09/1/G|2009-09-28|north_america|canada|ontario',
+		322 'Ontario.CAN/50.09/1/G|2009-12-13|north_america|canada|ontario',
+		323 'Ontario.CAN/50.09/3/G|2009-12-11|north_america|canada|ontario',
+		324 'Pennsylvania.USA/19.16/G|2016-05-10|north_america|usa|pennsylvania',
+		325 'Pennsylvania.USA/51.14/G|2014-12-16|north_america|usa|pennsylvania',
+		326 Springdale_730/2016/G|2016-XX-XX|north_america|usa|arkansas,
+		327 Springdale_745/2016/G|2016-XX-XX|north_america|usa|arkansas,
+		328 Springdale_754/2016/G|2016-XX-XX|north_america|usa|arkansas,
+		329 'Texas.USA/15.17/G|2017-04-13|north_america|usa|texas',
+		330 'Texas.USA/18.17/G|2017-05-05|north_america|usa|texas',
+		331 'Texas.USA/27.17/G|2017-07-03|north_america|usa|texas',
+		332 'Virginia.USA/51.14/G|2014-12-19|north_america|usa|virginia',
+		333 'Washington.USA/1.17/FH160/G|2017-01-03|north_america|usa|washington',
+		334 'Washington.USA/1.17/FH29/G|2017-01-10|north_america|usa|washington',
+		335 'Washington.USA/1.17/FH5/G|2017-01-03|north_america|usa|washington',
+		336 'Washington.USA/1.17/FH6/G|2017-01-04|north_america|usa|washington',
+		337 'Washington.USA/1.17/FH65/G|2017-01-08|north_america|usa|washington',
+		338 'Washington.USA/1.17/FH7/G|2017-01-06|north_america|usa|washington',
+		339 'Washington.USA/1.17/FH77/G|2017-01-11|north_america|usa|washington',
+		340 'Washington.USA/1.17/FH8/G|2017-01-05|north_america|usa|washington',
+		341 'Washington.USA/10.17/FH43/G|2017-03-07|north_america|usa|washington',
+		342 'Washington.USA/10.17/FH52/G|2017-03-12|north_america|usa|washington',
+		343 'Washington.USA/11.17/FH143/G|2017-03-15|north_america|usa|washington',
+		344 'Washington.USA/11.17/FH56/G|2017-03-15|north_america|usa|washington',
+		345 'Washington.USA/11.17/FH95/G|2017-03-15|north_america|usa|washington',
+		346 'Washington.USA/11.17/FH96/G|2017-03-18|north_america|usa|washington',
+		347 'Washington.USA/12.17/FH144/G|2017-03-27|north_america|usa|washington',
+		348 'Washington.USA/12.17/FH34/G|2017-03-22|north_america|usa|washington',
+		349 'Washington.USA/12.17/FH35/G|2017-03-24|north_america|usa|washington',
+		350 'Washington.USA/12.17/FH57/G|2017-03-22|north_america|usa|washington',
+		351 'Washington.USA/12.17/FH76/G|2017-03-22|north_america|usa|washington',
+		352 'Washington.USA/12.17/FH78/G|2017-03-24|north_america|usa|washington',
+		353 'Washington.USA/12.17/FH97/G|2017-03-23|north_america|usa|washington',
+		354 'Washington.USA/14.17/FH145/G|2017-04-06|north_america|usa|washington',
+		355 'Washington.USA/14.17/FH98/G|2017-04-06|north_america|usa|washington',
+		356 'Washington.USA/15.17/FH146/G|2017-04-18|north_america|usa|washington',
+		357 'Washington.USA/15.17/FH20/G|2017-04-13|north_america|usa|washington',
+		358 'Washington.USA/16.17/FH152/G|2017-04-17|north_america|usa|washington',
+		359 'Washington.USA/16.17/FH36/G|2017-04-19|north_america|usa|washington',
+		360 'Washington.USA/16.17/FH63/G|2017-04-21|north_america|usa|washington',
+		361 'Washington.USA/16.17/FH79/G|2017-04-23|north_america|usa|washington',
+		362 'Washington.USA/17.17/FH37/G|2017-05-02|north_america|usa|washington',
+		363 'Washington.USA/17.17/FH38/G|2017-04-25|north_america|usa|washington',
+		364 'Washington.USA/17.17/FH39/G|2017-04-27|north_america|usa|washington',
+		365 'Washington.USA/17.17/FH40/G|2017-04-29|north_america|usa|washington',
+		366 'Washington.USA/18.17/FH147/G|2017-05-04|north_america|usa|washington',
+		367 'Washington.USA/19.17/FH100/G|2017-05-11|north_america|usa|washington',
+		368 'Washington.USA/19.17/FH44/G|2017-05-10|north_america|usa|washington',
+		369 'Washington.USA/19.17/FH53/G|2017-05-12|north_america|usa|washington',
+		370 'Washington.USA/19.17/FH80/G|2017-05-11|north_america|usa|washington',
+		371 'Washington.USA/2.17/FH21/G|2017-01-13|north_america|usa|washington',
+		372 'Washington.USA/2.17/FH22/G|2017-01-17|north_america|usa|washington',
+		373 'Washington.USA/2.17/FH23/G|2017-01-13|north_america|usa|washington',
+		374 'Washington.USA/2.17/FH26/G|2017-01-12|north_america|usa|washington',
+		375 'Washington.USA/2.17/FH47/G|2017-01-11|north_america|usa|washington',
+		376 'Washington.USA/2.17/FH54/G|2017-01-12|north_america|usa|washington',
+		377 'Washington.USA/2.17/FH58/G|2017-01-13|north_america|usa|washington',
+		378 'Washington.USA/2.17/FH66/G|2017-01-13|north_america|usa|washington',
+		379 'Washington.USA/2.17/FH84/G|2017-01-13|north_america|usa|washington',
+		380 'Washington.USA/20.17/FH148/G|2017-05-24|north_america|usa|washington',
+		381 'Washington.USA/20.17/FH73/G|2017-05-21|north_america|usa|washington',
+		382 'Washington.USA/20.17/FH81/G|2017-05-21|north_america|usa|washington',
+		383 'Washington.USA/20.17/FH82/G|2017-05-22|north_america|usa|washington',
+		384 'Washington.USA/21.17/FH69/G|2017-05-22|north_america|usa|washington',
+		385 'Washington.USA/22.17/FH74/G|2017-05-30|north_america|usa|washington',
+		386 'Washington.USA/23.17/FH149/G|2017-06-11|north_america|usa|washington',
+		387 'Washington.USA/23.17/FH150/G|2017-06-12|north_america|usa|washington',
+		388 'Washington.USA/28.17/FH151/G|2017-07-12|north_america|usa|washington',
+		389 'Washington.USA/29.17/FH83/G|2017-07-26|north_america|usa|washington',
+		390 'Washington.USA/3.17/FH24/G|2017-01-19|north_america|usa|washington',
+		391 'Washington.USA/3.17/FH25/G|2017-01-20|north_america|usa|washington',
+		392 'Washington.USA/3.17/FH59/G|2017-01-18|north_america|usa|washington',
+		393 'Washington.USA/3.17/FH62/G|2017-01-19|north_america|usa|washington',
+		394 'Washington.USA/3.17/FH67/G|2017-01-17|north_america|usa|washington',
+		395 'Washington.USA/30.17/FH32/G|2017-07-25|north_america|usa|washington',
+		396 'Washington.USA/4.17/FH103/G|2017-01-29|north_america|usa|washington',
+		397 'Washington.USA/4.17/FH48/G|2017-01-28|north_america|usa|washington',
+		398 'Washington.USA/4.17/FH49/G|2017-01-31|north_america|usa|washington',
+		399 'Washington.USA/4.17/FH60/G|2017-02-03|north_america|usa|washington',
+		400 'Washington.USA/4.17/FH68/G|2017-01-26|north_america|usa|washington',
+		401 'Washington.USA/4.17/FH70/G|2017-01-30|north_america|usa|washington',
+		402 'Washington.USA/4.17/FH71/G|2017-01-30|north_america|usa|washington',
+		403 'Washington.USA/48.16/FH1/G|2016-12-07|north_america|usa|washington',
+		404 'Washington.USA/49.16/FH158/G|2016-12-11|north_america|usa|washington',
+		405 'Washington.USA/49.16/FH45/G|2016-12-10|north_america|usa|washington',
+		406 'Washington.USA/49.16/FH55/G|2016-12-07|north_america|usa|washington',
+		407 'Washington.USA/5.17/FH10/G|2017-02-04|north_america|usa|washington',
+		408 'Washington.USA/5.17/FH104/G|2017-02-08|north_america|usa|washington',
+		409 'Washington.USA/5.17/FH11/G|2017-02-08|north_america|usa|washington',
+		410 'Washington.USA/5.17/FH161/G|2017-01-31|north_america|usa|washington',
+		411 'Washington.USA/5.17/FH162/G|2017-02-02|north_america|usa|washington',
+		412 'Washington.USA/5.17/FH27/G|2017-01-30|north_america|usa|washington',
+		413 'Washington.USA/5.17/FH30/G|2017-02-02|north_america|usa|washington',
+		414 'Washington.USA/5.17/FH50/G|2017-02-06|north_america|usa|washington',
+		415 'Washington.USA/5.17/FH72/G|2017-02-01|north_america|usa|washington',
+		416 'Washington.USA/5.17/FH9/G|2017-01-31|north_america|usa|washington',
+		417 'Washington.USA/50.16/FH2/G|2016-12-13|north_america|usa|washington',
+		418 'Washington.USA/50.16/FH3/G|2016-12-12|north_america|usa|washington',
+		419 'Washington.USA/50.16/FH33/G|2016-12-19|north_america|usa|washington',
+		420 'Washington.USA/50.16/FH4/G|2016-12-13|north_america|usa|washington',
+		421 'Washington.USA/50.16/FH64/G|2016-12-12|north_america|usa|washington',
+		422 'Washington.USA/51.16/FH41/G|2016-12-21|north_america|usa|washington',
+		423 'Washington.USA/51.16/FH46/G|2016-12-22|north_america|usa|washington',
+		424 'Washington.USA/52.16/FH28/G|2016-12-31|north_america|usa|washington',
+		425 'Washington.USA/52.16/FH75/G|2016-12-30|north_america|usa|washington',
+		426 'Washington.USA/6.17/FH105/G|2017-02-10|north_america|usa|washington',
+		427 'Washington.USA/6.17/FH12/G|2017-02-08|north_america|usa|washington',
+		428 'Washington.USA/6.17/FH13/G|2017-02-13|north_america|usa|washington',
+		429 'Washington.USA/6.17/FH14/G|2017-02-08|north_america|usa|washington',
+		430 'Washington.USA/6.17/FH51/G|2017-02-06|north_america|usa|washington',
+		431 'Washington.USA/7.17/FH106/G|2017-02-14|north_america|usa|washington',
+		432 'Washington.USA/7.17/FH15/G|2017-02-15|north_america|usa|washington',
+		433 'Washington.USA/7.17/FH166/G|2017-02-19|north_america|usa|washington',
+		434 'Washington.USA/7.17/FH61/G|2017-02-22|north_america|usa|washington',
+		435 'Washington.USA/8.17/FH142/G|2017-02-22|north_america|usa|washington',
+		436 'Washington.USA/8.17/FH17/G|2017-02-23|north_america|usa|washington',
+		437 'Washington.USA/8.17/FH19/G|2017-02-28|north_america|usa|washington',
+		438 'Washington.USA/9.17/FH16/G|2017-02-28|north_america|usa|washington',
+		439 'Washington.USA/9.17/FH18/G|2017-03-01|north_america|usa|washington',
+		440 'Washington.USA/9.17/FH31/G|2017-03-01|north_america|usa|washington',
+		441 'Washington.USA/9.17/FH42/G|2017-03-06|north_america|usa|washington',
+		442 'Wisconsin.USA/11.07/2/G|2007-03-XX|north_america|usa|wisconsin',
+		443 'Wisconsin.USA/11.07/G|2007-03-XX|north_america|usa|wisconsin',
+		444 'Wisconsin.USA/15.06/3/G|2006-04-XX|north_america|usa|wisconsin',
+		445 'Wisconsin.USA/15.17/2/G|2017-04-XX|north_america|usa|wisconsin',
+		446 'Wisconsin.USA/15.17/G|2017-04-XX|north_america|usa|wisconsin',
+		447 'Wisconsin.USA/16.14/2/G|2014-04-XX|north_america|usa|wisconsin',
+		448 'Wisconsin.USA/16.14/G|2014-04-XX|north_america|usa|wisconsin',
+		449 'Wisconsin.USA/19.16/G|2016-05-XX|north_america|usa|wisconsin',
+		450 'Wisconsin.USA/19.17/G|2017-05-XX|north_america|usa|wisconsin',
+		451 'Wisconsin.USA/2.16/G|2016-01-XX|north_america|usa|wisconsin',
+		452 'Wisconsin.USA/20.14/2/G|2014-05-XX|north_america|usa|wisconsin',
+		453 'Wisconsin.USA/20.14/G|2014-05-XX|north_america|usa|wisconsin',
+		454 'Wisconsin.USA/24.14/G|2014-06-XX|north_america|usa|wisconsin',
+		455 'Wisconsin.USA/24.16/G|2016-06-XX|north_america|usa|wisconsin',
+		456 'Wisconsin.USA/28.06/G|2006-07-XX|north_america|usa|wisconsin',
+		457 'Wisconsin.USA/29.14/G|2014-07-XX|north_america|usa|wisconsin',
+		458 'Wisconsin.USA/37.06/G|2006-09-XX|north_america|usa|wisconsin',
+		459 'Wisconsin.USA/41.06/2/G|2006-10-XX|north_america|usa|wisconsin',
+		460 'Wisconsin.USA/41.06/G|2006-10-XX|north_america|usa|wisconsin',
+		461 'Wisconsin.USA/42.15/2/G|2015-10-XX|north_america|usa|wisconsin',
+		462 'Wisconsin.USA/42.15/G|2015-10-XX|north_america|usa|wisconsin',
+		463 'Wisconsin.USA/46.15/G|2015-11-XX|north_america|usa|wisconsin',
+		464 'Wisconsin.USA/50.16/G|2016-12-XX|north_america|usa|wisconsin',
+		465 'Wisconsin.USA/51.15/G|2015-12-XX|north_america|usa|wisconsin',
+		466 'Wisconsin.USA/7.07/2/G|2007-02-XX|north_america|usa|wisconsin',
+		467 'Wisconsin.USA/7.07/G|2007-02-XX|north_america|usa|wisconsin'
+		;
+tree UNTITLED = [&U] (1:9.943e-07,(((2:0.0001563096,(((((((((((((((((((((((((((((((((((4:0.0002310332,76:0.0005214396):7.38603e-05,293:0.0006213785):9.943e-07,(229:9.943e-07,278:0.0003102217):9.943e-07):9.943e-07,230:9.943e-07):0.0001304364,(((232:9.943e-07,329:0.0003298634):9.943e-07,233:9.943e-07):9.943e-07,330:6.5304e-05):0.0001306649):0.000194375,(95:0.0009853851,331:0.0011162288):0.0003258108):2.8562e-06,187:9.943e-07):2.8562e-06,455:0.0001472918):0.0001279717,449:0.0002812033):9.943e-07,290:7.06526e-05):9.943e-07,250:9.943e-07):0.0001285168,123:0.0005265847):2.0098e-06,(451:0.000433067,462:7.51945e-05):7.20445e-05):2.3509e-06,(((((((((6:9.943e-07,(7:0.0002619708,16:9.943e-07):9.943e-07):9.943e-07,((((11:0.0001310041,12:0.0001310101):9.943e-07,19:0.0001310403):9.943e-07,(17:0.0001310476,20:0.000131047):9.943e-07):9.943e-07,(21:0.0001310747,((359:0.0001410854,363:7.053e-05):9.943e-07,360:0.0001978299):6.5933e-05):9.943e-07):9.943e-07):9.943e-07,((10:6.55226e-05,(18:9.943e-07,(291:9.943e-07,294:9.943e-07):9.943e-07):6.54985e-05):6.54964e-05,(15:6.55218e-05,326:0.0003914828):6.52284e-05):6.51912e-05):9.943e-07,(327:6.52338e-05,328:0.0002609186):6.50137e-05):6.11547e-05,351:7.05307e-05):1.9012e-06,397:7.05348e-05):2.0036e-06,((((8:9.943e-07,(((((((334:2.5549e-06,396:0.0003249223):0.0001099684,(407:6.73679e-05,420:7.76475e-05):1.9655e-06):9.943e-07,(403:9.943e-07,404:7.75949e-05):0.0001434048):9.943e-07,(406:7.76441e-05,419:6.90211e-05):2.1253e-06):9.943e-07,(((335:9.943e-07,((341:9.943e-07,441:9.943e-07):7.05444e-05,(374:7.05315e-05,399:7.05432e-05):9.943e-07):9.943e-07):9.943e-07,425:9.943e-07):9.943e-07,((339:0.0002118149,(382:0.0002117121,383:9.943e-07):0.0002116606):9.943e-07,(409:7.054e-05,423:7.05569e-05):9.943e-07):9.943e-07):9.943e-07):9.943e-07,(353:9.943e-07,378:6.8384e-05):1.8652e-06):9.943e-07,(((((((((336:0,350:0):0,377:0):0,392:0):9.943e-07,((((((((((337:7.04508e-05,((358:9.943e-07,385:7.05648e-05):0.0001313198,424:9.943e-07):9.943e-07):9.943e-07,436:0.0002850799):9.943e-07,373:9.943e-07):9.943e-07,340:9.943e-07):9.943e-07,421:0.0001411558):9.943e-07,((376:7.76434e-05,391:6.77397e-05):9.943e-07,416:9.943e-07):1.882e-06):9.943e-07,348:0.0001411579):9.943e-07,402:7.05519e-05):9.943e-07,(413:9.943e-07,(439:9.943e-07,440:9.943e-07):0.0002323361):9.943e-07):9.943e-07,401:7.05494e-05):9.943e-07):9.943e-07,342:9.943e-07):9.943e-07,((349:0.0002118072,437:2.0186e-06):7.05478e-05,(426:0.0001001481,429:2.12e-06):9.943e-07):6.95225e-05):9.943e-07,((371:7.09428e-05,(410:0.0001427561,433:9.943e-07):9.943e-07):0.0002087266,(372:9.943e-07,411:0.0001455153):6.93475e-05):9.943e-07):9.943e-07,434:9.943e-07):1.0383e-06,431:0.0003935856):6.57436e-05):9.943e-07):9.943e-07,(9:0.000131086,(333:9.943e-07,((344:6.56157e-05,((390:0,428:0):9.943e-07,398:9.943e-07):9.943e-07):6.56195e-05,(((((357:0,384:0):9.943e-07,(364:0.0001410692,387:9.943e-07):9.943e-07):9.943e-07,381:9.943e-07):9.943e-07,(380:7.96632e-05,(386:7.75189e-05,395:0.0002110948):9.943e-07):9.943e-07):6.93613e-05,(405:9.943e-07,417:9.943e-07):9.943e-07):9.943e-07):6.37891e-05):1.8225e-06):9.943e-07):9.943e-07,((((((((13:0.000127258,412:0.0002116769):9.943e-07,((370:9.943e-07,389:7.05542e-05):0.0001411147,(415:9.943e-07,427:7.05379e-05):9.943e-07):7.05365e-05):9.943e-07,(418:0.0002330177,422:0.0001397172):2.8562e-06):9.943e-07,375:9.943e-07):9.943e-07,400:9.943e-07):2.8562e-06,338:9.943e-07):9.943e-07,14:0.0001310253):9.943e-07,31:0.0005314257):6.54907e-05):0.0001309774,(93:0.0001307087,((((((((343:2.84e-06,347:0.0001158773):2.85299e-05,379:9.943e-07):7.73043e-05,356:9.943e-07):1.01e-06,432:0.0001415807):9.943e-07,394:9.943e-07):9.943e-07,393:6.94136e-05):9.943e-07,366:0.0002220802):0.0004080803,464:9.943e-07):9.943e-07):6.53407e-05):9.943e-07):0.000130017,(101:0.0003269166,(((((104:9.943e-07,114:9.943e-07):9.943e-07,(118:9.943e-07,131:7.26981e-05):0.0002615135):9.943e-07,((108:9.943e-07,((109:6.53383e-05,119:0.0001307002):9.943e-07,(125:6.53987e-05,246:6.53297e-05):9.943e-07):9.943e-07):6.43346e-05,(113:6.5358e-05,247:9.943e-07):9.943e-07):6.53364e-05):9.943e-07,126:6.53281e-05):9.943e-07,269:6.53025e-05):0.0001306817):9.943e-07):6.50012e-05,(((((138:9.943e-07,178:9.943e-07):0.0002606241,461:7.39671e-05):9.943e-07,465:0.0001527994):9.943e-07,463:9.943e-07):9.943e-07,324:0.0003267778):9.943e-07):6.49969e-05):0.0001931397,259:7.7584e-05):2.8562e-06,83:9.943e-07):0.0003275347,((((((((((23:0.0001949405,(49:0.000129977,74:6.62326e-05):2.9395e-06):6.49939e-05,(((((38:9.943e-07,(47:0.0001330885,48:0.000194431):9.943e-07):9.943e-07,66:9.943e-07):9.943e-07,67:9.943e-07):2.3099e-06,(64:9.943e-07,70:0.000132585):0.0001305046):2.2512e-06,(43:9.943e-07,44:0.0002613069):6.49975e-05):2.7418e-06):6.49331e-05,(((30:9.943e-07,58:0.0003369543):9.943e-07,36:9.943e-07):9.943e-07,71:0.0001309355):6.54602e-05):9.943e-07,((((27:9.943e-07,(29:9.943e-07,(((32:9.943e-07,39:0.0001330742):9.943e-07,35:9.943e-07):9.943e-07,42:6.61117e-05):9.943e-07):9.943e-07):9.943e-07,45:6.51264e-05):6.51224e-05,(34:9.943e-07,55:9.943e-07):9.943e-07):9.943e-07,((28:0.0002597993,33:0.000133068):9.943e-07,41:6.6157e-05):6.49904e-05):6.49763e-05):9.943e-07,57:0.000131862):9.943e-07,(25:9.943e-07,(((((((26:9.943e-07,((((46:5.38389e-05,63:0.0003984904):9.943e-07,50:6.63089e-05):9.943e-07,((65:9.943e-07,68:9.943e-07):6.62754e-05,69:9.943e-07):6.63397e-05):9.943e-07,54:9.943e-07):9.943e-07):9.943e-07,53:9.943e-07):9.943e-07,62:9.943e-07):9.943e-07,59:9.943e-07):9.943e-07,60:0.0003325553):9.943e-07,73:0.0002660465):9.943e-07,((37:9.943e-07,40:6.65316e-05):9.943e-07,51:0.0001349374):0.0001327001):9.943e-07):1.1425e-06):9.943e-07,56:9.943e-07):9.943e-07,61:0.0001324045):9.943e-07,52:0.0001986433):9.943e-07,72:0.000198448):0.001761331):0.0003099546,((213:0.0001961916,271:0.0001307447):9.943e-07,(((275:9.943e-07,277:9.943e-07):6.53547e-05,325:9.943e-07):9.943e-07,332:0.0001961039):6.53398e-05):0.0009973316):0.0003926401,(((24:0.0009818758,319:0.0001962128):0.0003923813,(((79:0.0008470105,(((87:6.45368e-05,(((447:0.0001423737,454:7.39441e-05):9.943e-07,457:6.9918e-05):9.943e-07,452:9.943e-07):9.943e-07):9.943e-07,((((((249:0.0001318172,(282:9.943e-07,287:9.943e-07):9.943e-07):9.943e-07,(288:9.943e-07,289:9.943e-07):6.44494e-05):0.0001959732,((284:9.943e-07,286:9.943e-07):9.943e-07,285:0.0001308092):9.943e-07):6.45277e-05,((272:9.943e-07,276:9.943e-07):9.943e-07,(273:9.943e-07,274:9.943e-07):0.000195856):9.943e-07):9.943e-07,453:0.0002300836):9.943e-07,448:0.000171361):6.34992e-05):0.0001950405,270:0.0005249542):0.0011825026):0.0005859339,(322:0.0004564723,323:0.0003258498):9.943e-07):6.44112e-05,(320:9.943e-07,321:0.0001953467):0.000130396):0.0003259118):6.06856e-05,((((88:0.0001378178,(456:9.943e-07,((458:9.943e-07,460:9.943e-07):9.943e-07,459:9.943e-07):0.0003119234):0.0004373716):9.943e-07,444:0.0001612389):0.0005663581,(((345:9.943e-07,((((354:0.0001428669,438:7.26851e-05):2.2321e-06,367:0.0007525958):7.35316e-05,408:9.943e-07):2.6856e-06,435:7.73316e-05):9.943e-07):2.3842e-06,355:8.57911e-05):0.0125705483,(352:0.0078475161,388:0.0086407943):0.0003823048):0.0034028608):0.0002604054,(((442:6.91453e-05,467:9.943e-07):9.943e-07,443:6.91521e-05):9.943e-07,466:0.0001629426):0.0007651014):0.0015288645):0.001310684):0.0004117096,186:0.0006272367):0.0005858782,219:0.0006532901):9.943e-07,(234:0.0001583962,292:0.0006903418):0.0012825907):0.0002603302,((((22:0.0005869631,(((96:0.0001324704,98:0.0001991414):9.943e-07,(97:9.943e-07,99:9.943e-07):9.943e-07):0.0005307288,(252:7.45608e-05,361:0.0002426731):0.0003167614):0.0002649741):2.1931e-06,369:0.0007061835):9.943e-07,(127:0.0003931461,((((((295:0,309:0):0,316:0):9.943e-07,(((297:0,310:0):9.943e-07,308:9.943e-07):6.4685e-05,304:6.46851e-05):9.943e-07):9.943e-07,(((303:0.000130872,317:9.943e-07):0.0001308952,(312:8.72053e-05,365:9.943e-07):0.0001747208):9.943e-07,314:6.46824e-05):9.943e-07):9.943e-07,306:9.943e-07):9.943e-07,313:6.46805e-05):0.0007205224):9.943e-07):0.0003255275,(((((75:9.943e-07,78:9.943e-07):9.943e-07,77:6.5355e-05):0.000132289,((296:9.943e-07,(307:0.0001308822,311:0.0002618861):9.943e-07):9.943e-07,((298:6.46727e-05,315:0.0001308559):9.943e-07,(299:0.0001963609,(300:6.46654e-05,((301:9.943e-07,(305:6.4669e-05,318:0.0001963841):9.943e-07):9.943e-07,302:0.0001308734):9.943e-07):0.00019633):9.943e-07):9.943e-07):9.943e-07):6.33869e-05,346:8.58546e-05):9.943e-07,238:0.0001308508):0.0005227019):9.943e-07):9.943e-07,267:0.0001959765):9.943e-07,((215:9.943e-07,217:9.943e-07):9.943e-07,(((((((((((220:9.943e-07,223:9.943e-07):9.943e-07,224:6.45074e-05):9.943e-07,(231:9.943e-07,235:9.943e-07):6.46013e-05):0.0001304132,228:6.46058e-05):9.943e-07,236:0.000130397):9.943e-07,237:9.943e-07):9.943e-07,222:9.943e-07):9.943e-07,227:9.943e-07):9.943e-07,221:9.943e-07):9.943e-07,225:9.943e-07):9.943e-07,226:0.0001962023):6.4541e-05):0.0001958779):0.0005233431,((((((((100:9.943e-07,((((((((103:0.0005294462,(135:9.943e-07,157:6.45781e-05):6.35524e-05):9.943e-07,163:6.45567e-05):9.943e-07,(112:9.943e-07,(115:9.943e-07,(117:9.943e-07,121:9.943e-07):9.943e-07):9.943e-07):9.943e-07):9.943e-07,(106:0.0001306639,139:0.00014451):9.943e-07):9.943e-07,242:9.943e-07):9.943e-07,153:9.943e-07):9.943e-07,240:9.943e-07):9.943e-07,(116:6.45252e-05,241:9.943e-07):6.45334e-05):9.943e-07):9.943e-07,(172:6.45285e-05,191:6.45184e-05):9.943e-07):9.943e-07,120:9.943e-07):9.943e-07,((107:9.943e-07,(110:6.45596e-05,111:9.943e-07):0.0001306693):9.943e-07,(134:6.45172e-05,164:0.0001307523):9.943e-07):9.943e-07):9.943e-07,102:9.943e-07):9.943e-07,((((124:9.943e-07,148:9.943e-07):6.45158e-05,248:9.943e-07):9.943e-07,243:9.943e-07):9.943e-07,(129:0.0001311997,((154:6.45047e-05,(155:9.943e-07,156:6.45206e-05):9.943e-07):0.0001953354,239:9.943e-07):9.943e-07):9.943e-07):9.943e-07):9.943e-07,(105:6.45103e-05,(122:9.943e-07,136:6.62295e-05):1.2753e-06):6.45065e-05):9.943e-07,(130:9.943e-07,245:9.943e-07):9.943e-07):9.943e-07):6.44662e-05,((((((((((((((((80:6.45753e-05,196:0.0001307508):9.943e-07,(197:0.0001306693,214:6.46311e-05):6.452e-05):9.943e-07,(128:0,204:0):9.943e-07):9.943e-07,182:9.943e-07):9.943e-07,(194:0.0001604099,(198:9.943e-07,211:9.943e-07):6.35784e-05):9.943e-07):9.943e-07,(((((188:9.943e-07,195:9.943e-07):9.943e-07,189:9.943e-07):9.943e-07,208:6.45385e-05):9.943e-07,205:9.943e-07):9.943e-07,(200:9.943e-07,203:9.943e-07):6.45219e-05):9.943e-07):9.943e-07,184:9.943e-07):9.943e-07,(183:0,202:0):9.943e-07):9.943e-07,(206:6.45428e-05,207:6.45016e-05):9.943e-07):9.943e-07,212:9.943e-07):9.943e-07,193:9.943e-07):0.0001959356,((170:9.943e-07,176:9.943e-07):9.943e-07,174:9.943e-07):9.943e-07):0.0001306034,143:0.0001307654):9.943e-07,((((((((((((((137:9.943e-07,(152:9.943e-07,190:9.943e-07):9.943e-07):9.943e-07,(159:9.943e-07,165:6.46777e-05):9.943e-07):9.943e-07,158:9.943e-07):9.943e-07,140:9.943e-07):9.943e-07,146:9.943e-07):9.943e-07,142:9.943e-07):9.943e-07,149:9.943e-07):9.943e-07,179:9.943e-07):9.943e-07,(144:6.46129e-05,169:6.45168e-05):9.943e-07):9.943e-07,((150:0,181:0):0,180:0):9.943e-07):9.943e-07,160:9.943e-07):9.943e-07,(((145:0,171:0):9.943e-07,161:9.943e-07):9.943e-07,(147:6.46573e-05,167:0.0001307301):9.943e-07):9.943e-07):9.943e-07,(141:6.45132e-05,175:6.45138e-05):9.943e-07):9.943e-07,(177:9.943e-07,185:6.4573e-05):6.45022e-05):9.943e-07):9.943e-07,(162:9.943e-07,168:9.943e-07):9.943e-07):9.943e-07,151:6.4477e-05):9.943e-07):6.44733e-05,173:9.943e-07):6.44826e-05,192:6.48755e-05):6.48865e-05,((216:9.943e-07,(260:9.943e-07,268:0.0002608589):9.943e-07):9.943e-07,218:9.943e-07):9.943e-07):0.0001959067,85:6.44996e-05):9.943e-07,(84:9.943e-07,86:9.943e-07):0.0001305979):9.943e-07,((89:6.49892e-05,92:9.943e-07):6.45586e-05,90:9.943e-07):9.943e-07):9.943e-07,((((81:9.943e-07,((((166:9.943e-07,210:9.943e-07):9.943e-07,199:9.943e-07):9.943e-07,209:9.943e-07):0.0001304976,(201:0.0001304727,368:0.0001408234):9.943e-07):9.943e-07):9.943e-07,(((((251:0.0001494925,446:9.943e-07):2.8562e-06,258:0.0003269765):9.943e-07,254:9.943e-07):9.943e-07,450:0.0001540362):9.943e-07,253:7.92495e-05):9.943e-07):9.943e-07,(283:0.0003791731,445:0.0003061293):0.0012161687):0.0001953902,(133:6.45352e-05,244:0.000130741):0.0001307508):9.943e-07):9.943e-07,(((((5:9.943e-07,256:7.86453e-05):9.943e-07,(265:9.943e-07,266:7.80645e-05):7.35175e-05):9.943e-07,263:0.0001449282):9.943e-07,132:9.943e-07):9.943e-07,((82:6.49868e-05,255:0.0001561427):6.45536e-05,(91:6.50125e-05,94:9.943e-07):6.4581e-05):9.943e-07):9.943e-07):9.943e-07):9.943e-07,264:9.943e-07):9.943e-07,262:9.943e-07):9.943e-07,(((((3:9.943e-07,((279:9.943e-07,281:9.943e-07):9.943e-07,280:0.0002618921):0.0001257225):9.943e-07,430:7.04163e-05):9.943e-07,414:9.943e-07):9.943e-07,(257:9.943e-07,261:0.0002304658):0.0001505888):9.943e-07,362:0.0002099733):9.943e-07);
+End;

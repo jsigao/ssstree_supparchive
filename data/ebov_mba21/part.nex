@@ -1,0 +1,8 @@
+#nexus
+
+begin sets;
+	charset cp12 = 1-16757\3 2-16757\3;
+	charset cp3 = 3-16757\3;
+
+	charpartition mine = HKY+G:cp12, HKY+G:cp3;
+end;
